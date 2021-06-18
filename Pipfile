@@ -4,11 +4,15 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-requests = "*"
+requests = "~=2.25"
+unidecode = "~=1.2"
+bs4 = "~=4.8"
+google-cloud-pubsub = "~=2.4"
 
 [dev-packages]
 mypy = "*"
 pytest = "*"
+black = "==21.4b2"
 
 [requires]
 python_version = "3.7"
