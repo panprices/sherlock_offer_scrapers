@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 requests = "~=2.25"
 unidecode = "~=1.2"
-bs4 = "~=4.8"
+beautifulsoup4 = "~=4.9"
 google-cloud-pubsub = "~=2.4"
 
 [dev-packages]
