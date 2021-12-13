@@ -5,7 +5,8 @@ from typing import Literal, Optional, TypedDict
 import structlog
 
 from sherlock_offer_scrapers import helpers
-from sherlock_offer_scrapers.scrapers import idealo, prisjakt
+from sherlock_offer_scrapers.scrapers import idealo
+from sherlock_offer_scrapers.scrapers.prisjakt import prisjakt
 
 
 helpers.logging.config_structlog()
@@ -48,9 +49,7 @@ def sherlock_idealo(event, context):
 
 
 def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
-    print(f"Triggered by the following data: {payload}")
-
-    logger.info("offer-scraping-started", offer_source=offer_source)
+    logger.info("offer scraping started", offer_source=offer_source, payload=payload)
 
     gtin = payload["gtin"]
     cached_offer_urls = payload.get("offer_urls")

@@ -1,9 +1,12 @@
-import logging
 from typing import List
-import requests
 import base64
 import random
 
+import requests
+import structlog
+
+
+logger = structlog.get_logger()
 
 _proxy_creds = {"username": "panprices", "password": "BB4NC4WQmx"}
 _proxy_config = {
@@ -20,7 +23,6 @@ _proxy_config = {
         "https": f'http://{_proxy_creds["username"]}:{_proxy_creds["password"]}@panprices.oxylabs.io:60002',
     },
 }
-
 _proxy_header = {
     "Proxy-Authorization": base64.b64encode(
         f'Basic {_proxy_creds["username"]}:{_proxy_creds["password"]}'.encode("ascii")
@@ -51,8 +53,13 @@ def get(url: str, headers: dict = None, proxy_country: str = None) -> requests.R
 
     response = requests.get(url, headers=all_headers, proxies=proxy_config)
 
-    if response.status_code != 200:
-        logging.error(f"Status code: {response.status_code} when requesting to {url}")
+    logger.info(
+        "make-request",
+        request_url=url,
+        request_headers=all_headers,
+        request_proxy=proxy_config,
+        response_status_code=response.status_code,
+    )
 
     return response
 
