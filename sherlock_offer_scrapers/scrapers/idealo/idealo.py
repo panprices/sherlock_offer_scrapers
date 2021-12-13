@@ -32,7 +32,7 @@ base_product_url = {
 }
 
 
-def scrape(gtin, cached_offer_urls: Optional[dict]):
+def scrape(gtin, cached_offer_urls: Optional[dict]) -> list:
     # Check cached urls and search for them if not exist:
     if cached_offer_urls and _has_cached_url(cached_offer_urls):
         idealo_product_urls = _retrive_cached_idealo_urls(cached_offer_urls)
