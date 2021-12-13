@@ -13,7 +13,6 @@ from . import errors, user_agent, products
 
 
 COUNTRIES = ["DE", "UK", "ES", "IT", "FR"]
-# COUNTRIES = ["DE"]
 
 base_url = {
     "DE": "https://www.idealo.de",
@@ -61,6 +60,16 @@ def scrape(gtin, cached_offer_urls: Optional[dict]) -> list:
     return all_offers
 
 
+def _has_cached_url(offer_urls: Dict[str, str]) -> bool:
+    """Has cached url if at least one source is available"""
+    for country in COUNTRIES:
+        offer_source = f"idealo_{country}"
+        if offer_source in offer_urls:
+            return True
+
+    return False
+
+
 def _retrive_cached_idealo_urls(offer_urls: Dict[str, str]) -> dict:
     idealo_product_urls = {}
     for country in COUNTRIES:
@@ -94,26 +103,13 @@ def _find_product_urls(gtin: str) -> Dict[str, Optional[str]]:
     print(f"Product with gtin {gtin} has id={product_id} on Idealo.")
     for country in COUNTRIES:
         offer_source = f"idealo_{country}"
-        product_url = get_url(product_id, country)
+        product_url = idealo_product_id_to_url(product_id, country)
         new_product_urls[offer_source] = product_url
 
     return new_product_urls
 
 
-def _has_cached_url(offer_urls: Dict[str, str]) -> bool:
-    """Has cached url if at least one source is available"""
-    if not offer_urls:
-        return False
-
-    for country in COUNTRIES:
-        offer_source = f"idealo_{country}"
-        if offer_source in offer_urls:
-            return True
-
-    return False
-
-
-def get_url(idealo_product_id, country: str) -> str:
+def idealo_product_id_to_url(idealo_product_id, country: str) -> str:
     if country == "DE":
         base_url = "https://www.idealo.de/preisvergleich/OffersOfProduct"
     elif country == "UK":
@@ -127,7 +123,7 @@ def get_url(idealo_product_id, country: str) -> str:
     return f"{base_url}/{idealo_product_id}"
 
 
-def get_url_v2(idealo_product_id, country: str) -> str:
+def idealo_product_id_to_url_alternative(idealo_product_id, country: str) -> str:
     if country == "DE":
         base_url = "https://www.idealo.de/preisvergleich/Typ"
     elif country == "UK":
@@ -212,13 +208,8 @@ def _switch_url(url):
     elif "idealo.fr" in url:
         id = url.split("prix/")[1]
         country = "FR"
-    new_url = get_url_v2(id, country)
+    new_url = idealo_product_id_to_url_alternative(id, country)
     return new_url
-
-
-def _get_product_url(idealo_product_id: str, country="DE") -> str:
-    base_url = base_product_url[country]
-    return f"{base_url}/{idealo_product_id}"
 
 
 def _get_country_from_product_url(url: str):
@@ -230,17 +221,6 @@ def _get_country_from_product_url(url: str):
 
 def _is_captcha_page(soup) -> bool:
     return soup.find("div", class_="captcha") is not None
-
-
-def _grab_product_name(soup):
-    headline = soup.find("h1", class_="oopStage-title")
-    if headline is None:
-        return None
-    titles = headline.find_all("span")
-    title_string = ""
-    for title in titles:
-        title_string += title.text.split("(")[0].strip() + " "
-    return title_string.strip()
 
 
 def _parse_offers_results(soup):

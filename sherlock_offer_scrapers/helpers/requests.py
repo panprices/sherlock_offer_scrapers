@@ -41,22 +41,21 @@ def get(url: str, headers: dict = None, proxy_country: str = None) -> requests.R
 
     Supported proxy_country: ["SE", "DE", "GB"]
     """
-    all_headers = _get_default_headers()
-    if headers is not None:
-        all_headers.update(headers)
+    if headers is None:
+        headers = _get_default_headers()
 
     # Apply proxy if needed
     proxy_config = None
     if proxy_country is not None:
         proxy_config = _proxy_config[proxy_country]
-        all_headers.update(_proxy_header)
+        headers.update(_proxy_header)
 
-    response = requests.get(url, headers=all_headers, proxies=proxy_config)
+    response = requests.get(url, headers=headers, proxies=proxy_config)
 
     logger.info(
         "make-request",
         request_url=url,
-        request_headers=all_headers,
+        request_headers=headers,
         request_proxy=proxy_config,
         response_status_code=response.status_code,
     )

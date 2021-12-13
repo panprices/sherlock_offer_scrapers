@@ -48,7 +48,7 @@ def sherlock_idealo(event, context):
 
 
 def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
-    logger.info("offer scraping started", offer_source=offer_source, payload=payload)
+    logger.info("offer-scraping-started", offer_source=offer_source, payload=payload)
 
     gtin = payload["gtin"]
     cached_offer_urls = payload.get("offer_urls")
