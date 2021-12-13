@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[requires]
+python_version = "3.9"
+
+[packages]
+requests = "~=2.25"
+unidecode = "~=1.2"
+beautifulsoup4 = "~=4.9"
+google-cloud-pubsub = "~=2.4"
+structlog = "~=21.2"
+
+[dev-packages]
+mypy = {extras = [ "cli",], version = "0.910"}
+pytest = "*"
+black = "==21.4b2"
+
+[pipenv]
+allow_prereleases = true
