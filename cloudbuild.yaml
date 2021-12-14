@@ -1,21 +1,12 @@
 steps:
-- name: 'gcr.io/cloud-builders/gcloud'
-  args: ['functions', 'deploy',
-         'sherlock_idealo',
-         '--source',
-         'https://source.developers.google.com/projects/${PROJECT_ID}/repos/${REPO_NAME}/revisions/${REVISION_ID}',
-         '--trigger-topic',
-         '${_FUNCTION_TOPIC}',
-         '--region',
-         'europe-west3',
-         '--runtime',
-         'python39',
-         '--max-instances',
-         '10',
-         '--timeout',
-         '300s',
-         ]
-substitutions:
-  _FUNCTION_TOPIC: sherlock_products  # or sherlock_popular_products?
-  
-images: []
+  - name: "gcr.io/cloud-builders/gcloud"
+    args:
+      - functions
+      - deploy
+      - sherlock_idealo
+      - --source=.
+      - --region=europe-west3
+      - --trigger-topic=sherlock_products
+      - --runtime=python39
+      - --max-instances=10
+      - --timeout=300s
