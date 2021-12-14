@@ -12,22 +12,24 @@ from sherlock_offer_scrapers import helpers
 from . import errors, user_agent, products
 
 
-COUNTRIES = ["DE", "UK", "ES", "IT", "FR"]
+COUNTRIES = ["DE", "UK", "ES", "IT", "FR", "AT"]
 
-base_url = {
+base_urls = {
     "DE": "https://www.idealo.de",
     "UK": "https://www.idealo.co.uk",
     "ES": "https://www.idealo.es",
     "IT": "https://www.idealo.it",
     "FR": "https://www.idealo.fr",
+    "AT": "https://idealo.at",
 }
 
-base_product_url = {
+base_product_urls = {
     "DE": "https://www.idealo.de/preisvergleich/OffersOfProduct",
     "UK": "https://www.idealo.co.uk/compare",
     "ES": "https://www.idealo.es/precios",
     "IT": "https://www.idealo.it/confronta-prezzi",
     "FR": "https://www.idealo.fr/prix",
+    "AT": "https://www.idealo.at/preisvergleich/OffersOfProduct",
 }
 
 
@@ -110,17 +112,7 @@ def _find_product_urls(gtin: str) -> Dict[str, Optional[str]]:
 
 
 def idealo_product_id_to_url(idealo_product_id, country: str) -> str:
-    if country == "DE":
-        base_url = "https://www.idealo.de/preisvergleich/OffersOfProduct"
-    elif country == "UK":
-        base_url = "https://www.idealo.co.uk/compare"
-    elif country == "ES":
-        base_url = "https://www.idealo.es/precios"
-    elif country == "IT":
-        base_url = "https://www.idealo.it/confronta-prezzi"
-    elif country == "FR":
-        base_url = "https://www.idealo.fr/prix"
-    return f"{base_url}/{idealo_product_id}"
+    return f"{base_product_urls[country]}/{idealo_product_id}"
 
 
 def idealo_product_id_to_url_alternative(idealo_product_id, country: str) -> str:
@@ -176,13 +168,24 @@ def _make_request(url) -> requests.Response:
     logging.warning(
         f"Status code: {response.status_code} when requesting to {url}. Trying an alternative url: {alter_url}"
     )
+    if not alter_url:  # no alternative found -> request failed:
+        if response.status_code == 410:
+            raise errors.IdealoExpectedError(
+                f"Status code: {response.status_code} when requesting to {alter_url}"
+            )
+        raise Exception(
+            f"Status code: {response.status_code} when requesting to {alter_url}"
+        )
 
+    # Request to alt_url:
     response = helpers.requests.get(
         alter_url, headers=_get_headers(), proxy_country="DE"
     )
+
     if response.status_code == 200:
         return response
 
+    # alt_url also failed:
     if response.status_code == 410:
         raise errors.IdealoExpectedError(
             f"Status code: {response.status_code} when requesting to {alter_url}"
@@ -213,7 +216,7 @@ def _switch_url(url):
 
 
 def _get_country_from_product_url(url: str):
-    for country_code, base_url in base_product_url.items():
+    for country_code, base_url in base_product_urls.items():
         if base_url in url:
             return country_code
     return None
@@ -359,7 +362,7 @@ def _parse_offers(html_content: str, country: str) -> List[dict]:
             "retailer_name": info_payload["shop_name"],
             "price": price,
             "currency": currency,
-            "offer_url": base_url[country] + price_tag["href"],
+            "offer_url": base_urls[country] + price_tag["href"],
             "stock_status": stock_status,
         }
 

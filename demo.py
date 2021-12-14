@@ -22,6 +22,7 @@ def demo_sherlock_idealo():
                 "idealo_ES": "https://www.idealo.es/precios/201386993",
                 "idealo_IT": "https://www.idealo.it/confronta-prezzi/201386993",
                 "idealo_FR": "https://www.idealo.fr/prix/201386993",
+                "idealo_DE": "https://www.idealo.at/preisvergleich/OffersOfProduct/201386993",
             },
             "product_token": "gAAAAAAAAAAA8HDc9UvYXDxW-lFum7e-77tDmVhJNlZV31Lf79tU-w6OiF85_L2s7cFP3nHS7WHdhOn6Sll-1nCu1UrM4IWKtQ==",
             "triggered_from_client": True,
