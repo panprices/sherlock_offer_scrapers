@@ -210,7 +210,9 @@ def _switch_url(url):
         country = "IT"
     elif "idealo.fr" in url:
         id = url.split("prix/")[1]
-        country = "FR"
+        country = "FR"  
+    else:  # idealo_AT
+        return None
     new_url = idealo_product_id_to_url_alternative(id, country)
     return new_url
 
