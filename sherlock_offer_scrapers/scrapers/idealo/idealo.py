@@ -167,7 +167,9 @@ def _get_headers():
 
 
 def _make_request(url) -> requests.Response:
-    response = helpers.requests.get(url, headers=_get_headers(), proxy_country="DE")
+    headers = _get_headers()
+    response = helpers.requests.get(url, headers=headers, proxy_country="DE")
+    logging.info('fetched url', got_captcha=response.status_code == 429, url=url, headers=headers)
     if response.status_code == 200:
         return response
 
@@ -177,9 +179,9 @@ def _make_request(url) -> requests.Response:
         f"Status code: {response.status_code} when requesting to {url}. Trying an alternative url: {alter_url}"
     )
 
-    response = helpers.requests.get(
-        alter_url, headers=_get_headers(), proxy_country="DE"
-    )
+    headers = _get_headers()
+    response = helpers.requests.get(alter_url, headers=headers, proxy_country="DE")
+    logging.info('fetched alternative url', got_captcha=response.status_code == 429, url=url, headers=headers)
     if response.status_code == 200:
         return response
 
