@@ -2,7 +2,7 @@ import argparse
 import base64
 import json
 
-from main import sherlock_idealo
+from main import sherlock_idealo, sherlock_gs_offers
 
 
 # Define a mocked context
@@ -52,6 +52,26 @@ def demo_sherlock_idealo():
         sherlock_idealo(data, context)
 
 
+def demo_sherlock_gs_offers():
+    message = {
+        "created_at": 1622804976212,
+        "product_id": 11031881,
+        "gtin": "08806091153807",
+        "offer_fetch_complete": False,
+        "offer_urls": {
+            "google_shopping_SE": "https://www.google.com/shopping/product/3112645306492221763",
+        },
+        "product_token": "gAAAAAAAAAAAsMFK1hehjtyl8OSy9z19N9wvdLUdZdZlh0BWDUgGGc08fkgYGqeXaQn1JegqyzvYRJKhMGix6cIKlNUjHqI2sQ==",
+        "triggered_from_client": True,
+        "user_country": "SE",
+        "triggered_by": {"source": "client"},
+    }
+
+    event = {"data": base64.b64encode(json.dumps(message).encode())}
+
+    sherlock_gs_offers(event, {})
+
+
 if __name__ == "__main__":
     # Instantiate the parser
     parser = argparse.ArgumentParser(
@@ -60,7 +80,7 @@ if __name__ == "__main__":
     # Define the arguments
     parser.add_argument(
         "scraper",
-        choices=["prisjakt", "pricerunner", "kelkoo", "idealo"],
+        choices=["prisjakt", "pricerunner", "kelkoo", "idealo", "google_shopping"],
         help="run a scraper",
     )
 
@@ -72,3 +92,5 @@ if __name__ == "__main__":
         pass
     elif args.scraper == "idealo":
         demo_sherlock_idealo()
+    elif args.scraper == "google_shopping":
+        demo_sherlock_gs_offers()

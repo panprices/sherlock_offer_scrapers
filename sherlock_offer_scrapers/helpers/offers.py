@@ -13,8 +13,11 @@ class Publisher:
         self.topic_path = self.client.topic_path(project_id, topic)
 
     def publish_message(self, message: dict):
-        message_ids = self.publish_messages([message])
-        return message_ids[0]
+        # Data must be a bytestring
+        data = json.dumps(message).encode("utf-8")
+        future = self.client.publish(self.topic_path, data=data)
+        message_id = future.result()
+        return message_id
 
     def publish_messages(self, messages: List[dict]) -> List[str]:
         message_ids = []

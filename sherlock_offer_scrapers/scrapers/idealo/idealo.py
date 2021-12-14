@@ -9,7 +9,7 @@ import codecs
 
 
 from sherlock_offer_scrapers import helpers
-from . import errors, user_agent, products
+from . import errors, user_agents, products
 
 
 COUNTRIES = ["DE", "UK", "ES", "IT", "FR", "AT"]
@@ -151,7 +151,7 @@ def get_offers_from_url(idealo_product_url: str) -> List[dict]:
 
 def _get_headers():
     return {
-        "User-Agent": user_agent.choose_random(),
+        "User-Agent": user_agents.choose_random(),
         "Accept-Encoding": "gzip, deflate, br",
         "Accept": "test/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "Accept-Language": "en-gb",
@@ -210,7 +210,7 @@ def _switch_url(url):
         country = "IT"
     elif "idealo.fr" in url:
         id = url.split("prix/")[1]
-        country = "FR"  
+        country = "FR"
     else:  # idealo_AT
         return None
     new_url = idealo_product_id_to_url_alternative(id, country)
