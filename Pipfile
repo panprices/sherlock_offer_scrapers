@@ -1,4 +1,5 @@
 [scripts]
+test = "pytest"
 mypy = "mypy ."
 
 [[source]]

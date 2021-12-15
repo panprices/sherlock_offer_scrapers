@@ -18,13 +18,13 @@ def scrape(gtin: str, cached_offers_urls: Optional[dict]) -> list[helpers.offers
     return offers
 
 
-def fetch_offers_from_url(url: str) -> list:
+def fetch_offers_from_url(url: str, country="SE") -> list:
     url = url + "/offers?hl=en"
 
     response = helpers.requests.get(
         url,
         headers={"User-Agent": user_agents.choose_random()},
-        proxy_country="SE",
+        proxy_country=country,
     )
     # with open("test.html", "wb") as f:
     #     f.write(response.content)
