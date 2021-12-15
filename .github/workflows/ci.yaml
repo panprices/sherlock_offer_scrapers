@@ -25,10 +25,10 @@ jobs:
     - name: Install dependencies
       run: |
         pipenv install --dev
+
     - name: Analysing the code with mypy
       run: |
         pipenv run mypy
-        
     - name: Test with pytest
       run: |
-        pytest
+        pipenv run test
