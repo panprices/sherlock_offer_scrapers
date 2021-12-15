@@ -36,7 +36,9 @@ _default_user_agents = [
 ]
 
 
-def get(url: str, headers: dict = None, proxy_country: str = None) -> requests.Response:
+def get(
+    url: str, headers: dict = None, cookies: dict = None, proxy_country: str = None
+) -> requests.Response:
     """Make a GET request with some default headers and optional proxy.
 
     Supported proxy_country: ["SE", "DE", "GB"]
@@ -50,7 +52,7 @@ def get(url: str, headers: dict = None, proxy_country: str = None) -> requests.R
         proxy_config = _proxy_config[proxy_country]
         headers.update(_proxy_header)
 
-    response = requests.get(url, headers=headers, proxies=proxy_config)
+    response = requests.get(url, headers=headers, proxies=proxy_config, cookies=cookies)
 
     logger.info(
         "make-request",

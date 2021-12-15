@@ -5,8 +5,7 @@ from typing import Literal, Optional, TypedDict
 import structlog
 
 from sherlock_offer_scrapers import helpers
-from sherlock_offer_scrapers.scrapers import idealo
-from sherlock_offer_scrapers.scrapers.prisjakt import prisjakt
+from sherlock_offer_scrapers.scrapers import idealo, google_shopping
 
 
 helpers.logging.config_structlog()
@@ -47,23 +46,34 @@ def sherlock_idealo(event, context):
     _sherlock_scrape("idealo", payload)
 
 
+def sherlock_gs_offers(event, context):
+    payload: Payload = json.loads(base64.b64decode(event["data"]))
+
+    if payload["triggered_by"]["source"] != "b2b_job":
+        print("Not b2b offer search, do not scrape on googleshopping.")
+        return
+
+    _sherlock_scrape("google_shopping", payload)
+
+
 def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
     logger.info("offer-scraping-started", offer_source=offer_source, payload=payload)
 
     gtin = payload["gtin"]
     cached_offer_urls = payload.get("offer_urls")
     offers = []
+
     try:
         if offer_source == "prisjakt":
-            # offer_urls = prisjakt.retrieve_urls(offer_urls)
-            # _publish_new_offer_urls(gtin, offer_urls)
-            # offers = prisjakt.scrape(gtin, cached_offer_urls)
             pass
         elif offer_source == "idealo":
-            # offer_urls = idealo.retrieve_urls(payload, gtin)
-            # _publish_new_offer_urls(gtin, offer_urls)
             offers = idealo.scrape(gtin, cached_offer_urls)
+        elif offer_source == "google_shopping":
+            offers = google_shopping.scrape(gtin, cached_offer_urls)
+        else:
+            raise Exception(f"Offer source {offer_source} not supported.")
+
     except Exception as ex:
         raise ex
     finally:
-        helpers.offers.publish_offers(payload, offers, offer_source)  # type: ignore
+        helpers.offers.publish_offers(payload, offers, offer_source)

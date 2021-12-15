@@ -1,4 +1,4 @@
-from typing import Optional, List
+from typing import Optional, List, TypedDict
 import json
 
 import structlog
@@ -7,14 +7,30 @@ from google.cloud import pubsub_v1
 logger = structlog.get_logger()
 
 
+class Offer(TypedDict):
+    offer_source: str
+    offer_url: str
+
+    retail_prod_name: str
+    retailer_name: str
+    country: str
+
+    price: int
+    currency: str
+    stock_status: str
+
+
 class Publisher:
     def __init__(self, project_id, topic):
         self.client = pubsub_v1.PublisherClient()
         self.topic_path = self.client.topic_path(project_id, topic)
 
     def publish_message(self, message: dict):
-        message_ids = self.publish_messages([message])
-        return message_ids[0]
+        # Data must be a bytestring
+        data = json.dumps(message).encode("utf-8")
+        future = self.client.publish(self.topic_path, data=data)
+        message_id = future.result()
+        return message_id
 
     def publish_messages(self, messages: List[dict]) -> List[str]:
         message_ids = []
@@ -48,7 +64,7 @@ def publish_new_offer_urls(gtin: str, offer_urls: dict[str, Optional[str]]):
     )
 
 
-def publish_offers(payload: dict, offers: list, offer_source: str):
+def publish_offers(payload, offers: list[Offer], offer_source: str):
     live_search_message = payload
     live_search_message["offer_source"] = offer_source
     live_search_message["offers"] = offers

@@ -2,12 +2,12 @@ import random
 
 
 def choose_random() -> str:
-    user_agent = random.choice(user_agents)
+    user_agent = random.choice(_user_agents)
     return user_agent
 
 
 # List of > 100 user-agent that works:
-user_agents = [
+_user_agents = [
     "Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; LCJB; rv:11.0) like Gecko",
     "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MAAU; MAAU; rv:11.0) like Gecko",
     "Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4",
