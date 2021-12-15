@@ -76,4 +76,4 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
     except Exception as ex:
         raise ex
     finally:
-        helpers.offers.publish_offers(payload, offers, offer_source)  # type: ignore
+        helpers.offers.publish_offers(payload, offers, offer_source)

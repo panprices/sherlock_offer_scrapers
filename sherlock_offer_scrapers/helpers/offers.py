@@ -1,10 +1,23 @@
-from typing import Optional, List
+from typing import Optional, List, TypedDict
 import json
 
 import structlog
 from google.cloud import pubsub_v1
 
 logger = structlog.get_logger()
+
+
+class Offer(TypedDict):
+    offer_source: str
+    offer_url: str
+
+    retail_prod_name: str
+    retailer_name: str
+    country: str
+
+    price: int
+    currency: str
+    stock_status: str
 
 
 class Publisher:
@@ -51,7 +64,7 @@ def publish_new_offer_urls(gtin: str, offer_urls: dict[str, Optional[str]]):
     )
 
 
-def publish_offers(payload: dict, offers: list, offer_source: str):
+def publish_offers(payload, offers: list[Offer], offer_source: str):
     live_search_message = payload
     live_search_message["offer_source"] = offer_source
     live_search_message["offers"] = offers
