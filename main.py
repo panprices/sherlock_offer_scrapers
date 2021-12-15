@@ -49,7 +49,7 @@ def sherlock_idealo(event, context):
 def sherlock_gs_offers(event, context):
     payload: Payload = json.loads(base64.b64decode(event["data"]))
 
-    if payload["triggerd_by"]["source"] == "b2b_job":
+    if payload["triggered_by"]["source"] != "b2b_job":
         print("Not b2b offer search, do not scrape on googleshopping.")
         return
 
@@ -65,13 +65,8 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
 
     try:
         if offer_source == "prisjakt":
-            # offer_urls = prisjakt.retrieve_urls(offer_urls)
-            # _publish_new_offer_urls(gtin, offer_urls)
-            # offers = prisjakt.scrape(gtin, cached_offer_urls)
             pass
         elif offer_source == "idealo":
-            # offer_urls = idealo.retrieve_urls(payload, gtin)
-            # _publish_new_offer_urls(gtin, offer_urls)
             offers = idealo.scrape(gtin, cached_offer_urls)
         elif offer_source == "google_shopping":
             offers = google_shopping.scrape(gtin, cached_offer_urls)
