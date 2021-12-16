@@ -60,6 +60,7 @@ def get(
         request_headers=headers,
         request_proxy=proxy_config,
         response_status_code=response.status_code,
+        response_body_size_bytes=len(response.content),
     )
 
     return response
