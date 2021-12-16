@@ -10,3 +10,15 @@ steps:
       - --runtime=python39
       - --max-instances=10
       - --timeout=300s
+
+  - name: "gcr.io/cloud-builders/gcloud"
+    args:
+      - functions
+      - deploy
+      - sherlock_gs_offers
+      - --source=.
+      - --region=europe-west1
+      - --trigger-topic=sherlock_products
+      - --runtime=python39
+      - --max-instances=10
+      - --timeout=300s
