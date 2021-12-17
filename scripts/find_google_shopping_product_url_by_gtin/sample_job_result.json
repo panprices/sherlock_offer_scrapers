@@ -1,0 +1,384 @@
+{
+  "job_id": "61bca3657bb5d60022f84647",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 1,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00045496420055",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 0,
+        "updated_at": "2021-12-17T14:30:28Z"
+      },
+      "content": {
+        "id": "1369300830819774984",
+        "name": "The Legend of Zelda: Breath of The Wild (SWITCH)",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSYvSa_hnR24mPSduk3tWU7biDHqWddDNVk-fh_JQJ000DzHtRVeFmbD8ovRQ&usqp=CAY",
+        "description": "Res \u00f6ver vidstr\u00e4ckta f\u00e4lt, genom skogar och h\u00f6gt upp pa bergstoppar i ett \u00f6ppet \u00e4ventyr Vad har egentligen h\u00e4nt med kungariket Hyrule och varf\u00f6r ligger det i ruiner? Kl\u00e4ttra upp i torn och pa bergstoppar f\u00f6r att leta efter nya platser och stigar att utforska. Slass mot gigantiska fiender, jaga vilda bestar och samla pa dig ingredienser f\u00f6r mat och elixir. Fler \u00e4n 100 Shrines of Trials \u00e4r utspridda \u00f6ver det vidstr\u00e4ckta landskapet, redo f\u00f6r att uppt\u00e4ckas och utforskas av dig i vilken ordning du \u00e4n behagar. Det \u00e4r en stor vild v\u00e4rld full av faror sa det g\u00e4ller att du \u00e4r f\u00f6rberedd och har r\u00e4tt kl\u00e4der och utrustning f\u00f6r att \u00f6verleva. V\u00e4rlden \u00e4r bebodd av en m\u00e4ngd olika monster och bestar, stora som sma.",
+        "properties": [
+          "Nintendo",
+          "The Legend of Zelda Series",
+          "Breath Of The Wild",
+          "Nintendo Switch",
+          "\u00c4ventyr",
+          "Alla \u00f6ver 10 \u00e5r",
+          "Onlinespel",
+          "Kassett"
+        ],
+        "url": "https://www.google.se/shopping/product/1369300830819774984?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 28022,
+        "review_rating": 98,
+        "price": "579.0",
+        "gtins": [
+          "45496420055"
+        ],
+        "eans": [
+          "0045496420055"
+        ],
+        "brand_name": "Nintendo",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Plattform",
+            "value": [
+              "Nintendo Switch"
+            ]
+          },
+          {
+            "label": "ESRB-m\u00e4rkning",
+            "value": [
+              "Alla 10 \u00e5r och \u00e4ldre (10+)"
+            ]
+          },
+          {
+            "label": "PEGI-klassificering",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "Max antal spelare",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Utv\u00e4rdering av australienska staten",
+            "value": [
+              "Vuxen (M)"
+            ]
+          },
+          {
+            "label": "Utgivare",
+            "value": [
+              "Nintendo"
+            ]
+          },
+          {
+            "label": "Utvecklare",
+            "value": [
+              "Nintendo"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Nintendo"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "0045496420055",
+              "1009320",
+              "211001",
+              "221257",
+              "2520046",
+              "3037555220",
+              "37555220",
+              "39827118",
+              "39831212",
+              "40470069",
+              "421",
+              "45496420055",
+              "54189628",
+              "55309624",
+              "6966",
+              "NSS695",
+              "NSWI0010",
+              "VG126666"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00045496420055"
+            ]
+          }
+        ],
+        "offer_count": 10,
+        "offers_url": "https://www.google.se/shopping/product/1369300830819774984/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "1369300830819774984",
+            "price": "579.0",
+            "price_additional_info": null,
+            "price_with_shipping": "579.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/gaming/spel-och-konsol/nintendo/nintendo-spel/nintendo-zelda-breath-of-the-wild/241654.14410/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "1369300830819774984",
+            "price": "569.0",
+            "price_additional_info": null,
+            "price_with_shipping": "569.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/gaming/spel/nintendo-switch-spel/SWILEGBREWILD/the-legend-of-zelda-breath-of-the-wild-switch",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "1369300830819774984",
+            "price": "569.0",
+            "price_additional_info": null,
+            "price_with_shipping": "569.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.power.se/gaming/nintendo/nintendo-spel/ns-the-legend-of-zelda-breath/p-509114/",
+            "shop_name": "Power.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12a02cb9685",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12a02cb9685",
+            "shop_url": "www.power.se",
+            "shop_domain": "power.se",
+            "shop_matching_id": "power.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "1369300830819774984",
+            "price": "569.0",
+            "price_additional_info": null,
+            "price_with_shipping": "569.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/912353/gaming/spel/spel-till-nintendo-switch/the-legend-of-zelda-breath-of-the-wild?channable=0094536964003931323335336f",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "1369300830819774984",
+            "price": "569.0",
+            "price_additional_info": null,
+            "price_with_shipping": "598.0",
+            "shipping_costs": "29.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011007902/the-legend-of-zelda-breath-of-the-wild?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "1369300830819774984",
+            "price": "582.0",
+            "price_additional_info": null,
+            "price_with_shipping": "622.0",
+            "shipping_costs": "40.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/4616091/the-legend-of-zelda-breath-of-the-wild-nintendo-switch",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "1369300830819774984",
+            "price": "589.0",
+            "price_additional_info": null,
+            "price_with_shipping": "668.0",
+            "shipping_costs": "79.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.cyberphoto.se/mobiltelefoni/tv-spel/spel-nintendo/nintendo-the-legend-of-zelda-breath-of-the-wild-switch",
+            "shop_name": "CyberPhoto",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-809bd0cf62b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-809bd0cf62b",
+            "shop_url": "www.cyberphoto.se",
+            "shop_domain": "cyberphoto.se",
+            "shop_matching_id": "cyberphoto.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "1369300830819774984",
+            "price": "649.0",
+            "price_additional_info": null,
+            "price_with_shipping": "678.0",
+            "shipping_costs": "29.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.spelochsant.se/produkt/nintendoswitch/spelallaspel/thelegendofzeldabreathofthewild",
+            "shop_name": "Spel & S\u00e5nt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d9ca2184da4",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d9ca2184da4",
+            "shop_url": "www.spelochsant.se",
+            "shop_domain": "spelochsant.se",
+            "shop_matching_id": "spelochsant.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "1369300830819774984",
+            "price": "645.0",
+            "price_additional_info": null,
+            "price_with_shipping": "645.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.spelexperten.com/sallskapsspel/tv-spel/nintendo-switch/mario-kart-8-deluxe-nintendo-switch.html",
+            "shop_name": "Spelexperten",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-795d794c1d0",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-795d794c1d0",
+            "shop_url": "www.spelexperten.com",
+            "shop_domain": "spelexperten.com",
+            "shop_matching_id": "spelexperten.com",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "1369300830819774984",
+            "price": "1049.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1128.99",
+            "shipping_costs": "79.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fruugo.se/legenden-om-zelda-breath-of-the-wild-nintendo-switch-game/p-52426341-105903349?language=sv&ac=croud&utm_source=organic_shopping&utm_medium=organic",
+            "shop_name": "fruugo.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fdf04e0f8d5",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fdf04e0f8d5",
+            "shop_url": "www.fruugo.se",
+            "shop_domain": "fruugo.se",
+            "shop_matching_id": "fruugo.se",
+            "page": 1,
+            "position": 10
+          }
+        ]
+      }
+    }
+  ]
+}
