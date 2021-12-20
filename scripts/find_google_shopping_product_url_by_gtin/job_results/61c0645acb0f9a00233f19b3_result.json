@@ -1,0 +1,4136 @@
+{
+  "job_id": "61c0645acb0f9a00233f19b3",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 20,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00190199865433",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:09:22Z"
+      },
+      "content": {
+        "id": "16000572181428322856",
+        "name": "Apple Watch Series 6 GPS 40 mm pink",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQqYy02ekXE50juKfTew125UQP1SgG1-0DJUxMl9xI0aACp7OP8Tm6IHmPhY8MEJo9VTyjkAns9&usqp=CAY",
+        "description": "Apple Watch Series 6 med GPS ger dig den ultimata m\u00f6jligheten att komma n\u00e4rmare ett h\u00e4lsosammare och mer aktivt liv och l\u00e5ter dig sp\u00e5ra och h\u00e5lla koll p\u00e5 allt du utf\u00f6r och din h\u00e4lsa. Klockan kan sp\u00e5ra avst\u00e5nd, tid, kalorier, aktivitet, s\u00f6mnaktivitet, hj\u00e4rtfrekvens och kan nu ocks\u00e5 m\u00e4ta din syreniv\u00e5 i blodet tack vare den revolutionerande sensorn. Batterilivsl\u00e4ngd upp till 18 timmar, s\u00e5 du kan vara s\u00e4ker p\u00e5 att din Apple Watch h\u00e5ller hela dagen. 32 GB minne, s\u00e5 du har gott om plats f\u00f6r alla smarta appar. Sportremmen passar handleder mellan 13 och 20 cm i omkrets.",
+        "properties": null,
+        "url": "https://www.google.se/shopping/product/16000572181428322856?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 179,
+        "review_rating": 94,
+        "price": "4809.0",
+        "gtins": [
+          "190199865433"
+        ],
+        "eans": [
+          "0190199865433"
+        ],
+        "brand_name": "Apple",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "Integrerade komponenter",
+            "value": [
+              "Hj\u00e4rtfrekvenssensor"
+            ]
+          },
+          {
+            "label": "V\u00e4rdenhets-OS som st\u00f6ds",
+            "value": [
+              "iOS 14 eller senare"
+            ]
+          },
+          {
+            "label": "Navigering",
+            "value": [
+              "GPS/GNSS-mottagare"
+            ]
+          },
+          {
+            "label": "Ljudutg\u00e5ng",
+            "value": [
+              "H\u00f6gtalare"
+            ]
+          },
+          {
+            "label": "Operativsystem",
+            "value": [
+              "WatchOS 7"
+            ]
+          },
+          {
+            "label": "B\u00e4rstil",
+            "value": [
+              "Klockstil"
+            ]
+          },
+          {
+            "label": "\u00c5terkopplingstyp",
+            "value": [
+              "Ljudsignal",
+              "vibrationsvarning",
+              "visuellt gr\u00e4nssnitt"
+            ]
+          },
+          {
+            "label": "Urtavla",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Satta m\u00e5l",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning",
+            "value": [
+              "324 x 394 pixlar"
+            ]
+          },
+          {
+            "label": "Fodralets form",
+            "value": [
+              "Rektangul\u00e4r"
+            ]
+          },
+          {
+            "label": "F\u00f6rpackningsstorlek",
+            "value": [
+              "40 mm"
+            ]
+          },
+          {
+            "label": "Krontyp",
+            "value": [
+              "Digital och haptisk feedback"
+            ]
+          },
+          {
+            "label": "Fodralets baksida",
+            "value": [
+              "Safirkristall och keramisk bakre infattning"
+            ]
+          },
+          {
+            "label": "Information om boetten",
+            "value": [
+              "Guldaluminium"
+            ]
+          },
+          {
+            "label": "Namn",
+            "value": [
+              "Sportband"
+            ]
+          },
+          {
+            "label": "Passar handled med omkrets",
+            "value": [
+              "130-200 mm"
+            ]
+          },
+          {
+            "label": "L\u00e5styp",
+            "value": [
+              "Sp\u00e4nne"
+            ]
+          },
+          {
+            "label": "Kompatibel med Internet of Things (IoT)",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Intelligent assistent",
+            "value": [
+              "Siri"
+            ]
+          },
+          {
+            "label": "R\u00f6stkontrollerad",
+            "value": [
+              "Direkt"
+            ]
+          },
+          {
+            "label": "F\u00f6rinstallerad programvara",
+            "value": [
+              "Apple Pay",
+              "GymKit"
+            ]
+          },
+          {
+            "label": "Vibrerande alarm",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "SAR-v\u00e4rde",
+            "value": [
+              "0",
+              "14 W/kg (huvud)",
+              "0",
+              "04 W/kg (lem)"
+            ]
+          },
+          {
+            "label": "Inkluderade tillbeh\u00f6r",
+            "value": [
+              "Magnetisk laddningskabel"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Apple"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "MG123DH/A",
+              "WATCH 6 GPS 40 MM PINK"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00190199865433"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/16000572181428322856/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "16000572181428322856",
+            "price": "4809.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4809.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Pulsmaetare-Stegraeknare/Apple-Watch-Series-6-GPS-40mm-Gold-Aluminium-Case-with-Pink-Sand-Sport-Band/2879608?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00190781107132",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:17Z"
+      },
+      "content": {
+        "id": "3725925759530947562",
+        "name": "Toner HP CF541X 203X Cyan",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR3tXM2KzjpQ8FDnLoqSVpYgMUYazM04s_VYoLvac9sop3nSnKbNjYAMxRNOR8CpHMD7LO1IAV8&usqp=CAY",
+        "description": "HP 203X cyan toner 2500 sidor original CF541X till en l\u00e5gt pris. K\u00f6p HP 203X cyan toner 2500 sidor original CF541X till ordinarie l\u00e5ga priser. Alltid l\u00e5ga priser p\u00e5 HP 203X cyan toner 2500 sidor original CF541X p\u00e5 n\u00e4tet. Best\u00e4ll HP 203X cyan toner 2500 sidor original CF541X nu och f\u00e5 leverans omedelbart.",
+        "properties": [
+          "HP",
+          "Laser",
+          "Med flera f\u00e4rger",
+          "Flerpack",
+          "Utskriftskapacitet: 2\u00a0500 sidor (svart)",
+          "Utskriftskapacitet: 2\u00a0500 sidor (f\u00e4rg)"
+        ],
+        "url": "https://www.google.se/shopping/product/3725925759530947562?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 1210,
+        "review_rating": 92,
+        "price": "1025.0",
+        "gtins": [
+          "190781107132"
+        ],
+        "eans": [
+          "0190781107132"
+        ],
+        "brand_name": "HP",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Sidor",
+            "value": [
+              "2500"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "HP"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "0190781107132",
+              "1244~169437",
+              "1253034",
+              "145195",
+              "157231",
+              "190781107132",
+              "222365",
+              "2898058",
+              "2M3KG11",
+              "44196135",
+              "44345359",
+              "45485376",
+              "51754990",
+              "58090842",
+              "58296901",
+              "61536253",
+              "6801123",
+              "88",
+              "992772452",
+              "CF541X",
+              "F-BB-S5601210",
+              "HP-CF541X",
+              "HPCF541X",
+              "S55078870",
+              "S5601210",
+              "cf541x",
+              "hp_cf541x"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00190781107132"
+            ]
+          }
+        ],
+        "offer_count": 20,
+        "offers_url": "https://www.google.se/shopping/product/3725925759530947562/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "3725925759530947562",
+            "price": "1025.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1064.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inky.se/inkysepla?PS=CF541X",
+            "shop_name": "Inky",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f01ff2ed855",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f01ff2ed855",
+            "shop_url": "www.inky.se",
+            "shop_domain": "inky.se",
+            "shop_matching_id": "inky.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "3725925759530947562",
+            "price": "1076.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1076.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Skrivartillbehoer-blaeck-toner/HP-203X-CF541X-High-Capacity-Cyan-Toner-Tonerkassett-Blaa/2631999?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "3725925759530947562",
+            "price": "1093.75",
+            "price_additional_info": null,
+            "price_with_shipping": "1178.75",
+            "shipping_costs": "85.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.kontorsgiganten.se/toner-hp-cf541x-203x-cyan-p-25?from=gpla",
+            "shop_name": "Kontorsgiganten",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-96fb01f6fd7",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-96fb01f6fd7",
+            "shop_url": "www.kontorsgiganten.se",
+            "shop_domain": "kontorsgiganten.se",
+            "shop_matching_id": "kontorsgiganten.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "3725925759530947562",
+            "price": "1096.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1096.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/3717107/hp-203x-l%C3%A5ng-livsl%C3%A4ngd-cyan-original-laserjet-tonerkassett-cf541x-f%C3%B6r-color-laserjet-pro-m254dw-m254nw-mfp-m280nw-mfp-m281cdw",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "3725925759530947562",
+            "price": "1024.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1024.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://tonerweb.se/p/hp-toner-cyan-203x-2-500-sider-cf541x-156150?cmpid=6",
+            "shop_name": "Tonerweb.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4d029199750",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4d029199750",
+            "shop_url": "tonerweb.se",
+            "shop_domain": "tonerweb.se",
+            "shop_matching_id": "tonerweb.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "3725925759530947562",
+            "price": "1035.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1070.0",
+            "shipping_costs": "35.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.123ink.se/HP-203X-CF541X-cyan-toner-hog-kapacitet-original-i42441-t374452.html",
+            "shop_name": "123Ink.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-781a7e6e4ae",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-781a7e6e4ae",
+            "shop_url": "www.123ink.se",
+            "shop_domain": "123ink.se",
+            "shop_matching_id": "123ink.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "3725925759530947562",
+            "price": "1249.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1249.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/datorer-tillbehor/skrivare-och-tillbehor/blackpatroner-och-toner/CF541X/hp-toner-203x-high-yield-original-laserjet-cyan",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "3725925759530947562",
+            "price": "1135.49",
+            "price_additional_info": null,
+            "price_with_shipping": "1235.98",
+            "shipping_costs": "100.49",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/hp-203x-toner/137456556/p?utm_source=google_products&utm_medium=merchant&id_producte=10247568&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "3725925759530947562",
+            "price": "1181.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1230.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/hp-203x-original-cyan-laserjet/cat-p/c0/p9741745",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "3725925759530947562",
+            "price": "1225.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1264.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inkpro.se/produkter/17638-hp-color-laserjet-pro-m-254/145195-hp-203x-cyan-toner-2500-sidor-original-cf541x/",
+            "shop_name": "Inkpro",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f15cbf32f25",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f15cbf32f25",
+            "shop_url": "www.inkpro.se",
+            "shop_domain": "inkpro.se",
+            "shop_matching_id": "inkpro.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "3725925759530947562",
+            "price": "1225.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1264.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inkpro.se/produkter/17638-hp-color-laserjet-pro-m-254/145195-hp-203x-cyan-toner-2500-sidor-original-cf541x/",
+            "shop_name": "inkpro.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-17b29003214",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-17b29003214",
+            "shop_url": "www.inkpro.se",
+            "shop_domain": "inkpro.se",
+            "shop_matching_id": "inkpro.se",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "3725925759530947562",
+            "price": "1095.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1144.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tonerlagret.se/CF541X",
+            "shop_name": "Tonerlagret",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a2465f3d42c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a2465f3d42c",
+            "shop_url": "www.tonerlagret.se",
+            "shop_domain": "tonerlagret.se",
+            "shop_matching_id": "tonerlagret.se",
+            "page": 1,
+            "position": 12
+          },
+          {
+            "id": null,
+            "product_id": "3725925759530947562",
+            "price": "1096.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1161.0",
+            "shipping_costs": "65.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.wesellcd.com/affiliate/redirect.php?ID=gglshse&page=products&product_id=27673",
+            "shop_name": "Wesellcd.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9f63d52d8d1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9f63d52d8d1",
+            "shop_url": "www.wesellcd.com",
+            "shop_domain": "wesellcd.com",
+            "shop_matching_id": "wesellcd.com",
+            "page": 1,
+            "position": 13
+          },
+          {
+            "id": null,
+            "product_id": "3725925759530947562",
+            "price": "1099.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1178.0",
+            "shipping_costs": "79.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.megashop.se/CF541X",
+            "shop_name": "megashop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-dc438a465ed",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-dc438a465ed",
+            "shop_url": "www.megashop.se",
+            "shop_domain": "megashop.se",
+            "shop_matching_id": "megashop.se",
+            "page": 1,
+            "position": 14
+          },
+          {
+            "id": null,
+            "product_id": "3725925759530947562",
+            "price": "1210.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1249.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://offi.se/shop/hp/hp-color-laserjet/hp-color-laserjet-pro-m-254/hp-203x-cyan-tonerkassett-2-500-sidor-cf541x-original/",
+            "shop_name": "Offi.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-e7a37ca491e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e7a37ca491e",
+            "shop_url": "offi.se",
+            "shop_domain": "offi.se",
+            "shop_matching_id": "offi.se",
+            "page": 1,
+            "position": 15
+          },
+          {
+            "id": null,
+            "product_id": "3725925759530947562",
+            "price": "1199.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1199.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.kontors24.se/CF541X-1",
+            "shop_name": "Kontors24.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a95c1898170",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a95c1898170",
+            "shop_url": "www.kontors24.se",
+            "shop_domain": "kontors24.se",
+            "shop_matching_id": "kontors24.se",
+            "page": 1,
+            "position": 16
+          },
+          {
+            "id": null,
+            "product_id": "3725925759530947562",
+            "price": "1449.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1449.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.hp.com/se-sv/shop/product.aspx?id=CF541X&opt=&sel=SUP&lang=sv-SE&jumpID=ps_6jytiqsmpx/sf:_sku:CF541X",
+            "shop_name": "HP Store",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-6ce1c1e22cb",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-6ce1c1e22cb",
+            "shop_url": "www.hp.com",
+            "shop_domain": "hp.com",
+            "shop_matching_id": "hp.com",
+            "page": 1,
+            "position": 17
+          },
+          {
+            "id": null,
+            "product_id": "3725925759530947562",
+            "price": "1449.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1449.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.hp.com/se-sv/shop/product.aspx?id=CF541X&opt=&sel=SUP&lang=sv-SE",
+            "shop_name": "HP Store",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-6ce1c1e22cb",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-6ce1c1e22cb",
+            "shop_url": "www.hp.com",
+            "shop_domain": "hp.com",
+            "shop_matching_id": "hp.com",
+            "page": 1,
+            "position": 18
+          },
+          {
+            "id": null,
+            "product_id": "3725925759530947562",
+            "price": "1260.84",
+            "price_additional_info": null,
+            "price_with_shipping": "1260.84",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.papperskungen.se/tonerhpcf541x203x25kcyan-p-56726.html",
+            "shop_name": "Papperskungen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-40e655aeac2",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-40e655aeac2",
+            "shop_url": "www.papperskungen.se",
+            "shop_domain": "papperskungen.se",
+            "shop_matching_id": "papperskungen.se",
+            "page": 1,
+            "position": 19
+          },
+          {
+            "id": null,
+            "product_id": "3725925759530947562",
+            "price": "1224.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1224.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/hp-203x-cyan-2500-sider",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 20
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00192018369726",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:17Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00193905208531",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:09:19Z"
+      },
+      "content": {
+        "id": "4149152851866189377",
+        "name": "HP Dockningsstation USB-C Dock G5",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR5LlX8HNsOqEjWipfKgOwSMyCEykY7RfGqibhbjSfdZJRGknI_lRXxP9PS8fA&usqp=CAY",
+        "description": "Dockningsstation i kompakt format med USB-C-anslutning s\u00e5 att den fungerar universalt med datorer med USB-C-portar. Fungerar b\u00e5de med PC och Mac. Har tv\u00e5 USB 3.0-portar, tv\u00e5 DisplayPort, en HDMI och en n\u00e4tverksport.",
+        "properties": [
+          "HP",
+          "USB",
+          "Thunderbolt",
+          "HDMI",
+          "DisplayPort",
+          "Universell",
+          "USB 3.0",
+          "L\u00e5s"
+        ],
+        "url": "https://www.google.se/shopping/product/4149152851866189377?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 246,
+        "review_rating": 80,
+        "price": "2055.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "HP USB-C Dock G5 - dockningsstation - USB-C - GigE",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produktbeskrivning",
+            "value": [
+              "HP USB-C Dock G5 - dockningsstation - USB-C - GigE"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Dockningsstation"
+            ]
+          },
+          {
+            "label": "Dockningsgr\u00e4nssnitt",
+            "value": [
+              "USB-C"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxDxH)",
+            "value": [
+              "12.2 cm x 12.2 cm x 4.5 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "680 g"
+            ]
+          },
+          {
+            "label": "Lokalisering",
+            "value": [
+              "Engelska / Europa"
+            ]
+          },
+          {
+            "label": "N\u00e4tverk",
+            "value": [
+              "Gigabit Ethernet"
+            ]
+          },
+          {
+            "label": "Str\u00f6mtillf\u00f6rsel",
+            "value": [
+              "Str\u00f6madapter 100 Watt"
+            ]
+          },
+          {
+            "label": "Tillverkarens garanti",
+            "value": [
+              "1 \u00e5rs garanti"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "12.2 cm"
+            ]
+          },
+          {
+            "label": "Datal\u00e4nkprotokoll",
+            "value": [
+              "Gigabit Ethernet"
+            ]
+          },
+          {
+            "label": "Typ av s\u00e4kerhetsplats",
+            "value": [
+              "Kensington s\u00e4kerhetsplats"
+            ]
+          },
+          {
+            "label": "N\u00e4tdel",
+            "value": [
+              "Str\u00f6madapter"
+            ]
+          },
+          {
+            "label": "Effekt",
+            "value": [
+              "100 Watt"
+            ]
+          },
+          {
+            "label": "Service och support",
+            "value": [
+              "Begr\u00e4nsad garanti - 1 \u00e5r"
+            ]
+          }
+        ],
+        "offer_count": 8,
+        "offers_url": "https://www.google.se/shopping/product/4149152851866189377/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "4149152851866189377",
+            "price": "3490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011146314/usb-c-dock-g5?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "4149152851866189377",
+            "price": "2782.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2782.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/5763000/hp-usb-c-dock-g5-dockningsstation-usb-c-gige-100-watt-europa-f%C3%B6r-chromebook-11a-g8-chromebook-x360-envy-14-pavilion-gaming",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "4149152851866189377",
+            "price": "2055.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2104.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/hp-usb-c-dock-g5/cat-p/c0/p1000375583",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "4149152851866189377",
+            "price": "2889.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2889.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/hp-usb-c-dock-g5-dockningsstation-usb-c-gige-100-watt-europa-for-chromebook-11a-g8-chromebook-x360-envy-14-pavilion-gaming-tg01-probo-p53683682",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "4149152851866189377",
+            "price": "3904.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3904.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/hp-usb-c-dock-g5-dockingstation",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "4149152851866189377",
+            "price": "5699.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5699.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.teknikproffset.se/datorer-kringutrustning/barbara-datorer-tillbehor/dockningsstation/hp-usb-c-dock-g5",
+            "shop_name": "Teknikproffset.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b1c12f7fe91",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b1c12f7fe91",
+            "shop_url": "www.teknikproffset.se",
+            "shop_domain": "teknikproffset.se",
+            "shop_matching_id": "teknikproffset.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "4149152851866189377",
+            "price": "4936.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4936.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://inf.se/elektronik/34929-hp-usb-c-dock-g5-0193905208531.html",
+            "shop_name": "inf.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-86164cf026b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-86164cf026b",
+            "shop_url": "inf.se",
+            "shop_domain": "inf.se",
+            "shop_matching_id": "inf.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "4149152851866189377",
+            "price": "5354.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5373.0",
+            "shipping_costs": "19.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://fyndiq.se/produkt/hp-usb-c-dock-g5-87a5732367ce4751/",
+            "shop_name": "Fyndiq.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-7acd4b25fca",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-7acd4b25fca",
+            "shop_url": "fyndiq.se",
+            "shop_domain": "fyndiq.se",
+            "shop_matching_id": "fyndiq.se",
+            "page": 1,
+            "position": 8
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00193905486571",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:09:21Z"
+      },
+      "content": {
+        "id": "3198870549178952398",
+        "name": "HP - Color LaserJet Pro MFP M282nw",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSpmCi1ZKfVqYU2_v1441j4iQjZBMerrMF4xHfTjOUk7yPQix2BTf40vk4bqmC5uMBXw18c1Yu6&usqp=CAY",
+        "description": "HP Color LaserJet Pro MFP M282nw \u00e4r en effektiv och tr\u00e5dl\u00f6s multifunktionsskrivare som ger dig kvalitativa laserutskrifter i f\u00e4rg. Skriv ut, skanna och kopiera, perfekt f\u00f6r sm\u00e5 och medelstora f\u00f6retag. Du f\u00e5r \u00e4ven m\u00f6jligheten att skriva ut via din smartphone med appen HP Smart, appen har \u00e4ven andra smarta funktioner som l\u00e5ter dig organisera, f\u00e5 meddelanden m.m. Skriv ut upp till 21 sidor/minut och f\u00e4rdigst\u00e4ll dina uppgifter snabbt och smidigt. Appen HP Smart Nu kan du enkelt skriva ut och skanna fr\u00e5n din smarta enhet med appen HP Smart. Appen har en funktion som heter Smart Tasks, med den kan du ta bort steg i upprepade uppgifter med anpassningsbara genv\u00e4gar, samt organisera dokument direkt i appen. Du kan \u00e4ven f\u00e5 meddelanden vid utskrift, skanning eller kopiering. Enkel utskrift Skrivaren g\u00f6r det enkelt att hantera utskrifts-, skannings- och kopieringsuppgifter, mycket tack vare dess intuitiva peksk\u00e4rm p\u00e5 2,7 tum. Och med skrivarens snabba utskriftshastighet p\u00e5 upp till 21 sidor/minut kan du f\u00e5 dina dokument p\u00e5 nolltid. P\u00e5litliga anslutningar HP Color LaserJet Pro MFP M282nw ger dig tillg\u00e5ng till snabbare och mer p\u00e5litliga anslutningar med dual band Wi-Fi. Men du kan \u00e4ven ansluta skrivaren till ditt n\u00e4tverk via LAN, skrivaren har dessutom en USB-ing\u00e5ng.",
+        "properties": [
+          "HP",
+          "HP LaserJet",
+          "HP LaserJet Pro",
+          "Allt-i-ett",
+          "Laser",
+          "F\u00e4rg",
+          "Tr\u00e5dl\u00f6s",
+          "Med scanner",
+          "Wi-fi",
+          "USB"
+        ],
+        "url": "https://www.google.se/shopping/product/3198870549178952398?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 296,
+        "review_rating": 90,
+        "price": "4190.0",
+        "gtins": [
+          "193905486571"
+        ],
+        "eans": [
+          "0193905486571"
+        ],
+        "brand_name": "HP",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Anslutningstyp",
+            "value": [
+              "USB + WiFi + LAN (n\u00e4tverk)"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "HP"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "193905486571",
+              "52859692",
+              "54780817",
+              "7KW72A",
+              "7KW72A#B19",
+              "7KW72A#BH1",
+              "7KW72AB19",
+              "7kw72ab19",
+              "995545242",
+              "HP7KW72A",
+              "M282nw",
+              "S0226408",
+              "m282nw"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00193905486571"
+            ]
+          }
+        ],
+        "offer_count": 5,
+        "offers_url": "https://www.google.se/shopping/product/3198870549178952398/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "3198870549178952398",
+            "price": "4190.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4190.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/dator-surfplatta/skrivare-scanner/laserskrivare/hp-color-laserjet-pro-mfp-m282nw/1010977.8937/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "3198870549178952398",
+            "price": "4503.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4552.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/hp-color-laserjet-pro-mfp/cat-p/c0/p1000611560",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "3198870549178952398",
+            "price": "4835.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4835.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011166374/color-laserjet-pro-m282nw-a4-mfp?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "3198870549178952398",
+            "price": "6328.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6328.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/6356046/hp-color-laserjet-pro-mfp-m282nw-farvelaser-multifunktionsprinter-a4-printer-scanner-kopimaskine-adf-lan-wlan-usb",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "3198870549178952398",
+            "price": "6663.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6762.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/293/166833/sort/1/filter/0_0_0_0/Color-LaserJet-Pro-MFP-M282nw-7KW72A#B19-flerfunktionslaserskrivare.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 5
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252013120",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:09:20Z"
+      },
+      "content": {
+        "id": "17642246256066435652",
+        "name": "APPLE IPHONE 12 MINI 64 GB SVART",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcScXb4n7XvvAf6VEjQsr1jVKvoiLc-MEEoS9ecHMDiL-RllQ0uacUIzq2WKdcU8m8W9meQjkdNY&usqp=CAY",
+        "description": "Upplev iPhone 12 Mini i en helt ny mindre design som endast v\u00e4ger 133 gram. Tunnare, mindre och l\u00e4ttare i fem olika finishar. Utrustad med en 5,4-tums Super Retina XDR Display levererar den dubbelt s\u00e5 m\u00e5nga pixlar, djupare svart f\u00f6r maximal sk\u00e4rpa och miljoner f\u00e4rger f\u00f6r detaljrikedom. Dubbelt kamerasystem med b\u00e5de vidvinkel och ultravidvinkel som nu b\u00e5da har nattl\u00e4ge vilket inneb\u00e4r att du kan ta de mest fantastiska bilderna \u00e4ven i svagt ljus.",
+        "properties": [
+          "Apple",
+          "iPhone",
+          "iPhone 12",
+          "iOS",
+          "Sk\u00e4rmstorlek: 5,4 tum",
+          "Smartphone",
+          "133 gram",
+          "64 GB",
+          "GSM",
+          "5G"
+        ],
+        "url": "https://www.google.se/shopping/product/17642246256066435652?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 6271,
+        "review_rating": 92,
+        "price": "6199.0",
+        "gtins": [
+          "194252013120"
+        ],
+        "eans": [
+          "0194252013120"
+        ],
+        "brand_name": "Apple",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Smartphone"
+            ]
+          },
+          {
+            "label": "Operativsystem",
+            "value": [
+              "iOS 14"
+            ]
+          },
+          {
+            "label": "Processor",
+            "value": [
+              "Apple A14 Bionic"
+            ]
+          },
+          {
+            "label": "Lagringskapacitet",
+            "value": [
+              "64 GB"
+            ]
+          },
+          {
+            "label": "Plats f\u00f6r extra minneskort",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "RAM-Minne",
+            "value": [
+              "4 GB"
+            ]
+          },
+          {
+            "label": "SIM-kortsformat",
+            "value": [
+              "Nano-SIM (4FF)",
+              "eSim"
+            ]
+          },
+          {
+            "label": "Sk\u00e4rmstorlek (tum)",
+            "value": [
+              "5.4 tum"
+            ]
+          },
+          {
+            "label": "Display",
+            "value": [
+              "5.4\" Super Retina XDR OLED (2340 x 1080)"
+            ]
+          },
+          {
+            "label": "Pixeldensitet",
+            "value": [
+              "476 ppi"
+            ]
+          },
+          {
+            "label": "F\u00e4rgsk\u00e4rm",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Kamera baksida",
+            "value": [
+              "Dualcamera"
+            ]
+          },
+          {
+            "label": "Frontkamera",
+            "value": [
+              "Single Cam"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning frontkamera",
+            "value": [
+              "Kamera med 12 MP | Bl\u00e4ndare \u0192/2",
+              "2"
+            ]
+          },
+          {
+            "label": "Optisk zoom",
+            "value": [
+              "2\u00d7 optisk utzoomning"
+            ]
+          },
+          {
+            "label": "Digital zoom",
+            "value": [
+              "Upp till 5\u00d7 digital zoom"
+            ]
+          },
+          {
+            "label": "Integrerad blixt",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Ansiktsigenk\u00e4nning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Bildstabilisering",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Videoformat",
+            "value": [
+              "HEVC och H.264"
+            ]
+          },
+          {
+            "label": "Videoinspelning",
+            "value": [
+              "HDR-video i 4K med Dolby Vision"
+            ]
+          },
+          {
+            "label": "Geo-taggning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Fingeravtrycksl\u00e4sare",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Bildformat",
+            "value": [
+              "HEIF och JPEG"
+            ]
+          },
+          {
+            "label": "H\u00f6gtalare",
+            "value": [
+              "Stereoh\u00f6gtalare | Inbyggda mikrofoner"
+            ]
+          },
+          {
+            "label": "Integrerad GPS",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Dual SIM",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "NFC",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Mobiluppkoppling",
+            "value": [
+              "5G"
+            ]
+          },
+          {
+            "label": "Bluetooth",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Bluetoothversion",
+            "value": [
+              "5.0"
+            ]
+          },
+          {
+            "label": "Anslutningar",
+            "value": [
+              "Lightning-kontakt"
+            ]
+          },
+          {
+            "label": "IP-klassning",
+            "value": [
+              "IP68"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "7.4 mm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "133 g"
+            ]
+          },
+          {
+            "label": "Snabbladdning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s laddning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Utbytbart batteri",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxHxD)",
+            "value": [
+              "64.2 mm x 131.5 mm x 7.4 mm / 133 g"
+            ]
+          },
+          {
+            "label": "Specialfunktioner",
+            "value": [
+              "Face ID"
+            ]
+          },
+          {
+            "label": "Modell\u00e5r",
+            "value": [
+              "2020"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Apple"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "12 MINI 64GB BLACK",
+              "194252013120",
+              "238200",
+              "238442",
+              "55564412",
+              "55697080",
+              "56276659",
+              "57990194",
+              "72523163",
+              "72523920",
+              "72523921",
+              "72523922",
+              "76787011",
+              "Apple - 1625266",
+              "IPH12M64GBB",
+              "MGDX3",
+              "MGDX3FS/A",
+              "MGDX3QN/A",
+              "apple1625266",
+              "i12M64BKA",
+              "i12M64BKB"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00194252013120"
+            ]
+          }
+        ],
+        "offer_count": 7,
+        "offers_url": "https://www.google.se/shopping/product/17642246256066435652/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "17642246256066435652",
+            "price": "6199.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6199.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://swappie.com/se/iphone/iphone-12-mini/iphone-12-mini-64gb-svart-9/",
+            "shop_name": "Swappie",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-aef17697fab",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-aef17697fab",
+            "shop_url": "swappie.com",
+            "shop_domain": "swappie.com",
+            "shop_matching_id": "swappie.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "17642246256066435652",
+            "price": "519.0",
+            "price_additional_info": null,
+            "price_with_shipping": "519.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.telenor.se/handla/mobiler/apple/iphone-12-mini/#p%3Dts%26cty%3D64%26clr%3D%2335323b%26s%3D7282",
+            "shop_name": "Telenor",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-6010a2ae603",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-6010a2ae603",
+            "shop_url": "www.telenor.se",
+            "shop_domain": "telenor.se",
+            "shop_matching_id": "telenor.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "17642246256066435652",
+            "price": "6990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/mobil-tele-gps/mobiltelefoner/234591/iphone-12-mini-5g-smartphone-64-gb-svart",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "17642246256066435652",
+            "price": "7395.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7395.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.apple.com/se/shop/go/product/MGDX3?cid=aos-se-seo-pla",
+            "shop_name": "Apple",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-476432a3e85",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-476432a3e85",
+            "shop_url": "www.apple.com",
+            "shop_domain": "apple.com",
+            "shop_matching_id": "apple.com",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "17642246256066435652",
+            "price": "7495.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7495.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.telefonshoppen.se/mobiltelefoner/iphone-12-mini-64gb?att=QmxhY2s=",
+            "shop_name": "Telefonshoppen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-827b07b45ee",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-827b07b45ee",
+            "shop_url": "www.telefonshoppen.se",
+            "shop_domain": "telefonshoppen.se",
+            "shop_matching_id": "telefonshoppen.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "17642246256066435652",
+            "price": "8245.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8304.0",
+            "shipping_costs": "59.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/iphone-12-mini-64gb-p79153939",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "17642246256066435652",
+            "price": "8245.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8245.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://allphone.se/mobiler/120-iphone-12-mini-64gb-0194252013120.html",
+            "shop_name": "Allphone.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-e696a75172d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e696a75172d",
+            "shop_url": "allphone.se",
+            "shop_domain": "allphone.se",
+            "shop_matching_id": "allphone.se",
+            "page": 1,
+            "position": 7
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252014486",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:18Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=00194252014486&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.netonnet.se/art/mobil-smartwatch/mobiltelefoner/iphone/apple-iphone-12-mini-64gb-5g-green/1015071.9044/",
+            "name": "Apple iPhone 12 mini 64GB Green - iPhone 12 mini. Stora m\u00f6jligheter.",
+            "product_properties": [],
+            "price": "6990.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "6990.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "NetOnNet",
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "NetOnNet",
+            "shop_review_count": 5,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "url": "https://swappie.com/se/iphone/iphone-12-mini/iphone-12-mini-64gb-gron-9/",
+            "name": "Apple iPhone 12 mini 64GB Gr\u00f6n Apple",
+            "product_properties": [],
+            "price": "6199.0",
+            "shipping_costs": null,
+            "price_with_shipping": null,
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Swappie",
+            "shop_id": "priceapi-aef17697fab",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-aef17697fab",
+            "shop_url": "swappie.com",
+            "shop_domain": "swappie.com",
+            "shop_matching_id": "Swappie",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "url": "https://www.mediamarkt.se/sv/product/_apple-iphone-12-mini-5g-64gb-5-4-smartphone-gr%C3%B6n-1329696.html?utm_source=google&utm_medium=seo-product%20feed",
+            "name": "Apple iPhone 12 mini 5G 64Gb - 5.4\" Smartphone - Gr\u00f6n",
+            "product_properties": [],
+            "price": "6990.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "6990.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "MediaMarkt.se",
+            "shop_id": "priceapi-beb4b17be14",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-beb4b17be14",
+            "shop_url": "www.mediamarkt.se",
+            "shop_domain": "mediamarkt.se",
+            "shop_matching_id": "MediaMarkt.se",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "url": "https://www.teknikproffset.se/smartphone-surfplattor/mobiltelefoner/apple-iphone-12-mini-64gb-green",
+            "name": "Apple iPhone 12 mini 64GB Green",
+            "product_properties": [],
+            "price": "10399.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "10399.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Teknikproffset.se",
+            "shop_id": "priceapi-b1c12f7fe91",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-b1c12f7fe91",
+            "shop_url": "www.teknikproffset.se",
+            "shop_domain": "teknikproffset.se",
+            "shop_matching_id": "Teknikproffset.se",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "url": "https://www.apple.com/se/shop/go/product/MGE23?cid=aos-se-seo-pla",
+            "name": "Apple iPhone 12 mini 64 GB gr\u00f6n (2020)",
+            "product_properties": [],
+            "price": "7395.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "7395.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Apple",
+            "shop_id": "priceapi-476432a3e85",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-476432a3e85",
+            "shop_url": "www.apple.com",
+            "shop_domain": "apple.com",
+            "shop_matching_id": "Apple",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "url": "https://mymall.se/iphone-12-mini-64gb-green-1103-mge23",
+            "name": "Apple iPhone 12 mini 64GB Green, Mobiltelefoner > Apple",
+            "product_properties": [],
+            "price": "7395.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "7395.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "mymall.se",
+            "shop_id": "priceapi-f6c20cec448",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-f6c20cec448",
+            "shop_url": "mymall.se",
+            "shop_domain": "mymall.se",
+            "shop_matching_id": "mymall.se",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "url": "https://ellos.se/apple/iphone-12-mini-64gb-green/1625281?extcmp=01_SE_SEM_G4",
+            "name": "Apple - iPhone 12 mini 64GB Green",
+            "product_properties": [],
+            "price": "7495.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "7495.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Ellos SE",
+            "shop_id": "priceapi-33e42172204",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-33e42172204",
+            "shop_url": "ellos.se",
+            "shop_domain": "ellos.se",
+            "shop_matching_id": "Ellos SE",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "url": "https://fyndiq.se/produkt/apple-watch-4-nike-40mm-wifi-svart-grade-a-e8ef22bf7e43457a/",
+            "name": "Apple Watch 4 Nike+ 40mm Wifi Svart Grade A",
+            "product_properties": [],
+            "price": "1999.2",
+            "shipping_costs": "19.0",
+            "price_with_shipping": "2018.2",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Fyndiq.se",
+            "shop_id": "priceapi-7acd4b25fca",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-7acd4b25fca",
+            "shop_url": "fyndiq.se",
+            "shop_domain": "fyndiq.se",
+            "shop_matching_id": "Fyndiq.se",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "url": "https://www.telefonshoppen.se/mobiltelefoner/iphone-12-mini-64gb?att=R3JlZW4=",
+            "name": "iPhone 12 Mini 64GB | Green",
+            "product_properties": [],
+            "price": "7365.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "7365.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Telefonshoppen",
+            "shop_id": "priceapi-827b07b45ee",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-827b07b45ee",
+            "shop_url": "www.telefonshoppen.se",
+            "shop_domain": "telefonshoppen.se",
+            "shop_matching_id": "Telefonshoppen",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "url": "https://www.proshop.se/Mobile/Apple-iPhone-12-mini-5G-64GB-Green/2884430?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "name": "Apple iPhone 12 mini 5G 64GB - Green,Mobile",
+            "product_properties": [],
+            "price": "7990.0",
+            "shipping_costs": null,
+            "price_with_shipping": null,
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Proshop.se",
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "Proshop.se",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 10
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252025154",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:09:22Z"
+      },
+      "content": {
+        "id": "4972508414733775254",
+        "name": "Apple - 5W Usb Power Adapter .",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR-QlpUiveaj4eq4txwDJ-M94FC_9OlTZRIiwSIU2lmzC67hjUWXsrURnNiFPgsieOdonp2_-o&usqp=CAY",
+        "description": "Apple originaltillbeh\u00f6r. Snabb och effektiv laddning. Diskret, vit design. USB-uttag f\u00f6r anslutning av valfri synkkabel. K\u00f6p till synkkabel f\u00f6r iPad/iPhone/iPod f\u00f6r att f\u00e5 en komplett laddare.",
+        "properties": [
+          "V\u00e4ggladdare",
+          "Mobiltelefon",
+          "Surfplatta",
+          "Klocka",
+          "Snabbladdning"
+        ],
+        "url": "https://www.google.se/shopping/product/4972508414733775254?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 42,
+        "review_rating": 88,
+        "price": "199.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "V\u00e4ggladdare",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Typ av laddare",
+            "value": [
+              "V\u00e4ggladdare"
+            ]
+          },
+          {
+            "label": "USB-portar",
+            "value": [
+              "1 st"
+            ]
+          },
+          {
+            "label": "Anslutning",
+            "value": [
+              "USB-A"
+            ]
+          },
+          {
+            "label": "Kabel medf\u00f6ljer",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Paketbredd",
+            "value": [
+              "6.8 cm"
+            ]
+          },
+          {
+            "label": "Paketh\u00f6jd",
+            "value": [
+              "2 cm"
+            ]
+          },
+          {
+            "label": "Paketl\u00e4ngd",
+            "value": [
+              "7.9 cm"
+            ]
+          },
+          {
+            "label": "Paketvikt",
+            "value": [
+              "0.049 kg"
+            ]
+          },
+          {
+            "label": "Tillverkarens ArtNr",
+            "value": [
+              "MGN13ZM/A"
+            ]
+          },
+          {
+            "label": "Upplagd",
+            "value": [
+              "2017-12-18 10:42"
+            ]
+          }
+        ],
+        "offer_count": 20,
+        "offers_url": "https://www.google.se/shopping/product/4972508414733775254/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "4972508414733775254",
+            "price": "199.0",
+            "price_additional_info": null,
+            "price_with_shipping": "248.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mediamarkt.se/sv/product/_apple-usb-str%C3%B6madapter-5w-vit-1328276.html?utm_source=google&utm_medium=seo-product%20feed",
+            "shop_name": "MediaMarkt.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-beb4b17be14",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-beb4b17be14",
+            "shop_url": "www.mediamarkt.se",
+            "shop_domain": "mediamarkt.se",
+            "shop_matching_id": "mediamarkt.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "4972508414733775254",
+            "price": "250.0",
+            "price_additional_info": null,
+            "price_with_shipping": "307.19",
+            "shipping_costs": "57.19",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.apple.com/se/shop/go/product/MGN13?cid=aos-se-seo-pla",
+            "shop_name": "Apple",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-476432a3e85",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-476432a3e85",
+            "shop_url": "www.apple.com",
+            "shop_domain": "apple.com",
+            "shop_matching_id": "apple.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "4972508414733775254",
+            "price": "229.0",
+            "price_additional_info": null,
+            "price_with_shipping": "278.95",
+            "shipping_costs": "49.95",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.clasohlson.com/se/USB-n%C3%A4tadapter-f%C3%B6r-iPhone/p/38-5436?utm_source=google&utm_medium=organic&utm_campaign=google%20surfaces",
+            "shop_name": "Clas Ohlson Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-5e99f6322e9",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5e99f6322e9",
+            "shop_url": "www.clasohlson.com",
+            "shop_domain": "clasohlson.com",
+            "shop_matching_id": "clasohlson.com",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "4972508414733775254",
+            "price": "249.0",
+            "price_additional_info": null,
+            "price_with_shipping": "249.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.webhallen.com/se/product/278160-Apple-5W-USB-stromadapter?channable=00c0c7696400323738313630f7",
+            "shop_name": "Webhallen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-82f3e802042",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-82f3e802042",
+            "shop_url": "www.webhallen.com",
+            "shop_domain": "webhallen.com",
+            "shop_matching_id": "webhallen.com",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "4972508414733775254",
+            "price": "229.0",
+            "price_additional_info": null,
+            "price_with_shipping": "248.0",
+            "shipping_costs": "19.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1169793/mobil-klockor/tillbehor-till-mobiltelefon/laddare/apple-5-w-usb-ladeadapter?channable=00945369640031313639373933ce",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "4972508414733775254",
+            "price": "199.0",
+            "price_additional_info": null,
+            "price_with_shipping": "248.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/mobil-tele-gps/laddare-och-kablar-till-mobil/vaggladdare/218269/apple-5w-usb-vaggadapter-vit",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "4972508414733775254",
+            "price": "249.0",
+            "price_additional_info": null,
+            "price_with_shipping": "249.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/produktvaljare/laddning/hem/vaggladdare/apple-5w-usb-power-adapter/1014790.15536/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "4972508414733775254",
+            "price": "180.0",
+            "price_additional_info": null,
+            "price_with_shipping": "180.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.power.se/mobil-och-foto/laddare-och-kablar/usb-laddare/apple-5-w-usb-stromadapter/p-1119846/",
+            "shop_name": "Power.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12a02cb9685",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12a02cb9685",
+            "shop_url": "www.power.se",
+            "shop_domain": "power.se",
+            "shop_matching_id": "power.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "4972508414733775254",
+            "price": "206.0",
+            "price_additional_info": null,
+            "price_with_shipping": "246.0",
+            "shipping_costs": "40.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/6613547/apple-5w-usb-power-adapter-str%C3%B6madapter-5-watt-usb-f%C3%B6r-ipad-mini-2-3-4-iphone-11-5-5c-5s-6-6s-7-8-se-xr-xs-xs-max-watch",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "4972508414733775254",
+            "price": "245.0",
+            "price_additional_info": null,
+            "price_with_shipping": "314.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011216674/5w-usb-power-adapter?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "4972508414733775254",
+            "price": "245.99",
+            "price_additional_info": null,
+            "price_with_shipping": "312.98",
+            "shipping_costs": "66.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/apple-5w-usb-power-adapter/137777440/p?utm_source=google_products&utm_medium=merchant&id_producte=11736017&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "4972508414733775254",
+            "price": "249.0",
+            "price_additional_info": null,
+            "price_with_shipping": "249.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Mobile-Adapters-Chargers/Apple-5W-USB-Power-Adapter/2887985?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 12
+          },
+          {
+            "id": null,
+            "product_id": "4972508414733775254",
+            "price": "229.0",
+            "price_additional_info": null,
+            "price_with_shipping": "229.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inet.se/produkt/8304673/apple-5w-usb-stromadapter",
+            "shop_name": "Inet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fad01df70fc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fad01df70fc",
+            "shop_url": "www.inet.se",
+            "shop_domain": "inet.se",
+            "shop_matching_id": "inet.se",
+            "page": 1,
+            "position": 13
+          },
+          {
+            "id": null,
+            "product_id": "4972508414733775254",
+            "price": "229.0",
+            "price_additional_info": null,
+            "price_with_shipping": "229.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/apple-5w-usb-stromadapter-p58655111",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 14
+          },
+          {
+            "id": null,
+            "product_id": "4972508414733775254",
+            "price": "260.1",
+            "price_additional_info": null,
+            "price_with_shipping": "329.1",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.conrad.se/p/-2302215?vat=true&utm_source=google&utm_medium=surfaces&utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_term=2302215",
+            "shop_name": "Conrad.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-243c865299c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-243c865299c",
+            "shop_url": "www.conrad.se",
+            "shop_domain": "conrad.se",
+            "shop_matching_id": "conrad.se",
+            "page": 1,
+            "position": 15
+          },
+          {
+            "id": null,
+            "product_id": "4972508414733775254",
+            "price": "229.0",
+            "price_additional_info": null,
+            "price_with_shipping": "288.0",
+            "shipping_costs": "59.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplettforetag.se/product/1169793/apple/iphone/iphone-tillbehor/laddare/apple-5-w-usb-ladeadapter",
+            "shop_name": "Komplett F\u00f6retag",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9edf77b141d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9edf77b141d",
+            "shop_url": "www.komplettforetag.se",
+            "shop_domain": "komplettforetag.se",
+            "shop_matching_id": "komplettforetag.se",
+            "page": 1,
+            "position": 16
+          },
+          {
+            "id": null,
+            "product_id": "4972508414733775254",
+            "price": "225.0",
+            "price_additional_info": null,
+            "price_with_shipping": "264.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://caseyou.se/laddare/apple-5-w-usb-a-stromadapter",
+            "shop_name": "CaseYou",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b8890aa034b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b8890aa034b",
+            "shop_url": "caseyou.se",
+            "shop_domain": "caseyou.se",
+            "shop_matching_id": "caseyou.se",
+            "page": 1,
+            "position": 17
+          },
+          {
+            "id": null,
+            "product_id": "4972508414733775254",
+            "price": "330.0",
+            "price_additional_info": null,
+            "price_with_shipping": "429.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/394/201428/sort/1/filter/0_0_0_0/5W-USB-Power-Adapter-laddare.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 18
+          },
+          {
+            "id": null,
+            "product_id": "4972508414733775254",
+            "price": "347.0",
+            "price_additional_info": null,
+            "price_with_shipping": "347.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://allphone.se/tillbehoer/5633-vaggladdare-apple-mgn13zm-a-0194252025154.html",
+            "shop_name": "Allphone.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-e696a75172d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e696a75172d",
+            "shop_url": "allphone.se",
+            "shop_domain": "allphone.se",
+            "shop_matching_id": "allphone.se",
+            "page": 1,
+            "position": 19
+          },
+          {
+            "id": null,
+            "product_id": "4972508414733775254",
+            "price": "489.99",
+            "price_additional_info": null,
+            "price_with_shipping": "489.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://shopbetter.se/shop/product/wall-charger-apple-mgn13zm-a_265213?cvt=GMC",
+            "shop_name": "Shopbetter.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4420f3e3978",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4420f3e3978",
+            "shop_url": "shopbetter.se",
+            "shop_domain": "shopbetter.se",
+            "shop_matching_id": "shopbetter.se",
+            "page": 1,
+            "position": 20
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252029527",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:18Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=00194252029527&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.tre.se/handla/mobiltelefoner/apple/iphone-12?articleId=xOBJorvwPzlp5W9NvR-c6w%3D%3D&i=JN2qWa1gfci0qc44REVhAg%3D%3D&pricePlanId=X8Q9djchE5wWbmpOhNOMeg%3D%3D",
+            "name": "Apple iPhone 12 64GB med abonnemang 3Flexibel 5GB",
+            "product_properties": [],
+            "price": "0.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "0.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "tre.se",
+            "shop_id": "priceapi-a173aa3113c",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-a173aa3113c",
+            "shop_url": "www.tre.se",
+            "shop_domain": "tre.se",
+            "shop_matching_id": "tre.se",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "url": "https://www.netonnet.se/art/mobil-smartwatch/mobiltelefoner/iphone/apple-iphone-12-64gb-5g-black/1015051.9044/",
+            "name": "Apple iPhone 12 64GB Black - iPhone 12. Mycket mer \u00e4n mycket snabbare.",
+            "product_properties": [],
+            "price": "8290.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "8290.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "NetOnNet",
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "NetOnNet",
+            "shop_review_count": 5,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "url": "https://www.power.se/mobil-och-foto/mobiltelefoner/apple-iphone-12-64-gb-svart/p-1128173/",
+            "name": "APPLE IPHONE 12 64 GB SVART",
+            "product_properties": [],
+            "price": "8290.0",
+            "shipping_costs": null,
+            "price_with_shipping": null,
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Power.se",
+            "shop_id": "priceapi-12a02cb9685",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-12a02cb9685",
+            "shop_url": "www.power.se",
+            "shop_domain": "power.se",
+            "shop_matching_id": "Power.se",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "url": "https://www.apple.com/se/shop/go/product/MGJ53?cid=aos-se-seo-pla",
+            "name": "Apple iPhone 12 64 GB svart (2020)",
+            "product_properties": [],
+            "price": "8495.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "8495.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Apple",
+            "shop_id": "priceapi-476432a3e85",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-476432a3e85",
+            "shop_url": "www.apple.com",
+            "shop_domain": "apple.com",
+            "shop_matching_id": "Apple",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "url": "https://www.telefonshoppen.se/mobiltelefoner/iphone-12-64gb?att=QmxhY2s=",
+            "name": "iPhone 12 64GB | Black",
+            "product_properties": [],
+            "price": "8745.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "8745.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Telefonshoppen",
+            "shop_id": "priceapi-827b07b45ee",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-827b07b45ee",
+            "shop_url": "www.telefonshoppen.se",
+            "shop_domain": "telefonshoppen.se",
+            "shop_matching_id": "Telefonshoppen",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "url": "https://www.mediamarkt.se/sv/product/_apple-iphone-12-5g-64gb-6-1-smartphone-svart-1329677.html?utm_source=google&utm_medium=seo-product%20feed",
+            "name": "Apple iPhone 12 5G 64Gb - 6.1\" Smartphone - Svart",
+            "product_properties": [],
+            "price": "8490.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "8490.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "MediaMarkt.se",
+            "shop_id": "priceapi-beb4b17be14",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-beb4b17be14",
+            "shop_url": "www.mediamarkt.se",
+            "shop_domain": "mediamarkt.se",
+            "shop_matching_id": "MediaMarkt.se",
+            "shop_review_count": 3,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "url": "https://www.tele2.se/mobilt/mobiler/apple/apple-iphone-12?hardwareId=D-00ZP&pricePlanId=41146&dataLimit=3gb",
+            "name": "Apple iPhone 12 Svart 256 GB Inklusive Abonnemang",
+            "product_properties": [],
+            "price": "499.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "499.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Tele2",
+            "shop_id": "priceapi-261d33065d4",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-261d33065d4",
+            "shop_url": "www.tele2.se",
+            "shop_domain": "tele2.se",
+            "shop_matching_id": "Tele2",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "url": "https://cdon.se/hemelektronik/iphone-12-64gb-p89005943",
+            "name": "iPhone 12 64GB - Mobiltelefoner",
+            "product_properties": [],
+            "price": "7959.0",
+            "shipping_costs": "59.0",
+            "price_with_shipping": "8018.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "cdon.se",
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "url": "https://www.elon.se/apple-mgj53qn-a",
+            "name": "Apple MGJ53",
+            "product_properties": [],
+            "price": "8290.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "8290.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Elon Ljud & Bild",
+            "shop_id": "priceapi-4d16ab19f9e",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-4d16ab19f9e",
+            "shop_url": "www.elon.se",
+            "shop_domain": "elon.se",
+            "shop_matching_id": "Elon Ljud & Bild",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "url": "https://shop.halebop.se/mobiltelefoner/apple/iphone-12-64gb-svart/84804",
+            "name": "iPhone 12 64GB Svart - Abonnemang med bindningstid",
+            "product_properties": [],
+            "price": "329.0",
+            "shipping_costs": null,
+            "price_with_shipping": null,
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Halebop",
+            "shop_id": "priceapi-51db5c2cbf0",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-51db5c2cbf0",
+            "shop_url": "shop.halebop.se",
+            "shop_domain": "halebop.se",
+            "shop_matching_id": "Halebop",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "url": "https://www.telenor.se/handla/mobiler/apple/iphone-12/#p%3Dts%26cty%3D64%26clr%3D%2335323b%26s%3D7282",
+            "name": "Apple iPhone 12 64GB Black",
+            "product_properties": [],
+            "price": "569.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "569.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Telenor",
+            "shop_id": "priceapi-6010a2ae603",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-6010a2ae603",
+            "shop_url": "www.telenor.se",
+            "shop_domain": "telenor.se",
+            "shop_matching_id": "Telenor",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "url": "https://www.hallon.se/mobiler/iphone-12-128gb",
+            "name": "iPhone 12 128GB",
+            "product_properties": [],
+            "price": "450.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "450.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Hallon",
+            "shop_id": "priceapi-02490521683",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-02490521683",
+            "shop_url": "www.hallon.se",
+            "shop_domain": "hallon.se",
+            "shop_matching_id": "Hallon",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 12
+          },
+          {
+            "id": null,
+            "url": "https://electronordic.se/iph1264gbb-2",
+            "name": "iPhone 12 64GB Svart",
+            "product_properties": [],
+            "price": "8289.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "8289.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Electronordic",
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "Electronordic",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 13
+          },
+          {
+            "id": null,
+            "url": "https://www.proshop.se/Mobile/Apple-iPhone-12-5G-64GB-Black/2884441?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "name": "Apple iPhone 12 5G 64GB - Black,Mobile",
+            "product_properties": [],
+            "price": "8790.0",
+            "shipping_costs": null,
+            "price_with_shipping": null,
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Proshop.se",
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "Proshop.se",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 14
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252031223",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:09:23Z"
+      },
+      "content": {
+        "id": "16294553703025538981",
+        "name": "iPhone 12 128GB Svart",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-MATq8HVmLANS0pIDt-6D59wkRyS1qnvvyfsDvTYW3C8JCWGOwMMnoAD6gIpmww8CZlz1GoA&usqp=CAY",
+        "description": "Upplev iPhone 12 och en helt ny design. Tunnare, mindre och l\u00e4ttare i fem olika finishar. Utrustad med en 6,1-tums Super Retina XDR Display levererar den dubbelt s\u00e5 m\u00e5nga pixlar, djupare svart f\u00f6r maximal sk\u00e4rpa och miljoner f\u00e4rger f\u00f6r detaljrikedom. iPhone 12 t\u00e5l skv\u00e4tt, st\u00e4nk och damm \u00e4nnu b\u00e4ttre. Dubbelt kamerasystem med b\u00e5de vidvinkel och ultravidvinkel som nu b\u00e5da har nattl\u00e4ge vilket inneb\u00e4r att du kan ta de mest fantastiska bilderna \u00e4ven i svagt ljus.",
+        "properties": [
+          "Apple",
+          "iPhone",
+          "iPhone 12",
+          "iOS",
+          "Sk\u00e4rmstorlek: 6,1 tum",
+          "Smartphone",
+          "162 gram",
+          "128 GB",
+          "5G",
+          "Dubbla SIM-kort"
+        ],
+        "url": "https://www.google.se/shopping/product/16294553703025538981?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 18,
+        "review_rating": 92,
+        "price": "7999.0",
+        "gtins": [
+          "194252031223"
+        ],
+        "eans": [
+          "0194252031223"
+        ],
+        "brand_name": "Apple",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Smartphone"
+            ]
+          },
+          {
+            "label": "Operativsystem",
+            "value": [
+              "iOS 14"
+            ]
+          },
+          {
+            "label": "Processor",
+            "value": [
+              "Apple A14 Bionic"
+            ]
+          },
+          {
+            "label": "Lagringskapacitet",
+            "value": [
+              "128 GB"
+            ]
+          },
+          {
+            "label": "Plats f\u00f6r extra minneskort",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "RAM-Minne",
+            "value": [
+              "4 GB"
+            ]
+          },
+          {
+            "label": "SIM-kortsformat",
+            "value": [
+              "Nano-SIM (4FF)",
+              "eSim"
+            ]
+          },
+          {
+            "label": "Sk\u00e4rmstorlek (tum)",
+            "value": [
+              "6.1 tum"
+            ]
+          },
+          {
+            "label": "Display",
+            "value": [
+              "6.1\" Super Retina XDR OLED (2532 x 1170)"
+            ]
+          },
+          {
+            "label": "Pixeldensitet",
+            "value": [
+              "460 ppi"
+            ]
+          },
+          {
+            "label": "F\u00e4rgsk\u00e4rm",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Kamera baksida",
+            "value": [
+              "Dualcamera"
+            ]
+          },
+          {
+            "label": "Frontkamera",
+            "value": [
+              "Single Cam"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning frontkamera",
+            "value": [
+              "Kamera med 12 MP | Bl\u00e4ndare \u0192/2",
+              "2"
+            ]
+          },
+          {
+            "label": "Optisk zoom",
+            "value": [
+              "2\u00d7 optisk utzoomning"
+            ]
+          },
+          {
+            "label": "Digital zoom",
+            "value": [
+              "Upp till 5\u00d7 digital zoom"
+            ]
+          },
+          {
+            "label": "Integrerad blixt",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Ansiktsigenk\u00e4nning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Bildstabilisering",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Videoformat",
+            "value": [
+              "HEVC och H.264"
+            ]
+          },
+          {
+            "label": "Videoinspelning",
+            "value": [
+              "HDR-video i 4K med Dolby Vision"
+            ]
+          },
+          {
+            "label": "Geo-taggning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Fingeravtrycksl\u00e4sare",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Bildformat",
+            "value": [
+              "HEIF och JPEG"
+            ]
+          },
+          {
+            "label": "H\u00f6gtalare",
+            "value": [
+              "Stereoh\u00f6gtalare | Inbyggda mikrofoner"
+            ]
+          },
+          {
+            "label": "Integrerad GPS",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Dual SIM",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "NFC",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Mobiluppkoppling",
+            "value": [
+              "5G"
+            ]
+          },
+          {
+            "label": "Bluetooth",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Bluetoothversion",
+            "value": [
+              "5.0"
+            ]
+          },
+          {
+            "label": "Anslutningar",
+            "value": [
+              "Lightning-kontakt"
+            ]
+          },
+          {
+            "label": "IP-klassning",
+            "value": [
+              "IP68"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "7.4 mm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "162 g"
+            ]
+          },
+          {
+            "label": "Snabbladdning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s laddning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Utbytbart batteri",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxHxD)",
+            "value": [
+              "71.5 mm x 146.7 mm x 7.4 mm / 162 g"
+            ]
+          },
+          {
+            "label": "Specialfunktioner",
+            "value": [
+              "Face ID"
+            ]
+          },
+          {
+            "label": "Modell\u00e5r",
+            "value": [
+              "2020"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Apple"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "12 128GB BLACK",
+              "194252031223",
+              "237688",
+              "237808",
+              "51936088",
+              "55470633",
+              "55564450",
+              "55697070",
+              "56035679",
+              "57985607",
+              "72903322",
+              "72903327",
+              "73382389",
+              "IPH12128GBB",
+              "MGJA3",
+              "MGJA3QN/A",
+              "i12M128BKA",
+              "iphone12_128s",
+              "mgjd3qna"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00194252031223"
+            ]
+          }
+        ],
+        "offer_count": 15,
+        "offers_url": "https://www.google.se/shopping/product/16294553703025538981/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "16294553703025538981",
+            "price": "7999.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7999.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://swappie.com/se/iphone/iphone-12/iphone-12-128gb-svart-9/",
+            "shop_name": "Swappie",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-aef17697fab",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-aef17697fab",
+            "shop_url": "swappie.com",
+            "shop_domain": "swappie.com",
+            "shop_matching_id": "swappie.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "16294553703025538981",
+            "price": "399.0",
+            "price_additional_info": null,
+            "price_with_shipping": "399.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://shop.halebop.se/mobiltelefoner/apple/iphone-12-128gb-svart-bw-2021/110429",
+            "shop_name": "Halebop - TextAds",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-6021f348b31",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-6021f348b31",
+            "shop_url": "shop.halebop.se",
+            "shop_domain": "halebop.se",
+            "shop_matching_id": "halebop.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "16294553703025538981",
+            "price": "329.0",
+            "price_additional_info": null,
+            "price_with_shipping": "329.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://shop.halebop.se/mobiltelefoner/apple/iphone-12-128gb-svart-bw-2021/110431",
+            "shop_name": "Halebop",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-51db5c2cbf0",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-51db5c2cbf0",
+            "shop_url": "shop.halebop.se",
+            "shop_domain": "halebop.se",
+            "shop_matching_id": "halebop.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "16294553703025538981",
+            "price": "8990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mediamarkt.se/sv/product/_apple-iphone-12-5g-128gb-6-1-smartphone-svart-1329682.html?utm_source=google&utm_medium=seo-product%20feed",
+            "shop_name": "MediaMarkt.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-beb4b17be14",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-beb4b17be14",
+            "shop_url": "www.mediamarkt.se",
+            "shop_domain": "mediamarkt.se",
+            "shop_matching_id": "mediamarkt.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "16294553703025538981",
+            "price": "9108.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9108.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.apple.com/se/shop/go/product/MGJA3?cid=aos-se-seo-pla",
+            "shop_name": "Apple",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-476432a3e85",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-476432a3e85",
+            "shop_url": "www.apple.com",
+            "shop_domain": "apple.com",
+            "shop_matching_id": "apple.com",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "16294553703025538981",
+            "price": "0.0",
+            "price_additional_info": "+250,00 kr i 36 m\u00e5nader",
+            "price_with_shipping": "9000.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tre.se/handla/mobiltelefoner/apple/iphone-12?articleId=ehobKg6alRjIKug1z2ZJpQ%3D%3D&i=JN2qWa1gfci0qc44REVhAg%3D%3D&pricePlanId=X8Q9djchE5wWbmpOhNOMeg%3D%3D",
+            "shop_name": "tre.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a173aa3113c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a173aa3113c",
+            "shop_url": "www.tre.se",
+            "shop_domain": "tre.se",
+            "shop_matching_id": "tre.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "16294553703025538981",
+            "price": "8990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/mobil-tele-gps/mobiltelefoner/234553/iphone-12-5g-smartphone-128-gb-svart",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "16294553703025538981",
+            "price": "8990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/mobil-smartwatch/mobiltelefoner/iphone/apple-iphone-12-128gb-5g-black/1015056.9044/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "16294553703025538981",
+            "price": "8990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8990.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.power.se/mobil-och-foto/mobiltelefoner/apple-iphone-12-128-gb-svart/p-1128178/",
+            "shop_name": "Power.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12a02cb9685",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12a02cb9685",
+            "shop_url": "www.power.se",
+            "shop_domain": "power.se",
+            "shop_matching_id": "power.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "16294553703025538981",
+            "price": "8990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1172777/mobil-klockor/mobiltelefoner/iphone-12-128gb-svart?channable=0094536964003131373237373761",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "16294553703025538981",
+            "price": "9290.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9369.0",
+            "shipping_costs": "79.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.cyberphoto.se/mobiltelefoni/mobiltelefoner/apple-iphone-12-128gb-svart",
+            "shop_name": "CyberPhoto",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-809bd0cf62b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-809bd0cf62b",
+            "shop_url": "www.cyberphoto.se",
+            "shop_domain": "cyberphoto.se",
+            "shop_matching_id": "cyberphoto.se",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "16294553703025538981",
+            "price": "9495.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9495.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.telefonshoppen.se/mobiltelefoner/iphone-12-128gb?att=QmxhY2s=",
+            "shop_name": "Telefonshoppen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-827b07b45ee",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-827b07b45ee",
+            "shop_url": "www.telefonshoppen.se",
+            "shop_domain": "telefonshoppen.se",
+            "shop_matching_id": "telefonshoppen.se",
+            "page": 1,
+            "position": 12
+          },
+          {
+            "id": null,
+            "product_id": "16294553703025538981",
+            "price": "8979.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9038.0",
+            "shipping_costs": "59.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/iphone-12-128gb-p89005941",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 13
+          },
+          {
+            "id": null,
+            "product_id": "16294553703025538981",
+            "price": "10445.0",
+            "price_additional_info": null,
+            "price_with_shipping": "10445.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://allphone.se/mobiler/7378-iphone-12-128gb-0194252031223.html",
+            "shop_name": "Allphone.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-e696a75172d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e696a75172d",
+            "shop_url": "allphone.se",
+            "shop_domain": "allphone.se",
+            "shop_matching_id": "allphone.se",
+            "page": 1,
+            "position": 14
+          },
+          {
+            "id": null,
+            "product_id": "16294553703025538981",
+            "price": "8990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.minmobil.nu/produkt/iphone-12-18gb-svart/?utm_source=Google%20Shopping&utm_campaign=Google%20shopping&utm_medium=cpc&utm_term=737479",
+            "shop_name": "minmobil.nu",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3cef82ec473",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3cef82ec473",
+            "shop_url": "www.minmobil.nu",
+            "shop_domain": "minmobil.nu",
+            "shop_matching_id": "minmobil.nu",
+            "page": 1,
+            "position": 15
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252058558",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:18Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252059012",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:17Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252091678",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:17Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252092095",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:17Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252122433",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:17Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252122877",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:17Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252124192",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:17Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252124635",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:17Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252125076",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:18Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242478",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:17Z"
+      },
+      "content": null,
+      "reason": "not found"
+    }
+  ]
+}

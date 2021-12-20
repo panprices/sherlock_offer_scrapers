@@ -1,0 +1,2561 @@
+{
+  "job_id": "61c0644c8cc82c00242984d9",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 20,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00190198806024",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00190198806567",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00190198806833",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:02Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00190199568914",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:09:06Z"
+      },
+      "content": {
+        "id": "13829834590516957072",
+        "name": "Apple Smart - Tangentbord Och Foliefodral - Apple Smart Connector - Qwerty - Norsk - F\u00f6r 12.9-Inch Ipad Pro (3:E Generationen, 4:E Generation, 5:E GE",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR9ZB2i5Hnqc_dd2pXbw9sAGmyPV2N3r6zMhI3g1ou4QQdP_w0QA9KNlZbWX8nZsHT8KfolV3zL&usqp=CAY",
+        "description": "Smart Keyboard Folio till 12,9-tums iPad Pro \u00e4r ett tangentbord i full storlek med bekv\u00e4m visningsvinkel n\u00e4r du beh\u00f6ver skriva. Annars \u00e4r det ett snyggt skydd f\u00f6r fram- och baksidan. Ingen laddning eller parkoppling kr\u00e4vs \u2013 det \u00e4r bara att ansluta tangentbordet och b\u00f6rja skriva. - MXNL2H/A",
+        "properties": [
+          "Apple",
+          "Hoppf\u00e4llbar/rullbar",
+          "QWERTY",
+          "iOS",
+          "Surfplatta",
+          "Tangentbords\u00f6verdrag"
+        ],
+        "url": "https://www.google.se/shopping/product/13829834590516957072?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 0,
+        "review_rating": null,
+        "price": "2349.0",
+        "gtins": [
+          "190199568914"
+        ],
+        "eans": [
+          "0190199568914"
+        ],
+        "brand_name": "Apple",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Gr\u00e4nssnitt",
+            "value": [
+              "Apple Smart connector"
+            ]
+          },
+          {
+            "label": "Inmatningsenhet",
+            "value": [
+              "Tangentbord"
+            ]
+          },
+          {
+            "label": "Anslutningsteknik",
+            "value": [
+              "Kabelansluten"
+            ]
+          },
+          {
+            "label": "Lokalisering och layout",
+            "value": [
+              "QWERTY norsk"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Apple"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "MXNL2H/A"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00190199568914"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.se/shopping/product/13829834590516957072/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "13829834590516957072",
+            "price": "2349.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2349.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.apple.com/se/shop/go/product/MXNL2?cid=aos-se-seo-pla",
+            "shop_name": "Apple",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-476432a3e85",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-476432a3e85",
+            "shop_url": "www.apple.com",
+            "shop_domain": "apple.com",
+            "shop_matching_id": "apple.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "13829834590516957072",
+            "price": "2673.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2673.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/6154170/apple-smart-tangentbord-och-foliefodral-apple-smart-connector-qwerty-norsk-f%C3%B6r-12-9-inch-ipad-pro-3-e-generationen-4-e",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00190199569966",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00190199607651",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00190199608085",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00190199608511",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00190199789685",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 2,
+        "updated_at": "2021-12-20T11:09:03Z"
+      },
+      "content": {
+        "id": "5271669701748287650",
+        "name": "Apple iPad Air 10,9\" (2020) 64GB 4G Himmelsbl\u00e5",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTbohaYlkpuA2Y94OwxCtJj4gNQ1IPnJhwWTfaOgnELCTUVmpvPpMF1Dcd8AqwK3HQB6nI7up0&usqp=CAY",
+        "description": "Kraftfull och kompetent surfplatta f\u00f6r den som letar efter \u201ddet lilla extra\u201d. Tack vare A14 Bionic-chippet presterar iPad Air 4 p\u00e5 toppniv\u00e5 i allt fr\u00e5n kr\u00e4vande spel och appar till videoredigering i 4K. Med st\u00f6d f\u00f6r Apple Pencil (andra generationen), Smart Keyboard och Folio Magic Keyboard (ing\u00e5r inte, s\u00e4ljs separat) blir iPad Air 4 en riktig arbetsh\u00e4st \u2013 om du nu skulle vilja det! F\u00f6r dig som hellre \u00e4gnar dig och underh\u00e5llning erbjuder stereoh\u00f6gtalarna ett rikt och fylligt ljud vid film- eller serie-maraton. Liquid Retina-sk\u00e4rmen p\u00e5 10,9\u2019\u2019 \u00e4r helt\u00e4ckande och kanterna runtom smala. Sk\u00e4rmen \u00e4r dessutom antireflexbehandlad f\u00f6r att minska ner p\u00e5 o\u00f6nskade skuggbilder. Touch ID \u00e4r integrerat i ramen och tar inte l\u00e4ngre plats p\u00e5 framsidan som med andra iPad-modeller som ocks\u00e5 anv\u00e4nder uppl\u00e5sning med fingret. Med st\u00f6d f\u00f6r b\u00e5de 3G, 4G och WiFi \u00e4r du alltid uppkopplad och eftersom iPad Air 4 bara v\u00e4ger 460 gram \u00e4r den l\u00e4tt att ta med!",
+        "properties": [
+          "Apple",
+          "iPad",
+          "iPad Air",
+          "iPad Air (Original)",
+          "10,9 tum",
+          "460 g",
+          "Lagring: 64 GB",
+          "4G",
+          "Himmelsbl\u00e5"
+        ],
+        "url": "https://www.google.se/shopping/product/5271669701748287650?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 14751,
+        "review_rating": 96,
+        "price": "8490.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "10.9 tum",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Sk\u00e4rmstorlek (tum)",
+            "value": [
+              "10.9 tum"
+            ]
+          },
+          {
+            "label": "Sk\u00e4rmuppl\u00f6sning",
+            "value": [
+              "2360 \u00d7 1640"
+            ]
+          },
+          {
+            "label": "Ljusstyrka",
+            "value": [
+              "500 cd/m\u00b2"
+            ]
+          },
+          {
+            "label": "Bildstandard",
+            "value": [
+              "Retina"
+            ]
+          },
+          {
+            "label": "Typ av panel",
+            "value": [
+              "IPS (In-Plane Switching)"
+            ]
+          },
+          {
+            "label": "Sk\u00e4rmtyp",
+            "value": [
+              "Liquid Retina"
+            ]
+          },
+          {
+            "label": "Kontrast",
+            "value": [
+              "Uppgift saknas"
+            ]
+          },
+          {
+            "label": "RAM-Minne",
+            "value": [
+              "4 GB"
+            ]
+          },
+          {
+            "label": "Processor",
+            "value": [
+              "Apple A14 Bionic"
+            ]
+          },
+          {
+            "label": "Lagringsutrymme",
+            "value": [
+              "64 GB"
+            ]
+          },
+          {
+            "label": "Mobiluppkoppling",
+            "value": [
+              "4G (LTE)"
+            ]
+          },
+          {
+            "label": "Operativsystem",
+            "value": [
+              "iPadOS"
+            ]
+          },
+          {
+            "label": "Kortl\u00e4sare",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "SIM-kortsformat",
+            "value": [
+              "Nano-SIM (4FF)",
+              "eSim"
+            ]
+          },
+          {
+            "label": "SIM-kortsplats",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Fingeravtrycksl\u00e4sare",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Medf\u00f6ljande penna",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning frontkamera",
+            "value": [
+              "7 MP FaceTime HD-kamera"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning kamera",
+            "value": [
+              "12 megapixel"
+            ]
+          },
+          {
+            "label": "Blixt",
+            "value": [
+              "Uppgift saknas"
+            ]
+          },
+          {
+            "label": "Batteritid",
+            "value": [
+              "Upp till 10 timmar"
+            ]
+          },
+          {
+            "label": "Batterityp",
+            "value": [
+              "Litiumpolymer"
+            ]
+          },
+          {
+            "label": "Batterikapacitet",
+            "value": [
+              "28.6 Wh"
+            ]
+          },
+          {
+            "label": "Laddningstid",
+            "value": [
+              "Uppgift saknas"
+            ]
+          },
+          {
+            "label": "Standby-tid",
+            "value": [
+              "Uppgift saknas"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxHxD)",
+            "value": [
+              "178.5 mm x 6.1 mm x 247.6 mm / 460 g"
+            ]
+          },
+          {
+            "label": "Konfiguration",
+            "value": [
+              "iPad Air 2020"
+            ]
+          },
+          {
+            "label": "H\u00f6lje",
+            "value": [
+              "Aluminium"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "247.6 mm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "460 g"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Surfplatta"
+            ]
+          }
+        ],
+        "offer_count": 6,
+        "offers_url": "https://www.google.se/shopping/product/5271669701748287650/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "5271669701748287650",
+            "price": "8490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/datorer-tillbehor/ipad-surfplatta/218154/ipad-air-2020-64-gb-lte-sky-blue",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "5271669701748287650",
+            "price": "8490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mediamarkt.se/sv/product/_apple-ipad-air-10-9-2020-wifi-cellular-64gb-surfplatta-himmelsbl%C3%A5-1327952.html?utm_source=google&utm_medium=seo-product%20feed",
+            "shop_name": "MediaMarkt.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-beb4b17be14",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-beb4b17be14",
+            "shop_url": "www.mediamarkt.se",
+            "shop_domain": "mediamarkt.se",
+            "shop_matching_id": "mediamarkt.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "5271669701748287650",
+            "price": "8490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8490.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.kjell.com/se/produkter/mobilt/surfplattor/ipad/apple-ipad-air-2020-109-4g-64-gb-sky-blue-p20395",
+            "shop_name": "Kjell & Company",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4bc09bb32d0",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4bc09bb32d0",
+            "shop_url": "www.kjell.com",
+            "shop_domain": "kjell.com",
+            "shop_matching_id": "kjell.com",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "5271669701748287650",
+            "price": "8282.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8282.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011197876/ipad-air-4th-gen-2020-wifi-cellular?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "5271669701748287650",
+            "price": "8490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/dator-surfplatta/surfplattor/apple-ipadair-wi-fi-cellular-10-9-64gb-sky-blue/1014565.8899/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "5271669701748287650",
+            "price": "8575.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8575.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.apple.com/se/shop/go/product/MYH02?cid=aos-se-seo-pla",
+            "shop_name": "Apple",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-476432a3e85",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-476432a3e85",
+            "shop_url": "www.apple.com",
+            "shop_domain": "apple.com",
+            "shop_matching_id": "apple.com",
+            "page": 1,
+            "position": 6
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00190199807891",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00190199836563",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:09:04Z"
+      },
+      "content": {
+        "id": "9422617634675313991",
+        "name": "Apple Watch Series 6 40mm 4G grafit/svart",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSeUarZt8tUP0q8wTTr0J-yup42XT534tlrhQ-qpoO8g7zspuluZ79RbIJVxoUSsiVb1oXxaiHl&usqp=CAY",
+        "description": "Med Apple Watch Series 6 kan du m\u00e4ta syrem\u00e4ttnaden i blodet med en ny, revolutionerande sensor och app.1 Ta ett EKG fr\u00e5n handleden.2 Se dina fitnessdata p\u00e5 Retina-sk\u00e4rmen som alltid \u00e4r p\u00e5 och som nu \u00e4r 2,5 g\u00e5nger ljusare utomhus n\u00e4r du har handleden s\u00e4nkt. Skaffa regelbundna sovvanor och h\u00e5ll koll p\u00e5 hur du sover. Med mobil uppkoppling kan du dessutom g\u00f6ra allt det h\u00e4r utan telefonen.3 Det \u00e4r helt enkelt den perfekta enheten f\u00f6r ett h\u00e4lsosammare, aktivare och mer uppkopplat liv. Fitness Logga din aktivitet och dina tr\u00e4ningspass mer exakt \u00e4n n\u00e5gonsin tidigare. I vattnet, p\u00e5 gymmet och p\u00e5 v\u00e4garna. Se dina m\u00e4tv\u00e4rden p\u00e5 Retina-sk\u00e4rmen som alltid \u00e4r p\u00e5, utan att lyfta handleden. N\u00e5 nya h\u00f6jder, djup och distanser med gps, h\u00f6jdskillnad i realtid och inbyggd kompass. Fyll aktivitetsringarna varje dag f\u00f6r ett h\u00e4lsosammare liv. Och h\u00e5ll motivationen uppe genom att synka musik, poddar och ljudb\u00f6cker till klockan. S\u00f6mn Att f\u00e5 r\u00e4tt antal timmars s\u00f6mn \u00e4r viktigt f\u00f6r h\u00e4lsan. Med den nya appen S\u00f6mn kan du skaffa regelbundna sovvanor och h\u00e5lla koll p\u00e5 hur du sover natt efter natt. Du kan st\u00e4lla in dina personliga s\u00f6mnm\u00e5l och f\u00e5 hj\u00e4lp att uppn\u00e5 dem. Uppkoppling Ring till kontoret eller skicka en emoji till barnen.1 Streama musik, poddar och ljudb\u00f6cker.2 F\u00e5 f\u00e4rdbeskrivningar med en knackning p\u00e5 handleden n\u00e4r det \u00e4r dags att sv\u00e4nga. Och tillkalla hj\u00e4lp snabbt med N\u00f6dsamtal SOS3 och internationella n\u00f6dsamtal.4 Allt direkt fr\u00e5n klockan. H\u00e4lsa Kolla syrem\u00e4ttnaden i blodet.1 Ta ett EKG direkt fr\u00e5n handleden med EKG-appen.2 F\u00e5 varningar vid l\u00e5g och h\u00f6g puls samt regelbunden hj\u00e4rtrytm.2 Skydda din h\u00f6rsel med hj\u00e4lp av appen Buller. Och f\u00f6lj enkelt din menscykel. Apple Watch Series 6 har ocks\u00e5 suver\u00e4na s\u00e4kerhetsfunktioner, till exempel falldetektering och N\u00f6dsamtal SOS.3 Juridisk information Apple Watch Series 6 kr\u00e4ver en iPhone 6s eller senare med iOS 14 eller senare. 1 M\u00e4tv\u00e4rden i appen Syreniv\u00e5 i blodet \u00e4r inte avsedda f\u00f6r medicinskt bruk, vare sig vid sj\u00e4lvdiagnos eller i samr\u00e5d med l\u00e4kare. De \u00e4r endast avsedda f\u00f6r tr\u00e4ning och allm\u00e4nt v\u00e4lbefinnande. 2 EKG-appen och varningen om oregelbunden hj&",
+        "properties": null,
+        "url": "https://www.google.se/shopping/product/9422617634675313991?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 179,
+        "review_rating": 94,
+        "price": "8196.0",
+        "gtins": [
+          "190199836563"
+        ],
+        "eans": [
+          "0190199836563"
+        ],
+        "brand_name": "Apple",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "Integrerade komponenter",
+            "value": [
+              "Hj\u00e4rtfrekvenssensor"
+            ]
+          },
+          {
+            "label": "V\u00e4rdenhets-OS som st\u00f6ds",
+            "value": [
+              "iOS 14 eller senare"
+            ]
+          },
+          {
+            "label": "Navigering",
+            "value": [
+              "GPS/GNSS-mottagare"
+            ]
+          },
+          {
+            "label": "Ljudutg\u00e5ng",
+            "value": [
+              "H\u00f6gtalare"
+            ]
+          },
+          {
+            "label": "Operativsystem",
+            "value": [
+              "WatchOS 7"
+            ]
+          },
+          {
+            "label": "B\u00e4rstil",
+            "value": [
+              "Klockstil"
+            ]
+          },
+          {
+            "label": "\u00c5terkopplingstyp",
+            "value": [
+              "Ljudsignal",
+              "vibrationsvarning",
+              "visuellt gr\u00e4nssnitt"
+            ]
+          },
+          {
+            "label": "Urtavla",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Satta m\u00e5l",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Teknik",
+            "value": [
+              "WCDMA (UMTS)"
+            ]
+          },
+          {
+            "label": "Generationen mobilt bredband",
+            "value": [
+              "4G"
+            ]
+          },
+          {
+            "label": "Serviceleverant\u00f6r",
+            "value": [
+              "Inte specificerad"
+            ]
+          },
+          {
+            "label": "SIM-korttyp",
+            "value": [
+              "Elektroniskt SIM-kort (e-SIM)"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning",
+            "value": [
+              "324 x 394 pixlar"
+            ]
+          },
+          {
+            "label": "Fodralets form",
+            "value": [
+              "Rektangul\u00e4r"
+            ]
+          },
+          {
+            "label": "F\u00f6rpackningsstorlek",
+            "value": [
+              "40 mm"
+            ]
+          },
+          {
+            "label": "Krontyp",
+            "value": [
+              "Digital och haptisk feedback"
+            ]
+          },
+          {
+            "label": "Fodralets baksida",
+            "value": [
+              "Safirkristall och keramisk bakre infattning"
+            ]
+          },
+          {
+            "label": "Information om boetten",
+            "value": [
+              "Grafit rostfritt st\u00e5l"
+            ]
+          },
+          {
+            "label": "Namn",
+            "value": [
+              "Sportband"
+            ]
+          },
+          {
+            "label": "Passar handled med omkrets",
+            "value": [
+              "130-200 mm"
+            ]
+          },
+          {
+            "label": "L\u00e5styp",
+            "value": [
+              "Sp\u00e4nne"
+            ]
+          },
+          {
+            "label": "Kompatibel med Internet of Things (IoT)",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Intelligent assistent",
+            "value": [
+              "Siri"
+            ]
+          },
+          {
+            "label": "R\u00f6stkontrollerad",
+            "value": [
+              "Direkt"
+            ]
+          },
+          {
+            "label": "F\u00f6rinstallerad programvara",
+            "value": [
+              "Apple Pay",
+              "GymKit"
+            ]
+          },
+          {
+            "label": "Vibrerande alarm",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "SAR-v\u00e4rde",
+            "value": [
+              "0",
+              "29 W/kg (huvud)",
+              "0",
+              "31 W/kg (lem)"
+            ]
+          },
+          {
+            "label": "Inkluderade tillbeh\u00f6r",
+            "value": [
+              "Magnetisk laddningskabel"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Apple"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "M06X3DH/A",
+              "m06x3dha"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00190199836563"
+            ]
+          }
+        ],
+        "offer_count": 3,
+        "offers_url": "https://www.google.se/shopping/product/9422617634675313991/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "9422617634675313991",
+            "price": "8196.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8196.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Pulsmaetare-Stegraeknare/Apple-Watch-Series-6-GPS-Cellular-40mm-Graphite-Stainless-Steel-Case-with-Black-Sport-Band/2879623?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "9422617634675313991",
+            "price": "7690.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7749.0",
+            "shipping_costs": "59.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplettforetag.se/product/1169744/apple/watch/watch/apple-watch-series-6-40mm-4g-grafitsvart",
+            "shop_name": "Komplett F\u00f6retag",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9edf77b141d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9edf77b141d",
+            "shop_url": "www.komplettforetag.se",
+            "shop_domain": "komplettforetag.se",
+            "shop_matching_id": "komplettforetag.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "9422617634675313991",
+            "price": "10881.0",
+            "price_additional_info": null,
+            "price_with_shipping": "10930.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/apple-watch-series-6-40mm/cat-p/c0/p1001438419",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00190199837553",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00190199840522",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:09:06Z"
+      },
+      "content": {
+        "id": "11315892715795547444",
+        "name": "Apple Watch Series 6 44mm 4G silver/silver",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ1hmykgqkMd19hRcTqoI_rs8TOZC6QPrr9-dvLcT5ANoM3mONMZ4MdSBE_bB4hi61Cfx41VfY&usqp=CAY",
+        "description": "Med Apple Watch Series 6 kan du m\u00e4ta syrem\u00e4ttnaden i blodet med en ny, revolutionerande sensor och app.1 Ta ett EKG fr\u00e5n handleden.2 Se dina fitnessdata p\u00e5 Retina-sk\u00e4rmen som alltid \u00e4r p\u00e5 och som nu \u00e4r 2,5 g\u00e5nger ljusare utomhus n\u00e4r du har handleden s\u00e4nkt. Skaffa regelbundna sovvanor och h\u00e5ll koll p\u00e5 hur du sover. Med mobil uppkoppling kan du dessutom g\u00f6ra allt det h\u00e4r utan telefonen.3 Det \u00e4r helt enkelt den perfekta enheten f\u00f6r ett h\u00e4lsosammare, aktivare och mer uppkopplat liv. Fitness Logga din aktivitet och dina tr\u00e4ningspass mer exakt \u00e4n n\u00e5gonsin tidigare. I vattnet, p\u00e5 gymmet och p\u00e5 v\u00e4garna. Se dina m\u00e4tv\u00e4rden p\u00e5 Retina-sk\u00e4rmen som alltid \u00e4r p\u00e5, utan att lyfta handleden. N\u00e5 nya h\u00f6jder, djup och distanser med gps, h\u00f6jdskillnad i realtid och inbyggd kompass. Fyll aktivitetsringarna varje dag f\u00f6r ett h\u00e4lsosammare liv. Och h\u00e5ll motivationen uppe genom att synka musik, poddar och ljudb\u00f6cker till klockan. S\u00f6mn Att f\u00e5 r\u00e4tt antal timmars s\u00f6mn \u00e4r viktigt f\u00f6r h\u00e4lsan. Med den nya appen S\u00f6mn kan du skaffa regelbundna sovvanor och h\u00e5lla koll p\u00e5 hur du sover natt efter natt. Du kan st\u00e4lla in dina personliga s\u00f6mnm\u00e5l och f\u00e5 hj\u00e4lp att uppn\u00e5 dem. Uppkoppling Ring till kontoret eller skicka en emoji till barnen.1 Streama musik, poddar och ljudb\u00f6cker.2 F\u00e5 f\u00e4rdbeskrivningar med en knackning p\u00e5 handleden n\u00e4r det \u00e4r dags att sv\u00e4nga. Och tillkalla hj\u00e4lp snabbt med N\u00f6dsamtal SOS3 och internationella n\u00f6dsamtal.4 Allt direkt fr\u00e5n klockan. H\u00e4lsa Kolla syrem\u00e4ttnaden i blodet.1 Ta ett EKG direkt fr\u00e5n handleden med EKG-appen.2 F\u00e5 varningar vid l\u00e5g och h\u00f6g puls samt regelbunden hj\u00e4rtrytm.2 Skydda din h\u00f6rsel med hj\u00e4lp av appen Buller. Och f\u00f6lj enkelt din menscykel. Apple Watch Series 6 har ocks\u00e5 suver\u00e4na s\u00e4kerhetsfunktioner, till exempel falldetektering och N\u00f6dsamtal SOS.3 Juridisk information Apple Watch Series 6 kr\u00e4ver en iPhone 6s eller senare med iOS 14 eller senare. 1 M\u00e4tv\u00e4rden i appen Syreniv\u00e5 i blodet \u00e4r inte avsedda f\u00f6r medicinskt bruk, vare sig vid sj\u00e4lvdiagnos eller i samr\u00e5d med l\u00e4kare. De \u00e4r endast avsedda f\u00f6r tr\u00e4ning och allm\u00e4nt v\u00e4lbefinnande. 2 EKG-appen och varningen om oregelbunden hj\u00e4",
+        "properties": null,
+        "url": "https://www.google.se/shopping/product/11315892715795547444?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 30015,
+        "review_rating": 96,
+        "price": "7990.0",
+        "gtins": [
+          "190199840522"
+        ],
+        "eans": [
+          "0190199840522"
+        ],
+        "brand_name": "Apple",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "Integrerade komponenter",
+            "value": [
+              "Hj\u00e4rtfrekvenssensor"
+            ]
+          },
+          {
+            "label": "V\u00e4rdenhets-OS som st\u00f6ds",
+            "value": [
+              "iOS 14 eller senare"
+            ]
+          },
+          {
+            "label": "Navigering",
+            "value": [
+              "GPS/GNSS-mottagare"
+            ]
+          },
+          {
+            "label": "Ljudutg\u00e5ng",
+            "value": [
+              "H\u00f6gtalare"
+            ]
+          },
+          {
+            "label": "Operativsystem",
+            "value": [
+              "WatchOS 7"
+            ]
+          },
+          {
+            "label": "B\u00e4rstil",
+            "value": [
+              "Klockstil"
+            ]
+          },
+          {
+            "label": "\u00c5terkopplingstyp",
+            "value": [
+              "Ljudsignal",
+              "vibrationsvarning",
+              "visuellt gr\u00e4nssnitt"
+            ]
+          },
+          {
+            "label": "Urtavla",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Satta m\u00e5l",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Teknik",
+            "value": [
+              "WCDMA (UMTS)"
+            ]
+          },
+          {
+            "label": "Generationen mobilt bredband",
+            "value": [
+              "4G"
+            ]
+          },
+          {
+            "label": "Serviceleverant\u00f6r",
+            "value": [
+              "Inte specificerad"
+            ]
+          },
+          {
+            "label": "SIM-korttyp",
+            "value": [
+              "Elektroniskt SIM-kort (e-SIM)"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning",
+            "value": [
+              "368 x 448 pixlar"
+            ]
+          },
+          {
+            "label": "Fodralets form",
+            "value": [
+              "Rektangul\u00e4r"
+            ]
+          },
+          {
+            "label": "F\u00f6rpackningsstorlek",
+            "value": [
+              "44 mm"
+            ]
+          },
+          {
+            "label": "Krontyp",
+            "value": [
+              "Digital och haptisk feedback"
+            ]
+          },
+          {
+            "label": "Fodralets baksida",
+            "value": [
+              "Safirkristall och keramisk bakre infattning"
+            ]
+          },
+          {
+            "label": "Information om boetten",
+            "value": [
+              "Rostfritt st\u00e5l i silver"
+            ]
+          },
+          {
+            "label": "Namn",
+            "value": [
+              "Milanesisk loop"
+            ]
+          },
+          {
+            "label": "Passar handled med omkrets",
+            "value": [
+              "150-200 mm"
+            ]
+          },
+          {
+            "label": "L\u00e5styp",
+            "value": [
+              "Magnetisk st\u00e4ngning"
+            ]
+          },
+          {
+            "label": "Kompatibel med Internet of Things (IoT)",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Intelligent assistent",
+            "value": [
+              "Siri"
+            ]
+          },
+          {
+            "label": "R\u00f6stkontrollerad",
+            "value": [
+              "Direkt"
+            ]
+          },
+          {
+            "label": "F\u00f6rinstallerad programvara",
+            "value": [
+              "Apple Pay",
+              "GymKit"
+            ]
+          },
+          {
+            "label": "Vibrerande alarm",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "SAR-v\u00e4rde",
+            "value": [
+              "0",
+              "97 W/kg (huvud)",
+              "0",
+              "3 W/kg (lem)"
+            ]
+          },
+          {
+            "label": "Inkluderade tillbeh\u00f6r",
+            "value": [
+              "Magnetisk laddningskabel"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Apple"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "M09E3DH/A",
+              "m09e3dha"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00190199840522"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.se/shopping/product/11315892715795547444/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "11315892715795547444",
+            "price": "7990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1169768/mobil-klockor/smartwatches/apple-watch-series-6-44mm-4g-silversilver?channable=0094536964003131363937363852",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "11315892715795547444",
+            "price": "11342.0",
+            "price_additional_info": null,
+            "price_with_shipping": "11391.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/apple-watch-series-6-44mm/cat-p/c0/p1001438508",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00193015507128",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:09:05Z"
+      },
+      "content": {
+        "id": "8974526640459527093",
+        "name": "HP Color Laser 150nw",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTAveRh7C6kjeJYZ5v8Jaaw3T5PJiqAx6AEcWorX0dNWJ0aZEalZXEAUuhNaAGEvJeLsvT6Mv-j&usqp=CAY",
+        "description": "HP Color Laser MFP 150nw \u00e4r en kompakt f\u00e4rglaserskrivare som ger dig en utm\u00e4rkt utskriftsprestanda. Med en utskriftshastighet p\u00e5 upp till 18 sidor per minut f\u00e5r du en v\u00e4ldigt effektiv laserskrivare som passar b\u00e5de i hemmet och p\u00e5 arbetsplatsen. Via HP Smart-appen kan du enkelt skriva ut material fr\u00e5n olika telefoner och surfplattor, b\u00e5de via ditt tr\u00e5dl\u00f6sa n\u00e4tverk och Ethernet. H\u00f6g kvalitet sida efter sida F\u00e4rglaserskrivaren HP Color Laser 150nw \u00e4r en produktiv men kompakt laserskrivare som ger dig ett f\u00e4rgresultat med h\u00f6g kvalitet. Du f\u00e5r en tydlig text med fyllig sv\u00e4rta och skarp f\u00e4rggrafik och kan skriva ut upp till 18 sidor per minut i svartvitt. Denna skrivare fr\u00e5n HP \u00e4r perfekt f\u00f6r dig som vill ha en prisv\u00e4rd produkt som kombinerar h\u00f6g kvalitet med effektivitet. Skriv ut via din telefon Mobila utskrifter g\u00f6rs mycket smidigt via HP Smart app. Skriv ut med minimala \u00e5tg\u00e4rder fr\u00e5n ett brett spektrum av mobila enheter \u2013 smartphones, plattor och b\u00e4rbara datorer. Du kan \u00e4ven enkelt och smidigt best\u00e4lla dina toner direkt via appen. K\u00e4nn dig trygg med anslutningen tack vare stabil prestanda fr\u00e5n Wi-Fi med dual band. Eller s\u00e5 kan du skriva ut direkt fr\u00e5n den mobila enheten tack vare Wi-Fi Direct utan \u00e5tkomst till n\u00e4tverket.",
+        "properties": [
+          "HP",
+          "HP LaserJet",
+          "Allt-i-ett",
+          "Laser",
+          "F\u00e4rg",
+          "Tr\u00e5dl\u00f6s",
+          "Med scanner",
+          "Wi-fi",
+          "USB",
+          "Gr\u00e5"
+        ],
+        "url": "https://www.google.se/shopping/product/8974526640459527093?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 306,
+        "review_rating": 80,
+        "price": "2190.0",
+        "gtins": [
+          "193015507128"
+        ],
+        "eans": [
+          "0193015507128"
+        ],
+        "brand_name": "HP",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Anslutningstyp",
+            "value": [
+              "USB + WiFi + LAN (n\u00e4tverk)"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "HP"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "0193015507128",
+              "150nw",
+              "193015507128",
+              "230969",
+              "2M34EQ0/4ZB95A-B19",
+              "48280720",
+              "4ZB95A",
+              "4ZB95A#B19",
+              "4ZB95AB19",
+              "4zb95ab19",
+              "50054536",
+              "52115621",
+              "86715283",
+              "88",
+              "994728901",
+              "S0225913",
+              "S5602571",
+              "shopify_SE_6537384591538_39253460680882"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00193015507128"
+            ]
+          }
+        ],
+        "offer_count": 9,
+        "offers_url": "https://www.google.se/shopping/product/8974526640459527093/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "8974526640459527093",
+            "price": "2190.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2190.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mediamarkt.se/sv/product/_hp-color-laser-150nw-printer-1319790.html?utm_source=google&utm_medium=seo-product%20feed",
+            "shop_name": "MediaMarkt.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-beb4b17be14",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-beb4b17be14",
+            "shop_url": "www.mediamarkt.se",
+            "shop_domain": "mediamarkt.se",
+            "shop_matching_id": "mediamarkt.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "8974526640459527093",
+            "price": "2349.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2349.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/dator-surfplatta/skrivare-scanner/laserskrivare/hp-color-laser-150nw/1008988.8937/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "8974526640459527093",
+            "price": "2027.49",
+            "price_additional_info": null,
+            "price_with_shipping": "2246.48",
+            "shipping_costs": "218.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/hp-laserskrivare-laser-150nw/137351250/p?utm_source=google_products&utm_medium=merchant&id_producte=9657889&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "8974526640459527093",
+            "price": "2356.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2425.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011141847/color-laser-150nw-a4?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "8974526640459527093",
+            "price": "2686.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2735.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/hp-cl-150nw-up-to/cat-p/c/p1000290348",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "8974526640459527093",
+            "price": "2528.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2586.0",
+            "shipping_costs": "58.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.verbit.se/product/hp-color-laser-150nw",
+            "shop_name": "Verbit",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-1627933b0f5",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-1627933b0f5",
+            "shop_url": "www.verbit.se",
+            "shop_domain": "verbit.se",
+            "shop_matching_id": "verbit.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "8974526640459527093",
+            "price": "2904.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2904.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/5608096/hp-color-laser-150nw-skrivare-f%C3%A4rg-laser-a4-legal-600-x-600-dpi-4-sidor-minut-f%C3%A4rg-upp-till-18-sidor-minut-kapacitet-150-ark",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "8974526640459527093",
+            "price": "2903.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2903.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.teknikproffset.se/datorer-kringutrustning/skrivare-tillbehor/skrivare/laser/hp-color-laser-150nw",
+            "shop_name": "Teknikproffset.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b1c12f7fe91",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b1c12f7fe91",
+            "shop_url": "www.teknikproffset.se",
+            "shop_domain": "teknikproffset.se",
+            "shop_matching_id": "teknikproffset.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "8974526640459527093",
+            "price": "2999.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3098.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/hp-color-laser-150nw-p52115621",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 9
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00193424172801",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:02Z"
+      },
+      "content": {
+        "id": "14689320348295241086",
+        "name": "Hp W2070A / 117A svart toner - Original",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRZEdTFpVy8J-dwL6siVA94o2ktrWFgyH9JKpv78LLbk04UFopQlmHNvIUlsqDu7VgJjl7rQko&usqp=CAY",
+        "description": "HP Lasertoners definieras av kvalitet, tillf\u00f6rlitlighet och \u00e4r utformade med milj\u00f6n i \u00e5tanke. HP Toners HP Lasertoners definieras av kvalitet, tillf\u00f6rlitlighet och \u00e4r utformade med milj\u00f6n i \u00e5tanke. Var s\u00e4ker p\u00e5 att du f\u00e5r b\u00e4sta m\u00f6jliga resultat genom att anv\u00e4nda HPs originalf\u00f6rbrukning ger dig b\u00e4sta m\u00f6jliga kvalitet p\u00e5 dina utskrifter och vad vore kvalitet utan tillf\u00f6rlitlighet?",
+        "properties": [
+          "Flerpack",
+          "Laser",
+          "Med flera f\u00e4rger"
+        ],
+        "url": "https://www.google.se/shopping/product/14689320348295241086?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 513,
+        "review_rating": 92,
+        "price": "375.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "1000",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Sidor",
+            "value": [
+              "1000"
+            ]
+          }
+        ],
+        "offer_count": 20,
+        "offers_url": "https://www.google.se/shopping/product/14689320348295241086/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "14689320348295241086",
+            "price": "375.0",
+            "price_additional_info": null,
+            "price_with_shipping": "414.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inky.se/inkysepla?PS=W2070A",
+            "shop_name": "Inky",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f01ff2ed855",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f01ff2ed855",
+            "shop_url": "www.inky.se",
+            "shop_domain": "inky.se",
+            "shop_matching_id": "inky.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "14689320348295241086",
+            "price": "428.75",
+            "price_additional_info": null,
+            "price_with_shipping": "513.75",
+            "shipping_costs": "85.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.kontorsgiganten.se/toner-hp-w2070a-117a-svart-p-25?from=gpla",
+            "shop_name": "Kontorsgiganten",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-96fb01f6fd7",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-96fb01f6fd7",
+            "shop_url": "www.kontorsgiganten.se",
+            "shop_domain": "kontorsgiganten.se",
+            "shop_matching_id": "kontorsgiganten.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "14689320348295241086",
+            "price": "437.0",
+            "price_additional_info": null,
+            "price_with_shipping": "477.0",
+            "shipping_costs": "40.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/5649660/hp-117a-svart-original-tonerkassett-w2070a-f%C3%B6r-color-laser-150a-150nw-mfp-178nw-mfp-178nwg-mfp-179fnw-mfp-179fwg",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "14689320348295241086",
+            "price": "395.0",
+            "price_additional_info": null,
+            "price_with_shipping": "395.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Skrivartillbehoer-blaeck-toner/HP-117A-W2070A-Black-Toner-Tonerkassett-Svart/2859540?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "14689320348295241086",
+            "price": "447.99",
+            "price_additional_info": null,
+            "price_with_shipping": "548.48",
+            "shipping_costs": "100.49",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/hp-117a-toner/137456957/p?utm_source=google_products&utm_medium=merchant&id_producte=10248002&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "14689320348295241086",
+            "price": "478.0",
+            "price_additional_info": null,
+            "price_with_shipping": "527.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/hp-117a-black-original-laser/cat-p/c0/p1000309084",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "14689320348295241086",
+            "price": "385.0",
+            "price_additional_info": null,
+            "price_with_shipping": "420.0",
+            "shipping_costs": "35.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.123ink.se/HP-117A-W2070A-svart-toner-original-i51659-t605044.html",
+            "shop_name": "123Ink.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-781a7e6e4ae",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-781a7e6e4ae",
+            "shop_url": "www.123ink.se",
+            "shop_domain": "123ink.se",
+            "shop_matching_id": "123ink.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "14689320348295241086",
+            "price": "460.0",
+            "price_additional_info": null,
+            "price_with_shipping": "525.0",
+            "shipping_costs": "65.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.wesellcd.com/affiliate/redirect.php?ID=gglshse&page=products&product_id=34031",
+            "shop_name": "Wesellcd.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9f63d52d8d1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9f63d52d8d1",
+            "shop_url": "www.wesellcd.com",
+            "shop_domain": "wesellcd.com",
+            "shop_matching_id": "wesellcd.com",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "14689320348295241086",
+            "price": "493.75",
+            "price_additional_info": null,
+            "price_with_shipping": "552.95",
+            "shipping_costs": "59.2",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.papperskungen.se/tonerhpw2070a117a1ksvart-p-78169.html",
+            "shop_name": "Papperskungen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-40e655aeac2",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-40e655aeac2",
+            "shop_url": "www.papperskungen.se",
+            "shop_domain": "papperskungen.se",
+            "shop_matching_id": "papperskungen.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "14689320348295241086",
+            "price": "504.0",
+            "price_additional_info": null,
+            "price_with_shipping": "504.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.stadshop.se/p/kontorsmaterial/-toner-och-black/-toner/toner-hp-w2070a-117a-svart.html?vc=GoogleShopping",
+            "shop_name": "St\u00e4dshop",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d4308a3a25b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d4308a3a25b",
+            "shop_url": "www.stadshop.se",
+            "shop_domain": "stadshop.se",
+            "shop_matching_id": "stadshop.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "14689320348295241086",
+            "price": "649.0",
+            "price_additional_info": null,
+            "price_with_shipping": "649.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mediamarkt.se/sv/product/_hp-clj-117a-black-laserjet-toner-1k-1321359.html?utm_source=google&utm_medium=seo-product%20feed",
+            "shop_name": "MediaMarkt.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-beb4b17be14",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-beb4b17be14",
+            "shop_url": "www.mediamarkt.se",
+            "shop_domain": "mediamarkt.se",
+            "shop_matching_id": "mediamarkt.se",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "14689320348295241086",
+            "price": "599.0",
+            "price_additional_info": null,
+            "price_with_shipping": "599.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/dator-surfplatta/skrivare-scanner/blackpatroner-och-lasertoner/lasertoner/hp-clj-117a-black/1011899.15303/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 12
+          },
+          {
+            "id": null,
+            "product_id": "14689320348295241086",
+            "price": "699.0",
+            "price_additional_info": null,
+            "price_with_shipping": "699.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/datorer-tillbehor/skrivare-och-tillbehor/blackpatroner-och-toner/48549/hp-117a-lasertoner-svart",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 13
+          },
+          {
+            "id": null,
+            "product_id": "14689320348295241086",
+            "price": "530.0",
+            "price_additional_info": null,
+            "price_with_shipping": "629.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/1141/86761/sort/1/filter/0_0_0_0/No.-117A-Black-W2070A-tonerkassett-f%C3%B6r-laserskrivare.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 14
+          },
+          {
+            "id": null,
+            "product_id": "14689320348295241086",
+            "price": "495.0",
+            "price_additional_info": null,
+            "price_with_shipping": "564.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.pensandpapers.se/toner-hp-w2070a-117a-svart/",
+            "shop_name": "Pens & Papers",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-afd91a1f085",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-afd91a1f085",
+            "shop_url": "www.pensandpapers.se",
+            "shop_domain": "pensandpapers.se",
+            "shop_matching_id": "pensandpapers.se",
+            "page": 1,
+            "position": 15
+          },
+          {
+            "id": null,
+            "product_id": "14689320348295241086",
+            "price": "599.0",
+            "price_additional_info": null,
+            "price_with_shipping": "599.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.hp.com/se-sv/shop/product.aspx?id=W2070A&opt=&sel=SUP&lang=sv-SE&jumpID=ps_6jytiqsmpx/sf:_sku:W2070A",
+            "shop_name": "HP Store",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-6ce1c1e22cb",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-6ce1c1e22cb",
+            "shop_url": "www.hp.com",
+            "shop_domain": "hp.com",
+            "shop_matching_id": "hp.com",
+            "page": 1,
+            "position": 16
+          },
+          {
+            "id": null,
+            "product_id": "14689320348295241086",
+            "price": "645.0",
+            "price_additional_info": null,
+            "price_with_shipping": "694.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inkclub.com/gosesvpla?PS=W2070A",
+            "shop_name": "inkClub",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f3e5aaa55de",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f3e5aaa55de",
+            "shop_url": "www.inkclub.com",
+            "shop_domain": "inkclub.com",
+            "shop_matching_id": "inkclub.com",
+            "page": 1,
+            "position": 17
+          },
+          {
+            "id": null,
+            "product_id": "14689320348295241086",
+            "price": "599.0",
+            "price_additional_info": null,
+            "price_with_shipping": "648.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.patroner.se/lengow_pla_pat_se?PS=W2070A",
+            "shop_name": "Patroner.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-16f955ffacc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-16f955ffacc",
+            "shop_url": "www.patroner.se",
+            "shop_domain": "patroner.se",
+            "shop_matching_id": "patroner.se",
+            "page": 1,
+            "position": 18
+          },
+          {
+            "id": null,
+            "product_id": "14689320348295241086",
+            "price": "648.75",
+            "price_additional_info": null,
+            "price_with_shipping": "648.75",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.officedepot.se/produkter/teknik-2130/black-toner-3700/toner-trummor-3089/toner-hp-117a-w2070a-svart-1k-p2248011",
+            "shop_name": "Office Depot",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f7dfe4fbd5e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f7dfe4fbd5e",
+            "shop_url": "www.officedepot.se",
+            "shop_domain": "officedepot.se",
+            "shop_matching_id": "officedepot.se",
+            "page": 1,
+            "position": 19
+          },
+          {
+            "id": null,
+            "product_id": "14689320348295241086",
+            "price": "625.0",
+            "price_additional_info": null,
+            "price_with_shipping": "674.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.nordicink.se/lengow_pla_ni_se?PS=W2070A",
+            "shop_name": "Nordicink",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-acef71173b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-acef71173b3",
+            "shop_url": "www.nordicink.se",
+            "shop_domain": "nordicink.se",
+            "shop_matching_id": "nordicink.se",
+            "page": 1,
+            "position": 20
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252038628",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:02Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=00194252038628&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.computersalg.se/i/7446940/apple-iphone-12-pro-5g-smartphone-dual-sim-128-gb-oled-sk%C3%A4rm-6-1-2532-x-1170-pixlar-3-st-bakre-kameror-12-mp-12-mp-12-mp",
+            "name": "Apple Iphone 12 Pro - 5G Smartphone - Dual-Sim - 128 Gb - Oled-Sk\u00e4rm - 6.1\" - 2532 X 1170 Pixlar - 3 St. Bakre Kameror 12 Mp, 12 Mp, 12 Mp - Front Ca",
+            "product_properties": [],
+            "price": "12923.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "12923.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "ComputerSalg.se",
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "ComputerSalg.se",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "url": "https://swappie.com/se/iphone/iphone-12-pro/iphone-12-pro-128gb-stillahavsbla-7/",
+            "name": "Apple iPhone 12 Pro 128GB Stillahavsbl\u00e5 Apple",
+            "product_properties": [],
+            "price": "7899.0",
+            "shipping_costs": null,
+            "price_with_shipping": null,
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Swappie",
+            "shop_id": "priceapi-aef17697fab",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-aef17697fab",
+            "shop_url": "swappie.com",
+            "shop_domain": "swappie.com",
+            "shop_matching_id": "Swappie",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "url": "https://cdon.se/hemelektronik/iphone-12-pro-128gb-p79154080",
+            "name": "iPhone 12 Pro 128GB - Mobiltelefoner",
+            "product_properties": [],
+            "price": "10787.0",
+            "shipping_costs": "59.0",
+            "price_with_shipping": "10846.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "cdon.se",
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "url": "https://www.tele2.se/mobilt/mobiler/apple/apple-iphone-12-pro?hardwareId=D-013A&pricePlanId=38536&dataLimit=3gb",
+            "name": "Apple iPhone 12 Pro Bl\u00e5 256 GB Inklusive Abonnemang",
+            "product_properties": [],
+            "price": "599.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "599.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Tele2",
+            "shop_id": "priceapi-261d33065d4",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-261d33065d4",
+            "shop_url": "www.tele2.se",
+            "shop_domain": "tele2.se",
+            "shop_matching_id": "Tele2",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "url": "https://fyndiq.se/produkt/begagnad-samsung-s21-128gb-svart-grade-b-cd609616dea14c74/",
+            "name": "Begagnad Samsung S21 128GB Svart Grade B",
+            "product_properties": [],
+            "price": "6799.0",
+            "shipping_costs": "19.0",
+            "price_with_shipping": "6818.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Fyndiq.se",
+            "shop_id": "priceapi-7acd4b25fca",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-7acd4b25fca",
+            "shop_url": "fyndiq.se",
+            "shop_domain": "fyndiq.se",
+            "shop_matching_id": "Fyndiq.se",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "url": "https://www.telefonshoppen.se/mobiltelefoner/iphone-12-pro-128gb?att=Qmx1ZQ==",
+            "name": "iPhone 12 Pro 128GB | Blue",
+            "product_properties": [],
+            "price": "12285.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "12285.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Telefonshoppen",
+            "shop_id": "priceapi-827b07b45ee",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-827b07b45ee",
+            "shop_url": "www.telefonshoppen.se",
+            "shop_domain": "telefonshoppen.se",
+            "shop_matching_id": "Telefonshoppen",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "url": "https://shop.halebop.se/mobiltelefoner/apple/iphone-12-pro-128gb-stillahavsbla-nyskick/100150",
+            "name": "Begagnad iPhone 12 Pro 128GB Stillahavsbl\u00e5 - Abonnemang med bindningstid",
+            "product_properties": [],
+            "price": "386.0",
+            "shipping_costs": null,
+            "price_with_shipping": null,
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Halebop",
+            "shop_id": "priceapi-51db5c2cbf0",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-51db5c2cbf0",
+            "shop_url": "shop.halebop.se",
+            "shop_domain": "halebop.se",
+            "shop_matching_id": "Halebop",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 7
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252056097",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:02Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252056554",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252057322",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:02Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252057780",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:02Z"
+      },
+      "content": null,
+      "reason": "not found"
+    }
+  ]
+}

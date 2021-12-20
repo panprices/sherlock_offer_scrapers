@@ -1,0 +1,2385 @@
+{
+  "job_id": "61c0648de3f8590023b96574",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 20,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252716885",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:13Z"
+      },
+      "content": {
+        "id": "7240683056487832368",
+        "name": "iPhone 13 PRO 256GB - Silver",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTrHmiVd1fAgK4KPdVdY90YCmb5G0Ej8gXssWpEOgM9B9WWBW6hnYeuJWOBTY4&usqp=CAY",
+        "description": "Observera att laddare medf\u00f6ljer ej i kartongen, endast kabel. iPhone 13 Pro. Den st\u00f6rsta uppgraderingen n\u00e5gonsin av proffskamerasystemet. Super Retina XDRsk\u00e4rmen med ProMotion \u00e4r snabbare och \u00e4nnu mer responsiv. Blixtsnabbt A15 Bionic-chip. Supersnabbt 5G.",
+        "properties": [
+          "Apple",
+          "iPhone",
+          "iPhone 13",
+          "iPhone 13 Pro",
+          "iOS",
+          "Smartphone",
+          "256 GB",
+          "5G",
+          "Vattent\u00e5lig",
+          "2436 x 1125"
+        ],
+        "url": "https://www.google.se/shopping/product/7240683056487832368?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 2447,
+        "review_rating": 92,
+        "price": "509.0",
+        "gtins": [
+          "194252716885"
+        ],
+        "eans": [
+          "0194252716885"
+        ],
+        "brand_name": "Apple",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Smartphone"
+            ]
+          },
+          {
+            "label": "Operativsystem",
+            "value": [
+              "iOS 15"
+            ]
+          },
+          {
+            "label": "Lagringskapacitet",
+            "value": [
+              "256 GB"
+            ]
+          },
+          {
+            "label": "SIM-kortsformat",
+            "value": [
+              "eSim",
+              "Nano-SIM (4FF)"
+            ]
+          },
+          {
+            "label": "Sk\u00e4rmstorlek (cm)",
+            "value": [
+              "15.4 cm"
+            ]
+          },
+          {
+            "label": "Sk\u00e4rmstorlek (tum)",
+            "value": [
+              "6.1 tum"
+            ]
+          },
+          {
+            "label": "Kamera baksida",
+            "value": [
+              "Triple Cam"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning kamera",
+            "value": [
+              "12 megapixel"
+            ]
+          },
+          {
+            "label": "Frontkamera",
+            "value": [
+              "Single Cam"
+            ]
+          },
+          {
+            "label": "Ansiktsigenk\u00e4nning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Bildstabilisering",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Videouppl\u00f6sning",
+            "value": [
+              "1080p med 30 bilder/s"
+            ]
+          },
+          {
+            "label": "Bildformat",
+            "value": [
+              "HEIF och JPEG"
+            ]
+          },
+          {
+            "label": "Integrerad GPS",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Dual SIM",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "NFC",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Mobiluppkoppling",
+            "value": [
+              "5G"
+            ]
+          },
+          {
+            "label": "Bluetooth",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Bluetoothversion",
+            "value": [
+              "5.0"
+            ]
+          },
+          {
+            "label": "Anslutningar",
+            "value": [
+              "Lightning-kontakt"
+            ]
+          },
+          {
+            "label": "WiFi",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Fuktt\u00e5lig",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "7.65 mm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "203 g"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s laddning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxHxD)",
+            "value": [
+              "71.5 mm x 146.7 mm x 7.65 mm / -"
+            ]
+          },
+          {
+            "label": "Modell\u00e5r",
+            "value": [
+              "2021"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Apple"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "13 PRO 256GB SILVER",
+              "241510",
+              "82765479",
+              "MLVF3",
+              "MLVF3QN/A"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00194252716885"
+            ]
+          }
+        ],
+        "offer_count": 9,
+        "offers_url": "https://www.google.se/shopping/product/7240683056487832368/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "7240683056487832368",
+            "price": "13590.0",
+            "price_additional_info": null,
+            "price_with_shipping": "13590.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/mobil-tele-gps/mobiltelefoner/361927/iphone-13-pro-5g-smartphone-256gb-silver",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "7240683056487832368",
+            "price": "13590.0",
+            "price_additional_info": null,
+            "price_with_shipping": "13590.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/mobil-smartwatch/mobiltelefoner/iphone/apple-iphone-13-pro-256gb-silver/1020728.9044/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "7240683056487832368",
+            "price": "695.0",
+            "price_additional_info": null,
+            "price_with_shipping": "695.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.comviq.se/mobiler/apple-iphone-13-pro?variant=184476",
+            "shop_name": "Comviq",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-343c8225c4d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-343c8225c4d",
+            "shop_url": "www.comviq.se",
+            "shop_domain": "comviq.se",
+            "shop_matching_id": "comviq.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "7240683056487832368",
+            "price": "13595.0",
+            "price_additional_info": null,
+            "price_with_shipping": "13595.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.apple.com/se/shop/go/product/MLVF3?cid=aos-se-seo-pla",
+            "shop_name": "Apple",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-476432a3e85",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-476432a3e85",
+            "shop_url": "www.apple.com",
+            "shop_domain": "apple.com",
+            "shop_matching_id": "apple.com",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "7240683056487832368",
+            "price": "0.0",
+            "price_additional_info": "+370,00 kr i 36 m\u00e5nader",
+            "price_with_shipping": "13320.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tre.se/handla/mobiltelefoner/apple/iphone-13-pro?articleId=QqBzv2j7pUtyxaaSpj8geQ%3D%3D&i=JN2qWa1gfci0qc44REVhAg%3D%3D&pricePlanId=X8Q9djchE5wWbmpOhNOMeg%3D%3D",
+            "shop_name": "tre.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a173aa3113c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a173aa3113c",
+            "shop_url": "www.tre.se",
+            "shop_domain": "tre.se",
+            "shop_matching_id": "tre.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "7240683056487832368",
+            "price": "13595.0",
+            "price_additional_info": null,
+            "price_with_shipping": "13595.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011255977/iphone-13-pro?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "7240683056487832368",
+            "price": "14795.0",
+            "price_additional_info": null,
+            "price_with_shipping": "14795.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.telefonshoppen.se/mobiltelefoner/iphone-13-pro-256gb?att=U2lsdmVy",
+            "shop_name": "Telefonshoppen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-827b07b45ee",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-827b07b45ee",
+            "shop_url": "www.telefonshoppen.se",
+            "shop_domain": "telefonshoppen.se",
+            "shop_matching_id": "telefonshoppen.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "7240683056487832368",
+            "price": "14795.0",
+            "price_additional_info": null,
+            "price_with_shipping": "14795.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/iphone-13-pro-256gb-p-82765479",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "7240683056487832368",
+            "price": "16275.0",
+            "price_additional_info": null,
+            "price_with_shipping": "16275.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://allphone.se/mobiler/4615-iphone-13-pro-256gb-0194252716885.html",
+            "shop_name": "Allphone.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-e696a75172d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e696a75172d",
+            "shop_url": "allphone.se",
+            "shop_domain": "allphone.se",
+            "shop_matching_id": "allphone.se",
+            "page": 1,
+            "position": 9
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194552263270",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:09Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=00194552263270&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.datagrottan.se/lenovo-thinkpad-l13-yoga-133/cat-p/c36159/p1001026773",
+            "name": "Lenovo ThinkPad L13 Yoga - 13.3\" - Core i5 10210U - 16 GB RAM - 512 GB SSD - nordisk",
+            "product_properties": [],
+            "price": "13530.0",
+            "shipping_costs": "49.0",
+            "price_with_shipping": "13579.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Datagrottan",
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "Datagrottan",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194778590792",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:10Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194778938600",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:09Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194850490156",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:10:14Z"
+      },
+      "content": {
+        "id": "14035504868481145174",
+        "name": "HP Probook 450 G7 Core I7 16gb 512gb Ssd 15.6",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ-0HLdxlupMPMqg1r_6XV0f8lG88YBOA4SR3yv4q21BX6DBpz2S7qezKewq0zo14cs9jef6Wf-&usqp=CAY",
+        "description": "Den p\u00e5litliga HP ProBook 450 \u00e4r fullst\u00e4ndig, tunn och l\u00e4tt och erbjuder viktiga kommersiella funktioner till ett \u00f6verkomligt pris f\u00f6r alla f\u00f6retag. Automatiska s\u00e4kerhetsl\u00f6sningar, kraftfull prestanda och l\u00e5ng batteritid hj\u00e4lper till att h\u00e5lla f\u00f6retaget produktivt.",
+        "properties": [
+          "HP",
+          "HP ProBook",
+          "HP ProBook 400 Series",
+          "HP ProBook 450"
+        ],
+        "url": "https://www.google.se/shopping/product/14035504868481145174?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 129,
+        "review_rating": 92,
+        "price": "13802.0",
+        "gtins": [
+          "194850490156"
+        ],
+        "eans": [
+          "0194850490156"
+        ],
+        "brand_name": "HP",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "HP"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "51512596",
+              "8VU64EA#UUW",
+              "8vu64eauuw",
+              "DYN_BUNDLE_0005907_8VU64EA_UUW",
+              "DYN_BUNDLE_0005908_8VU64EA_UUW"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00194850490156"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/14035504868481145174/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "14035504868481145174",
+            "price": "13802.0",
+            "price_additional_info": null,
+            "price_with_shipping": "13851.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/hp-pb450g7-i7-10510u-156-fhd/cat-p/c/p1000652674",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195042880298",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:09Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195042880304",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:09Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195042995107",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:09Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195161475429",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:10:14Z"
+      },
+      "content": {
+        "id": "13904733098464259876",
+        "name": "Hp Prodesk 400 G7 Tower Core I5 8gb 256gb Ssd",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSXIkiwYhGSvALc2iYm2qgHHKA2EMMPYJWlNqS2ZjVRg4a8pEgvhHeoJUAtao4zgUJTEgBNqby6cQ&usqp=CAY",
+        "description": "Den eleganta och p\u00e5litliga HP ProDesk 400 Microtower \u00e4r designad f\u00f6r att passa den moderna arbetsplatsen och \u00e4r utrustad med de b\u00e4sta s\u00e4kerhetsfunktionerna och prestandan som \u00e4ven \u00e4r skalbara att v\u00e4xa med f\u00f6retaget.",
+        "properties": [
+          "HP",
+          "HP ProDesk",
+          "Windows",
+          "Torn",
+          "Processorhastighet: 3,1 GHz",
+          "Installerat minne: 8 GB",
+          "Lagringskapacitet: 256 GB",
+          "Intel-CPU"
+        ],
+        "url": "https://www.google.se/shopping/product/13904733098464259876?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 1,
+        "review_rating": 100,
+        "price": "8199.0",
+        "gtins": [
+          "195161475429"
+        ],
+        "eans": [
+          "0195161475429"
+        ],
+        "brand_name": "HP",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Formfaktor f\u00f6r produkt",
+            "value": [
+              "Microtower"
+            ]
+          },
+          {
+            "label": "Inbyggda enheter",
+            "value": [
+              "H\u00f6gtalare"
+            ]
+          },
+          {
+            "label": "Embedded Security",
+            "value": [
+              "Trusted Platform Module (TPM 2.0) Security Chip"
+            ]
+          },
+          {
+            "label": "Max. turbohastighet",
+            "value": [
+              "4.5 GHz"
+            ]
+          },
+          {
+            "label": "Antal k\u00e4rnor",
+            "value": [
+              "Med 6 k\u00e4rnor"
+            ]
+          },
+          {
+            "label": "Antal CPU",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Max. CPU-antal",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "CPU-uppgraderbarhet",
+            "value": [
+              "Uppgraderingsbar"
+            ]
+          },
+          {
+            "label": "Huvudfunktioner f\u00f6r processor",
+            "value": [
+              "Intel Turbo Boost Technology 2"
+            ]
+          },
+          {
+            "label": "Kretstyp",
+            "value": [
+              "Intel Q470"
+            ]
+          },
+          {
+            "label": "Videogr\u00e4nssnitt",
+            "value": [
+              "HDMI",
+              "DisplayPort"
+            ]
+          },
+          {
+            "label": "HDCP-kompatibel",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Max antal bildsk\u00e4rmar som st\u00f6ds",
+            "value": [
+              "3"
+            ]
+          },
+          {
+            "label": "Ljudutg\u00e5ngsl\u00e4ge",
+            "value": [
+              "Stereo"
+            ]
+          },
+          {
+            "label": "Max. samplingsfrekvens",
+            "value": [
+              "192 kHz"
+            ]
+          },
+          {
+            "label": "Ethernet-styrenhet",
+            "value": [
+              "Intel I219-LM"
+            ]
+          },
+          {
+            "label": "Datal\u00e4nkprotokoll",
+            "value": [
+              "Ethernet",
+              "Fast Ethernet",
+              "Gigabit Ethernet"
+            ]
+          },
+          {
+            "label": "Protokoll f\u00f6r administration p\u00e5 distans",
+            "value": [
+              "SNMP 2"
+            ]
+          },
+          {
+            "label": "Typ av enhet",
+            "value": [
+              "N\u00e4taggregat"
+            ]
+          },
+          {
+            "label": "N\u00e4tsp\u00e4nning",
+            "value": [
+              "AC 120/230 V (50/60 Hz)"
+            ]
+          },
+          {
+            "label": "Effekt",
+            "value": [
+              "180 Watt"
+            ]
+          },
+          {
+            "label": "Effektfaktorkorrigering",
+            "value": [
+              "Ja (aktiv)"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "33.7 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "5 kg"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "HP"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "293U8EA#UUW",
+              "293u8eauuw"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00195161475429"
+            ]
+          }
+        ],
+        "offer_count": 5,
+        "offers_url": "https://www.google.se/shopping/product/13904733098464259876/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "13904733098464259876",
+            "price": "8199.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8199.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.hp.com/se-sv/shop/product.aspx?id=293U8EA&opt=UUW&sel=DTP&lang=sv-SE",
+            "shop_name": "HP Store",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-6ce1c1e22cb",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-6ce1c1e22cb",
+            "shop_url": "www.hp.com",
+            "shop_domain": "hp.com",
+            "shop_matching_id": "hp.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "13904733098464259876",
+            "price": "8679.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8679.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/6658889/hp-prodesk-400-g7-microtower-core-i5-10500-3-1-ghz-ram-8-gb-ssd-256-gb-nvme-dvd-writer-uhd-graphics-630-gige-win-10-pro-64",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "13904733098464259876",
+            "price": "8190.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8190.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011225425/prodesk-400-g7-tower?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "13904733098464259876",
+            "price": "9151.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9151.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Stationaer/HP-ProDesk-400-G7-Intel-Core-i5-10500-8-GB-RAM/2909919?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "13904733098464259876",
+            "price": "9299.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9348.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/hp-prodesk-400g7-mt-i5-10500/cat-p/c/p1001440267",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 5
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195161565922",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:09Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195348355964",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:10:14Z"
+      },
+      "content": {
+        "id": "10993448396908875779",
+        "name": "Lenovo IdeaCentre G5",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRvjDz9nDAtBnKmNoo0l9VN_kKAlToC2i-74vdBSXNNUfAThSSa3T0vtUpetfkv2XFxLkgMLwnp&usqp=CAY",
+        "description": "Dominera p\u00e5 spelplanen Denna utm\u00e4rkta tower-dator \u00e4r specialkonstruerad f\u00f6r alla som gillar spel och e-sport. IdeaCentre Gaming 5 \u00e4r utrustad med AMD Ryzen 5 3600 processor, separat GPU med NVIDIA GTX 1650 Super och 8 GB DDR4-minne och snabba lagringsalternativ i ett kompakt chassi. IdeaCentre Gaming 5 bjuder p\u00e5 kraftfull prestanda f\u00f6r total speldominans. Kraftfull termisk prestanda IdeaCentre Gaming 5 har imponerande specifikationer och optimal kylning f\u00f6r maximal prestanda med upp till en 80 W CPU-kylare och mer \u00e4n 170 W grafisk prestanda. Denna stridsh\u00e4st har dessutom ett extra fl\u00e4ktsystem framtill f\u00f6r f\u00f6rb\u00e4ttrad temperaturkontroll och l\u00e4gre fl\u00e4ktljud n\u00e4r det hettar till i spelet. Q Control 3.0 ger tillg\u00e5ng till flera temperaturprofiler och \u00f6verklockad prestanda. OBS! Mus och tangentbord medf\u00f6ljer ej.",
+        "properties": [
+          "Windows",
+          "AMD-CPU"
+        ],
+        "url": "https://www.google.se/shopping/product/10993448396908875779?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 2,
+        "review_rating": 80,
+        "price": "8418.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "32 MB L3-cache f\u00f6r extrem prestanda",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Cacheminne",
+            "value": [
+              "32 MB L3-cache f\u00f6r extrem prestanda"
+            ]
+          }
+        ],
+        "offer_count": 3,
+        "offers_url": "https://www.google.se/shopping/product/10993448396908875779/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10993448396908875779",
+            "price": "8418.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8467.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/lenovo-ideacentre-g5-geforce-gtx/cat-p/c36161/p1001564694",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "10993448396908875779",
+            "price": "8787.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8787.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7183405/lenovo-ideacentre-g5-14amr05-90q1-tower-ryzen-5-3600-3-6-ghz-ram-8-gb-ssd-512-gb-nvme-gf-gtx-1650-super-gige-wlan-802-11a-b-g",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "10993448396908875779",
+            "price": "9039.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9039.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/lenovo-ideacentre-g5-14amr05-90q1-tower-3600-512gb-windows-10-home-64-bit-999660790-dc",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195348388955",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:08Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195348389525",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:09Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195697603181",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:09Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=00195697603181&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.hp.com/se-sv/shop/product.aspx?id=250F5EA&opt=UUW&sel=NTB&lang=sv-SE",
+            "name": "Hp Probook 650 G8 Core I5 8gb 256gb Ssd 15.6\"",
+            "product_properties": [],
+            "price": "11999.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "11999.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "HP Store",
+            "shop_id": "priceapi-6ce1c1e22cb",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-6ce1c1e22cb",
+            "shop_url": "www.hp.com",
+            "shop_domain": "hp.com",
+            "shop_matching_id": "HP Store",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00730143309837",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:09Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=00730143309837&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.datagrottan.se/amd-ryzen-5-3400g-processor/cat-p/c36124/p1000342501",
+            "name": "Amd Ryzen 5 - 3400g",
+            "product_properties": [],
+            "price": "1830.0",
+            "shipping_costs": "49.0",
+            "price_with_shipping": "1879.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Datagrottan",
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "Datagrottan",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00730143309851",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:09Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=00730143309851&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.datagrottan.se/amd-ryzen-3-3200g-processor/cat-p/c/p1000342500",
+            "name": "AMD Ryzen 3 3200G",
+            "product_properties": [],
+            "price": "1130.0",
+            "shipping_costs": "49.0",
+            "price_with_shipping": "1179.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Datagrottan",
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "Datagrottan",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00730143312202",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:10Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00730143312646",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:09Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=00730143312646&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.datagrottan.se/amd-ryzen-5-3600xt-processor/cat-p/c0/p1001199746",
+            "name": "AMD Ryzen 5 6 3600XT 100-100000281BOX",
+            "product_properties": [],
+            "price": "3064.0",
+            "shipping_costs": "49.0",
+            "price_with_shipping": "3113.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Datagrottan",
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "Datagrottan",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00843591076814",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:14Z"
+      },
+      "content": {
+        "id": "12043481917570872270",
+        "name": "Corsair Obsidian 1000D",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTmJtCB3YeBWxFJuLW8ArJ5h4_cAqW-wR_OFIx50QyQpR0U-R8&usqp=CAY",
+        "description": "Super-tower med plats f\u00f6r dubbla system Super-tower chassi med plats f\u00f6r ett E-ATX-system j\u00e4msides ett mITX-system. I fronten finns 8st 120mm-fl\u00e4ktplatser som rymmer tv\u00e5 480mm radiatorer med 120mm-fl\u00e4ktar i push-n-pull. I toppen finns 3st 140mm-fl\u00e4ktplatser som rymmer en 420mm radiator, samt p\u00e5 baksidan 2st 120/140mm fl\u00e4ktplatser som rymmer en 240mm-radiator.",
+        "properties": [
+          "CORSAIR",
+          "Chassi",
+          "Station\u00e4r",
+          "F\u00f6r spel"
+        ],
+        "url": "https://www.google.se/shopping/product/12043481917570872270?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 2016,
+        "review_rating": 90,
+        "price": "6536.0",
+        "gtins": [
+          "843591076814"
+        ],
+        "eans": [
+          "0843591076814"
+        ],
+        "brand_name": "CORSAIR",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Formfaktor",
+            "value": [
+              "E-ATX",
+              "SSI-EEB"
+            ]
+          },
+          {
+            "label": "Moderkortsst\u00f6d",
+            "value": [
+              "ATX",
+              "mATX",
+              "Mini-ITX",
+              "E-ATX",
+              "SSI-EEB"
+            ]
+          },
+          {
+            "label": "Ljudd\u00e4mpad",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "LED-belysning",
+            "value": [
+              "Ja",
+              "(RGB-belyst IO)"
+            ]
+          },
+          {
+            "label": "Fl\u00e4ktkontroller",
+            "value": [
+              "Ja",
+              "(Corsair Commander PRO)"
+            ]
+          },
+          {
+            "label": "Expansionsplatser",
+            "value": [
+              "8 st"
+            ]
+          },
+          {
+            "label": "Expansionsplatser vertikalt",
+            "value": [
+              "2 st"
+            ]
+          },
+          {
+            "label": "Max h\u00f6jd CPU-kylare",
+            "value": [
+              "180 mm"
+            ]
+          },
+          {
+            "label": "Max l\u00e4ngd PSU",
+            "value": [
+              "225 mm",
+              "(125mm f\u00f6r SFX-L)"
+            ]
+          },
+          {
+            "label": "Formfaktor PSU",
+            "value": [
+              "SFX",
+              "ATX PS2",
+              "SFX-L"
+            ]
+          },
+          {
+            "label": "Max l\u00e4ngd grafikkort (standardutf\u00f6rande)",
+            "value": [
+              "400 mm"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "693 mm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "29.5 kg"
+            ]
+          },
+          {
+            "label": "Paketbredd",
+            "value": [
+              "50.5 cm"
+            ]
+          },
+          {
+            "label": "Paketh\u00f6jd",
+            "value": [
+              "80 cm"
+            ]
+          },
+          {
+            "label": "Paketl\u00e4ngd",
+            "value": [
+              "80 cm"
+            ]
+          },
+          {
+            "label": "Paketvikt",
+            "value": [
+              "37.5 kg"
+            ]
+          },
+          {
+            "label": "Upplagd",
+            "value": [
+              "2018-05-14 15:30"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "CORSAIR"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "0843591076814",
+              "44230363",
+              "44498936",
+              "843591076814",
+              "CC-9011148-WW",
+              "GECS-089",
+              "cc9011148ww"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00843591076814"
+            ]
+          }
+        ],
+        "offer_count": 6,
+        "offers_url": "https://www.google.se/shopping/product/12043481917570872270/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "12043481917570872270",
+            "price": "5945.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5945.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/975675/datorutrustning/datorkomponenter/chassibarebone/big-tower/corsair-obsidian-1000d-super-tower-case?channable=009453696400393735363735f3",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "12043481917570872270",
+            "price": "5490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5490.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Chassi/Corsair-Obsidian-1000D-Chassi-Full-tower-Svart/2681035?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "12043481917570872270",
+            "price": "6146.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6146.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/6831407/corsair-obsidian-series-1000d-tower-ut%C3%B6kad-atx-inget-n%C3%A4taggregat-atx-usb-ljud",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "12043481917570872270",
+            "price": "6327.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6726.0",
+            "shipping_costs": "399.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011087188/obsidian-series-1000d?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "12043481917570872270",
+            "price": "7587.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7636.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/corsair-obsidian-series-1000d-tempered/cat-p/c0/p10189031",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "12043481917570872270",
+            "price": "6389.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6389.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/corsair-obsidian-series-1000d-tower-utokad-atx-inget-nataggregat-atx-usb-ljud-p58243261",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 6
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04038986166423",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:12Z"
+      },
+      "content": {
+        "id": "7750673003478491054",
+        "name": "AOC G2590FX 24.5\" LED 16:9",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQEAJpACWS1Z8uMOr2C00cQ56k40xrCJZtlte9npGTWc9Lj-NiDhxqXAMgKNU13OL1IixBf7kZp&usqp=CAY",
+        "description": "K\u00e4mpa dig igenom de mest hektiska spelen utan att f\u00f6rlora en enda bildruta. AOC G2590FX 24.5-tums bildsk\u00e4rm gaming l\u00e5ter dig utforska, fighta och k\u00f6ra bilspel i Full HD utan lagg tack vare 144 Hz bildfrekvens och AMD FreeSync.",
+        "properties": [
+          "AOC",
+          "24,5 tum",
+          "1920 x 1080",
+          "Bakgrundsbelyst LED",
+          "HDMI",
+          "VGA",
+          "DisplayPort",
+          "Peksk\u00e4rm",
+          "Med h\u00f6gtalare",
+          "144 Hz"
+        ],
+        "url": "https://www.google.se/shopping/product/7750673003478491054?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 56,
+        "review_rating": 90,
+        "price": "2799.0",
+        "gtins": [
+          "4038986166423"
+        ],
+        "eans": [
+          "4038986166423"
+        ],
+        "brand_name": "AOC",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Typ av enhet",
+            "value": [
+              "LED-bakgrundsbelyst LCD-sk\u00e4rm - 24.5\""
+            ]
+          },
+          {
+            "label": "Energiklass",
+            "value": [
+              "Klass F"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtion (driftl\u00e4ge)",
+            "value": [
+              "20.5 W"
+            ]
+          },
+          {
+            "label": "Adaptive-Sync-teknologi",
+            "value": [
+              "AMD FreeSync",
+              "NVIDIA G-Sync Compatible"
+            ]
+          },
+          {
+            "label": "Paneltyp",
+            "value": [
+              "TN"
+            ]
+          },
+          {
+            "label": "Bildf\u00f6rh\u00e5llande",
+            "value": [
+              "16:9"
+            ]
+          },
+          {
+            "label": "Pixelh\u00f6jd",
+            "value": [
+              "0.2832 mm"
+            ]
+          },
+          {
+            "label": "Ljusstyrka",
+            "value": [
+              "400 cd/m\u00b2"
+            ]
+          },
+          {
+            "label": "Responstid",
+            "value": [
+              "1 ms"
+            ]
+          },
+          {
+            "label": "F\u00e4rgst\u00f6d",
+            "value": [
+              "16",
+              "7 miljoner f\u00e4rger"
+            ]
+          },
+          {
+            "label": "Inmatningsanslutningar",
+            "value": [
+              "2xHDMI",
+              "VGA",
+              "DisplayPort"
+            ]
+          },
+          {
+            "label": "Displayl\u00e4gesjusteringar",
+            "value": [
+              "Lutning"
+            ]
+          },
+          {
+            "label": "Sp\u00e4nning",
+            "value": [
+              "AC 120/230 V (50/60 Hz)"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxDxH) - med st\u00e4ll",
+            "value": [
+              "55.86 cm x 19.95 cm x 51.32 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "5.43 kg"
+            ]
+          },
+          {
+            "label": "Standarder som f\u00f6ljs",
+            "value": [
+              "TUV GS",
+              "FCC",
+              "RoHS",
+              "ISO 9241-307",
+              "TUV Bauart",
+              "EAC"
+            ]
+          },
+          {
+            "label": "Typ av bildsk\u00e4rm",
+            "value": [
+              "LED-bakgrundsbelyst LCD-sk\u00e4rm / TFT aktiv matris"
+            ]
+          },
+          {
+            "label": "Diagonal storlek",
+            "value": [
+              "24.5\""
+            ]
+          },
+          {
+            "label": "Bakgrundsbelysningsteknik",
+            "value": [
+              "WLED"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxDxH)",
+            "value": [
+              "55.86 cm x 19.95 cm x 51.32 cm - med st\u00e4ll"
+            ]
+          },
+          {
+            "label": "Uteffekt / kanal",
+            "value": [
+              "2 Watt"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt",
+            "value": [
+              "VGA; 2 x HDMI; DisplayPort; H\u00f6rlurar"
+            ]
+          },
+          {
+            "label": "Lutningsvinkel",
+            "value": [
+              "-3.5/+19.5"
+            ]
+          },
+          {
+            "label": "VESA-inf\u00e4stningsgr\u00e4nssnitt",
+            "value": [
+              "100 x 100 mm"
+            ]
+          },
+          {
+            "label": "MTBF (genomsnittstid mellan fel)",
+            "value": [
+              "50",
+              "000 timme/timmar"
+            ]
+          },
+          {
+            "label": "Insp\u00e4nning",
+            "value": [
+              "AC 120/230 V (50/60 Hz)"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning f\u00f6r SDR (P\u00e5-l\u00e4ge)",
+            "value": [
+              "20.5 kWh/1 000 h"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning (typisk)",
+            "value": [
+              "28 Watt"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtionsst\u00e4ll med",
+            "value": [
+              "0.5 Watt"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtion (vid l\u00e4ge av)",
+            "value": [
+              "0.3 Watt"
+            ]
+          },
+          {
+            "label": "Operativsystem erfordras",
+            "value": [
+              "Microsoft Windows 7 / 8 / 10"
+            ]
+          },
+          {
+            "label": "Emballagets bredd",
+            "value": [
+              "62.6 cm"
+            ]
+          },
+          {
+            "label": "Emballagets djup",
+            "value": [
+              "20.3 cm"
+            ]
+          },
+          {
+            "label": "Emballagets h\u00f6jd",
+            "value": [
+              "41.7 cm"
+            ]
+          },
+          {
+            "label": "Emballagets vikt",
+            "value": [
+              "7.75 kg"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "AOC"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "232749",
+              "4038986166423",
+              "49781436",
+              "52046422",
+              "60811650",
+              "78600883",
+              "78602374",
+              "79244033",
+              "81849435",
+              "993301407",
+              "G2590FX",
+              "g2590fx"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04038986166423"
+            ]
+          }
+        ],
+        "offer_count": 8,
+        "offers_url": "https://www.google.se/shopping/product/7750673003478491054/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "7750673003478491054",
+            "price": "2799.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2799.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1192014/gaming/spelutrustning/gamingskarmar/aoc-25-gamingskarm-g2590fx?channable=0094536964003131393230313439",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "7750673003478491054",
+            "price": "2116.99",
+            "price_additional_info": null,
+            "price_with_shipping": "2335.98",
+            "shipping_costs": "218.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/aoc-g2590fx-lcd-24.5-full-hd-wled-144hz/137349286/p?utm_source=google_products&utm_medium=merchant&id_producte=9654707&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "7750673003478491054",
+            "price": "2217.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2217.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/4533084/aoc-g2590fx-led-sk%C3%A6rm-24-5-1920-x-1080-full-hd-1080p-tn-400-cd-m-1000-1-1-ms-2xhdmi-vga-displayport",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "7750673003478491054",
+            "price": "2322.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2322.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/aoc-g2590fx-24-5-1920-x-1080-vga-hd-15-hdmi-displayport-144hz",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "7750673003478491054",
+            "price": "2358.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2457.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/146/46161/sort/1/filter/0_0_0_0/G2590FX-24.5-LED-16-9-sk%C3%A4rm.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "7750673003478491054",
+            "price": "2666.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2666.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Bildskaerm/AOC-24-Bildskaerm-G2590FX-Svart-1-ms-AMD-FreeSync/2663080?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "7750673003478491054",
+            "price": "3243.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3292.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/aoc-dis-25-aoc-g2590fx/cat-p/c/p10173784",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "7750673003478491054",
+            "price": "2828.8",
+            "price_additional_info": null,
+            "price_with_shipping": "2828.8",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/aoc-g2590fx-p88362747",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 8
+          }
+        ]
+      }
+    }
+  ]
+}

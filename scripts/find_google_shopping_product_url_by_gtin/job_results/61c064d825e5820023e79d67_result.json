@@ -1,0 +1,2313 @@
+{
+  "job_id": "61c064d825e5820023e79d67",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 19,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195235363683",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:11:25Z"
+      },
+      "content": {
+        "id": "1247055535015058505",
+        "name": "Lenovo Legion T5 26AMR5(90RC000TMW)",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSqpiCRrHGRDDRx5k8Ait1S-WzyorttEcmcVaT9dZPei8FxY4Y&usqp=CAY",
+        "description": "TORNSPEL, OKOMPROMISSERAD \u00c4r du redo att uppleva den perfekta spelupplevelsen p\u00e5 en station\u00e4r dator? M\u00f6t det kraftfulla Legion Tower 5. Ren r\u00e5kraft m\u00f6ter o\u00f6vertr\u00e4ffad hastighet med Legion Tower 5 (AMD). Datorn levererar o\u00f6vertr\u00e4ffad prestanda och har den senaste AMD Ryzen 3000 -serien station\u00e4ra processorer och den allra b\u00e4sta NVIDIA GeForce -grafiken - med blixtsnabba bildhastigheter med en uppl\u00f6sning som \u00e4r b\u00e4ttre \u00e4n 4K. Det skjuter de \u00f6vre gr\u00e4nserna f\u00f6r mindre datorer till mer \u00e4n det extrema, och det h\u00e5ller utrustningen superkyl och n\u00e4stan tyst med sitt valfria v\u00e4tskekylningssystem. Sammantaget \u00e4r denna dator ett verkligt underverk inom teknik, design och prestanda. Utformad av en passion f\u00f6r vild kraft och o\u00f6vertr\u00e4ffad hastighet, levererar Lenovo Legion Tower 5 h\u00e4pnadsv\u00e4ckande prestanda, tillg\u00e4nglig med upp till AMD Ryzen -processorer och toppmoderna NVIDIA GeForce -grafikkort f\u00f6r flammande- snabba bildhastigheter med \u00f6ver 4K -uppl\u00f6sning. Drar l\u00e5ngt bortom de \u00f6vre gr\u00e4nserna f\u00f6r mindre riggkonfigurationer samtidigt som det h\u00e5ller det svalt och viskar tyst med det flytande kylsystemet som tillval, \u00e4r Legion Tower 5 ett underverk av konstruktion och design, framh\u00e4vd av sin upplysta bl\u00e5 LED -logotyp och belysning, samt valfria transparenta sidopaneler som kan ordentligt visa upp dina inre. Produktspecifikationer : Artikelnummer: 90RC000TMW PRESTANDA Processor: AMD Ryzen 5 3600 (6C / 12T, 3,6 / 4,2 GHz, 3 MB L2 / 32 MB L3) Grafik: NVIDIA GeForce RTX 2060 CD 6GB GDDR6 Kretsupps\u00e4ttning: AMD B550 Minne: 2x 8 GB UDIMM DDR4-3200 Minnesplatser: Fyra DDR4 UDIMM-platser, med dubbla kanaler Max minne: Upp till 128 GB DDR4-3200 Lagring: 512 GB SSD M.2 2280 PCIe 3.0 NVMe Lagringsst\u00f6d: Upp till 2 enheter, 1x 3,5 \"HDD + 2x M.2 SSD - 3,5 \"HDD upp till 2 TB - M.2 SSD upp till 1 TB Ljudchip: High Definition (HD) Audio, Realtek ALC892 codec Str\u00f6mf\u00f6rs\u00f6rjning: 550W 88% DESIGN Expansionsplatser: Tre M.2 -platser (en f\u00f6r WLAN, tv\u00e5 f\u00f6r SSD) En PCIe 4.0 x16 En PCIe 3.0 x4 Fodral: Svart Systembelysning: OY Ljusbl\u00e5 Chassiskydd: Normal sidok\u00e5pa Kylare: 65W Airlow Systemfl\u00e4kt: 1x fram + 1x bak B\u00e4rhandtag Formfaktor: Tower (26L) M\u00e5tt (BxDxH): 205x 396 x 411 mm (8,1 x 15,6 x 16,2 tum) Vikt: 14 kg (30,86 lbs) ANSLUTNING Ethernet Integrerad 100/1000M WLAN + Bluetooth 11ax, 2x2 + BT5.1 Topphamnar 1x kombinationsuttag f\u00f6r h\u00f6rlurar / mikrofoner (3,5 mm) 2x USB 3.2 Gen 1 1x mikrofon (3,5 mm) Bakre hamnar 1x USB-C 3.2 Gen 2 3x line out (3,5 mm) 1x str\u00f6mkontakt 1x Ethernet (RJ-45) 2x USB 2.0 2x USB 3.2 Gen 1 PROGRAMVARA Operativ system Windows 10 Home 64, Nordic (DK/FI/SV/NO/EN) EAN: 0195235363683",
+        "properties": [
+          "NVIDIA-grafikprocessor",
+          "AMD-CPU",
+          "Windows",
+          "Torn"
+        ],
+        "url": "https://www.google.se/shopping/product/1247055535015058505?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 382,
+        "review_rating": 94,
+        "price": "11814.0",
+        "gtins": [
+          "195235363683"
+        ],
+        "eans": [
+          "0195235363683"
+        ],
+        "brand_name": "Lenovo",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "24"
+            ]
+          },
+          {
+            "label": "Formfaktor f\u00f6r produkt",
+            "value": [
+              "Tower"
+            ]
+          },
+          {
+            "label": "CPU",
+            "value": [
+              "AMD Ryzen 5 3600 / 3.6 GHz"
+            ]
+          },
+          {
+            "label": "Max. turbohastighet",
+            "value": [
+              "4.2 GHz"
+            ]
+          },
+          {
+            "label": "Antal k\u00e4rnor",
+            "value": [
+              "Med 6 k\u00e4rnor"
+            ]
+          },
+          {
+            "label": "Antal CPU",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Max. CPU-antal",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "L2-cache",
+            "value": [
+              "3 MB"
+            ]
+          },
+          {
+            "label": "Kretstyp",
+            "value": [
+              "AMD B550"
+            ]
+          },
+          {
+            "label": "Installerad storlek",
+            "value": [
+              "16 GB / 128 GB (max)"
+            ]
+          },
+          {
+            "label": "Teknik",
+            "value": [
+              "DDR4 SDRAM"
+            ]
+          },
+          {
+            "label": "Effektiv minneshastighet",
+            "value": [
+              "3200 MHz"
+            ]
+          },
+          {
+            "label": "Minneshastighet",
+            "value": [
+              "3200 MHz"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "DIMM 288-pin"
+            ]
+          },
+          {
+            "label": "Kortplatser",
+            "value": [
+              "4 (Total) / 2 (tom)"
+            ]
+          },
+          {
+            "label": "Konfigurationsegenskaper",
+            "value": [
+              "2 x 8 GB"
+            ]
+          },
+          {
+            "label": "Kapacitet",
+            "value": [
+              "1 x 512 GB"
+            ]
+          },
+          {
+            "label": "Typ av gr\u00e4nssnitt",
+            "value": [
+              "PCI Express"
+            ]
+          },
+          {
+            "label": "Typ av styrgr\u00e4nssnitt",
+            "value": [
+              "SATA 6Gb/s"
+            ]
+          },
+          {
+            "label": "Antal kanaler",
+            "value": [
+              "4"
+            ]
+          },
+          {
+            "label": "Grafikprocessor",
+            "value": [
+              "NVIDIA GeForce RTX 2060"
+            ]
+          },
+          {
+            "label": "Videominne",
+            "value": [
+              "6 GB GDDR6 SDRAM"
+            ]
+          },
+          {
+            "label": "Videogr\u00e4nssnitt",
+            "value": [
+              "DVI",
+              "HDMI",
+              "DisplayPort"
+            ]
+          },
+          {
+            "label": "Ethernet-styrenhet",
+            "value": [
+              "Realtek RTL8111H"
+            ]
+          },
+          {
+            "label": "St\u00f6d f\u00f6r Wireless LAN",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Funktioner",
+            "value": [
+              "Dubbel str\u00f6m (2x2)"
+            ]
+          },
+          {
+            "label": "Typ av enhet",
+            "value": [
+              "N\u00e4taggregat"
+            ]
+          },
+          {
+            "label": "N\u00e4tsp\u00e4nning",
+            "value": [
+              "AC 120/230 V (50/60 Hz)"
+            ]
+          },
+          {
+            "label": "Effekt",
+            "value": [
+              "550 Watt"
+            ]
+          },
+          {
+            "label": "Effektivitet",
+            "value": [
+              "88%"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Lenovo"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "90RC000TMW"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00195235363683"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/1247055535015058505/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "1247055535015058505",
+            "price": "11814.0",
+            "price_additional_info": null,
+            "price_with_shipping": "11863.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/lenovo-legion-t5-geforce-rtx/cat-p/c/p1001268011",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04711081242970",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:11:27Z"
+      },
+      "content": {
+        "id": "7970478710911796822",
+        "name": "ASUS GeForce RTX 3070 Ti 8GB TUF GAMING OC",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRfeGjheLUZbEXQUnEkHISg21Ch5GJg8iUKvMlOm3-8VbJUPyTT&usqp=CAY",
+        "description": "P\u00e5 grund av brist p\u00e5 grafikkort s\u00e5 kommer vi tillsvidare endast till\u00e5ta varje kund att k\u00f6pa ett grafikkort fr\u00e5n v\u00e5rt RTX 3000-sortiment. Ber\u00e4knade leveransdatum \u00e4r prelimin\u00e4ra och kan komma att justeras. Detta \u00e4r en LHR-modell (\u201cLite Hash Rate,\u201d eller \u201cLHR,\u201d) som inte l\u00e4mpar sig f\u00f6r mining.",
+        "properties": [
+          "ASUS",
+          "ASUS",
+          "Grafikkort",
+          "8 GB",
+          "GDDR6",
+          "VGA",
+          "HDMI",
+          "DVI",
+          "DisplayPort",
+          "PCI Express"
+        ],
+        "url": "https://www.google.se/shopping/product/7970478710911796822?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 20,
+        "review_rating": 96,
+        "price": "20429.0",
+        "gtins": [
+          "4711081242970"
+        ],
+        "eans": [
+          "4711081242970"
+        ],
+        "brand_name": "ASUS",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Typ av enhet",
+            "value": [
+              "Grafikkort"
+            ]
+          },
+          {
+            "label": "Busstyp",
+            "value": [
+              "PCI Express 4.0"
+            ]
+          },
+          {
+            "label": "Grafikmotor",
+            "value": [
+              "NVIDIA GeForce RTX 3070 Ti"
+            ]
+          },
+          {
+            "label": "Minne",
+            "value": [
+              "8 GB GDDR6X"
+            ]
+          },
+          {
+            "label": "Minnehastighet",
+            "value": [
+              "19 Gbps"
+            ]
+          },
+          {
+            "label": "Snabbklocka",
+            "value": [
+              "1815 MHz"
+            ]
+          },
+          {
+            "label": "CUDA-k\u00e4rnor",
+            "value": [
+              "6144"
+            ]
+          },
+          {
+            "label": "Minnesgr\u00e4nssnitt",
+            "value": [
+              "256-bit"
+            ]
+          },
+          {
+            "label": "Max uppl\u00f6sning",
+            "value": [
+              "7680 x 4320"
+            ]
+          },
+          {
+            "label": "Max antal bildsk\u00e4rmar som st\u00f6ds",
+            "value": [
+              "4"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt",
+            "value": [
+              "2 x HDMI; 3 x DisplayPort"
+            ]
+          },
+          {
+            "label": "API-st\u00f6d",
+            "value": [
+              "OpenGL 4.6",
+              "DirectX 12 Ultimate"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxDxH)",
+            "value": [
+              "5.17 cm x 29.99 cm x 12.69 cm"
+            ]
+          },
+          {
+            "label": "Teknik",
+            "value": [
+              "GDDR6X SDRAM"
+            ]
+          },
+          {
+            "label": "Bussbredd",
+            "value": [
+              "256-bit"
+            ]
+          },
+          {
+            "label": "Erforderligt n\u00e4taggregat",
+            "value": [
+              "750 W"
+            ]
+          },
+          {
+            "label": "Extra krav",
+            "value": [
+              "2 x 8 stifts PCI Express-str\u00f6mkontakt"
+            ]
+          },
+          {
+            "label": "Standarder som f\u00f6ljs",
+            "value": [
+              "HDCP 2.3",
+              "DisplayPort 1.4a"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "29.99 cm"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "ASUS"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "80378385",
+              "82232106",
+              "90YV0GY0-M0NA00",
+              "TUF-RTX3070TI-O8G-GAMING"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04711081242970"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.se/shopping/product/7970478710911796822/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "7970478710911796822",
+            "price": "13240.0",
+            "price_additional_info": null,
+            "price_with_shipping": "13240.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://panprices.com/se-sv/offers/11012630/Asus-GeForce-RTX-3070-Ti-TUF-Gaming-OC-2xHDMI-3xDP-8GB?store=true&gs=true",
+            "shop_name": "Panprices",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c340cc25309",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c340cc25309",
+            "shop_url": "panprices.com",
+            "shop_domain": "panprices.com",
+            "shop_matching_id": "panprices.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "7970478710911796822",
+            "price": "16652.0",
+            "price_additional_info": null,
+            "price_with_shipping": "16751.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/417/179675/sort/1/filter/0_0_0_0/GeForce-RTX-3070-Ti-TUF-Gaming-OC-8GB-GDDR6X-256bit-grafikkort.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04711081309925",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:23Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04711081310228",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:11:28Z"
+      },
+      "content": {
+        "id": "6059920819132613281",
+        "name": "ASUS GeForce RTX 3060 12GB TUF GAMING OC V2",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTdlSuroE56QGj9RSP0NKX-_QtVt87PrS9SuYKOvV9gqlOF7TykevezIn8gfhwX9LFIeety140K&usqp=CAY",
+        "description": "P\u00e5 grund av brist p\u00e5 grafikkort s\u00e5 kommer vi tillsvidare endast till\u00e5ta varje kund att k\u00f6pa ett grafikkort fr\u00e5n v\u00e5rt RTX 3000-sortiment. Ber\u00e4knade leveransdatum \u00e4r prelimin\u00e4ra och kan komma att justeras. Detta \u00e4r en LHR-modell (\u201cLite Hash Rate,\u201d eller \u201cLHR,\u201d) som inte l\u00e4mpar sig f\u00f6r mining.",
+        "properties": [
+          "ASUS",
+          "ASUS",
+          "Grafikkort",
+          "12 GB",
+          "GDDR6",
+          "VGA",
+          "HDMI",
+          "DVI",
+          "DisplayPort",
+          "PCI Express"
+        ],
+        "url": "https://www.google.se/shopping/product/6059920819132613281?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 55,
+        "review_rating": 98,
+        "price": "11356.0",
+        "gtins": [
+          "4711081310228"
+        ],
+        "eans": [
+          "4711081310228"
+        ],
+        "brand_name": "ASUS",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Typ av enhet",
+            "value": [
+              "Grafikkort"
+            ]
+          },
+          {
+            "label": "Busstyp",
+            "value": [
+              "PCI Express 4.0"
+            ]
+          },
+          {
+            "label": "Grafikmotor",
+            "value": [
+              "NVIDIA GeForce RTX 3060"
+            ]
+          },
+          {
+            "label": "Minne",
+            "value": [
+              "12 GB GDDR6"
+            ]
+          },
+          {
+            "label": "Minnehastighet",
+            "value": [
+              "15 Gbps"
+            ]
+          },
+          {
+            "label": "Snabbklocka",
+            "value": [
+              "1882 MHz"
+            ]
+          },
+          {
+            "label": "CUDA-k\u00e4rnor",
+            "value": [
+              "3584"
+            ]
+          },
+          {
+            "label": "Minnesgr\u00e4nssnitt",
+            "value": [
+              "192-bit"
+            ]
+          },
+          {
+            "label": "Max uppl\u00f6sning",
+            "value": [
+              "7680 x 4320"
+            ]
+          },
+          {
+            "label": "Max antal bildsk\u00e4rmar som st\u00f6ds",
+            "value": [
+              "4"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt",
+            "value": [
+              "2 x HDMI; 3 x DisplayPort"
+            ]
+          },
+          {
+            "label": "API-st\u00f6d",
+            "value": [
+              "OpenGL 4.6",
+              "DirectX 12 Ultimate"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxDxH)",
+            "value": [
+              "5.4 cm x 30.1 cm x 14.3 cm"
+            ]
+          },
+          {
+            "label": "Teknik",
+            "value": [
+              "GDDR6 SDRAM"
+            ]
+          },
+          {
+            "label": "Bussbredd",
+            "value": [
+              "192-bit"
+            ]
+          },
+          {
+            "label": "Erforderligt n\u00e4taggregat",
+            "value": [
+              "750 W"
+            ]
+          },
+          {
+            "label": "Extra krav",
+            "value": [
+              "8-stifts PCI Express-str\u00f6mkontakt"
+            ]
+          },
+          {
+            "label": "Inkluderade tillbeh\u00f6r",
+            "value": [
+              "Insamlingskort",
+              "TUF-intyg om tillf\u00f6rlitlighet"
+            ]
+          },
+          {
+            "label": "Standarder som f\u00f6ljs",
+            "value": [
+              "HDCP 2.3",
+              "DisplayPort 1.4a"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "30.1 cm"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "ASUS"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "336260",
+              "61901372",
+              "80891503",
+              "90YV0GC0-M0NA10",
+              "E2780U-C",
+              "TUF-RTX3060-O12G-V2-GAMING",
+              "tuf-rtx3060-o12g-v2-gaming"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04711081310228"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.se/shopping/product/6059920819132613281/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "6059920819132613281",
+            "price": "11356.0",
+            "price_additional_info": null,
+            "price_with_shipping": "11356.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7360813/asus-tuf-gaming-tuf-rtx3060-o12g-v2-gaming-geforce-rtx-3060-12-gb-gddr6-192-bit-7680-x-4320-pixel-pci-express-4-0-lhr",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "6059920819132613281",
+            "price": "11828.0",
+            "price_additional_info": null,
+            "price_with_shipping": "11927.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/417/190397/sort/1/filter/0_0_0_0/GeForce-RTX-3060-TUF-Gaming-V2-OC-12GB-GDDR6-192bit-LHR-grafikkort.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04711081310426",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:22Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=04711081310426&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.komplettforetag.se/product/1186969/datorkomponenter/grafikkort/pci-express/asus-rog-strix-rtx-3060-v2-gaming-oc",
+            "name": "ASUS ROG STRIX GeForce RTX 3060 OC V2 12GB (LHR)",
+            "product_properties": [],
+            "price": "6790.0",
+            "shipping_costs": "59.0",
+            "price_with_shipping": "6849.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Komplett F\u00f6retag",
+            "shop_id": "priceapi-9edf77b141d",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-9edf77b141d",
+            "shop_url": "www.komplettforetag.se",
+            "shop_domain": "komplettforetag.se",
+            "shop_matching_id": "Komplett F\u00f6retag",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04711081321675",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:22Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04711081321750",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:22Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04711081322979",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:23Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04711081326809",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:22Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=04711081326809&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.komplettforetag.se/product/1189235/datorkomponenter/grafikkort/pci-express/asus-geforce-rtx3060ti-rog-strix-oc-v2",
+            "name": "ASUS GeForce RTX 3060 Ti 8GB ROG STRIX GAMING OC V2",
+            "product_properties": [],
+            "price": "7599.0",
+            "shipping_costs": "59.0",
+            "price_with_shipping": "7658.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Komplett F\u00f6retag",
+            "shop_id": "priceapi-9edf77b141d",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-9edf77b141d",
+            "shop_url": "www.komplettforetag.se",
+            "shop_domain": "komplettforetag.se",
+            "shop_matching_id": "Komplett F\u00f6retag",
+            "shop_review_count": 5,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04711081327288",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:23Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=04711081327288&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.komplettforetag.se/product/1189236/datorkomponenter/grafikkort/pci-express/asus-geforce-rtx3060ti-dual-oc-v2",
+            "name": "ASUS GeForce RTX 3060 TI 8GB GDDR6 DUAL OC V2 (LHR)",
+            "product_properties": [],
+            "price": "6999.0",
+            "shipping_costs": "59.0",
+            "price_with_shipping": "7058.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Komplett F\u00f6retag",
+            "shop_id": "priceapi-9edf77b141d",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-9edf77b141d",
+            "shop_url": "www.komplettforetag.se",
+            "shop_domain": "komplettforetag.se",
+            "shop_matching_id": "Komplett F\u00f6retag",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "url": "http://maxsklep.pl/p/44/189831/asus-karta-graficzna-geforce-rtx-3060-ti-dual-8gb-v2-chipset-nvidia-karty-graficzne-podzespoly-komputery-i-podzespoly.html",
+            "name": "ASUS Dual -RTX3060TI-O8G NVIDIA GeForce RTX 3060 Ti 8 GB GDDR6",
+            "product_properties": [],
+            "price": "9860.0",
+            "shipping_costs": "221.6",
+            "price_with_shipping": "10081.6",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "MaxSklep",
+            "shop_id": "priceapi-650c4c19346",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-650c4c19346",
+            "shop_url": "maxsklep.pl",
+            "shop_domain": "maxsklep.pl",
+            "shop_matching_id": "MaxSklep",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04718017399135",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:11:24Z"
+      },
+      "content": {
+        "id": "6656018781934898166",
+        "name": "ASUS - Rog Strix Lc 360 Rgb",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTOzWTecKqNVESmT8BuGY0zJBw2J6hp0LbMShfxIrmSr0KSc2UVj3bW0Urx0lowwoPdRQ4ycOa7&usqp=CAY",
+        "description": "ROG Strix LC 360 RGB all-in-one liquid CPU cooler with Aura Sync, and triple ROG 120mm addressable RGB radiator fans ROG Strix LC RGB high-performance CPU liquid coolers are perfect for RGB enthusiasts. They feature the same closed-loop design as our Strix LC series but with the added benefit of addressable RGB radiator fans - enabling you to unleash the full potential of your unlocked Intel or AMD CPU, while further accentuating your build with brilliant multi-color lighting effects. With the performance, features and style you expect from ROG, Strix LC RGB coolers are ready to become an essential part of your gaming system. Featuring the iconic ROG logo, signature slash on the pump housing and radiator that all glow with Aura RGB lighting, ROG Strix LC RGB series coolers add a vibrant burst of color and sleek style at the heart of your build. The lighting color and effects can be customized to match your system's colors for a unified look that's totally your own.",
+        "properties": [
+          "ASUS",
+          "Svart"
+        ],
+        "url": "https://www.google.se/shopping/product/6656018781934898166?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 49,
+        "review_rating": 88,
+        "price": "2089.0",
+        "gtins": [
+          "4718017399135"
+        ],
+        "eans": [
+          "4718017399135"
+        ],
+        "brand_name": "ASUS",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "F\u00f6rpackningens inneh\u00e5ll",
+            "value": [
+              "Skruvar",
+              "konsol",
+              "3 120mm ROG A-RGB Fans"
+            ]
+          },
+          {
+            "label": "Kylarmaterial",
+            "value": [
+              "Aluminium med kopparbas"
+            ]
+          },
+          {
+            "label": "Fl\u00e4ktdiameter",
+            "value": [
+              "120 mm"
+            ]
+          },
+          {
+            "label": "Fl\u00e4kth\u00f6jd",
+            "value": [
+              "25 mm"
+            ]
+          },
+          {
+            "label": "Rotationshastighet",
+            "value": [
+              "800 - 2500 vpm"
+            ]
+          },
+          {
+            "label": "Luftfl\u00f6de",
+            "value": [
+              "80",
+              "95 cfm"
+            ]
+          },
+          {
+            "label": "Bullerniv\u00e5",
+            "value": [
+              "37.6 dBA"
+            ]
+          },
+          {
+            "label": "Tillverkarens garanti",
+            "value": [
+              "5 \u00e5rs garanti"
+            ]
+          },
+          {
+            "label": "Kylardimensioner",
+            "value": [
+              "394 mm x 121 mm x 27 mm"
+            ]
+          },
+          {
+            "label": "Lufttryck",
+            "value": [
+              "5 mm"
+            ]
+          },
+          {
+            "label": "Monteringssats",
+            "value": [
+              "Inkluderat"
+            ]
+          },
+          {
+            "label": "Service och support",
+            "value": [
+              "Begr\u00e4nsad garanti - 5 \u00e5r"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "ASUS"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "4718017399135",
+              "48438017",
+              "50038106",
+              "51989842",
+              "5322741",
+              "58430538",
+              "69758336",
+              "90RC0071-M0UAY0",
+              "90rc0071m0uay0",
+              "ROG STRIX LC 360 RGB",
+              "ROGSTRIXLC360RGB",
+              "asus_48438017",
+              "rogstrixlc360rgb"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04718017399135"
+            ]
+          }
+        ],
+        "offer_count": 12,
+        "offers_url": "https://www.google.se/shopping/product/6656018781934898166/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "6656018781934898166",
+            "price": "2089.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2089.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/datorkomponenter/kylning/vattenkylning-dator/asus-rog-strix-lc-360-rgb-3x120mm/1016048.9165/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "6656018781934898166",
+            "price": "2216.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2216.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inet.se/produkt/5322741/asus-rog-strix-lc-360-rgb",
+            "shop_name": "Inet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fad01df70fc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fad01df70fc",
+            "shop_url": "www.inet.se",
+            "shop_domain": "inet.se",
+            "shop_matching_id": "inet.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "6656018781934898166",
+            "price": "2089.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2089.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.webhallen.com/se/product/306418-ASUS-ROG-Strix-LC-A-RGB-360mm?channable=00c0c7696400333036343138a5",
+            "shop_name": "Webhallen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-82f3e802042",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-82f3e802042",
+            "shop_url": "www.webhallen.com",
+            "shop_domain": "webhallen.com",
+            "shop_matching_id": "webhallen.com",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "6656018781934898166",
+            "price": "2089.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2089.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.power.se/datorer/komponenter/vattenkylning/asus-rog-strix-lc-360-rgb-aio-cpu-vatskekylare/p-1100857/",
+            "shop_name": "Power.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12a02cb9685",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12a02cb9685",
+            "shop_url": "www.power.se",
+            "shop_domain": "power.se",
+            "shop_matching_id": "power.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "6656018781934898166",
+            "price": "2336.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2336.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/5801494/asus-rog-strix-lc-360-rgb-kylsystem-med-v%C3%A4tska-till-processorn-f%C3%B6r-lga1156-lga1366-lga1155-lga2011-lga1150-lga2011-3-lga1151",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "6656018781934898166",
+            "price": "2385.99",
+            "price_additional_info": null,
+            "price_with_shipping": "2507.98",
+            "shipping_costs": "121.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/asus-vatskekylningssats-rog-strix-lc-360-rgb/137476522/p?utm_source=google_products&utm_medium=merchant&id_producte=10349466&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "6656018781934898166",
+            "price": "2417.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2417.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/datorer-tillbehor/datorkomponenter/chassiflakt-och-kylning-till-dator/165305/asus-rog-strix-lc-360-rgb-computer-liquid-cooling-processor",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "6656018781934898166",
+            "price": "2216.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2216.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/asus-rog-strix-lc-360-rgb-p48438017",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "6656018781934898166",
+            "price": "2503.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2552.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/asus-rog-strix-lc-360/cat-p/c/p1000425531",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "6656018781934898166",
+            "price": "2890.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2890.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.conrad.se/p/-2356610?vat=true&utm_source=google&utm_medium=surfaces&utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_term=2356610",
+            "shop_name": "Conrad.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-243c865299c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-243c865299c",
+            "shop_url": "www.conrad.se",
+            "shop_domain": "conrad.se",
+            "shop_matching_id": "conrad.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "6656018781934898166",
+            "price": "2503.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2503.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/asus-rog-strix-lc-360-rgb-aio-water-cooler",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "6656018781934898166",
+            "price": "2615.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2720.0",
+            "shipping_costs": "105.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.wesellcd.com/affiliate/redirect.php?ID=gglshse&page=products&product_id=36901",
+            "shop_name": "Wesellcd.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9f63d52d8d1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9f63d52d8d1",
+            "shop_url": "www.wesellcd.com",
+            "shop_domain": "wesellcd.com",
+            "shop_matching_id": "wesellcd.com",
+            "page": 1,
+            "position": 12
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04718017691826",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:23Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=04718017691826&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.datagrottan.se/asus-tuf-3-rx5600xt-t6g-evo-gaming-6gb-gddr6/cat-p/c0/p1000818124",
+            "name": "ASUS Radeon RX 5600 XT 6GB ROG STRIX TOP GAMING",
+            "product_properties": [],
+            "price": "4320.0",
+            "shipping_costs": "49.0",
+            "price_with_shipping": "4369.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Datagrottan",
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "Datagrottan",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "success": false,
+      "reason": "error",
+      "source": "google-shopping",
+      "country": "se",
+      "key": "gtin",
+      "value": "04718017713696",
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04718017713696",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04718017779951",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:23Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072681043",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:22Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=04719072681043&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.datagrottan.se/msi-geforce-gtx-1660-super/cat-p/c0/p1000487794",
+            "name": "MSI GeForce GTX 1660 Super Gaming X 6GB",
+            "product_properties": [],
+            "price": "4762.0",
+            "shipping_costs": "49.0",
+            "price_with_shipping": "4811.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Datagrottan",
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "Datagrottan",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072681852",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:23Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072796150",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:23Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072807757",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:22Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072828509",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:22Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08801643794897",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:11:26Z"
+      },
+      "content": {
+        "id": "12093886735295500107",
+        "name": "Samsung QB55R",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSW4akvKly3ozxej5I9bN_RKCdO7jYOcmiMCySNf-X8Mn8ul_iCslEgQuqkanH03aWCodAI00o&usqp=CAY",
+        "description": "Cisco certifierad professionell sk\u00e4rm. Samsungs nya QBR-serie sk\u00e4r igenom bruset och levererar h\u00f6gsta UHD-uppl\u00f6sning liksom intelligent UHD-uppskalning och rik, felfri f\u00e4rg\u00e5tergivning med Dynamic Crystal Color, allt i en smidig design.",
+        "properties": [
+          "Energiklass: G",
+          "Samsung"
+        ],
+        "url": "https://www.google.se/shopping/product/12093886735295500107?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 15,
+        "review_rating": 90,
+        "price": "12495.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "LED-bakgrundsbelyst, platt LCD-sk\u00e4rm",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "LED-bakgrundsbelyst",
+              "platt LCD-sk\u00e4rm"
+            ]
+          },
+          {
+            "label": "Diagonalklass",
+            "value": [
+              "55\""
+            ]
+          },
+          {
+            "label": "Kommersiell anv\u00e4ndning",
+            "value": [
+              "Ja - digital skyltning"
+            ]
+          },
+          {
+            "label": "Plattform",
+            "value": [
+              "Tizen OS 4.0"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning",
+            "value": [
+              "3840 x 2160"
+            ]
+          },
+          {
+            "label": "Visningsformat",
+            "value": [
+              "4K UHD (2160p)"
+            ]
+          },
+          {
+            "label": "HDR-format",
+            "value": [
+              "HDR10+"
+            ]
+          },
+          {
+            "label": "Rampris och f\u00f6rh\u00f6jningsteknologi",
+            "value": [
+              "60 Hz Refresh Rate"
+            ]
+          },
+          {
+            "label": "Videogr\u00e4nssnitt",
+            "value": [
+              "HDMI"
+            ]
+          },
+          {
+            "label": "HDMI-portskvantitet",
+            "value": [
+              "2 portar"
+            ]
+          },
+          {
+            "label": "Anknytningsbarhet",
+            "value": [
+              "Wi-Fi",
+              "LAN",
+              "Bluetooth"
+            ]
+          },
+          {
+            "label": "PC-gr\u00e4nssnitt",
+            "value": [
+              "DVI"
+            ]
+          },
+          {
+            "label": "LCD-teknik f\u00f6r bakgrundsbelysning",
+            "value": [
+              "LED-bakgrundsbelysning"
+            ]
+          },
+          {
+            "label": "Bildkvot",
+            "value": [
+              "16:9"
+            ]
+          },
+          {
+            "label": "TV-tuner",
+            "value": [
+              "Ingen mottagare"
+            ]
+          },
+          {
+            "label": "Kommersiella funktioner",
+            "value": [
+              "SMART Signage Platform"
+            ]
+          },
+          {
+            "label": "USB",
+            "value": [
+              "2 portar"
+            ]
+          },
+          {
+            "label": "Sp\u00e4nning",
+            "value": [
+              "AC 120/230 V (50/60 Hz)"
+            ]
+          },
+          {
+            "label": "Energiklass",
+            "value": [
+              "Klass G"
+            ]
+          },
+          {
+            "label": "Energif\u00f6rbrukning vid drift",
+            "value": [
+              "143 Watt"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtion (driftl\u00e4ge)",
+            "value": [
+              "108 W"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtionsst\u00e4ll med",
+            "value": [
+              "0.5 Watt"
+            ]
+          },
+          {
+            "label": "Energikonsumtion per \u00e5r",
+            "value": [
+              "158 kWh"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxDxH) - utan st\u00e4ll",
+            "value": [
+              "123.51 cm x 4.63 cm x 70.79 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "18.1 kg"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning f\u00f6r SDR (P\u00e5-l\u00e4ge)",
+            "value": [
+              "108 kWh/1 000 h"
+            ]
+          },
+          {
+            "label": "HDR-f\u00f6rberedd",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "TV-mottagaravk\u00e4nning",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Design",
+            "value": [
+              "Smalkantad design",
+              "Slim Design",
+              "New Edge Design"
+            ]
+          },
+          {
+            "label": "Dimensioner",
+            "value": [
+              "Utan st\u00e4ll"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "4.63 cm"
+            ]
+          },
+          {
+            "label": "Bel\u00e4ggning",
+            "value": [
+              "0",
+              "02 % Glaslabyrint"
+            ]
+          },
+          {
+            "label": "Bildkontrastf\u00f6rh\u00e5llande",
+            "value": [
+              "4000:1"
+            ]
+          },
+          {
+            "label": "Ljusstyrka",
+            "value": [
+              "350 cd/m\u00b2"
+            ]
+          },
+          {
+            "label": "Bildvinkel",
+            "value": [
+              "178 grader"
+            ]
+          },
+          {
+            "label": "Bildvinkel (vertikal)",
+            "value": [
+              "178 grader"
+            ]
+          },
+          {
+            "label": "Svarstid",
+            "value": [
+              "8 ms"
+            ]
+          },
+          {
+            "label": "St\u00e4ll",
+            "value": [
+              "Tillval"
+            ]
+          },
+          {
+            "label": "Monteringsgr\u00e4nssnitt f\u00f6r platt bildsk\u00e4rm",
+            "value": [
+              "200 x 200 mm"
+            ]
+          },
+          {
+            "label": "\u00d6verensst\u00e4mmer med VESA",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "USB-port",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Antal USB-portar",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "N\u00e4tdel",
+            "value": [
+              "N\u00e4taggregat"
+            ]
+          },
+          {
+            "label": "Insp\u00e4nning",
+            "value": [
+              "AC 120/230 V (50/60 Hz)"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtionsvila",
+            "value": [
+              "0.5 Watt"
+            ]
+          },
+          {
+            "label": "Bredd (brutto)",
+            "value": [
+              "140.2 cm"
+            ]
+          },
+          {
+            "label": "Djup (brutto)",
+            "value": [
+              "16.3 cm"
+            ]
+          },
+          {
+            "label": "H\u00f6jd (brutto)",
+            "value": [
+              "85.8 cm"
+            ]
+          },
+          {
+            "label": "Vikt (brutto)",
+            "value": [
+              "23.6 kg"
+            ]
+          },
+          {
+            "label": "Min temperatur vid drift",
+            "value": [
+              "0 \u00b0C"
+            ]
+          },
+          {
+            "label": "Max temperatur vid drift",
+            "value": [
+              "40 \u00b0C"
+            ]
+          },
+          {
+            "label": "Luftfuktighet vid drift",
+            "value": [
+              "10 - 80 % (icke-kondenserande)"
+            ]
+          }
+        ],
+        "offer_count": 7,
+        "offers_url": "https://www.google.se/shopping/product/12093886735295500107/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "12093886735295500107",
+            "price": "12495.0",
+            "price_additional_info": null,
+            "price_with_shipping": "12495.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/tv-bild/digital-signage/46126/samsung-55-smart-digital-signage-display-qb55r",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "12093886735295500107",
+            "price": "13393.0",
+            "price_additional_info": null,
+            "price_with_shipping": "13968.0",
+            "shipping_costs": "575.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.senetic.se/product/LH55QBREBGCXEN",
+            "shop_name": "Senetic Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3d20fd85b7c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3d20fd85b7c",
+            "shop_url": "www.senetic.se",
+            "shop_domain": "senetic.se",
+            "shop_matching_id": "senetic.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "12093886735295500107",
+            "price": "12484.0",
+            "price_additional_info": null,
+            "price_with_shipping": "12484.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Digital-Signage-Hotel-TV/Samsung-QB55R-QBR-Series-55-LED-display/2777438?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "12093886735295500107",
+            "price": "13115.0",
+            "price_additional_info": null,
+            "price_with_shipping": "13115.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.kontorsgiganten.se/samsung-55-uhd-16-9-qb55r-350nits-p-52?from=gpla",
+            "shop_name": "Kontorsgiganten",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-96fb01f6fd7",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-96fb01f6fd7",
+            "shop_url": "www.kontorsgiganten.se",
+            "shop_domain": "kontorsgiganten.se",
+            "shop_matching_id": "kontorsgiganten.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "12093886735295500107",
+            "price": "13129.0",
+            "price_additional_info": null,
+            "price_with_shipping": "13178.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/samsung-qb55r-55in-uhd-350cd/cat-p/c/p1000188680/gr_0",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "12093886735295500107",
+            "price": "15314.0",
+            "price_additional_info": null,
+            "price_with_shipping": "15314.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/5738094/samsung-qb55r-55-diagonal-klass-qbr-series-led-bakgrundsbelyst-lcd-sk%C3%A4rm-digital-skyltning-tizen-os-4-0-4k-uhd-2160p-3840-x",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "12093886735295500107",
+            "price": "15354.0",
+            "price_additional_info": null,
+            "price_with_shipping": "15354.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/samsung-qb55r-55-diagonal-klass-qbr-series-led-bakgrundsbelyst-lcd-skarm-digital-skyltning-tizen-os-4-0-4k-uhd-2160p-3840-x-2160-hdr-s-p56972432",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 7
+          }
+        ]
+      }
+    }
+  ]
+}

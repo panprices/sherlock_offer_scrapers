@@ -1,0 +1,780 @@
+{
+  "job_id": "61c064cce3f8590023b96588",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 20,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242003",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:11Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242010",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:12Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242027",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:11Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242034",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:11Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242058",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:11Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242065",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:11Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242072",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:12Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242089",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:12Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242096",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:11Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242119",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:12Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242140",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:11Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242171",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:11Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242195",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:11Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242201",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:13Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242232",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:12Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242256",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:11Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242263",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:12Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=04710562242263&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://cdon.se/hemelektronik/palit-geforce-rtx-3060-ti-dual-lhr-8gb-gddr6-256-bitars-grafikkort-p86837270",
+            "name": "Palit GeForce RTX 3060 Ti Dual 8GB LHR",
+            "product_properties": [],
+            "price": "13720.0",
+            "shipping_costs": "99.0",
+            "price_with_shipping": "13819.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "cdon.se",
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04711081130581",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:11:16Z"
+      },
+      "content": {
+        "id": "3683276372971067971",
+        "name": "Asus Tuf Gaming H570-pro Wifi Atx Moderkort",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRXASm9zEVXlamSKOgGECu_mSwvtPYIm3zQqxae3Scq2bzG3amSLThrFI933QqZ_UHNaieqN2EF&usqp=CAY",
+        "description": "ASUS TUF GAMING H570-PRO WIFI tar allt du beh\u00f6ver fr\u00e5n de senaste Intel -processorerna och kombinerar dem med out-of-the-box-funktioner och bepr\u00f6vad h\u00e5llbarhet. Moderkortet \u00e4r konstruerat med milit\u00e4rkomponenter, en f\u00f6rb\u00e4ttrad kraftl\u00f6sning och ett omfattande kylsystem och levererar en solid, stabil prestanda f\u00f6r maratonspel. Estetiskt spelar TUF GAMING H570-PRO WIFI den nya TUF Gaming-logotypen och inneh\u00e5ller enkla geometriska designelement f\u00f6r att \u00e5terspegla tillf\u00f6rlitligheten och stabiliteten som definierar TUF Gaming-serien. Egenskaper: Intel LGA 1200-uttag - 11: e och 10: e generationens Intel Core -processorklar F\u00f6rb\u00e4ttrad kraftl\u00f6sning: 8 1 Dr - MOS-effektsteg, sexlagers PCB, Pro - Cool-uttag, milit\u00e4ra TUF-komponenter och Digi VRM f\u00f6r maximal h\u00e5llbarhet Full kylning: Ut\u00f6kad VRM-kylfl\u00e4ns, PCH fl\u00e4ktl\u00f6s kylfl\u00e4ns, M.2 kylfl\u00e4nsar, hybridfl\u00e4ktrubriker och Fan Xpert 4-verktyg N\u00e4sta generations anslutningar: PCIe 4.0, bakre USB 3.2 Gen 2x2 Type-C , frontpanelhuvud f\u00f6r USB 3.2 Gen 1 Type-C och Thunderbolt 4 -st\u00f6d Gjord f\u00f6r onlinespel: Intel WiFi 6, Realtek 2.5 Gb Ethernet, TUF LANGuard och Turbo - LAN-teknik Dubbelriktad AI-brusreducering: minskar bakgrundsbrus fr\u00e5n mikrofonen och ljudutg\u00e5ngen f\u00f6r kristallklar kommunikation i spel eller videokonferenser Realtek S1200A-codec - Felfri ljudkvalitet med ett o\u00f6vertr\u00e4ffat 108 d - B signal-brusf\u00f6rh\u00e5llande f\u00f6r stereoutg\u00e5ng och 103 d - B SNR f\u00f6r linjeing\u00e5ng Specifikationer: Processor Processortillverkare: Intel Processoruttag: LGA 1200 Kompatibel processor: Intel Celeron , Intel Core i5, Intel Core i7, Intel Core i9, Intel Pentium Max antal SMP-processorer: 1 Minne st\u00f6dda minnestyper: DDR4-SDRAM Antal minnesplatser: 4 Minnesplats typ: DIMM Minneskanaler: Dual-channel Inget ECC: Ja Minneshastigheter som st\u00f6ds: 2133,2400,2666,2800,2933,3200,3333,3466,3600,3733,4000,4266,4400,4600,4800,5000 MHz Maximalt internminne: 128 GB Obuffert minne: Ja Lagringskontroll Typer av lagringsenheter som st\u00f6ds: h\u00e5rddisk",
+        "properties": [
+          "ASUS",
+          "ASUS TUF",
+          "ATX",
+          "AM4",
+          "Gaming",
+          "Intel",
+          "FireWire",
+          "Ethernet",
+          "DVI",
+          "VGA"
+        ],
+        "url": "https://www.google.se/shopping/product/3683276372971067971?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 3,
+        "review_rating": 100,
+        "price": "2031.0",
+        "gtins": [
+          "4711081130581"
+        ],
+        "eans": [
+          "4711081130581"
+        ],
+        "brand_name": "ASUS",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "36"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Moderkort - ATX"
+            ]
+          },
+          {
+            "label": "Kretstyp",
+            "value": [
+              "Intel H570"
+            ]
+          },
+          {
+            "label": "Processor-socket",
+            "value": [
+              "LGA1200-uttag"
+            ]
+          },
+          {
+            "label": "Maximalt antal processorer",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Maximal storlek",
+            "value": [
+              "128 GB"
+            ]
+          },
+          {
+            "label": "Teknik",
+            "value": [
+              "DDR4"
+            ]
+          },
+          {
+            "label": "St\u00f6der Ram Integrity Check",
+            "value": [
+              "Icke ECC"
+            ]
+          },
+          {
+            "label": "Registrerad eller buffrad",
+            "value": [
+              "Ej buffrad"
+            ]
+          },
+          {
+            "label": "RAID-egenskaper",
+            "value": [
+              "Intel Rapid Storage Technology"
+            ]
+          },
+          {
+            "label": "Medf\u00f6ljande kablar",
+            "value": [
+              "2 x Seriell ATA-kabel"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "24.4 cm"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "ASUS"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "1903477",
+              "300659",
+              "63158981",
+              "90MB16L0-M0EAY0",
+              "TUF GAMING H570-PRO WIFI"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04711081130581"
+            ]
+          }
+        ],
+        "offer_count": 4,
+        "offers_url": "https://www.google.se/shopping/product/3683276372971067971/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "3683276372971067971",
+            "price": "2031.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2031.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7086855/asus-tuf-gaming-h570-pro-wifi-moderkort-atx-lga1200-uttag-h570-chipupps%C3%A4ttning-usb-c-gen1-usb-3-2-gen-1-usb-3-2-gen-2-usb-c",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "3683276372971067971",
+            "price": "2095.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2164.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011221958/tuf-gaming-h570-pro-wifi?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "3683276372971067971",
+            "price": "2059.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2059.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/asus-tuf-gaming-h570-pro-wifi-moderkort-atx-lga1200-uttag-h570-chipuppsattning-usb-c-gen1-usb-3-2-gen-1-usb-3-2-gen-2-usb-c-gen-2x2-2-p63158981",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "3683276372971067971",
+            "price": "2133.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2133.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/datorer-tillbehor/datorkomponenter/moderkort/299368/asus-tuf-gaming-h570-pro-wi-fi-atx-h570-lga-1200",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04711081160328",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:11Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04711081169864",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:11Z"
+      },
+      "content": null,
+      "reason": "not found"
+    }
+  ]
+}

@@ -1,0 +1,789 @@
+{
+  "job_id": "61c064c18012fa0022e4b9ca",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 20,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562241808",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562241853",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562241945",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562241952",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562241983",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562241990",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:02Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710886366218",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710886384786",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710886413257",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:02Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710886415695",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710886420392",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710886431046",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710886474265",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710886478621",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710886517764",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:02Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710886558118",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:01Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=04710886558118&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.datagrottan.se/acer-aspire-aspire-3-a314-32/cat-p/c36159/p1001825172/gr_0",
+            "name": "ACER - Aspire Aspire 3 A314-32 14\" HD Celeron N4120, 8 GB RAM, 256 GB SSD, Windows 10 Home",
+            "product_properties": [],
+            "price": "5163.0",
+            "shipping_costs": "49.0",
+            "price_with_shipping": "5212.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Datagrottan",
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "Datagrottan",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710886584858",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:02Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710886641544",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:01Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=04710886641544&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.computersalg.se/i/7851915/acer-extensa-15-ex215-53g-core-i5-1035g1-1-ghz-win-10-home-64-bitars-8-gb-ram-512-gb-ssd-qlc-15-6-1920-x-1080-full-hd-gf",
+            "name": "Acer Extensa 15 EX215-53G 15,6\" FHD",
+            "product_properties": [],
+            "price": "7786.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "7786.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "ComputerSalg.se",
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "ComputerSalg.se",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04711081037903",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:02Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=04711081037903&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.alina.se/Produkt.aspx?site=gm&T2=F415JA-EB469T",
+            "name": "ASUS VivoBook F415JA-EB469T - Core i5 - 8GB - 256GB SSD - Win 10 Home",
+            "product_properties": [],
+            "price": "6995.0",
+            "shipping_costs": null,
+            "price_with_shipping": null,
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Alina.se",
+            "shop_id": "priceapi-3895675bbec",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-3895675bbec",
+            "shop_url": "www.alina.se",
+            "shop_domain": "alina.se",
+            "shop_matching_id": "Alina.se",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04711081053453",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:11:05Z"
+      },
+      "content": {
+        "id": "2087110234111293605",
+        "name": "ASUS ZENBOOK 14 UM425IA-PURE12 14\" B\u00c4RBAR DATOR",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTvTnc9-0EgzHnFAej2wmQaIDBhcESMKjMnybh2BlKXDqSsAGa_l3jl3pQ5QJyPGZxW6NqnCSI&usqp=CAY",
+        "description": "Den ultratunna och ljusa, m\u00f6rkgr\u00e5a ZenBook \u00e4r en elegant och kraftfull b\u00e4rbar dator av aluminium f\u00f6r m\u00e5ngsidig anv\u00e4ndning. Dess utm\u00e4rkta prestanda f\u00e5s av Ryzen 4000-serie mobilprocessor med integrerad AMD Radeon-grafik. Njut av fantastisk prestanda Zen - Books smidiga anv\u00e4ndarupplevelse kommer fr\u00e5n AMD:s 6-k\u00e4rniga Ryzen 5 4500U mobilprocessor. ZenBook har 8 GB LPDDR4X RAM och 512 GB snabb M.2 NVMe-lagring. De h\u00f6gkvalitativa komponenterna ger korta laddningstider och behagligt snabb drift i den dagliga anv\u00e4ndningen. Ljus och tydlig Full HD-sk\u00e4rm ZenBook 14 har en 14-tums Full HD-sk\u00e4rm med antireflexbel\u00e4ggning. IPS-panelen n\u00e5r upp till 400 nit ljusstyrka och har en 100% s - RGB-f\u00e4rgskala. Tack vare de extremt tunna Nano - Edge-ramarna \u00e4r f\u00f6rh\u00e5llandet mellan sk\u00e4rm och kropp 90%. Snygg design Ergo - Lift-design ger automatiskt den undre delen av den b\u00e4rbara datorn en lutande vinkel n\u00e4r locket \u00f6ppnas. P\u00e5 s\u00e5 s\u00e4tt \u00e4r tangentbordet i ett optimalt l\u00e4ge f\u00f6r att skriva - samtidigt som man f\u00e5r kylf\u00f6rst\u00e4rkning och f\u00f6rb\u00e4ttrad ljuduppspelning. ZenBook har ett bakgrundsbelyst, kant-till-kant-tangentbord med bekv\u00e4m skrivk\u00e4nsla och en full rad funktionstangenter f\u00f6r \u00f6kad produktivitet. ZenBook 14s pekplatta har integrerade LED-upplysta siffertangenter som kan aktiveras vid behov. H\u00e5llbarhet p\u00e5 milit\u00e4r niv\u00e5 Den 1,43 cm tjocka och endast 1,13 kg l\u00e4tta ZenBook har en konstruktion helt i metall som g\u00f6r den mycket",
+        "properties": [
+          "ASUS",
+          "ASUS ZenBook"
+        ],
+        "url": "https://www.google.se/shopping/product/2087110234111293605?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 61,
+        "review_rating": 92,
+        "price": "9990.0",
+        "gtins": [
+          "4711081053453"
+        ],
+        "eans": [
+          "4711081053453"
+        ],
+        "brand_name": "ASUS",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "24"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Notebook"
+            ]
+          },
+          {
+            "label": "Operativsystem",
+            "value": [
+              "Windows 10 Home"
+            ]
+          },
+          {
+            "label": "CPU",
+            "value": [
+              "AMD Ryzen 5 4500U / 2.3 GHz"
+            ]
+          },
+          {
+            "label": "Max. turbohastighet",
+            "value": [
+              "4 GHz"
+            ]
+          },
+          {
+            "label": "Antal k\u00e4rnor",
+            "value": [
+              "Med 6 k\u00e4rnor"
+            ]
+          },
+          {
+            "label": "Cache",
+            "value": [
+              "8 MB"
+            ]
+          },
+          {
+            "label": "LCD-bakgrundsbelysningsteknik",
+            "value": [
+              "LED-bakgrundsbelysning"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning",
+            "value": [
+              "1920 x 1080 (Full HD)"
+            ]
+          },
+          {
+            "label": "Bredsk\u00e4rm",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Ljusstyrka f\u00f6r bild",
+            "value": [
+              "400 cd/m\u00b2"
+            ]
+          },
+          {
+            "label": "Grafikprocessor",
+            "value": [
+              "AMD Radeon Graphics"
+            ]
+          },
+          {
+            "label": "Kamera",
+            "value": [
+              "Ja - 720p"
+            ]
+          },
+          {
+            "label": "Ljud",
+            "value": [
+              "Harman/kardon-stereoh\u00f6gtalare",
+              "mikrofon"
+            ]
+          },
+          {
+            "label": "Bakgrundsbelysning, tangentbord",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "L\u00e5dmaterial",
+            "value": [
+              "Aluminium"
+            ]
+          },
+          {
+            "label": "Inkluderade tillbeh\u00f6r",
+            "value": [
+              "USB-C str\u00f6madapter",
+              "USB-C till ljuduttagsadapter"
+            ]
+          },
+          {
+            "label": "Standarder som f\u00f6ljs",
+            "value": [
+              "MIL-STD 810G"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "ASUS"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "90NB0RT1-M05760",
+              "UM425IA-PURE12"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04711081053453"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/2087110234111293605/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "2087110234111293605",
+            "price": "9990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9990.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.power.se/datorer/datorer/barbar-dator/asus-zenbook-14-um425ia-pure12-14-barbar-dator/p-1140013/",
+            "shop_name": "Power.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12a02cb9685",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12a02cb9685",
+            "shop_url": "www.power.se",
+            "shop_domain": "power.se",
+            "shop_matching_id": "power.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    }
+  ]
+}

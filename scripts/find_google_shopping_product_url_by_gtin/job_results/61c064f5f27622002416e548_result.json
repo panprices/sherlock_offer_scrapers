@@ -1,0 +1,3306 @@
+{
+  "job_id": "61c064f5f27622002416e548",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 19,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195235396933",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:54Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=00195235396933&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.datagrottan.se/lenovo-thinkcentre-m70q-tiny-core/cat-p/c0/p1001548325",
+            "name": "Lenovo ThinkCentre M70q Tiny, Core i9",
+            "product_properties": [],
+            "price": "12622.0",
+            "shipping_costs": "49.0",
+            "price_with_shipping": "12671.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Datagrottan",
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "Datagrottan",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195235668931",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:53Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195235669471",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:11:58Z"
+      },
+      "content": {
+        "id": "14767585873630839205",
+        "name": "Lenovo ThinkPad L15 15\" Full HD",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQxQrBh130GqIrsWmjXSqUyVOUKC7RbVckuVqhxkjQDF4DB7ZDEsPERwLlV54qafiXuaPhx5B8&usqp=CAY",
+        "description": "Lenovo ThinkPad L15 15\" Full HD Core i5-10210U, 8GB RAM, 256GB SSD, 4G LTE, Windows 10 Pro",
+        "properties": [
+          "Lenovo",
+          "ThinkPad",
+          "ThinkPad L"
+        ],
+        "url": "https://www.google.se/shopping/product/14767585873630839205?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 228,
+        "review_rating": 90,
+        "price": "12688.0",
+        "gtins": [
+          "195235669471"
+        ],
+        "eans": [
+          "0195235669471"
+        ],
+        "brand_name": "Lenovo",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Lenovo"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "20U3002PMX"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00195235669471"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/14767585873630839205/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "14767585873630839205",
+            "price": "12688.0",
+            "price_additional_info": null,
+            "price_with_shipping": "12737.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/lenovo-thinkpad-l15-15-full/cat-p/c0/p1001383893",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195235835470",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 2,
+        "updated_at": "2021-12-20T11:11:54Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "success": false,
+      "reason": "error",
+      "source": "google-shopping",
+      "country": "se",
+      "key": "gtin",
+      "value": "04718017784047",
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04718017784047",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04718017908955",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:52Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072658557",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:11:56Z"
+      },
+      "content": {
+        "id": "15331313349145228522",
+        "name": "MSI B450 GAMING PLUS MAX moderkort Socket AM4 ATX AMD B450",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRXkTrzcvDoKAHezdtzscofTdnulKgkf2HP7vsYyTAss4fTpsV3WZ_TRvzUDYdRcUXHzIwpHaU&usqp=CAY",
+        "description": "MSI motherboards have tons of convenient and smart design features, such as convenient pin-header keep out zone, friendly SATA & USB location and so on, so DIY users can pick and choose any gaming rig they want.",
+        "properties": [
+          "MSI",
+          "MSI Performance GAMING",
+          "ATX",
+          "AM4",
+          "Gaming",
+          "AMD",
+          "FireWire",
+          "Ethernet",
+          "DVI",
+          "VGA"
+        ],
+        "url": "https://www.google.se/shopping/product/15331313349145228522?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 249,
+        "review_rating": 94,
+        "price": "949.0",
+        "gtins": [
+          "4719072658557"
+        ],
+        "eans": [
+          "4719072658557"
+        ],
+        "brand_name": "MSI",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produkten har slutat tillverkas",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Ursprungsland",
+            "value": [
+              "Kina"
+            ]
+          },
+          {
+            "label": "CPU-uttag",
+            "value": [
+              "Sockel AM4"
+            ]
+          },
+          {
+            "label": "Minnets klockhastighet",
+            "value": [
+              "4133 MHz"
+            ]
+          },
+          {
+            "label": "Plattform",
+            "value": [
+              "Windows 10"
+            ]
+          },
+          {
+            "label": "Maxstorlek f\u00f6r RAM-minne",
+            "value": [
+              "64 GB"
+            ]
+          },
+          {
+            "label": "Delnummer",
+            "value": [
+              "\u200e7B86-016R"
+            ]
+          },
+          {
+            "label": "Maximalt minne som st\u00f6ds",
+            "value": [
+              "\u200e64 GB"
+            ]
+          },
+          {
+            "label": "Typ av datorminne",
+            "value": [
+              "\u200eDDR4 SDRAM"
+            ]
+          },
+          {
+            "label": "Processorsockel",
+            "value": [
+              "\u200eSockel AM4"
+            ]
+          },
+          {
+            "label": "Antal artiklar",
+            "value": [
+              "\u200e1"
+            ]
+          },
+          {
+            "label": "Batterier inkluderade",
+            "value": [
+              "\u200eNej"
+            ]
+          },
+          {
+            "label": "Batterier kr\u00e4vs",
+            "value": [
+              "\u200eNej"
+            ]
+          },
+          {
+            "label": "Totalt antal USB-portar",
+            "value": [
+              "\u200e9"
+            ]
+          },
+          {
+            "label": "Kompatibel med",
+            "value": [
+              "\u200eATX"
+            ]
+          },
+          {
+            "label": "Har autofokus",
+            "value": [
+              "\u200eNej"
+            ]
+          },
+          {
+            "label": "Supports Bluetooth Technology",
+            "value": [
+              "\u200eNej"
+            ]
+          },
+          {
+            "label": "Har programmerbara knappar",
+            "value": [
+              "\u200eNej"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "MSI"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "4719072658557",
+              "48535171",
+              "49818199",
+              "56534321",
+              "58472216",
+              "7B86-016",
+              "7B86-016R",
+              "7b86016r",
+              "994929540",
+              "B450 GAMING PLUS M",
+              "B450 GAMING PLUS MAX",
+              "B450GAMINGPLUSMAX",
+              "H215141/4719072658557",
+              "MI4266",
+              "S0224832",
+              "b450gamingplusmax"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04719072658557"
+            ]
+          }
+        ],
+        "offer_count": 7,
+        "offers_url": "https://www.google.se/shopping/product/15331313349145228522/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "15331313349145228522",
+            "price": "949.0",
+            "price_additional_info": null,
+            "price_with_shipping": "949.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.webhallen.com/se/product/306495-MSI-B450-Gaming-Plus-Max-ATX-B450?channable=00c0c7696400333036343935a6",
+            "shop_name": "Webhallen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-82f3e802042",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-82f3e802042",
+            "shop_url": "www.webhallen.com",
+            "shop_domain": "webhallen.com",
+            "shop_matching_id": "webhallen.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "15331313349145228522",
+            "price": "964.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1004.0",
+            "shipping_costs": "40.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/5918342/msi-b450-gaming-plus-max-atx-mb",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "15331313349145228522",
+            "price": "927.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1026.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/426/117214/sort/1/filter/0_0_0_0/B450-Gaming-Plus-Max-moderkort.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "15331313349145228522",
+            "price": "1019.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1019.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/msi-b450-gaming-plus-max-atx-mb-p57461158",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "15331313349145228522",
+            "price": "1087.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1087.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/msi-b450-gaming-plus-max-atx-am4-amd-b450",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "15331313349145228522",
+            "price": "1419.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1419.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.teknikproffset.se/msi-b450-gaming-plus-max-moderkort-amd-b450-uttag-am4-atx",
+            "shop_name": "Teknikproffset.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b1c12f7fe91",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b1c12f7fe91",
+            "shop_url": "www.teknikproffset.se",
+            "shop_domain": "teknikproffset.se",
+            "shop_matching_id": "teknikproffset.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "15331313349145228522",
+            "price": "1336.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1385.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/msi-b450-gaming-plus-max/cat-p/c36123/p1000365070",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 7
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072658731",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:11:57Z"
+      },
+      "content": {
+        "id": "17368229848816949007",
+        "name": "MSI GeForce RTX 2060 VENTUS GP OC 6GB",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR_PcCoWQxrHbVMc6dwGPFqN_fj9kjt-xEDyoLUNlBSxPcWEH-ZmhdaJJXkuUzFFiKNxjmQDWg&usqp=CAY",
+        "description": "Title: MSI RTX2060 Ventus GP OC 6GB. Product Type: Kategorier > Datorer, komponenter & tillbeh\u00f6r > Komponenter & reservdelar > Interna komponenter > Grafikkort",
+        "properties": [
+          "MSI",
+          "MSI",
+          "Grafikkort",
+          "6 GB",
+          "GDDR6",
+          "HDMI",
+          "DVI",
+          "DisplayPort",
+          "PCI Express",
+          "L\u00e4ngd: 231 mm"
+        ],
+        "url": "https://www.google.se/shopping/product/17368229848816949007?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 19,
+        "review_rating": 92,
+        "price": "9714.0",
+        "gtins": [
+          "4719072658731"
+        ],
+        "eans": [
+          "4719072658731"
+        ],
+        "brand_name": "MSI",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Typ av enhet",
+            "value": [
+              "Grafikkort"
+            ]
+          },
+          {
+            "label": "Busstyp",
+            "value": [
+              "PCI Express 3.0 x16"
+            ]
+          },
+          {
+            "label": "Grafikmotor",
+            "value": [
+              "NVIDIA GeForce RTX 2060"
+            ]
+          },
+          {
+            "label": "Minne",
+            "value": [
+              "6 GB GDDR6"
+            ]
+          },
+          {
+            "label": "Minnehastighet",
+            "value": [
+              "14 Gbps"
+            ]
+          },
+          {
+            "label": "Snabbklocka",
+            "value": [
+              "1710 MHz"
+            ]
+          },
+          {
+            "label": "CUDA-k\u00e4rnor",
+            "value": [
+              "1920"
+            ]
+          },
+          {
+            "label": "Minnesgr\u00e4nssnitt",
+            "value": [
+              "192-bit"
+            ]
+          },
+          {
+            "label": "Max uppl\u00f6sning",
+            "value": [
+              "7680 x 4320"
+            ]
+          },
+          {
+            "label": "Max antal bildsk\u00e4rmar som st\u00f6ds",
+            "value": [
+              "4"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt",
+            "value": [
+              "3 x DisplayPort; HDMI"
+            ]
+          },
+          {
+            "label": "API-st\u00f6d",
+            "value": [
+              "DirectX 12",
+              "OpenGL 4.6"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxDxH)",
+            "value": [
+              "4.2 cm x 23.1 cm x 12.8 cm"
+            ]
+          },
+          {
+            "label": "VR-f\u00f6rberedd",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Teknik",
+            "value": [
+              "GDDR6 SDRAM"
+            ]
+          },
+          {
+            "label": "Bussbredd",
+            "value": [
+              "192-bit"
+            ]
+          },
+          {
+            "label": "Erforderligt n\u00e4taggregat",
+            "value": [
+              "500 W"
+            ]
+          },
+          {
+            "label": "Extra krav",
+            "value": [
+              "8-stifts PCI Express-str\u00f6mkontakt"
+            ]
+          },
+          {
+            "label": "Energif\u00f6rbrukning vid drift",
+            "value": [
+              "160 Watt"
+            ]
+          },
+          {
+            "label": "Medf\u00f6ljande programvara",
+            "value": [
+              "MSI Dragon Gaming Center"
+            ]
+          },
+          {
+            "label": "Standarder som f\u00f6ljs",
+            "value": [
+              "HDCP 2.2",
+              "DisplayPort 1.4a"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "23.1 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "720 g"
+            ]
+          },
+          {
+            "label": "Emballagets vikt",
+            "value": [
+              "1.17 kg"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "MSI"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "912-V375-623",
+              "GEFORCE RTX 2060 VENTUS GP OC",
+              "GeForce RTX 2060 VENTUS GP OC",
+              "RTX 2060 VENTUS GP OC",
+              "V375-231R",
+              "geforcertx2060ventusgpoc"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04719072658731"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/17368229848816949007/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "17368229848816949007",
+            "price": "9714.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9714.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/msi-nvidiar-geforcer-rtx-2060-ventus-gp-oc-6g-grafikkort-gf-rtx-2060-6-gb-gddr6-pcie-3-0-x16-hdmi-3-x-displayport-p71102264",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072667382",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:53Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=04719072667382&hl=sv&gl=se&sfr=compass",
+        "offers": []
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072686703",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:53Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05032037215008",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:11:56Z"
+      },
+      "content": {
+        "id": "9373264066668714869",
+        "name": "Intel Core i9-11900K 3,5 GHz",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSwFlKDOwSfuQmBpNlYHq6jZsr8R-WVc7m0nl3sleSrKjgqKg_U&usqp=CAY",
+        "description": "Intel 11th Gen Desktop Processorer \u00e4r med sin balans mellan hastighet, k\u00e4rnor och tr\u00e5dar, ett utm\u00e4rkt val f\u00f6r en god spelupplevelse. Nu med st\u00f6d f\u00f6r tekniker som PCI Express 4.0 och Thunderbolt 4. F\u00f6r maximal prestanda \u00e4r det viktigt att moderkortets BIOS \u00e4r uppdaterat till senaste version.",
+        "properties": [
+          "Intel",
+          "Intel Core",
+          "Core i9",
+          "\u00c5tta",
+          "3,5 GHz",
+          "LGA1156",
+          "Cacheminne: 16 MB",
+          "St\u00f6d f\u00f6r \u00f6verklockning",
+          "125 watt"
+        ],
+        "url": "https://www.google.se/shopping/product/9373264066668714869?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 190,
+        "review_rating": 90,
+        "price": "5190.0",
+        "gtins": [
+          "5032037215008"
+        ],
+        "eans": [
+          "5032037215008"
+        ],
+        "brand_name": "Intel",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Cache",
+            "value": [
+              "16 MB"
+            ]
+          },
+          {
+            "label": "Integrerad grafik",
+            "value": [
+              "Intel UHD Graphics 750"
+            ]
+          },
+          {
+            "label": "Kompatibel processorsockel",
+            "value": [
+              "LGA1200 Socket"
+            ]
+          },
+          {
+            "label": "Antal processorer",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Klockfrekvens",
+            "value": [
+              "3.5 GHz"
+            ]
+          },
+          {
+            "label": "Max. turbohastighet",
+            "value": [
+              "5.3 GHz"
+            ]
+          },
+          {
+            "label": "Busshastighet",
+            "value": [
+              "8 GT/s"
+            ]
+          },
+          {
+            "label": "Tillverkningsprocess",
+            "value": [
+              "14 nm"
+            ]
+          },
+          {
+            "label": "Tillverkarens garanti",
+            "value": [
+              "3 \u00e5rs garanti"
+            ]
+          },
+          {
+            "label": "Antal tr\u00e5dar",
+            "value": [
+              "16 tr\u00e5dar"
+            ]
+          },
+          {
+            "label": "Cacheminnesinformation",
+            "value": [
+              "Smart Cache - 16 MB"
+            ]
+          },
+          {
+            "label": "Termisk avledningseffekt",
+            "value": [
+              "125 W"
+            ]
+          },
+          {
+            "label": "Temperaturspecifikation",
+            "value": [
+              "100 \u00b0C"
+            ]
+          },
+          {
+            "label": "PCI-expressrevision",
+            "value": [
+              "4.0"
+            ]
+          },
+          {
+            "label": "PCI-expresskonfigurationer",
+            "value": [
+              "1x16+1x4",
+              "1x8+3x4",
+              "2x8+1x4"
+            ]
+          },
+          {
+            "label": "PCI-expressbanor antal",
+            "value": [
+              "20"
+            ]
+          },
+          {
+            "label": "Basfrekvens",
+            "value": [
+              "350 MHz"
+            ]
+          },
+          {
+            "label": "Max. dynamisk effekt",
+            "value": [
+              "1.3 GHz"
+            ]
+          },
+          {
+            "label": "Max. underst\u00f6dda minnesstorlek",
+            "value": [
+              "64 GB"
+            ]
+          },
+          {
+            "label": "F\u00f6rpackningstyp",
+            "value": [
+              "Intel Boxed"
+            ]
+          },
+          {
+            "label": "Service och support",
+            "value": [
+              "Begr\u00e4nsad garanti - 3 \u00e5r"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Intel"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "5303635",
+              "62835386",
+              "63016240",
+              "70860570",
+              "82704372",
+              "83729721",
+              "83791823",
+              "998374592",
+              "BX8070811900K",
+              "BX8070811900K 99AFV2",
+              "CA70506",
+              "S0230104",
+              "S55010195",
+              "S5606483",
+              "bx8070811900k"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "05032037215008"
+            ]
+          }
+        ],
+        "offer_count": 15,
+        "offers_url": "https://www.google.se/shopping/product/9373264066668714869/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "9373264066668714869",
+            "price": "5190.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5190.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/datorkomponenter/processor/intel-socket-1200/intel-core-i9-11900k-53ghz/1016674.17290/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "9373264066668714869",
+            "price": "5490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.webhallen.com/se/product/331296-Intel-Core-i9-11900K?channable=00c0c769640033333132393636",
+            "shop_name": "Webhallen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-82f3e802042",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-82f3e802042",
+            "shop_url": "www.webhallen.com",
+            "shop_domain": "webhallen.com",
+            "shop_matching_id": "webhallen.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "9373264066668714869",
+            "price": "5490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inet.se/produkt/5303635/intel-core-i9-11900k-3-5-ghz-16mb",
+            "shop_name": "Inet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fad01df70fc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fad01df70fc",
+            "shop_url": "www.inet.se",
+            "shop_domain": "inet.se",
+            "shop_matching_id": "inet.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "9373264066668714869",
+            "price": "6190.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6190.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/datorer-tillbehor/datorkomponenter/processor-cpu/300960/intel-core-i9-11900k-processor-box",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "9373264066668714869",
+            "price": "5359.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5359.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/CPU/Intel-Core-i9-11900K-Rocket-Lake-CPU-8-kaernor-35-GHz-Intel-LGA1200-Intel-Boxed-without-heatsinkfan/2918963?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "9373264066668714869",
+            "price": "5490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5490.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.alina.se/Produkt.aspx?site=gm&T2=BX8070811900K",
+            "shop_name": "Alina.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3895675bbec",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3895675bbec",
+            "shop_url": "www.alina.se",
+            "shop_domain": "alina.se",
+            "shop_matching_id": "alina.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "9373264066668714869",
+            "price": "5495.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5495.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011217465/core-i9-11900k?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "9373264066668714869",
+            "price": "5542.49",
+            "price_additional_info": null,
+            "price_with_shipping": "5626.48",
+            "shipping_costs": "83.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/intel-processor-i9-11900k/138436799/p?utm_source=google_products&utm_medium=merchant&id_producte=14484679&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "9373264066668714869",
+            "price": "5683.58",
+            "price_additional_info": null,
+            "price_with_shipping": "5683.58",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7590922/intel-core-i9-11900k-3-5-ghz-med-8-k%C3%A4rnor-16-tr%C3%A5dar-16-mb-cache-lga1200-socket-box",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "9373264066668714869",
+            "price": "5490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/intel-core-i9-11900k-3-5-ghz-16mb-p69723701",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "9373264066668714869",
+            "price": "6330.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6483.6",
+            "shipping_costs": "153.6",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.senetic.se/product/BX8070811900K",
+            "shop_name": "Senetic Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3d20fd85b7c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3d20fd85b7c",
+            "shop_url": "www.senetic.se",
+            "shop_domain": "senetic.se",
+            "shop_matching_id": "senetic.se",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "9373264066668714869",
+            "price": "6084.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6133.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/intel-core-i9-11900k-350ghz-sktlga1200/cat-p/c36124/p1001612387",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 12
+          },
+          {
+            "id": null,
+            "product_id": "9373264066668714869",
+            "price": "6169.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6169.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/intel-core-i9-11900k-3-50ghz-sktlga1200-16-00mb-cache-boxed",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 13
+          },
+          {
+            "id": null,
+            "product_id": "9373264066668714869",
+            "price": "9952.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9952.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fruugo.se/intel-core-i9-11900k-intel-core-i9-11xxx-lga-1200-socket-h5-pctunn-klient/p-62696567-126681574?language=sv&ac=croud&utm_source=organic_shopping&utm_medium=organic",
+            "shop_name": "fruugo.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fdf04e0f8d5",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fdf04e0f8d5",
+            "shop_url": "www.fruugo.se",
+            "shop_domain": "fruugo.se",
+            "shop_matching_id": "fruugo.se",
+            "page": 1,
+            "position": 14
+          },
+          {
+            "id": null,
+            "product_id": "9373264066668714869",
+            "price": "7509.99",
+            "price_additional_info": null,
+            "price_with_shipping": "7509.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://ullakulla.se/shop/product/processor-intel-bx8070811900k-i9-11900k-octa-core-3-5-ghz-16-mb-lga-1200_203833?cvt=GMC",
+            "shop_name": "ullakulla.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-041938c1df1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-041938c1df1",
+            "shop_url": "ullakulla.se",
+            "shop_domain": "ullakulla.se",
+            "shop_matching_id": "ullakulla.se",
+            "page": 1,
+            "position": 15
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05099206068100",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:11:58Z"
+      },
+      "content": {
+        "id": "11953724444256980839",
+        "name": "Webcam Logitech BRIO 4K Ultra HD",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRlciyJfZytLxboRJL7ZRAipi9PlnXnLPc68wOD9HzlnbFcc64&usqp=CAY",
+        "description": "BRIO - 4K Ultra HD Webcam with RightLight 3 with HDR Step up to the world s most technologically advanced webcam and get professional-quality video for conference calls, streaming, or video recording. Logitech BRIO is packed with features that produce stunning video in any environment. Our first 4K ultra high-def camera offers 5x digital zoom and RightLight 3 with HDR. Background replacement gives you the freedom to meet anywhere. Capture every detail in 4K HD Stream crystal-clear video with superb resolution, frame rate, colour, and detail. Logitech BRIO delivers 4K Ultra HD at 30 fps or 1080p at 30/60 fps to provide the highest quality at any application. Get a closer look with 5x zoom. If it s in the frame, BRIO can capture it. Look Great in Any Light Now you can take a conference call, stream, or record video in any lighting condition and always look your best. Whether in low light or bright sunshine, Logitech BRIO with RightLight 3 and high dynamic range (HDR) technology adjusts to highlight the most important subject: you. Strengthen Security with Ease Infrared detection and certification with Windows Hello facial recognition software provide a reliable safeguard against unauthorised logins and access to secure information. Say goodbye to complicated passwords. Simply look into BRIO s lens to be immediately signed on. Control the Visual Environment Take advantage of BRIO s industry-leading technology to minimise background noise and visual clutter. Even when the world around you is chaotic and uncooperative, you can produce clean, clear video using multiple field-of-vision options and 5x digital zoom to focus on what matters.",
+        "properties": [
+          "Logitech",
+          "1920 x 1080",
+          "30 fps",
+          "High Definition",
+          "Tr\u00e5dbunden",
+          "Mac",
+          "PC",
+          "Autofokus",
+          "Svagt ljus",
+          "Med stereomikrofon"
+        ],
+        "url": "https://www.google.se/shopping/product/11953724444256980839?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 1011,
+        "review_rating": 92,
+        "price": "1684.0",
+        "gtins": [
+          "5099206068100"
+        ],
+        "eans": [
+          "5099206068100"
+        ],
+        "brand_name": "Logitech",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Recommended use",
+            "value": [
+              "gaming"
+            ]
+          },
+          {
+            "label": "Resolution",
+            "value": [
+              "4K"
+            ]
+          },
+          {
+            "label": "Maximum Frame Rate",
+            "value": [
+              "60 FPS"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Logitech"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "302546-317",
+              "5099206068100",
+              "54576482",
+              "58_960-001106",
+              "94771",
+              "960-001106",
+              "LOG-WEBCAM 960-001106",
+              "LOG5099206068100",
+              "LOG960001106",
+              "S0207994",
+              "S55080426",
+              "S5602077",
+              "WSX-PERLOGKAM0008"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "05099206068100"
+            ]
+          }
+        ],
+        "offer_count": 5,
+        "offers_url": "https://www.google.se/shopping/product/11953724444256980839/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "11953724444256980839",
+            "price": "1684.99",
+            "price_additional_info": null,
+            "price_with_shipping": "1768.98",
+            "shipping_costs": "83.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/en/logitech-brio-4k-uhd-webcam/137563807/p?utm_source=google_products&utm_medium=merchant&id_producte=10727464&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "11953724444256980839",
+            "price": "1804.69",
+            "price_additional_info": null,
+            "price_with_shipping": "1914.68",
+            "shipping_costs": "109.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.sotel.de/go/1000423643/en/SEK",
+            "shop_name": "SOTEL",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2cb26b72f3b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2cb26b72f3b",
+            "shop_url": "www.sotel.de",
+            "shop_domain": "sotel.de",
+            "shop_matching_id": "sotel.de",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "11953724444256980839",
+            "price": "1751.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1832.98",
+            "shipping_costs": "81.98",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://boss-affair.com/en/products/webcam-logitech-brio-4k-ultra-hd-rightlight-3-hdr?variant=40814135738530&utm_source=google&utm_medium=organic&utm_campaign=CATALOGO%20-%20INGLESE&utm_content=Webcam%20Logitech%20BRIO%204K%20Ultra%20HD%20RightLight%203%20HDR",
+            "shop_name": "boss-affair.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-45904878bf0",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-45904878bf0",
+            "shop_url": "boss-affair.com",
+            "shop_domain": "boss-affair.com",
+            "shop_matching_id": "boss-affair.com",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "11953724444256980839",
+            "price": "2452.37",
+            "price_additional_info": null,
+            "price_with_shipping": "2694.07",
+            "shipping_costs": "241.7",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.thebarcodewarehouse.co.uk/shop/logitech/webcams/960-001106/",
+            "shop_name": "The Barcode Warehouse",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-deacade6cbf",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-deacade6cbf",
+            "shop_url": "www.thebarcodewarehouse.co.uk",
+            "shop_domain": "thebarcodewarehouse.co.uk",
+            "shop_matching_id": "thebarcodewarehouse.co.uk",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "11953724444256980839",
+            "price": "1965.97",
+            "price_additional_info": null,
+            "price_with_shipping": "2205.19",
+            "shipping_costs": "239.22",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://sps24.eu/en/products/peripherals/camera/webcams/logitech-brio-webcam-4096-x-2160-pixels-usb-3-2-gen-1-3-1-gen-1-black-56401.googleshoppingse.html",
+            "shop_name": "Spare Part Service",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d58227f5e64",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d58227f5e64",
+            "shop_url": "sps24.eu",
+            "shop_domain": "sps24.eu",
+            "shop_matching_id": "sps24.eu",
+            "page": 1,
+            "position": 5
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05707119039833",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:54Z"
+      },
+      "content": {
+        "id": "18422915240676923584",
+        "name": "SteelSeries - Rival 3",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSKTnQo3AGUWumjBZUjpU-306bhvn6FBqv3wTCfA19K_qe-DG29S0SxoZycSn1-7zf6eU2J8xvn&usqp=CAY",
+        "description": "Utklassa konkurrensen Steelseries Rival 3 har unik och strlande RGB-belysning, en ny prestationsfokuserad sensor, otroligt hg hllbarhetsniv och vertrffar konkurrensen med hstlngder. Rival 3 r en fullfjdrad spelmus med den senaste tekniken, designad till ett verkomligt pris fr gamers. TrueMoveCore Optisk sensor Detta r en viktig grej, eftersom de flesta andra fretagen anvnder stationra sensorer och inte prestationssensorer i sina mss. Vi konstruerade en helt ny, hgpresterande sensor bara fr Rival 3. 8 500 CPI och kta 1-till-1-sprning fr exakt prestanda. Galet stark RGB-belysning Rival 3 har den ljusaste RGB:n av alla mus vi hittills har gjort. Serist, titta inte direkt p den fr lnge. De nr upp till cirka 750lux. Bekvm och hllbar design Vi anvnde en slitstark matt finish fr Rival 3. Dess hgerhnta ergonomiska utformning r ocks ltt som en fjder - endast 77 g. Denna mus ska kunna klara av att f en smll nr du ragequittar. AnpassningsbarRival 3 har ocks switchar som r klassade fr 60M-klick och ombordminne fr att spara upp till fem CPI-profiler och r helt anpassningsbara genom SteelSeries Engine.",
+        "properties": [
+          "SteelSeries",
+          "SteelSeries Rival",
+          "Mus",
+          "Tr\u00e5dl\u00f6s",
+          "6 knappar",
+          "Ergonomisk",
+          "Gaming",
+          "F\u00f6r resan",
+          "Programmerbar",
+          "8\u00a0500 dpi"
+        ],
+        "url": "https://www.google.se/shopping/product/18422915240676923584?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 1463,
+        "review_rating": 92,
+        "price": "449.0",
+        "gtins": [
+          "5707119039833"
+        ],
+        "eans": [
+          "5707119039833"
+        ],
+        "brand_name": "SteelSeries",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Spr\u00e5k",
+            "value": [
+              "Italienska"
+            ]
+          },
+          {
+            "label": "Produktens m\u00e5tt",
+            "value": [
+              "6.7 x 12.1 x 3.8 cm; 77 Gram"
+            ]
+          },
+          {
+            "label": "Ursprungsland",
+            "value": [
+              "Kina"
+            ]
+          },
+          {
+            "label": "Typ av anslutning",
+            "value": [
+              "USB"
+            ]
+          },
+          {
+            "label": "Rekommenderade anv\u00e4ndningsomr\u00e5den f\u00f6r produkt",
+            "value": [
+              "Spielen"
+            ]
+          },
+          {
+            "label": "Modellnamn",
+            "value": [
+              "Rival 3"
+            ]
+          },
+          {
+            "label": "Antal knappar",
+            "value": [
+              "6"
+            ]
+          },
+          {
+            "label": "Stil",
+            "value": [
+              "Tr\u00e5dbunden"
+            ]
+          },
+          {
+            "label": "Artikelm\u00e5tt LxBxH",
+            "value": [
+              "6.7 x 12.1 x 3.8 centimeter"
+            ]
+          },
+          {
+            "label": "Artikelns vikt",
+            "value": [
+              "77 Gram"
+            ]
+          },
+          {
+            "label": "Maskinvaruplattform",
+            "value": [
+              "Windows"
+            ]
+          },
+          {
+            "label": "Antal artiklar",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Sp\u00e4nning",
+            "value": [
+              "1.1 Sp\u00e4nning"
+            ]
+          },
+          {
+            "label": "Watt",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Typ av str\u00f6mk\u00e4lla",
+            "value": [
+              "Handman\u00f6vrerad"
+            ]
+          },
+          {
+            "label": "Batterier inkluderade",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Batterier kr\u00e4vs",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Materialtyp",
+            "value": [
+              "Polymer"
+            ]
+          },
+          {
+            "label": "Includes Ac Adapter",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "SteelSeries"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "281465",
+              "49840409",
+              "50722610",
+              "50730437",
+              "51877599",
+              "52123832",
+              "62513",
+              "63450600",
+              "70747289",
+              "83835106",
+              "995641569",
+              "S5603235"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "05707119039833"
+            ]
+          }
+        ],
+        "offer_count": 11,
+        "offers_url": "https://www.google.se/shopping/product/18422915240676923584/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "18422915240676923584",
+            "price": "449.0",
+            "price_additional_info": null,
+            "price_with_shipping": "449.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.webhallen.com/se/product/312748-SteelSeries-Rival-3?channable=00c0c769640033313237343877",
+            "shop_name": "Webhallen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-82f3e802042",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-82f3e802042",
+            "shop_url": "www.webhallen.com",
+            "shop_domain": "webhallen.com",
+            "shop_matching_id": "webhallen.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "18422915240676923584",
+            "price": "449.0",
+            "price_additional_info": null,
+            "price_with_shipping": "449.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inet.se/produkt/6100876/steelseries-rival-3",
+            "shop_name": "Inet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fad01df70fc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fad01df70fc",
+            "shop_url": "www.inet.se",
+            "shop_domain": "inet.se",
+            "shop_matching_id": "inet.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "18422915240676923584",
+            "price": "341.0",
+            "price_additional_info": null,
+            "price_with_shipping": "381.0",
+            "shipping_costs": "40.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/5951881/steelseries-rival-3-mus-optisk-6-knappar-kabelansluten-usb",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "18422915240676923584",
+            "price": "429.0",
+            "price_additional_info": null,
+            "price_with_shipping": "498.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.conrad.se/p/-2245901?vat=true&utm_source=google&utm_medium=surfaces&utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_term=2245901",
+            "shop_name": "Conrad.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-243c865299c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-243c865299c",
+            "shop_url": "www.conrad.se",
+            "shop_domain": "conrad.se",
+            "shop_matching_id": "conrad.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "18422915240676923584",
+            "price": "381.0",
+            "price_additional_info": null,
+            "price_with_shipping": "381.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/steelseries-rival-3-mus-optisk-6-knappar-kabelansluten-usb-p50730437",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "18422915240676923584",
+            "price": "366.0",
+            "price_additional_info": null,
+            "price_with_shipping": "465.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/161/107199/sort/1/filter/0_0_0_0/Rival-3-mus.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "18422915240676923584",
+            "price": "472.99",
+            "price_additional_info": null,
+            "price_with_shipping": "556.98",
+            "shipping_costs": "83.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/steelseries-spelmus-rival-3-8500-dpi/138461598/p?utm_source=google_products&utm_medium=merchant&id_producte=14579496&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "18422915240676923584",
+            "price": "449.0",
+            "price_additional_info": null,
+            "price_with_shipping": "518.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011172655/rival-3?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "18422915240676923584",
+            "price": "449.0",
+            "price_additional_info": null,
+            "price_with_shipping": "449.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.alina.se/Produkt.aspx?site=gm&T2=62513",
+            "shop_name": "Alina.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3895675bbec",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3895675bbec",
+            "shop_url": "www.alina.se",
+            "shop_domain": "alina.se",
+            "shop_matching_id": "alina.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "18422915240676923584",
+            "price": "557.0",
+            "price_additional_info": null,
+            "price_with_shipping": "606.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/steelseries-rival-3-gaming-mouse/cat-p/c/p1000627944",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "18422915240676923584",
+            "price": "562.0",
+            "price_additional_info": null,
+            "price_with_shipping": "562.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fruugo.se/steelseries-rival-3-spelmus-tradbunden-svart/p-63146563-127508104?language=sv&ac=croud&utm_source=organic_shopping&utm_medium=organic",
+            "shop_name": "fruugo.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fdf04e0f8d5",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fdf04e0f8d5",
+            "shop_url": "www.fruugo.se",
+            "shop_domain": "fruugo.se",
+            "shop_matching_id": "fruugo.se",
+            "page": 1,
+            "position": 11
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06406383196103",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:52Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06468118547024",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:53Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06480574961077",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:53Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06492793607889",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:53Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06921815610908",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:11:57Z"
+      },
+      "content": {
+        "id": "6621762666450107060",
+        "name": "OnePlus Buds (Gr\u00e5)",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTb30FHkLeOidwk9Ct-i2Gr4Hpzw5V6VcF6y5YEdlhUG3Kk3bXaqd8v5y1XzXdEuOw-SUNERPWu&usqp=CAY",
+        "description": "OnePlus Buds kommer i 3st olika f\u00e4rger och har en batteritid p\u00e5 upp till 30 timmar. H\u00f6rlurarna laddas enkelt via USB-C och har dessutom st\u00f6d f\u00f6r snabbladdning. Med h\u00f6gtalarelement p\u00e5 13,4 mm f\u00e5r du uppleva rikt ljud och \u00f6verl\u00e4gsen tonalitet. Om du tittar p\u00e5 mycket film och serier s\u00e5 kan du \u00e4ven gl\u00e4djas \u00e5t att dem har st\u00f6d f\u00f6r Dolby Atmos. Snabbladdning: Laddningsfodral - 10 min ger 10 timmar Earbuds - 10 min ger 100 min speltid H\u00f6rlurarna \u00e4r gr\u00e5are i verkligheten \u00e4n p\u00e5 bilden.",
+        "properties": [
+          "In-ear",
+          "Tr\u00e5dl\u00f6sa",
+          "Brusreducerande",
+          "Bluetooth",
+          "Med mikrofon",
+          "Gray",
+          "Med laddningsfodral",
+          "Med pekkontroller",
+          "Google Assistent"
+        ],
+        "url": "https://www.google.se/shopping/product/6621762666450107060?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 130,
+        "review_rating": 78,
+        "price": "765.0",
+        "gtins": [
+          "6921815610908"
+        ],
+        "eans": [
+          "6921815610908"
+        ],
+        "brand_name": "OnePlus",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "True wireless-h\u00f6rlurar - Bluetooth - tr\u00e5dl\u00f6s"
+            ]
+          },
+          {
+            "label": "Rekommenderad anv\u00e4ndning",
+            "value": [
+              "B\u00e4rbar elektronik"
+            ]
+          },
+          {
+            "label": "Skydd",
+            "value": [
+              "St\u00e4nks\u00e4ker",
+              "IPX4"
+            ]
+          },
+          {
+            "label": "Max man\u00f6veravst\u00e5nd",
+            "value": [
+              "10 m"
+            ]
+          },
+          {
+            "label": "H\u00f6rlursmodell",
+            "value": [
+              "\u00d6ronknopp"
+            ]
+          },
+          {
+            "label": "H\u00f6rlursteknik",
+            "value": [
+              "Dynamisk"
+            ]
+          },
+          {
+            "label": "Anslutningsteknik",
+            "value": [
+              "Tr\u00e5dl\u00f6s"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s teknik",
+            "value": [
+              "Bluetooth"
+            ]
+          },
+          {
+            "label": "Bluetoothversion",
+            "value": [
+              "Bluetooth 5.0"
+            ]
+          },
+          {
+            "label": "Ljudutg\u00e5ngsl\u00e4ge",
+            "value": [
+              "Stereo"
+            ]
+          },
+          {
+            "label": "Ljudeffekter",
+            "value": [
+              "Dolby Atmos",
+              "Dirac Audio Tuner"
+            ]
+          },
+          {
+            "label": "K\u00e4nslighet",
+            "value": [
+              "97 dB +/- 3dB"
+            ]
+          },
+          {
+            "label": "Membran",
+            "value": [
+              "13.4 mm"
+            ]
+          },
+          {
+            "label": "Batteri",
+            "value": [
+              "2 x h\u00f6rlursbatteri laddningsbart"
+            ]
+          },
+          {
+            "label": "Inkluderad kvantitet",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Kapacitet",
+            "value": [
+              "35 mAh"
+            ]
+          },
+          {
+            "label": "Driftstid (upp till)",
+            "value": [
+              "7 timmar"
+            ]
+          },
+          {
+            "label": "Laddningstid",
+            "value": [
+              "80 min"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "OnePlus"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "3B1-E1C-FC3",
+              "54205968",
+              "5481100037",
+              "5481100037_2",
+              "57643454",
+              "57990534",
+              "58134909",
+              "61560041",
+              "75688676",
+              "83730"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "06921815610908"
+            ]
+          }
+        ],
+        "offer_count": 3,
+        "offers_url": "https://www.google.se/shopping/product/6621762666450107060/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "6621762666450107060",
+            "price": "765.0",
+            "price_additional_info": null,
+            "price_with_shipping": "834.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011190585/buds-gray?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "6621762666450107060",
+            "price": "819.0",
+            "price_additional_info": null,
+            "price_with_shipping": "858.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/original-oneplus-buds-true-wireless-tradlosa-horlurar-gra-p76078503",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "6621762666450107060",
+            "price": "999.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1018.0",
+            "shipping_costs": "19.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://fyndiq.se/produkt/oneplus-tradlosa-horlurar-buds-gra-6e99931cb2ba4960/",
+            "shop_name": "Fyndiq.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-7acd4b25fca",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-7acd4b25fca",
+            "shop_url": "fyndiq.se",
+            "shop_domain": "fyndiq.se",
+            "shop_matching_id": "fyndiq.se",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08718863025642",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:53Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08718863028346",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:11:56Z"
+      },
+      "content": {
+        "id": "12064533921480179872",
+        "name": "Philips 55\" 4K UHD Ambilight TV 55PUS7906/12",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRI1abd8y5y4IuyvfMMcIntxhLYWCoF0q93CGUYQ8TrOTByCwLW57J-VwZMki7r6_QVLsuuN6Jm&usqp=CAY",
+        "description": "Livfull bild. J\u00e4mna r\u00f6relser. Magiskt ljus. All action hoppar ut fr\u00e5n sk\u00e4rmen med denna Philips 4K Android TV. HDR-inneh\u00e5ll ser fantastiskt ut och Ambilight f\u00e5r filmer, serier och spel att k\u00e4nnas st\u00f6rre och mer uppslukande. Dolby Atmos ger dig f\u00f6rstklassigt ljud som matchar den fantastiska bilden Den med magisk Ambilight.",
+        "properties": [
+          "Energiklass: G",
+          "Philips",
+          "55 tum",
+          "Smart-tv",
+          "LED",
+          "4K",
+          "Djup: 7,9 cm",
+          "14,2 kg",
+          "High Definition",
+          "3840 x 2160"
+        ],
+        "url": "https://www.google.se/shopping/product/12064533921480179872?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 263,
+        "review_rating": 86,
+        "price": "8490.0",
+        "gtins": [
+          "8718863028346"
+        ],
+        "eans": [
+          "8718863028346"
+        ],
+        "brand_name": "Philips",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "LED-bakgrundsbelyst LCD-TV - Smart TV"
+            ]
+          },
+          {
+            "label": "Energiklass",
+            "value": [
+              "Klass G"
+            ]
+          },
+          {
+            "label": "Energiklass (HDR)",
+            "value": [
+              "Klass G"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtion (driftl\u00e4ge)",
+            "value": [
+              "91 W"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning f\u00f6r SDR (P\u00e5-l\u00e4ge)",
+            "value": [
+              "91 kWh/1 000 h"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning HDR (P\u00e5-l\u00e4ge)",
+            "value": [
+              "101 kWh/1 000 h"
+            ]
+          },
+          {
+            "label": "Diagonalklass",
+            "value": [
+              "55\""
+            ]
+          },
+          {
+            "label": "Plattform",
+            "value": [
+              "Android TV"
+            ]
+          },
+          {
+            "label": "HDR-f\u00f6rberedd",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "HDR-format",
+            "value": [
+              "HDR10",
+              "HDR10+",
+              "Dolby Vision",
+              "HLG10"
+            ]
+          },
+          {
+            "label": "TV-mottagaravk\u00e4nning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Sensorer",
+            "value": [
+              "Ljussensor"
+            ]
+          },
+          {
+            "label": "Videogr\u00e4nssnitt",
+            "value": [
+              "HDMI"
+            ]
+          },
+          {
+            "label": "HDMI-portskvantitet",
+            "value": [
+              "4 portar"
+            ]
+          },
+          {
+            "label": "L\u00e4gen",
+            "value": [
+              "Spell\u00e4ge",
+              "ekol\u00e4ge",
+              "salongsl\u00e4ge"
+            ]
+          },
+          {
+            "label": "Bildf\u00f6rb\u00e4ttringar",
+            "value": [
+              "Pixel Precise Ultra HD"
+            ]
+          },
+          {
+            "label": "Ambilight",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Ambilight-typ",
+            "value": [
+              "Ambilight 3-sidig",
+              "Ambilight+hue"
+            ]
+          },
+          {
+            "label": "Dimensioner",
+            "value": [
+              "Utan st\u00e4ll"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "7.94 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "14.2 kg"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning",
+            "value": [
+              "3840 x 2160"
+            ]
+          },
+          {
+            "label": "Visningsformat",
+            "value": [
+              "4K UHD (2160p)"
+            ]
+          },
+          {
+            "label": "Bildkvot",
+            "value": [
+              "16:9"
+            ]
+          },
+          {
+            "label": "Rampris och f\u00f6rh\u00f6jningsteknologi",
+            "value": [
+              "Variable Refresh Rate (VRR)"
+            ]
+          },
+          {
+            "label": "LCD-teknik f\u00f6r bakgrundsbelysning",
+            "value": [
+              "LED-bakgrundsbelysning"
+            ]
+          },
+          {
+            "label": "St\u00e4ll",
+            "value": [
+              "Inkluderad"
+            ]
+          },
+          {
+            "label": "Design st\u00e4ll",
+            "value": [
+              "Bordsmodell"
+            ]
+          },
+          {
+            "label": "F\u00e4rg st\u00e4ll",
+            "value": [
+              "Antracitgr\u00e5"
+            ]
+          },
+          {
+            "label": "Egenskaper st\u00e4ll",
+            "value": [
+              "V-Shape"
+            ]
+          },
+          {
+            "label": "Monteringsgr\u00e4nssnitt f\u00f6r platt bildsk\u00e4rm",
+            "value": [
+              "200 x 300 mm"
+            ]
+          },
+          {
+            "label": "\u00d6verensst\u00e4mmer med VESA",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Ing\u00e5ngsvideoformat",
+            "value": [
+              "3840/60p"
+            ]
+          },
+          {
+            "label": "Datoruppl\u00f6sningar som st\u00f6ds",
+            "value": [
+              "3840 x 2160"
+            ]
+          },
+          {
+            "label": "Text-TV",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Text-TV-minne",
+            "value": [
+              "1000 sidor"
+            ]
+          },
+          {
+            "label": "Elektronisk programguide",
+            "value": [
+              "8 dagars EPG"
+            ]
+          },
+          {
+            "label": "Ljudformat som st\u00f6ds",
+            "value": [
+              "MP3",
+              "WMA",
+              "WAV",
+              "AAC",
+              "WMA Pro"
+            ]
+          },
+          {
+            "label": "Bildformat som st\u00f6ds",
+            "value": [
+              "BMP",
+              "GIF",
+              "PNG",
+              "JPEG",
+              "HEIF"
+            ]
+          },
+          {
+            "label": "USB-port",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Antal USB-portar",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Konfiguration",
+            "value": [
+              "Quad-Core 8 GB"
+            ]
+          },
+          {
+            "label": "Operativsystem",
+            "value": [
+              "Android TV 10"
+            ]
+          },
+          {
+            "label": "Batteriets formfaktor",
+            "value": [
+              "AAA-typ"
+            ]
+          },
+          {
+            "label": "Batteri ing\u00e5r",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Antal batterier som medf\u00f6ljer",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Surround-l\u00e4ge",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Ljudeffekter",
+            "value": [
+              "Dolby Atmos"
+            ]
+          },
+          {
+            "label": "Tonkontroll",
+            "value": [
+              "Ja (med 5 band)"
+            ]
+          },
+          {
+            "label": "H\u00f6gtalarsystem",
+            "value": [
+              "2 h\u00f6gtalare"
+            ]
+          },
+          {
+            "label": "Uteffekt / total",
+            "value": [
+              "20 Watt"
+            ]
+          },
+          {
+            "label": "H\u00f6gtalare",
+            "value": [
+              "2 x h\u00f6gtalare - 10 Watt"
+            ]
+          },
+          {
+            "label": "Specifikationer f\u00f6r drivrutin",
+            "value": [
+              "H\u00f6gtalarelement: 2 x universell drivrutin"
+            ]
+          },
+          {
+            "label": "Anknytningsbarhet",
+            "value": [
+              "Wi-Fi",
+              "LAN",
+              "Bluetooth"
+            ]
+          },
+          {
+            "label": "LAN-protokoll",
+            "value": [
+              "Ethernet"
+            ]
+          },
+          {
+            "label": "Wi-Fi-protokoll",
+            "value": [
+              "802.11n"
+            ]
+          },
+          {
+            "label": "Bluetoothversion",
+            "value": [
+              "Bluetooth 5.0"
+            ]
+          },
+          {
+            "label": "Anslut och dela",
+            "value": [
+              "Sk\u00e4rmspegling",
+              "SImplyShare"
+            ]
+          },
+          {
+            "label": "St\u00f6d f\u00f6r CEC",
+            "value": [
+              "EasyLink"
+            ]
+          },
+          {
+            "label": "N\u00e4tdel",
+            "value": [
+              "N\u00e4taggregat"
+            ]
+          },
+          {
+            "label": "Insp\u00e4nning",
+            "value": [
+              "AC 230 V (50/60 Hz)"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtionsst\u00e4ll med",
+            "value": [
+              "0.3 Watt"
+            ]
+          },
+          {
+            "label": "Automatisk av-/p\u00e5slagning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Bredd (brutto)",
+            "value": [
+              "136 cm"
+            ]
+          },
+          {
+            "label": "Djup (brutto)",
+            "value": [
+              "16 cm"
+            ]
+          },
+          {
+            "label": "H\u00f6jd (brutto)",
+            "value": [
+              "84 cm"
+            ]
+          },
+          {
+            "label": "Vikt (brutto)",
+            "value": [
+              "18.9 kg"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Philips"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "55PUS7906/12",
+              "55pus790612"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "08718863028346"
+            ]
+          }
+        ],
+        "offer_count": 8,
+        "offers_url": "https://www.google.se/shopping/product/12064533921480179872/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "12064533921480179872",
+            "price": "8490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/tv-bild/tv/310759/philips-55-pus7906-4k-led-2021",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "12064533921480179872",
+            "price": "8490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1188701/tv-ljud-bild/tv-video/tv/philips-55-4k-uhd-ambilight-tv-55pus790612?channable=0094536964003131383837303148",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "12064533921480179872",
+            "price": "8490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.webhallen.com/se/product/336241-Philips-2021-55-55PUS790612-3-sided-Ambilight-TV-4K-UHD-Android-TV?channable=00c0c76964003333363234318f",
+            "shop_name": "Webhallen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-82f3e802042",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-82f3e802042",
+            "shop_url": "www.webhallen.com",
+            "shop_domain": "webhallen.com",
+            "shop_matching_id": "webhallen.com",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "12064533921480179872",
+            "price": "9490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9490.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/TV/Philips-55-TV-55PUS790612-Ambilight-LED-4K/2933054?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "12064533921480179872",
+            "price": "8488.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8488.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7385443/philips-55pus7906-55-diagonal-klass-7900-series-led-bakgrundsbelyst-lcd-tv-smart-tv-android-tv-4k-uhd-2160p-3840-x-2160-hdr",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "12064533921480179872",
+            "price": "8708.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9107.0",
+            "shipping_costs": "399.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011250608/philips-55pus7906-55-4k-led-smart-ambilight-tv?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "12064533921480179872",
+            "price": "8019.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8118.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/188/185272/sort/1/filter/0_0_0_0/55PUS7906-12-TV.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "12064533921480179872",
+            "price": "10956.0",
+            "price_additional_info": null,
+            "price_with_shipping": "11005.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/philips-55-4k-smart-tv/cat-p/c36211/p1002036764",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 8
+          }
+        ]
+      }
+    }
+  ]
+}

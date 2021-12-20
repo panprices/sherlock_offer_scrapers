@@ -1,0 +1,3294 @@
+{
+  "job_id": "61c0650e8012fa0022e4b9e4",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 20,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195348354554",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:19Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=00195348354554&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.datagrottan.se/lenovo-ideacentre-g5-14amr05-amd/cat-p/c36161/p1001585681/gr_0",
+            "name": "LENOVO - IdeaCentre G5 GeForce GTX 1650 Super, Ryzen 5 3600,16 GB RAM,512 GB SSD, WiFi, Windows 10 Home",
+            "product_properties": [],
+            "price": "10202.0",
+            "shipping_costs": "49.0",
+            "price_with_shipping": "10251.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Datagrottan",
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "Datagrottan",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195348377300",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:12:23Z"
+      },
+      "content": {
+        "id": "17154000831562603452",
+        "name": "Lenovo ThinkPad E15 G2 15.6\" Full HD, Core i7",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRU6XUEiboOSLaIHm_XgEv9vWTm16UK-nMLtnYxfOyEC8_re80&usqp=CAY",
+        "description": "Iris Xe, Core i7-1165G7, 16GB RAM, 512GB SSD, Windows 10 Pro - Datorer - B\u00e4rbara / laptop Ultraportabel",
+        "properties": [
+          "Lenovo",
+          "ThinkPad",
+          "ThinkPad Edge"
+        ],
+        "url": "https://www.google.se/shopping/product/17154000831562603452?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 0,
+        "review_rating": null,
+        "price": "12688.0",
+        "gtins": [
+          "195348377300"
+        ],
+        "eans": [
+          "0195348377300"
+        ],
+        "brand_name": "Lenovo",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Notebook"
+            ]
+          },
+          {
+            "label": "CPU",
+            "value": [
+              "Intel Core i7 11:e gen. 1165G7 / 2.8 GHz"
+            ]
+          },
+          {
+            "label": "Max. turbohastighet",
+            "value": [
+              "4.7 GHz"
+            ]
+          },
+          {
+            "label": "Antal k\u00e4rnor",
+            "value": [
+              "Fyrk\u00e4rnig"
+            ]
+          },
+          {
+            "label": "Cache",
+            "value": [
+              "12 MB"
+            ]
+          },
+          {
+            "label": "Funktioner",
+            "value": [
+              "Integrerad minnesstyrenhet"
+            ]
+          },
+          {
+            "label": "RAM",
+            "value": [
+              "16 GB (1 x 16 GB)"
+            ]
+          },
+          {
+            "label": "Max. RAM som st\u00f6ds",
+            "value": [
+              "32 GB"
+            ]
+          },
+          {
+            "label": "Hastighet",
+            "value": [
+              "3200 MHz"
+            ]
+          },
+          {
+            "label": "Nominell hastighet",
+            "value": [
+              "3200 MHz"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "SO DIMM 260-pin"
+            ]
+          },
+          {
+            "label": "Antal kortplatser",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Tomma kortplatser",
+            "value": [
+              "0"
+            ]
+          },
+          {
+            "label": "LCD-bakgrundsbelysningsteknik",
+            "value": [
+              "LED-bakgrundsbelysning"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning",
+            "value": [
+              "1920 x 1080 (Full HD)"
+            ]
+          },
+          {
+            "label": "Bredsk\u00e4rm",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Bildkvot",
+            "value": [
+              "16:9"
+            ]
+          },
+          {
+            "label": "Ljusstyrka f\u00f6r bild",
+            "value": [
+              "250 cd/m\u00b2"
+            ]
+          },
+          {
+            "label": "Grafikprocessor",
+            "value": [
+              "Intel Iris Xe Graphics"
+            ]
+          },
+          {
+            "label": "Kamera",
+            "value": [
+              "Ja - 720p"
+            ]
+          },
+          {
+            "label": "Kameraegenskaper",
+            "value": [
+              "ThinkShutter kamerasekretess"
+            ]
+          },
+          {
+            "label": "Ljud",
+            "value": [
+              "H\u00f6gtalare",
+              "mikrofon med tv\u00e5 l\u00e4gen"
+            ]
+          },
+          {
+            "label": "Ljudfunktioner",
+            "value": [
+              "Harman/Kardon stereoh\u00f6gtalare"
+            ]
+          },
+          {
+            "label": "Bakgrundsbelysning, tangentbord",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Tangentbordslayout",
+            "value": [
+              "Nordisk"
+            ]
+          },
+          {
+            "label": "Numeriskt tangentbord",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s",
+            "value": [
+              "802.11a/b/g/n/ac/ax",
+              "Bluetooth 5.1"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s styrenhet",
+            "value": [
+              "Intel Wi-Fi 6 AX 201 - M.2 Card"
+            ]
+          },
+          {
+            "label": "N\u00e4tverksgr\u00e4nssnitt",
+            "value": [
+              "Gigabit Ethernet"
+            ]
+          },
+          {
+            "label": "Ethernet-styrenhet",
+            "value": [
+              "Realtek RTL8111H"
+            ]
+          },
+          {
+            "label": "Kapacitet",
+            "value": [
+              "45 Wh"
+            ]
+          },
+          {
+            "label": "K\u00f6rtid",
+            "value": [
+              "Upp till 10.8 timmar"
+            ]
+          },
+          {
+            "label": "L\u00e5dmaterial",
+            "value": [
+              "Aluminium",
+              "polykarbonat-ABS"
+            ]
+          },
+          {
+            "label": "St\u00f6ld-/inbrottsskydd",
+            "value": [
+              "Plats f\u00f6r s\u00e4kerhetsl\u00e5s (kabell\u00e5s s\u00e4ljs separat)"
+            ]
+          },
+          {
+            "label": "Typ av s\u00e4kerhetsplats",
+            "value": [
+              "Kensington s\u00e4kerhetsplats"
+            ]
+          },
+          {
+            "label": "Inkluderade tillbeh\u00f6r",
+            "value": [
+              "USB-C str\u00f6madapter"
+            ]
+          },
+          {
+            "label": "TCO-certifierad",
+            "value": [
+              "TCO Certified Notebooks 8"
+            ]
+          },
+          {
+            "label": "EPEAT-kompatibel",
+            "value": [
+              "EPEAT Gold"
+            ]
+          },
+          {
+            "label": "ENERGY STAR-certifierad",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Lenovo"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "20TD001JMX"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00195348377300"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/17154000831562603452/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "17154000831562603452",
+            "price": "12688.0",
+            "price_additional_info": null,
+            "price_with_shipping": "12737.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/lenovo-thinkpad-e15-g2-156/cat-p/c/p1001542966",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195348380614",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:19Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195348834131",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:12:24Z"
+      },
+      "content": {
+        "id": "5063322904476954141",
+        "name": "Lenovo V50s SFF",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTrhpU1jVXEdLYZdqDHhSKsNHQ3D-VjIrdtphy90F0Zy-qltWr7&usqp=CAY",
+        "description": "Core i9-10900, 32GB RAM, 1TB SSD, DVD\u00b1RW, Windows 10 Pro - Datorer - Station\u00e4ra Alla station\u00e4ra datorer",
+        "properties": [
+          "Lenovo",
+          "V Series"
+        ],
+        "url": "https://www.google.se/shopping/product/5063322904476954141?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 0,
+        "review_rating": null,
+        "price": "16990.0",
+        "gtins": [
+          "195348834131"
+        ],
+        "eans": [
+          "0195348834131"
+        ],
+        "brand_name": "Lenovo",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "Formfaktor f\u00f6r produkt",
+            "value": [
+              "Liten formfaktor"
+            ]
+          },
+          {
+            "label": "Inbyggda enheter",
+            "value": [
+              "H\u00f6gtalare"
+            ]
+          },
+          {
+            "label": "Max. turbohastighet",
+            "value": [
+              "5.2 GHz"
+            ]
+          },
+          {
+            "label": "Antal k\u00e4rnor",
+            "value": [
+              "10-k\u00e4rnig"
+            ]
+          },
+          {
+            "label": "Antal CPU",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Max. CPU-antal",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Kretstyp",
+            "value": [
+              "Intel B460"
+            ]
+          },
+          {
+            "label": "Installerad storlek",
+            "value": [
+              "32 GB / 32 GB (max)"
+            ]
+          },
+          {
+            "label": "Teknik",
+            "value": [
+              "DDR4 SDRAM"
+            ]
+          },
+          {
+            "label": "Effektiv minneshastighet",
+            "value": [
+              "2666 MHz"
+            ]
+          },
+          {
+            "label": "Minneshastighet",
+            "value": [
+              "2666 MHz"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "DIMM 288-pin"
+            ]
+          },
+          {
+            "label": "Kortplatser",
+            "value": [
+              "2 (Total) / 0 (tom)"
+            ]
+          },
+          {
+            "label": "Konfigurationsegenskaper",
+            "value": [
+              "2 x 16 GB"
+            ]
+          },
+          {
+            "label": "Kapacitet",
+            "value": [
+              "1 x 1 TB"
+            ]
+          },
+          {
+            "label": "Typ av styrgr\u00e4nssnitt",
+            "value": [
+              "SATA 6Gb/s"
+            ]
+          },
+          {
+            "label": "Antal kanaler",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Konfigurering av flera GPU",
+            "value": [
+              "1 enkelt GPU-kort/integrerad GPU"
+            ]
+          },
+          {
+            "label": "Grafikprocessor",
+            "value": [
+              "NVIDIA GeForce GT 730 / Intel UHD Graphics 630"
+            ]
+          },
+          {
+            "label": "Videominne",
+            "value": [
+              "2 GB GDDR5 SDRAM"
+            ]
+          },
+          {
+            "label": "Videogr\u00e4nssnitt",
+            "value": [
+              "VGA",
+              "HDMI"
+            ]
+          },
+          {
+            "label": "Namn tangentbord",
+            "value": [
+              "Lenovo Calliope Keyboard"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt",
+            "value": [
+              "USB"
+            ]
+          },
+          {
+            "label": "LOkalisering och layout",
+            "value": [
+              "Norsk"
+            ]
+          },
+          {
+            "label": "Typ av enhet",
+            "value": [
+              "N\u00e4taggregat"
+            ]
+          },
+          {
+            "label": "N\u00e4tsp\u00e4nning",
+            "value": [
+              "AC 120/230 V (50/60 Hz)"
+            ]
+          },
+          {
+            "label": "Effekt",
+            "value": [
+              "260 Watt"
+            ]
+          },
+          {
+            "label": "Effektivitet",
+            "value": [
+              "85%"
+            ]
+          },
+          {
+            "label": "EPEAT-kompatibel",
+            "value": [
+              "EPEAT Silver"
+            ]
+          },
+          {
+            "label": "ENERGY STAR-certifierad",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "ENERGY STAR-version",
+            "value": [
+              "8.0"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "30.4 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "4.2 kg"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Lenovo"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "11EF0048MT"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00195348834131"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.se/shopping/product/5063322904476954141/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "5063322904476954141",
+            "price": "16990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "16990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1189916/dator-surfplatta/datorer-stationara/alla-stationara-datorer/lenovo-v50s-sff?channable=00945369640031313839393136ee",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "5063322904476954141",
+            "price": "16343.0",
+            "price_additional_info": null,
+            "price_with_shipping": "16392.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/lenovo-v-series-v50s-sff/cat-p/c0/p1001551378",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072791261",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:19Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072792305",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:19Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072793807",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:19Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072793821",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:19Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04895173623264",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:19Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04895173623455",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:20Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04895229109865",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:12:23Z"
+      },
+      "content": {
+        "id": "3261403147908418271",
+        "name": "Philips TAW6505/10 - H\u00f6gtalare",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRndwI3gw3MPhqmKgq58Cp2SCh5WNDIMTEpjZB2LAs5sfkHPaZmF3zkQxHeNSKxrnC5SKE5CgWd&usqp=CAY",
+        "description": "Den nyaste uppdateringen g\u00f6r att du snabbare hittar anslutningsbara h\u00f6gtalare och du f\u00e5r \u00e4ven en mer stabil och f\u00f6rb\u00e4ttrad Wi-Fi uppkoppling. Ladda ner uppdateringen i din Philips Sound App Den h\u00e4r tr\u00e5dl\u00f6sa h\u00f6gtalaren ger dig fylligt ljud p\u00e5 80 W. Tv\u00e5 woofer, tv\u00e5 passiva h\u00f6gtalarelement och tv\u00e5 tweetrar kombineras f\u00f6r att ge dig ljud som fyller hela rummet med kraftfull bas och klar diskant. Den h\u00e4r Wi-Fi h\u00f6gtalaren \u00e4r kompatibel med DTS Play-Fi. Synkronisera med DTS Play-Fi-kompatibla h\u00f6gtalare, inklusive kompatibla SoundBar som inte \u00e4r inbyggda i TV-apparater, f\u00f6r ljud med flera rum. Wi-Fi-h\u00f6gtalaren kan anslutas till dina favoritenheter med r\u00f6stassistent. Be Alexa-aktiverade enheter eller enheter som har Google Assistent att spela upp musik via h\u00f6gtalaren. Tack vare Wi-Fi, Bluetooth, Google Chromecast och Apple AirPlay 2-kompatibilitet kan du streama din favoritmusik som du vill. H\u00f6gtalaren \u00e4r ocks\u00e5 kompatibel med Ambilight.",
+        "properties": [
+          "Tr\u00e5dl\u00f6sa",
+          "Smart h\u00f6gtalare",
+          "Silverprodukt",
+          "Soundbar",
+          "H\u00f6gtalardocka",
+          "P\u00e5 golvet",
+          "Google Assistent",
+          "Amazon Alexa",
+          "Siri",
+          "Med r\u00f6ststyrning"
+        ],
+        "url": "https://www.google.se/shopping/product/3261403147908418271?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 32,
+        "review_rating": 56,
+        "price": "2490.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "Philips TAW6505 - h\u00f6gtalare - tr\u00e5dl\u00f6s",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produktbeskrivning",
+            "value": [
+              "Philips TAW6505 - h\u00f6gtalare - tr\u00e5dl\u00f6s"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "H\u00f6gtalare - 2.0-kanals"
+            ]
+          },
+          {
+            "label": "Kapslingsdesign",
+            "value": [
+              "Passivt element"
+            ]
+          },
+          {
+            "label": "H\u00f6gtalartyp",
+            "value": [
+              "2-v\u00e4gs - aktiv"
+            ]
+          },
+          {
+            "label": "Nominell uteffekt",
+            "value": [
+              "80 Watt"
+            ]
+          },
+          {
+            "label": "F\u00f6rst\u00e4rkare",
+            "value": [
+              "Integrerad"
+            ]
+          },
+          {
+            "label": "AirPlay",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Play-Fi",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Streamingtj\u00e4nster",
+            "value": [
+              "Deezer",
+              "TIDAL",
+              "Chromecast",
+              "Spotify Connect"
+            ]
+          },
+          {
+            "label": "Str\u00f6mtillf\u00f6rsel",
+            "value": [
+              "AC 120/230 V (50/60 Hz)"
+            ]
+          },
+          {
+            "label": "Str\u00f6malternativ",
+            "value": [
+              "Standbyl\u00e4ge"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxDxH)",
+            "value": [
+              "35 cm x 13.2 cm x 15.1 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "3.5 kg"
+            ]
+          },
+          {
+            "label": "Belysning",
+            "value": [
+              "Flerf\u00e4rgad LED-belysning"
+            ]
+          },
+          {
+            "label": "Total \u00f6vertonsdistortion",
+            "value": [
+              "1%"
+            ]
+          },
+          {
+            "label": "Flera rum",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Teknologi som klarar flera rum",
+            "value": [
+              "AirPlay 2"
+            ]
+          },
+          {
+            "label": "S\u00e4ndningsomr\u00e5de",
+            "value": [
+              "10 m"
+            ]
+          },
+          {
+            "label": "ISS (Internet Streaming Services)",
+            "value": [
+              "Deezer",
+              "TIDAL",
+              "Chromecast",
+              "Spotify Connect"
+            ]
+          },
+          {
+            "label": "Kontroller",
+            "value": [
+              "Volym"
+            ]
+          },
+          {
+            "label": "App-kontrollerad",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Kompatibel med Internet of Things (IoT)",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Kommunikationstyp",
+            "value": [
+              "Produkt-till-produkt"
+            ]
+          },
+          {
+            "label": "Kommunikationsteknologi",
+            "value": [
+              "Wi-Fi"
+            ]
+          },
+          {
+            "label": "R\u00f6ststyrning",
+            "value": [
+              "Indirekt"
+            ]
+          },
+          {
+            "label": "Inkluderade tillbeh\u00f6r",
+            "value": [
+              "Str\u00f6mkabel"
+            ]
+          },
+          {
+            "label": "Str\u00f6mk\u00e4lla",
+            "value": [
+              "Inbyggd str\u00f6mf\u00f6rs\u00f6rjning"
+            ]
+          },
+          {
+            "label": "N\u00e4tsp\u00e4nning",
+            "value": [
+              "AC 120/230 V (50/60 Hz)"
+            ]
+          },
+          {
+            "label": "Alternativ",
+            "value": [
+              "Standbyl\u00e4ge"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "13.2 cm"
+            ]
+          },
+          {
+            "label": "Emballagets bredd",
+            "value": [
+              "38.8 cm"
+            ]
+          },
+          {
+            "label": "Emballagets djup",
+            "value": [
+              "21.1 cm"
+            ]
+          },
+          {
+            "label": "Emballagets h\u00f6jd",
+            "value": [
+              "20.3 cm"
+            ]
+          },
+          {
+            "label": "Emballagets vikt",
+            "value": [
+              "4.4 kg"
+            ]
+          }
+        ],
+        "offer_count": 8,
+        "offers_url": "https://www.google.se/shopping/product/3261403147908418271/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "3261403147908418271",
+            "price": "2490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/ljud/hogtalare/bluetooth-hogtalare/philips-taw650510-silver/1015927.13770/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "3261403147908418271",
+            "price": "2490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2490.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.power.se/tv-och-ljud/traadlosa-hogtalare/smarta-hogtalare/philips-taw650510-wifi-bluetooth-hogtalare/p-1137691/",
+            "shop_name": "Power.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12a02cb9685",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12a02cb9685",
+            "shop_url": "www.power.se",
+            "shop_domain": "power.se",
+            "shop_matching_id": "power.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "3261403147908418271",
+            "price": "2490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2529.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/philips-taw6505-10-p72066083",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "3261403147908418271",
+            "price": "3490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elon.se/philips-taw6505-silver",
+            "shop_name": "Elon Ljud & Bild",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4d16ab19f9e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4d16ab19f9e",
+            "shop_url": "www.elon.se",
+            "shop_domain": "elon.se",
+            "shop_matching_id": "elon.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "3261403147908418271",
+            "price": "2882.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2981.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/1247/176715/sort/1/filter/0_0_0_0/TAW6505-10-Gray.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "3261403147908418271",
+            "price": "3155.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3155.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7005201/philips-taw6505-h%C3%B6gtalare-2-0-kanals-tr%C3%A5dl%C3%B6s-bluetooth-wi-fi-appkontrollerad-80-watt-2-v%C3%A4gs",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "3261403147908418271",
+            "price": "3499.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3499.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Smarta-Hem/Philips-TAW6505/2885848?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "3261403147908418271",
+            "price": "3095.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3095.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.coolshop.se/produkt/philips-audio-wireless-home-speaker-wifi/239M5R",
+            "shop_name": "Coolshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-7d63ab4be41",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-7d63ab4be41",
+            "shop_url": "www.coolshop.se",
+            "shop_domain": "coolshop.se",
+            "shop_matching_id": "coolshop.se",
+            "page": 1,
+            "position": 8
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04895229117419",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:12:23Z"
+      },
+      "content": {
+        "id": "15122888314189597209",
+        "name": "Philips T2206 In-Ear True Wireless-h\u00f6rlurar (Vit)",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRGYOqwLcJOiQkKxa8DS22iIbcQ6PioZ_7eyI6Ks9T-nQ1CZAhpc0B7vdvUyNc85GgGN7WYDz5QMQ&usqp=CAY",
+        "description": "Tack vare det kompakta laddningsfodralet kan du alltid ha h\u00f6rlurarna med dig. Inte ens pl\u00f6tsligt regn \u00e4r n\u00e5gon fara tack vare IPX4-klassningen och med en total speltid p\u00e5 18 timmar har h\u00f6rlurarna tillr\u00e4ckligt med str\u00f6m f\u00f6r att h\u00e5lla en hel dag. H\u00f6rlurarna h\u00e5lls p\u00e5 plats i \u00f6rat av mjuka och utbytbara silikonkuddar som \u00e4ven reducerar bakgrundsbrus. St\u00e4nks\u00e4kra (IPX4) Eftersom de \u00e4r IPX4-klassade t\u00e5l h\u00f6rlurarna svett och st\u00e4nk. Du kan njuta av h\u00f6gkvalitativt ljud i alla v\u00e4der. 12 timmars spelningstid p\u00e5 laddningsfodralet N\u00e4r h\u00f6rlurarna inte anv\u00e4nds laddas de upp i det mycket lilla laddningsfodralet. N\u00e4r h\u00f6rlurarna \u00e4r fullt laddade har de en speltid p\u00e5 upp till 6 timmar och ett fullt laddat laddningsfodral ger dig ytterligare 12 timmars speltid. Med 15 minuters snabbladdning f\u00e5r du upp till en timmas speltid. Det tar 2 timmar att ladda upp laddningsfodralet helt. Monol\u00e4ge f\u00f6r samtal Du kan f\u00f6rdubbla samtalstiden genom att bara anv\u00e4nda en h\u00f6rlur n\u00e4r den andra laddas. Mikrofonen ansluter automatiskt till den h\u00f6rlur du anv\u00e4nder. Du kan anv\u00e4nda h\u00f6rlurarnas kontroller f\u00f6r att ta emot samtal, justera volymen och aktivera r\u00f6stkontroll f\u00f6r din telefon.",
+        "properties": [
+          "Philips",
+          "In-ear",
+          "Tr\u00e5dl\u00f6sa",
+          "Brusreducerande",
+          "Surroundljud",
+          "Bluetooth",
+          "Med mikrofon",
+          "Vit",
+          "Med laddningsfodral"
+        ],
+        "url": "https://www.google.se/shopping/product/15122888314189597209?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 21,
+        "review_rating": 88,
+        "price": "412.0",
+        "gtins": [
+          "4895229117419"
+        ],
+        "eans": [
+          "4895229117419"
+        ],
+        "brand_name": "Philips",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "True wireless-h\u00f6rlurar - Bluetooth - tr\u00e5dl\u00f6s"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "3.1 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "37 g"
+            ]
+          },
+          {
+            "label": "Rekommenderad anv\u00e4ndning",
+            "value": [
+              "B\u00e4rbar elektronik"
+            ]
+          },
+          {
+            "label": "Skydd",
+            "value": [
+              "St\u00e4nks\u00e4ker",
+              "svett\u00e5lig",
+              "IPX4"
+            ]
+          },
+          {
+            "label": "Max man\u00f6veravst\u00e5nd",
+            "value": [
+              "10 m"
+            ]
+          },
+          {
+            "label": "H\u00f6rlursmodell",
+            "value": [
+              "Inuti \u00f6rat"
+            ]
+          },
+          {
+            "label": "Anslutningsteknik",
+            "value": [
+              "Tr\u00e5dl\u00f6s"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s teknik",
+            "value": [
+              "Bluetooth"
+            ]
+          },
+          {
+            "label": "Bluetoothversion",
+            "value": [
+              "Bluetooth 5.0"
+            ]
+          },
+          {
+            "label": "Max. inmatningsstr\u00f6m",
+            "value": [
+              "5 mW"
+            ]
+          },
+          {
+            "label": "K\u00e4nslighet",
+            "value": [
+              "101 dB"
+            ]
+          },
+          {
+            "label": "Impedans",
+            "value": [
+              "16 ohm"
+            ]
+          },
+          {
+            "label": "Membran",
+            "value": [
+              "6 mm"
+            ]
+          },
+          {
+            "label": "Batteri",
+            "value": [
+              "H\u00f6rlursbatteri laddningsbart - litiumpolymer"
+            ]
+          },
+          {
+            "label": "Driftstid (upp till)",
+            "value": [
+              "18 timme/timmar"
+            ]
+          },
+          {
+            "label": "Laddningstid",
+            "value": [
+              "2 timme/timmar"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Philips"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "TAT2206WT/00"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04895229117419"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.se/shopping/product/15122888314189597209/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "15122888314189597209",
+            "price": "412.0",
+            "price_additional_info": null,
+            "price_with_shipping": "412.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Hoerlurar-Headset/Philips-TAT2206WT/2932458?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "15122888314189597209",
+            "price": "590.0",
+            "price_additional_info": null,
+            "price_with_shipping": "689.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/203/189668/sort/1/filter/0_0_0_0/TAT2206WT-00-h%C3%B6rlurar.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04895229117464",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:12:22Z"
+      },
+      "content": {
+        "id": "14955588041800244808",
+        "name": "Philips T2236 Tr\u00e5dl\u00f6sa H\u00f6rlurar Ear-plugg (Gr\u00f6n)",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRYB4SrLU3b_c_l980CptAEcfYXnR2Wx6I6LPAROjTO8Hppvyc&usqp=CAY",
+        "description": "Super-slim case. Comfortable fit. These splash and sweat-resistant true wireless headphones go where you go! The charging case fits in the pocket of your slim-fit jeans. The earbuds sit in your outer ear-perfect if you don\u2019t like the feeling of ear tips in your ear canal. IPX4 splash and sweat resistant With an IPX4 rating and powerful 12 mm drivers, these headphones let you enjoy great sound in any weather. Fully splash resistant, they won't mind a little sweat and you don't need to worry about getting caught in the rain. - Make calls using a single earbud. Mono mode Taking a lot of calls? You can double your talk time by using one earbud while the other one charges. The mic is automatically assigned to the earbud you're using, and you simply swap over when your current earbud is running low on battery. - Super-small USB-C charging case. 12 hours extra play time With a charging case this small, you get more music anywhere! A single charge of these true wireless headphones gives you 6 hours play time, and a fully charged case adds another 12 hours. For a quick boost, pop your headphones in the case for 15 minutes to get an extra hour. - Integrated controls. Built-in mic. Easy pairing Controls on the earbuds let you pause your playlist, take calls, and wake your phone's voice assistant. The headphones are ready to pair in an instant. Once paired, they reconnect with your phone as soon as you open the charging case. - Secure comfortable fit. Earbuds without ear tips You can rock your tunes in real comfort thanks to the snug, lightweight design. With no ear tips, you won't feel anything in your ear canal-and there's no sensation of pressure. The 'hockey stick' form factor keeps each earbud secure. - Ports & interfaces Bluetooth version 5.0 Wireless range 10 m Connectivity technology Wireless Bluetooth checkmark Bluetooth profiles A2DP,AVRCP,HSP,SBC Weight & dimensions Weight 36 g Height 45.8 mm Width 59.6 mm Depth 28.9 mm Packaging data Package weight 128 g Package depth 40 mm Package height 172 mm Package width 95 mm Microphone Microphone type Built-in Headphones Headphone frequency 20 - 20000 Hz Headphone sensitivity 104 d - B Impedance 28 \u03a9 Driver unit 1.2 cm Ear coupling Intraaural Maximum input power 5 m - W Packaging content Cables included USB Type-C Carrying case checkmark Battery Battery technology Lithium Polymer (Li - Po) Battery type Built-in battery Battery recharge time 2 h Talk time 6 h Continuous audio playback time 6 h Quick charge time 15 min Quick charge checkmark Battery operated checkmark Performance Product colour Black International Protection (IP) code IPX4 Protection features Splash proof, Sweat resistant Headset type Binaural Wearing style In-ear Operating keys Answer/end call, Play/Pause, Reject call Recommended usage Calls & Music Product type Headset",
+        "properties": [
+          "Philips",
+          "Green"
+        ],
+        "url": "https://www.google.se/shopping/product/14955588041800244808?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 55,
+        "review_rating": 66,
+        "price": "690.0",
+        "gtins": [
+          "4895229117464"
+        ],
+        "eans": [
+          "4895229117464"
+        ],
+        "brand_name": "Philips",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "True wireless-h\u00f6rlurar - Bluetooth - tr\u00e5dl\u00f6s"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "2.89 cm"
+            ]
+          },
+          {
+            "label": "Diameter",
+            "value": [
+              "5.96 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "36 g"
+            ]
+          },
+          {
+            "label": "Rekommenderad anv\u00e4ndning",
+            "value": [
+              "B\u00e4rbar elektronik"
+            ]
+          },
+          {
+            "label": "F\u00f6rpackningstyp",
+            "value": [
+              "Kartong"
+            ]
+          },
+          {
+            "label": "Skydd",
+            "value": [
+              "St\u00e4nks\u00e4ker",
+              "svett\u00e5lig"
+            ]
+          },
+          {
+            "label": "Max man\u00f6veravst\u00e5nd",
+            "value": [
+              "10 m"
+            ]
+          },
+          {
+            "label": "H\u00f6rlursmodell",
+            "value": [
+              "Inuti \u00f6rat"
+            ]
+          },
+          {
+            "label": "Anslutningsteknik",
+            "value": [
+              "Tr\u00e5dl\u00f6s"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s teknik",
+            "value": [
+              "Bluetooth"
+            ]
+          },
+          {
+            "label": "Bluetoothversion",
+            "value": [
+              "Bluetooth 5.0"
+            ]
+          },
+          {
+            "label": "Max. inmatningsstr\u00f6m",
+            "value": [
+              "5 mW"
+            ]
+          },
+          {
+            "label": "K\u00e4nslighet",
+            "value": [
+              "104 dB"
+            ]
+          },
+          {
+            "label": "Impedans",
+            "value": [
+              "28 ohm"
+            ]
+          },
+          {
+            "label": "Membran",
+            "value": [
+              "12 mm"
+            ]
+          },
+          {
+            "label": "Inkluderade tillbeh\u00f6r",
+            "value": [
+              "Laddningsfordral",
+              "USB-C-kabel"
+            ]
+          },
+          {
+            "label": "Kabeldetaljer",
+            "value": [
+              "USB-C laddningskabel - avtagbar"
+            ]
+          },
+          {
+            "label": "Standarder som f\u00f6ljs",
+            "value": [
+              "IPX4"
+            ]
+          },
+          {
+            "label": "Batteri",
+            "value": [
+              "H\u00f6rlursbatteri laddningsbart - litiumpolymer"
+            ]
+          },
+          {
+            "label": "Driftstid (upp till)",
+            "value": [
+              "6 timme/timmar"
+            ]
+          },
+          {
+            "label": "Laddningstid",
+            "value": [
+              "2 timme/timmar"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Philips"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "86584895",
+              "TAT2236GR/00"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04895229117464"
+            ]
+          }
+        ],
+        "offer_count": 4,
+        "offers_url": "https://www.google.se/shopping/product/14955588041800244808/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "14955588041800244808",
+            "price": "690.0",
+            "price_additional_info": null,
+            "price_with_shipping": "690.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1190284/tv-ljud-bild/horlurar/horlur/philips-t2236-traadlosa-horlurar-ear-plugg-gron?channable=009453696400313139303238347d",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "14955588041800244808",
+            "price": "590.0",
+            "price_additional_info": null,
+            "price_with_shipping": "689.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/203/186496/sort/1/filter/0_0_0_0/TAT2236GR-h%C3%B6rlurar.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "14955588041800244808",
+            "price": "690.0",
+            "price_additional_info": null,
+            "price_with_shipping": "690.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Hoerlurar-Headset/Philips-TAT2236/2932461?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "14955588041800244808",
+            "price": "813.0",
+            "price_additional_info": null,
+            "price_with_shipping": "853.0",
+            "shipping_costs": "40.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7192466/philips-tat2236gr-true-wireless-h%C3%B6rlurar-med-mikrofon-inuti-%C3%B6rat-bluetooth-gr%C3%B6n",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04895229117563",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:12:22Z"
+      },
+      "content": {
+        "id": "15382251548033948347",
+        "name": "Philips TAA4216BK/00 tr\u00e5dl\u00f6s H\u00f6rlurar med mikrofon - p\u00e5 \u00f6rat - svart",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTJWlHxcdvSwJAPmDPQ0UjomyX2FgfNSaHPA5x7ZEJWyafNy7zH9f46WriPYoBMyZkkYiVxw3-M&usqp=CAY",
+        "description": "Med 35 timmars speltid fr\u00e5n en laddning \u00e4r de h\u00e4r tr\u00e5dl\u00f6sa on-ear-h\u00f6rlurarna sport med dig n\u00e4r du tr\u00e4nar, och \u00e4nnu l\u00e4ngre. Perfekt inst\u00e4llda 40 mm neodymelement ger dig bas som h\u00e5ller dig ig\u00e5ng. Den slutna baksidan av on-ear-sport-h\u00f6rlurar Bluetooth ger fantastisk passiv brusreducering. \u00d6ronk\u00e5por som viks in\u00e5t ger enkel f\u00f6rvaring. Tack vare IP55-certifikatet Bluetooth-h\u00f6rlurarna \u00e4r skyddade fr\u00e5n damm och vatten. De mjuka \u00f6ronkuddarna som andas \u00e4r l\u00f6stagbara f\u00f6r enkel reng\u00f6ring och \u00e4r fyllda med kylgel. Med flerfunktionsknappen p\u00e5 de tr\u00e5dl\u00f6sa sport-h\u00f6rlurarna kan du pausa spellistan, ta emot samtal, styra volymen och aktivera telefonens r\u00f6stassistent.",
+        "properties": [
+          "Philips",
+          "On-ear",
+          "Tr\u00e5dl\u00f6sa",
+          "Vattent\u00e4ta",
+          "Bluetooth",
+          "Med mikrofon"
+        ],
+        "url": "https://www.google.se/shopping/product/15382251548033948347?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 84,
+        "review_rating": 76,
+        "price": "523.0",
+        "gtins": [
+          "4895229117563"
+        ],
+        "eans": [
+          "4895229117563"
+        ],
+        "brand_name": "Philips",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "H\u00f6rlurar - Bluetooth - tr\u00e5dl\u00f6s"
+            ]
+          },
+          {
+            "label": "Stil",
+            "value": [
+              "Idrotts"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "5 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "214 g"
+            ]
+          },
+          {
+            "label": "Rekommenderad anv\u00e4ndning",
+            "value": [
+              "B\u00e4rbar elektronik"
+            ]
+          },
+          {
+            "label": "Skydd",
+            "value": [
+              "St\u00e4nks\u00e4ker"
+            ]
+          },
+          {
+            "label": "Max man\u00f6veravst\u00e5nd",
+            "value": [
+              "10 m"
+            ]
+          },
+          {
+            "label": "H\u00f6rlursmodell",
+            "value": [
+              "P\u00e5 \u00f6rat"
+            ]
+          },
+          {
+            "label": "F\u00e4llbar",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Anslutningsteknik",
+            "value": [
+              "Tr\u00e5dl\u00f6s"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s teknik",
+            "value": [
+              "Bluetooth"
+            ]
+          },
+          {
+            "label": "Bluetoothversion",
+            "value": [
+              "Bluetooth 5.0"
+            ]
+          },
+          {
+            "label": "Max. inmatningsstr\u00f6m",
+            "value": [
+              "30 mW"
+            ]
+          },
+          {
+            "label": "K\u00e4nslighet",
+            "value": [
+              "118 dB"
+            ]
+          },
+          {
+            "label": "Impedans",
+            "value": [
+              "32 ohm"
+            ]
+          },
+          {
+            "label": "Membran",
+            "value": [
+              "40 mm"
+            ]
+          },
+          {
+            "label": "Magnetmaterial",
+            "value": [
+              "Neodymium"
+            ]
+          },
+          {
+            "label": "Batteri",
+            "value": [
+              "H\u00f6rlursbatteri laddningsbart - litiumpolymer"
+            ]
+          },
+          {
+            "label": "Driftstid (upp till)",
+            "value": [
+              "35 timme/timmar"
+            ]
+          },
+          {
+            "label": "Laddningstid",
+            "value": [
+              "2 timme/timmar"
+            ]
+          },
+          {
+            "label": "Emballagets bredd",
+            "value": [
+              "19.5 cm"
+            ]
+          },
+          {
+            "label": "Emballagets djup",
+            "value": [
+              "5.5 cm"
+            ]
+          },
+          {
+            "label": "Emballagets h\u00f6jd",
+            "value": [
+              "23.7 cm"
+            ]
+          },
+          {
+            "label": "Emballagets vikt",
+            "value": [
+              "363 g"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Philips"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "S3516190",
+              "TAA4216BK/00"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04895229117563"
+            ]
+          }
+        ],
+        "offer_count": 4,
+        "offers_url": "https://www.google.se/shopping/product/15382251548033948347/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "15382251548033948347",
+            "price": "523.0",
+            "price_additional_info": null,
+            "price_with_shipping": "563.0",
+            "shipping_costs": "40.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7197965/philips-taa4216bk-h%C3%B6rlurar-med-mikrofon-p%C3%A5-%C3%B6rat-bluetooth-tr%C3%A5dl%C3%B6s-svart",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "15382251548033948347",
+            "price": "507.0",
+            "price_additional_info": null,
+            "price_with_shipping": "507.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/philips-taa4216bk-horlurar-med-mikrofon-pa-orat-bluetooth-tradlos-svart-p68579439",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "15382251548033948347",
+            "price": "578.0",
+            "price_additional_info": null,
+            "price_with_shipping": "677.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/203/159296/sort/1/filter/0_0_0_0/TAA4216BK-00-Black-h%C3%B6rlurar.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "15382251548033948347",
+            "price": "612.5",
+            "price_additional_info": null,
+            "price_with_shipping": "641.5",
+            "shipping_costs": "29.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.jollymobile.com/shop/hoerlurar/35427-philips-taa4216bk00-tradloes-hoerlurar-med-mikrofon-pa-oerat-svart-4895229117563.html",
+            "shop_name": "Jolly Mobile",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-34c7450038b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-34c7450038b",
+            "shop_url": "www.jollymobile.com",
+            "shop_domain": "jollymobile.com",
+            "shop_matching_id": "jollymobile.com",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04905524957013",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:12:22Z"
+      },
+      "content": {
+        "id": "17944767617719209333",
+        "name": "Sony MDR-EX650AP",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR9Rr-gPJkv41YEMB6gYeJjk6MHaX6siXwnRR1h8LyjyNQ-h8k17gTUY-ENIu_NnCFDp6IrCe_tUQ&usqp=CAY",
+        "description": "Musikalisk renhet, mindre vibrationer. H\u00f6r varje ton med st\u00f6rre klarhet och f\u00e4rre o\u00f6nskade vibrationer. MDR-EX650AP-h\u00f6rlurarna har ett m\u00e4ssingshus f\u00f6r att minimera distorsion och breda m\u00e4ssingsr\u00f6r f\u00f6r \u00f6kad ljudstabilitet. Och med en ny design med vinklade in-ear-element som sitter stadigt i \u00f6rat kommer du inte ens att m\u00e4rka att du har dem p\u00e5 dig. Minimera f\u00f6rvr\u00e4ngningen med m\u00e4ssing M\u00e4ssing \u00e4r utm\u00e4rkt f\u00f6r att d\u00e4mpa o\u00f6nskade vibrationer och uppr\u00e4tth\u00e5lla ett stabilt ljud. H\u00f6ljet i m\u00e4ssing resonerar mindre \u00e4n de som \u00e4r tillverkade av traditionella material, vilket ger tydligare mellan- och h\u00f6gfrekvenser och mjukare l\u00e5gfrekvensljud. Klart och stabilt ljud I str\u00e4van efter h\u00f6gre stabilitet och tydligare h\u00f6ga toner har f\u00f6rl\u00e4ngda m\u00e4ssingsr\u00f6r anv\u00e4nts med en innerdiameter som \u00e4r 15 % st\u00f6rre \u00e4n f\u00f6r konventionella h\u00f6rlurar. Arbetar med precision Fr\u00e5n tunga rockhits till klubbhits och klassiska popl\u00e5tar h\u00f6r du ett klart och kraftfullt ljud som lyfter fram alla detaljer i musiken. Den anv\u00e4nder skulpterade ventilationsluckor som optimerar l\u00e5ga frekvenser och \u00e5terger djupa basrytmer p\u00e5 ett exakt s\u00e4tt. Den lilla men kraftfulla h\u00f6gtalaren har en h\u00f6gtalarkupol med samma dimensioner som 16 mm-h\u00f6gtalare f\u00f6r h\u00f6g k\u00e4nslighet och l\u00e5g distorsion.",
+        "properties": [
+          "Sony",
+          "MDR Series",
+          "In-ear",
+          "Tr\u00e5dbundna",
+          "Brusreducerande",
+          "Med mikrofon",
+          "Svart/Guld"
+        ],
+        "url": "https://www.google.se/shopping/product/17944767617719209333?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 538,
+        "review_rating": 92,
+        "price": "399.0",
+        "gtins": [
+          "4905524957013"
+        ],
+        "eans": [
+          "4905524957013"
+        ],
+        "brand_name": "Sony",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produkten har slutat tillverkas",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Produktens m\u00e5tt",
+            "value": [
+              "1 x 1 x 1 cm; 9 Gram"
+            ]
+          },
+          {
+            "label": "Ursprungsland",
+            "value": [
+              "Thailand"
+            ]
+          },
+          {
+            "label": "Placering av \u00f6rat",
+            "value": [
+              "In Ear"
+            ]
+          },
+          {
+            "label": "Typ av anslutning",
+            "value": [
+              "Kabel"
+            ]
+          },
+          {
+            "label": "Modellnamn",
+            "value": [
+              "MDREX650AP"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "In-ear"
+            ]
+          },
+          {
+            "label": "H\u00f6rlurskontakt",
+            "value": [
+              "3.5 mm"
+            ]
+          },
+          {
+            "label": "Artikelns vikt",
+            "value": [
+              "9 Gram"
+            ]
+          },
+          {
+            "label": "Specialfunktion",
+            "value": [
+              "Hifi"
+            ]
+          },
+          {
+            "label": "Delnummer",
+            "value": [
+              "MDREX650APT.CE7"
+            ]
+          },
+          {
+            "label": "Maskinvaruplattform",
+            "value": [
+              "Smartphone"
+            ]
+          },
+          {
+            "label": "Kompatibla enheter",
+            "value": [
+              "Universal"
+            ]
+          },
+          {
+            "label": "Speciella funktioner",
+            "value": [
+              "Hifi"
+            ]
+          },
+          {
+            "label": "Antal artiklar",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "St\u00e5ende sk\u00e4rmstorlek",
+            "value": [
+              "2.4 tum"
+            ]
+          },
+          {
+            "label": "Microphone Form Factor",
+            "value": [
+              "In-Line"
+            ]
+          },
+          {
+            "label": "Microphone Technology",
+            "value": [
+              "Rundstr\u00e5lande"
+            ]
+          },
+          {
+            "label": "Headphones Form Factor",
+            "value": [
+              "In-ear"
+            ]
+          },
+          {
+            "label": "Batterier inkluderade",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Batterier kr\u00e4vs",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Antal h\u00f6gtalarkanaler",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Materialtyp",
+            "value": [
+              "M\u00e4ssing"
+            ]
+          },
+          {
+            "label": "Inkluderar uppladdningsbara batterier",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Inkluderar fj\u00e4rrkontroll",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Sony"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "16147-670",
+              "4905524957013",
+              "50082792",
+              "558P605",
+              "59692737",
+              "651574",
+              "86119252",
+              "88387019",
+              "HYG-4905524957013",
+              "MDREX650APT.CE7",
+              "sony_50082792",
+              "sony_mdrex650apt.ce7"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04905524957013"
+            ]
+          }
+        ],
+        "offer_count": 4,
+        "offers_url": "https://www.google.se/shopping/product/17944767617719209333/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "17944767617719209333",
+            "price": "399.0",
+            "price_additional_info": null,
+            "price_with_shipping": "448.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/ljud-hifi/horlurar/MDREX650APBR/sony-horlurar-in-ear-mdr-ex650apt",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "17944767617719209333",
+            "price": "434.0",
+            "price_additional_info": null,
+            "price_with_shipping": "463.0",
+            "shipping_costs": "29.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5010786204/mdr-ex650ap-in-ear-horlurar-med-mikrofon?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "17944767617719209333",
+            "price": "751.0",
+            "price_additional_info": null,
+            "price_with_shipping": "850.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/sony-mdr-ex650ap-sony-mdr-ex650ap-horlurar-p86119252",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "17944767617719209333",
+            "price": "625.0",
+            "price_additional_info": null,
+            "price_with_shipping": "724.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/203/85347/sort/1/filter/0_0_0_0/MDR-EX650APT-Gold-h%C3%B6rlurar.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05032037065764",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:19Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05032037151931",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:20Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=05032037151931&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.fruugo.se/intel-core-i9-9900kf-lga1151-9th-gen-8-cores-16-threads-16mb-8gt/p-55162438-112128843?language=en&ac=croud&utm_source=organic_shopping&utm_medium=organic",
+            "name": "Intel - Core 3.6 Ghz Processor I9-9900kf Box 16 Mb Smart Cache",
+            "product_properties": [],
+            "price": "6390.0",
+            "shipping_costs": "762.49",
+            "price_with_shipping": "7152.49",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "fruugo.se",
+            "shop_id": "priceapi-fdf04e0f8d5",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-fdf04e0f8d5",
+            "shop_url": "www.fruugo.se",
+            "shop_domain": "fruugo.se",
+            "shop_matching_id": "fruugo.se",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "url": "https://www.fruugo.se/intel-core-i9-9900kf-lga1151-9th-gen-8-karnor-16-tradar-16mb-8gt/p-55162438-112128843?language=sv&ac=croud&utm_source=organic_shopping&utm_medium=organic",
+            "name": "Intel Core I9 9900kf 3.6 Ghz 16mb",
+            "product_properties": [],
+            "price": "6390.0",
+            "shipping_costs": "762.49",
+            "price_with_shipping": "7152.49",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "fruugo.se",
+            "shop_id": "priceapi-fdf04e0f8d5",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-fdf04e0f8d5",
+            "shop_url": "www.fruugo.se",
+            "shop_domain": "fruugo.se",
+            "shop_matching_id": "fruugo.se",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06493709699455",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:20Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06921815613145",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:19Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08717755777836",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:12:21Z"
+      },
+      "content": {
+        "id": "5709821882546347425",
+        "name": "Sonos Roam Svart - H\u00f6gtalare",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTL2hQFBsuzGegSju_6RL7SXZhSvgOxItBNjHIEklD2bEoAzKtY2GgRTfqhTQUefoZO2EXkEu8&usqp=CAY",
+        "description": "Portabel smarth\u00f6gtalare som g\u00e4rna f\u00f6ljer med dig ut p\u00e5 \u00e4ventyr. Med Roam f\u00e5r du med dig ett fantastiskt ljud var du \u00e4n \u00e4r. H\u00f6gtalaren fungerar precis som, och ansluts via Wi-Fi till, ditt \u00f6vriga Sonos-system hemma, st\u00f6djer Bluetooth-streaming och l\u00e5ter dig styra via r\u00f6sten.",
+        "properties": [
+          "Sonos",
+          "P\u00e5 golvet",
+          "Bluetooth",
+          "Wi-FI",
+          "NFC",
+          "USB",
+          "Tr\u00e5dl\u00f6sa",
+          "Smart h\u00f6gtalare",
+          "Subwoofer",
+          "Med r\u00f6ststyrning"
+        ],
+        "url": "https://www.google.se/shopping/product/5709821882546347425?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 4662,
+        "review_rating": 84,
+        "price": "1990.0",
+        "gtins": [
+          "8717755777836"
+        ],
+        "eans": [
+          "8717755777836"
+        ],
+        "brand_name": "Sonos",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Smarth\u00f6gtalare - f\u00f6r b\u00e4rbar anv\u00e4ndning"
+            ]
+          },
+          {
+            "label": "Mikrofon",
+            "value": [
+              "Mikrofonupps\u00e4ttning f\u00f6r fj\u00e4rran f\u00e4lt"
+            ]
+          },
+          {
+            "label": "Skydd",
+            "value": [
+              "V\u00e4derbest\u00e4ndig",
+              "tappskydd",
+              "dammt\u00e5lig"
+            ]
+          },
+          {
+            "label": "Designfunktioner",
+            "value": [
+              "Matt finish",
+              "horisontell eller vertikal placering"
+            ]
+          },
+          {
+            "label": "H\u00f6gtalartyp",
+            "value": [
+              "2-v\u00e4gs - aktiv"
+            ]
+          },
+          {
+            "label": "Flera rum",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Teknologi som klarar flera rum",
+            "value": [
+              "AirPlay 2"
+            ]
+          },
+          {
+            "label": "F\u00f6rst\u00e4rkare",
+            "value": [
+              "Integrerad"
+            ]
+          },
+          {
+            "label": "F\u00f6rst\u00e4rkarklass",
+            "value": [
+              "H"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt",
+            "value": [
+              "IEEE 802.11b/g/n/ac",
+              "Bluetooth 5.0"
+            ]
+          },
+          {
+            "label": "AirPlay",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "App-kontrollerad",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Ytterligare egenskaper",
+            "value": [
+              "Stereo Wireless Link"
+            ]
+          },
+          {
+            "label": "Kompatibel med Internet of Things (IoT)",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Kommunikationstyp",
+            "value": [
+              "Moln"
+            ]
+          },
+          {
+            "label": "Intelligent assistent",
+            "value": [
+              "Google Assistant",
+              "Alexa"
+            ]
+          },
+          {
+            "label": "R\u00f6ststyrning",
+            "value": [
+              "Direkt"
+            ]
+          },
+          {
+            "label": "Str\u00f6mk\u00e4lla",
+            "value": [
+              "Batteri"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s laddning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Standarder f\u00f6r tr\u00e5dl\u00f6s laddning",
+            "value": [
+              "Qi"
+            ]
+          },
+          {
+            "label": "Alternativ",
+            "value": [
+              "USB-laddning"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "6 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "430 g"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Sonos"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "1019192",
+              "1493~18990",
+              "378",
+              "72873747",
+              "85938615",
+              "8717755777836",
+              "998599979",
+              "NRD193165",
+              "ROAM1R21BLK",
+              "ROAM1R21BLK-1",
+              "S0429932",
+              "SONROAMBK"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "08717755777836"
+            ]
+          }
+        ],
+        "offer_count": 15,
+        "offers_url": "https://www.google.se/shopping/product/5709821882546347425/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "5709821882546347425",
+            "price": "1790.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1790.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/ljud/hogtalare/bluetooth-hogtalare/sonos-roam-black/1019192.13770/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "5709821882546347425",
+            "price": "1990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.hifiklubben.se/sonos-roam-traadlos-hogtalare/sonroambk/",
+            "shop_name": "Hi-Fi Klubben SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-e29c9dad488",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e29c9dad488",
+            "shop_url": "www.hifiklubben.se",
+            "shop_domain": "hifiklubben.se",
+            "shop_matching_id": "hifiklubben.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "5709821882546347425",
+            "price": "1990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/ljud-hifi/hogtalare/bluetooth-hogtalare/297783/sonos-roam-barbar-tradlos-hogtalare-shadow-black",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "5709821882546347425",
+            "price": "2190.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2190.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mediamarkt.se/sv/product/_sonos-roam-shadow-black-1333081.html?utm_source=google&utm_medium=seo-product%20feed",
+            "shop_name": "MediaMarkt.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-beb4b17be14",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-beb4b17be14",
+            "shop_url": "www.mediamarkt.se",
+            "shop_domain": "mediamarkt.se",
+            "shop_matching_id": "mediamarkt.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "5709821882546347425",
+            "price": "2190.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2190.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1182006/tv-ljud-bild/barbart-och-traadlost-ljud/portabla-hogtalare/sonos-roam-svart?channable=00945369640031313832303036ca",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "5709821882546347425",
+            "price": "1990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2069.0",
+            "shipping_costs": "79.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.cyberphoto.se/mobiltelefoni/ljud/hogtalare/sonos-roam-svart",
+            "shop_name": "CyberPhoto",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-809bd0cf62b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-809bd0cf62b",
+            "shop_url": "www.cyberphoto.se",
+            "shop_domain": "cyberphoto.se",
+            "shop_matching_id": "cyberphoto.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "5709821882546347425",
+            "price": "1917.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2016.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/1247/163672/sort/1/filter/0_0_0_0/Roam-Shadow-Black.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "5709821882546347425",
+            "price": "2190.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2190.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tele-ha.se/produkt/sonos-roam/?utm_source=google&utm_campaign=shopping&variant=24787",
+            "shop_name": "Tele-H\u00e5",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-737f86d2df0",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-737f86d2df0",
+            "shop_url": "www.tele-ha.se",
+            "shop_domain": "tele-ha.se",
+            "shop_matching_id": "tele-ha.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "5709821882546347425",
+            "price": "2188.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2188.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7289585/sonos-roam-smarth%C3%B6gtalare-f%C3%B6r-b%C3%A4rbar-anv%C3%A4ndning-wi-fi-bluetooth-appkontrollerad-2-v%C3%A4gs-skuggsvart",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "5709821882546347425",
+            "price": "2190.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2259.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011225602/roam?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "5709821882546347425",
+            "price": "2190.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2190.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.coolshop.se/produkt/sonos-roam-black/237P8Z",
+            "shop_name": "Coolshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-7d63ab4be41",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-7d63ab4be41",
+            "shop_url": "www.coolshop.se",
+            "shop_domain": "coolshop.se",
+            "shop_matching_id": "coolshop.se",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "5709821882546347425",
+            "price": "2390.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2429.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://mymall.se/sonos-roam-smart-hgtalare-svart-1493-18990",
+            "shop_name": "mymall.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f6c20cec448",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f6c20cec448",
+            "shop_url": "mymall.se",
+            "shop_domain": "mymall.se",
+            "shop_matching_id": "mymall.se",
+            "page": 1,
+            "position": 12
+          },
+          {
+            "id": null,
+            "product_id": "5709821882546347425",
+            "price": "2599.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2599.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/sonos-roam-smart-hogtalare-svart-p85938615",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 13
+          },
+          {
+            "id": null,
+            "product_id": "5709821882546347425",
+            "price": "2390.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2390.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.handelsavenyn.se/sonos-roam-smart-hogtalare-svart#fo_c=3800&fo_k=97b190d5767f54463224dc285843086e&fo_s=gsurse",
+            "shop_name": "HandelsAvenyn.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-e7f509e5d43",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e7f509e5d43",
+            "shop_url": "www.handelsavenyn.se",
+            "shop_domain": "handelsavenyn.se",
+            "shop_matching_id": "handelsavenyn.se",
+            "page": 1,
+            "position": 14
+          },
+          {
+            "id": null,
+            "product_id": "5709821882546347425",
+            "price": "2379.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2379.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/sonos-roam-smart-hojttaler-skygge-sort",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 15
+          }
+        ]
+      }
+    }
+  ]
+}

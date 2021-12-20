@@ -123,8 +123,8 @@ def check_correctness(gtin, google_pid):
 if __name__ == "__main__":
     from input_gtins import gtins
 
-    chunk_size = 100
-    for start_i in range(1900, len(gtins), chunk_size):
+    chunk_size = 20
+    for start_i in range(0, len(gtins), chunk_size):
         stop_i = start_i + chunk_size
         print("searching for gtins from", start_i, "to", stop_i, "...")
         find(gtins[start_i:stop_i])

@@ -1,0 +1,2004 @@
+{
+  "job_id": "61c064b04326830022d4c84a",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 19,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194721779243",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:10:48Z"
+      },
+      "content": {
+        "id": "13582265663419859400",
+        "name": "Hp 470 G7 Core I7 16gb 512gb Ssd 17.3\"",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSwm29yhNxMLB1FUEdqvcFD-Cgyih90v4MBWsFj_cP8iand_wUfsPiZbTw1k4VQWxPdS056spj0&usqp=CAY",
+        "description": "HP 470 \u00e4r byggd f\u00f6r att vara produktiv och tillhandah\u00e5lla den prestanda och mobilitet som \u00e4r avg\u00f6rande f\u00f6r dagens arbetsstyrka. Den attraktiva designen och antireflexbehandlade 17-tumsbildsk\u00e4rmen tillhandah\u00e5ller er en omfattande tittarupplevelse f\u00f6r alla era applikationer.",
+        "properties": [
+          "Windows OS",
+          "1920 x 1080",
+          "AMD-grafikprocessor",
+          "SSD"
+        ],
+        "url": "https://www.google.se/shopping/product/13582265663419859400?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 84,
+        "review_rating": 92,
+        "price": "21231.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/13582265663419859400/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "13582265663419859400",
+            "price": "21231.0",
+            "price_additional_info": null,
+            "price_with_shipping": "21280.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/hp-470-g7-i7-10510u-173/cat-p/c/p1000591883",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195161770067",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:48Z"
+      },
+      "content": {
+        "id": "6540076831545249160",
+        "name": "Hp Probook 450 G8 Core I5 8gb 256gb Ssd 15.6\"",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT_P_OXVBopF7aHkLxfuOk9DhJAGDlKlPTCp2gU8PkYj0IyWNvXbDgBjVDn5nzTIO9sZp9ay5c&usqp=CAY",
+        "description": "Det kompakta, l\u00e4tta och tunna chassit med komponenter i aluminium \u00e4r l\u00e4tt att b\u00e4ra runt fr\u00e5n plats till plats. F\u00e5 ett sk\u00e4rm-till-chassi-f\u00f6rh\u00e5llande som \u00e4r hela 87 % och ett nytt tangentbord som \u00e4r tyst och responsivt.",
+        "properties": [
+          "Fyrk\u00e4rnig",
+          "HDMI",
+          "1366 x 768",
+          "Intel-CPU",
+          "Med reflexfri sk\u00e4rm"
+        ],
+        "url": "https://www.google.se/shopping/product/6540076831545249160?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 67,
+        "review_rating": 90,
+        "price": "10490.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "12",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Notebook"
+            ]
+          },
+          {
+            "label": "CPU",
+            "value": [
+              "Intel Core i5 11:e gen. 1135G7 / 2.4 GHz"
+            ]
+          },
+          {
+            "label": "Max. turbohastighet",
+            "value": [
+              "4.2 GHz"
+            ]
+          },
+          {
+            "label": "Antal k\u00e4rnor",
+            "value": [
+              "Fyrk\u00e4rnig"
+            ]
+          },
+          {
+            "label": "Cache",
+            "value": [
+              "L3 - 8 MB"
+            ]
+          },
+          {
+            "label": "Funktioner",
+            "value": [
+              "Intel Turbo Boost Technology"
+            ]
+          },
+          {
+            "label": "RAM",
+            "value": [
+              "8 GB (1 x 8 GB)"
+            ]
+          },
+          {
+            "label": "Max. RAM som st\u00f6ds",
+            "value": [
+              "32 GB"
+            ]
+          },
+          {
+            "label": "Hastighet",
+            "value": [
+              "3200 MHz"
+            ]
+          },
+          {
+            "label": "Nominell hastighet",
+            "value": [
+              "3200 MHz"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "SO DIMM 260-pin"
+            ]
+          },
+          {
+            "label": "Antal kortplatser",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Tomma kortplatser",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "LCD-bakgrundsbelysningsteknik",
+            "value": [
+              "LED-bakgrundsbelysning"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning",
+            "value": [
+              "1920 x 1080 (Full HD)"
+            ]
+          },
+          {
+            "label": "Bredsk\u00e4rm",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Ljusstyrka f\u00f6r bild",
+            "value": [
+              "250 cd/m\u00b2"
+            ]
+          },
+          {
+            "label": "Namn tangentbord",
+            "value": [
+              "HP Premium"
+            ]
+          },
+          {
+            "label": "Grafikprocessor",
+            "value": [
+              "Intel Iris Xe Graphics"
+            ]
+          },
+          {
+            "label": "Kamera",
+            "value": [
+              "Ja - HD"
+            ]
+          },
+          {
+            "label": "Videouppl\u00f6sning",
+            "value": [
+              "720p"
+            ]
+          },
+          {
+            "label": "Kameraegenskaper",
+            "value": [
+              "Webkamera skydd"
+            ]
+          },
+          {
+            "label": "Ljud",
+            "value": [
+              "H\u00f6gtalare",
+              "mikrofon med tv\u00e5 l\u00e4gen"
+            ]
+          },
+          {
+            "label": "Tangentbordslayout",
+            "value": [
+              "Hela norden"
+            ]
+          },
+          {
+            "label": "Numeriskt tangentbord",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s",
+            "value": [
+              "802.11a/b/g/n/ac/ax",
+              "Bluetooth 5.1"
+            ]
+          },
+          {
+            "label": "Bluetooth-klass",
+            "value": [
+              "Klass 2"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s styrenhet",
+            "value": [
+              "Intel Wi-Fi 6 AX 201"
+            ]
+          },
+          {
+            "label": "N\u00e4tverksgr\u00e4nssnitt",
+            "value": [
+              "Gigabit Ethernet"
+            ]
+          },
+          {
+            "label": "Ethernet-styrenhet",
+            "value": [
+              "Realtek RTL8111EPH"
+            ]
+          },
+          {
+            "label": "Protokoll f\u00f6r administration p\u00e5 distans",
+            "value": [
+              "SNMP 2"
+            ]
+          },
+          {
+            "label": "Kapacitet",
+            "value": [
+              "45 Wh"
+            ]
+          },
+          {
+            "label": "K\u00f6rtid",
+            "value": [
+              "Upp till 12.5 timmar"
+            ]
+          },
+          {
+            "label": "St\u00f6ld-/inbrottsskydd",
+            "value": [
+              "Plats f\u00f6r s\u00e4kerhetsl\u00e5s (kabell\u00e5s s\u00e4ljs separat)"
+            ]
+          },
+          {
+            "label": "Typ av s\u00e4kerhetsplats",
+            "value": [
+              "Kensington nano s\u00e4kerhetsplats"
+            ]
+          },
+          {
+            "label": "Inkluderade tillbeh\u00f6r",
+            "value": [
+              "Str\u00f6madapter"
+            ]
+          }
+        ],
+        "offer_count": 3,
+        "offers_url": "https://www.google.se/shopping/product/6540076831545249160/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "6540076831545249160",
+            "price": "10490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "10490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011213935/probook-450-g8?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "6540076831545249160",
+            "price": "12282.0",
+            "price_additional_info": null,
+            "price_with_shipping": "12331.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/hp-pb450g8-i5-1135g7-24ghz-15in/cat-p/c36159/p1001504112",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "6540076831545249160",
+            "price": "11487.5",
+            "price_additional_info": null,
+            "price_with_shipping": "11546.5",
+            "shipping_costs": "59.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplettforetag.se/product/1175251/dator-surfplatta/barbara/ultraportable/hp-probook-450-g8-156-full-hd",
+            "shop_name": "Komplett F\u00f6retag",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9edf77b141d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9edf77b141d",
+            "shop_url": "www.komplettforetag.se",
+            "shop_domain": "komplettforetag.se",
+            "shop_matching_id": "komplettforetag.se",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195161779770",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:45Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195161975578",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:45Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00843591077514",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:48Z"
+      },
+      "content": {
+        "id": "11418467354441278874",
+        "name": "Corsair Virtuoso RGB Wireless Gunmetal SE",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSiL_coMmI8IZsrv2TPz4OlhuRSO4vV4RJUmnq8t9qPlX_gofLu5gRK7mE-roLDCCjsECGtNT3T&usqp=CAY",
+        "description": "Corsair Virtuoso RGB Wireless levererar en h\u00f6gupplevd ljudupplevelse f\u00f6r de mest kr\u00e4sna spelarna och kombinerar kompromissl\u00f6s ljudkvalitet med komfort hela dagen med sina h\u00f6gklassiga \u00f6ronk\u00e5por och huvudband. Anslut till praktiskt taget alla enheter med ultra-l\u00e5g latens (Corsair Slipstream), 3,5 mm kabel eller USB-kabel. G\u00f6r dig sj\u00e4lv h\u00f6rd med en professionell, omni-directional avtagbar mikrofon med exceptionellt dynamiskt r\u00e4ckvidd.",
+        "properties": [
+          "CORSAIR",
+          "CORSAIR VIRTUOSO RGB",
+          "On-ear",
+          "Dator",
+          "TV-spel",
+          "Headset",
+          "Brusreducerande",
+          "F\u00f6r gaming",
+          "Surroundljud",
+          "Anv\u00e4nds med mobiltelefoner"
+        ],
+        "url": "https://www.google.se/shopping/product/11418467354441278874?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 2920,
+        "review_rating": 82,
+        "price": "1990.0",
+        "gtins": [
+          "843591077514"
+        ],
+        "eans": [
+          "0843591077514"
+        ],
+        "brand_name": "CORSAIR",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produktbeskrivning",
+            "value": [
+              "CORSAIR Gaming VIRTUOSO RGB SE - headset"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Headset - 2",
+              "4 GHz - tr\u00e5dl\u00f6s - USB",
+              "3",
+              "5 mm kontakt"
+            ]
+          },
+          {
+            "label": "Rekommenderad anv\u00e4ndning",
+            "value": [
+              "Spelkonsol",
+              "b\u00e4rbar elektronik",
+              "dator"
+            ]
+          },
+          {
+            "label": "Ytterligare funktioner",
+            "value": [
+              "RGB-belysning"
+            ]
+          },
+          {
+            "label": "Lokalisering",
+            "value": [
+              "Europa"
+            ]
+          },
+          {
+            "label": "H\u00f6rlursmodell",
+            "value": [
+              "Fullstorlek"
+            ]
+          },
+          {
+            "label": "Anslutningsteknik",
+            "value": [
+              "Tr\u00e5dl\u00f6s"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s teknik",
+            "value": [
+              "2",
+              "4 GHz radiofrekvens"
+            ]
+          },
+          {
+            "label": "Ljudutg\u00e5ngsl\u00e4ge",
+            "value": [
+              "Stereo"
+            ]
+          },
+          {
+            "label": "Ljudeffekter",
+            "value": [
+              "7.1 Channel virtuellt surroundljud"
+            ]
+          },
+          {
+            "label": "Mikrofon",
+            "value": [
+              "Bom"
+            ]
+          },
+          {
+            "label": "Operativt l\u00e4ge f\u00f6r mikrofon",
+            "value": [
+              "Rundstr\u00e5lande"
+            ]
+          },
+          {
+            "label": "Kontroller",
+            "value": [
+              "Volym"
+            ]
+          },
+          {
+            "label": "Tillverkarens garanti",
+            "value": [
+              "2 \u00e5rs garanti"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "10 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "380 g"
+            ]
+          },
+          {
+            "label": "H\u00f6rlursmaterial",
+            "value": [
+              "Minnesskum"
+            ]
+          },
+          {
+            "label": "Max man\u00f6veravst\u00e5nd",
+            "value": [
+              "12 m"
+            ]
+          },
+          {
+            "label": "Membran",
+            "value": [
+              "50 mm"
+            ]
+          },
+          {
+            "label": "Magnetmaterial",
+            "value": [
+              "Neodymium"
+            ]
+          },
+          {
+            "label": "Reglage",
+            "value": [
+              "Volym"
+            ]
+          },
+          {
+            "label": "Anslutningstyp",
+            "value": [
+              "USB; Headset (minih\u00f6rlurskontakt 3",
+              "5 mm)"
+            ]
+          },
+          {
+            "label": "Inkluderade tillbeh\u00f6r",
+            "value": [
+              "Tr\u00e5dl\u00f6s USB-mottagare",
+              "vadderad p\u00e5se"
+            ]
+          },
+          {
+            "label": "Kabeldetaljer",
+            "value": [
+              "USB-laddningskabel - 1.8 m; Ljudkabel - 1.5 m"
+            ]
+          },
+          {
+            "label": "Driftstid (upp till)",
+            "value": [
+              "20 timme/timmar"
+            ]
+          },
+          {
+            "label": "Service och support",
+            "value": [
+              "Begr\u00e4nsad garanti - 2 \u00e5r"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "CORSAIR"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "48515425",
+              "48697304",
+              "49247092",
+              "51445561",
+              "61039430",
+              "6302161",
+              "83835767",
+              "843591077514",
+              "CA-9011180-EU",
+              "S5606314",
+              "ca-9011180-eu",
+              "ca9011180eu",
+              "corsair_48697304",
+              "corsair_50097371",
+              "mpn_1050485"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00843591077514"
+            ]
+          }
+        ],
+        "offer_count": 15,
+        "offers_url": "https://www.google.se/shopping/product/11418467354441278874/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "11418467354441278874",
+            "price": "1990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/gaming/gamingheadset/tradlost-headset/corsair-virtuoso-rgb-wireless-se-gun-metal/1010228.16957/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "11418467354441278874",
+            "price": "1990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1136604/gaming/spelutrustning/gaming-headset/corsair-virtuoso-traadlos-gaming-headset-special-edt?channable=00945369640031313336363034da",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "11418467354441278874",
+            "price": "1990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mediamarkt.se/sv/product/_corsair-virtuoso-rgb-wireless-se-high-fidelity-gaming-headset-%E2%80%94-gunmetal-1320769.html?utm_source=google&utm_medium=seo-product%20feed",
+            "shop_name": "MediaMarkt.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-beb4b17be14",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-beb4b17be14",
+            "shop_url": "www.mediamarkt.se",
+            "shop_domain": "mediamarkt.se",
+            "shop_matching_id": "mediamarkt.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "11418467354441278874",
+            "price": "1790.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1790.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.scandinavianphoto.se/corsair/virtuoso-rgb-wireless-se-headset-1050485",
+            "shop_name": "Scandinavian Photo SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-47d1f5f9f88",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-47d1f5f9f88",
+            "shop_url": "www.scandinavianphoto.se",
+            "shop_domain": "scandinavianphoto.se",
+            "shop_matching_id": "scandinavianphoto.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "11418467354441278874",
+            "price": "2290.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2290.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inet.se/produkt/6302161/corsair-virtuoso-rgb-wireless-gunmetal-se",
+            "shop_name": "Inet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fad01df70fc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fad01df70fc",
+            "shop_url": "www.inet.se",
+            "shop_domain": "inet.se",
+            "shop_matching_id": "inet.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "11418467354441278874",
+            "price": "1869.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1938.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011158317/gaming-virtuoso-rgb-se?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "11418467354441278874",
+            "price": "2090.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2090.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Hoerlurar-Headset/Corsair-VIRTUOSO-RGB-Wireless-SE/2799606?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "11418467354441278874",
+            "price": "2016.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2115.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/203/116037/sort/1/filter/0_0_0_0/Virtuoso-SE-BT-Black-h%C3%B6rlurar.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "11418467354441278874",
+            "price": "2290.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2290.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/5804600/corsair-gaming-virtuoso-rgb-headset-fuld-st%C3%B8rrelse-2-4-ghz-tr%C3%A5dl%C3%B8s-usb-3-5-mm-jackstik-wireless-special-edition-gunmetal",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "11418467354441278874",
+            "price": "2290.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2290.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/corsair-gaming-virtuoso-rgb-headset-fuld-storrelse-2-4-ghz-tradlos-usb-3-5-mm-jackstik-wireless-special-edition-gunmetal-p50097371",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "11418467354441278874",
+            "price": "2289.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2289.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.gearupgaming.se/produkt/corsair-virtuoso-rgb-se-gunmetal/?utm_source=Google%20Shopping&utm_campaign=Shoppen&utm_medium=cpc&utm_term=2588",
+            "shop_name": "Gear Up Gaming",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a9c6d690cc0",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a9c6d690cc0",
+            "shop_url": "www.gearupgaming.se",
+            "shop_domain": "gearupgaming.se",
+            "shop_matching_id": "gearupgaming.se",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "11418467354441278874",
+            "price": "2498.99",
+            "price_additional_info": null,
+            "price_with_shipping": "2601.98",
+            "shipping_costs": "102.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/corsair-tradlost-spelheadset-virtuoso-se/137490835/p?utm_source=google_products&utm_medium=merchant&id_producte=10411295&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 12
+          },
+          {
+            "id": null,
+            "product_id": "11418467354441278874",
+            "price": "2646.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2695.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/corsair-gaming-virtuoso-rbg-wireless/cat-p/c0/p1000419814",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 13
+          },
+          {
+            "id": null,
+            "product_id": "11418467354441278874",
+            "price": "2290.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2349.0",
+            "shipping_costs": "59.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplettforetag.se/product/1136604",
+            "shop_name": "Komplett F\u00f6retag",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9edf77b141d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9edf77b141d",
+            "shop_url": "www.komplettforetag.se",
+            "shop_domain": "komplettforetag.se",
+            "shop_matching_id": "komplettforetag.se",
+            "page": 1,
+            "position": 14
+          },
+          {
+            "id": null,
+            "product_id": "11418467354441278874",
+            "price": "2641.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2641.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/corsair-gaming-virtuoso-rgb-wireless-gunmetal",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 15
+          }
+        ]
+      }
+    },
+    {
+      "success": false,
+      "reason": "error",
+      "source": "google-shopping",
+      "country": "se",
+      "key": "gtin",
+      "value": "04548736132535",
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04548736132535",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710180589931",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:10:51Z"
+      },
+      "content": {
+        "id": "16330842045790168414",
+        "name": "Acer 24\" Nitro XV240YP IPS 165 Hz",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRIxMTGrd4Nb5KV0EEWS9AL3s5vSyX-kFjSMdwzQ2z7iUWZjSDlABWlfU0ZP523Wuu8XIHBfGJp&usqp=CAY",
+        "description": "XV240YP \u00e4r en FreeSync-kompatibel spelsk\u00e4rm med 165 Hz uppdateringhastighet via DisplayPort. Den kristallklara IPS-panelen garanterar breda betraktningsvinklar samt naturtrogna f\u00e4rger med 99 % sRGB. Sk\u00e4rmen har HDR10 f\u00f6r ett st\u00f6rre intensitetsomg\u00e5ng vilket skapar en b\u00e4ttre k\u00e4nsla n\u00e4r du spelar och tittar p\u00e5 film. Med full ergonomi, inklusive pivot, kan du anpassa sk\u00e4rmen efter din perfekta setup.",
+        "properties": [
+          "Acer",
+          "Nitro",
+          "23,8 tum",
+          "1920 x 1080",
+          "Bakgrundsbelyst LED",
+          "HDMI",
+          "DVI",
+          "DisplayPort",
+          "Med h\u00f6gtalare",
+          "144 Hz"
+        ],
+        "url": "https://www.google.se/shopping/product/16330842045790168414?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 170,
+        "review_rating": 86,
+        "price": "2995.0",
+        "gtins": [
+          "4710180589931"
+        ],
+        "eans": [
+          "4710180589931"
+        ],
+        "brand_name": "Acer",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Anslutningstyp",
+            "value": [
+              "2x HDMI",
+              "1x DisplayPort"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Acer"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "49520269",
+              "78638694",
+              "996097556",
+              "UM.QX0EE.P01",
+              "um.qx0ee.p01"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04710180589931"
+            ]
+          }
+        ],
+        "offer_count": 5,
+        "offers_url": "https://www.google.se/shopping/product/16330842045790168414/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "16330842045790168414",
+            "price": "2995.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2995.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1151080/gaming/spelutrustning/gamingskarmar/acer-24-gamingskarm-nitro-xv240yp?channable=00945369640031313531303830d8",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "16330842045790168414",
+            "price": "2538.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2538.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/6543960/acer-nitro-xv240ypbmiiprx-led-sk%C3%A4rm-23-8-1920-x-1080-full-hd-1080p-144-hz-250-cd-m-1000-1-hdr10-0-1-ms-2xhdmi-displayport",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "16330842045790168414",
+            "price": "2605.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2605.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/acer-nitro-xv240ypbmiiprx-led-skarm-23-8-1920-x-1080-full-hd-1080p-144-hz-250-cd-m2-10001-hdr10-0-1-ms-2xhdmi-displayport-ho-p54403243",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "16330842045790168414",
+            "price": "2665.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2665.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/acer-nitro-xv240ypbmiiprx-23-8-1920-x-1080-hdmi-displayport-144hz-pivot-skaerm",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "16330842045790168414",
+            "price": "3215.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3264.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/acer-nitro-xv240ypbmiiprx-238-zeroframe/cat-p/c/p1000592576",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 5
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710180826074",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:48Z"
+      },
+      "content": {
+        "id": "6109595148554093213",
+        "name": "ACER - Chromebook 315 Pentium Silver 4GB 64GB SSD 15.6\"",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTfB0HPm7sJe3c3cw6WvItPOWclJuY4QMARiCU7THuPRJW_gSWD&usqp=CAY",
+        "description": "Denna 15,6-tums Chromebook ger en stor sk\u00e4rm f\u00f6r att f\u00e5 mer gjort och \u00e4r designad f\u00f6r ett mobilt liv. Genom inkluderandet av en dedikerad numerisk knappsats, Intel Celeron -processor och l\u00e5ng batteritid - fungerar den l\u00e4ngre och \u00e4r kraftfullare \u00e4n tidigare.",
+        "properties": null,
+        "url": "https://www.google.se/shopping/product/6109595148554093213?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 3265,
+        "review_rating": 90,
+        "price": "4590.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "12",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Chromebook"
+            ]
+          },
+          {
+            "label": "Operativsystem",
+            "value": [
+              "Google Chrome OS"
+            ]
+          },
+          {
+            "label": "CPU",
+            "value": [
+              "Intel Pentium Silver N5030 / 1.1 GHz"
+            ]
+          },
+          {
+            "label": "Max. turbohastighet",
+            "value": [
+              "3.1 GHz"
+            ]
+          },
+          {
+            "label": "Antal k\u00e4rnor",
+            "value": [
+              "Fyrk\u00e4rnig"
+            ]
+          },
+          {
+            "label": "Cache",
+            "value": [
+              "4 MB"
+            ]
+          },
+          {
+            "label": "Funktioner",
+            "value": [
+              "Intel Burst Technology"
+            ]
+          },
+          {
+            "label": "LCD-bakgrundsbelysningsteknik",
+            "value": [
+              "LED-bakgrundsbelysning"
+            ]
+          },
+          {
+            "label": "Peksk\u00e4rm",
+            "value": [
+              "Ja (multi-touch)"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning",
+            "value": [
+              "1920 x 1080 (Full HD)"
+            ]
+          },
+          {
+            "label": "Bredsk\u00e4rm",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Bildkvot",
+            "value": [
+              "16:9"
+            ]
+          },
+          {
+            "label": "Ljusstyrka f\u00f6r bild",
+            "value": [
+              "250 cd/m\u00b2"
+            ]
+          },
+          {
+            "label": "Grafikprocessor",
+            "value": [
+              "Intel UHD Graphics 605"
+            ]
+          },
+          {
+            "label": "Memory Allocation-teknik",
+            "value": [
+              "Shared Video Memory (UMA)"
+            ]
+          },
+          {
+            "label": "Kamera",
+            "value": [
+              "Ja - HD"
+            ]
+          },
+          {
+            "label": "Ljud",
+            "value": [
+              "H\u00f6gtalare",
+              "mikrofon"
+            ]
+          },
+          {
+            "label": "Standarder som f\u00f6ljs",
+            "value": [
+              "HD-ljud"
+            ]
+          },
+          {
+            "label": "Tangentbordslayout",
+            "value": [
+              "Nordisk"
+            ]
+          },
+          {
+            "label": "Numeriskt tangentbord",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Teknik",
+            "value": [
+              "4-cells litiumjon"
+            ]
+          },
+          {
+            "label": "Kapacitet",
+            "value": [
+              "48 Wh"
+            ]
+          },
+          {
+            "label": "K\u00f6rtid",
+            "value": [
+              "Upp till 12.5 timmar"
+            ]
+          },
+          {
+            "label": "St\u00f6ld-/inbrottsskydd",
+            "value": [
+              "Plats f\u00f6r s\u00e4kerhetsl\u00e5s (kabell\u00e5s s\u00e4ljs separat)"
+            ]
+          },
+          {
+            "label": "Typ av s\u00e4kerhetsplats",
+            "value": [
+              "Kensington s\u00e4kerhetsplats"
+            ]
+          },
+          {
+            "label": "Inkluderade tillbeh\u00f6r",
+            "value": [
+              "USB-C str\u00f6madapter"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.se/shopping/product/6109595148554093213/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "6109595148554093213",
+            "price": "4590.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4590.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011180077/chromebook-315?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "6109595148554093213",
+            "price": "5278.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5327.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/acer-chromebook-315-pentium-silver/cat-p/c36159/p1000810748",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710180829693",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:44Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=04710180829693&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.datagrottan.se/acer-c24-963-aio-238-fhd/cat-p/c0/p1001334484",
+            "name": "Acer C24-963 AiO 23,8\" FHD",
+            "product_properties": [],
+            "price": "10739.0",
+            "shipping_costs": "49.0",
+            "price_with_shipping": "10788.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Datagrottan",
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "Datagrottan",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710180865578",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:44Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710180869002",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:44Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710180951431",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:44Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710180969535",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:44Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710180993523",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:45Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562240870",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:45Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562241372",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:10:50Z"
+      },
+      "content": {
+        "id": "13320972062306090211",
+        "name": "Palit GeForce GTX 1660 Super Gaming Pro OC 6GB",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRMGtkTG4lLjrNJI9rggiPqh5wzxRuU6gicWGS1VtobwmbK7vx-IWQuKrYZYA&usqp=CAY",
+        "description": "GeForce GTX 1660 SUPER \u00e4r upp till 20% snabbare \u00e4n den ursprungliga GTX 1660 och upp till 1,5 g\u00e5ngar snabbare \u00e4n den tidigare generationens GTX 1060 6GB. Med den prisbel\u00f6nta Nvidia Turing-arkitekturen och det supernsabba GDDR6-minnet ger den superkrafter till dagens popul\u00e4raste spel. Time to gear up and get SUPER. Broadcast Like a Pro Det b\u00e4sta av tv\u00e5 v\u00e4rldar. GeForce GTX 1660 SUPER har en dedikerad h\u00e5rdvarukodare som g\u00f6r det m\u00f6jligt att spela och streama samtidigt, med \u00f6verl\u00e4gsen kvalitet. GTX SUPER-grafikkort \u00e4r optimerade f\u00f6r dina favoritprogram f\u00f6r streaming, s\u00e5 att din livestream kan uppr\u00e4tth\u00e5lla en maximal prestandaniv\u00e5. GeForce Experience Spela in och dela videoklipp, sk\u00e4rmdumpar och livestreams med v\u00e4nner. H\u00e5ll dina GeForce-h\u00f6gtalare uppdaterade. Och optimera dina spelinst\u00e4llningar. Med GeForce Experience kan du g\u00f6ra allt. Den \u00e4r ett viktigt komplement till ditt GeForce-grafikkort. Nvidia Ansel Detta kraftfulla fotol\u00e4ge l\u00e5ter dig ta professionella kvalitetsfoton av ditt spel som aldrig tidigare. Nu kan du spela in och dela din mest lysande spelupplevelse med super uppl\u00f6sning, 360 grader, HDR, och stereofoton. Turing Shaders Turing-skuggtekniken kan erbjuda dagens spel otroliga prestandaf\u00f6rb\u00e4ttringar med samtidig k\u00f6rning av flyttal och heltal, adaptiv skuggteknik och en ny enhetlig minnesarkitektur med tv\u00e5 g\u00e5nger st\u00f6rre cacheminne \u00e4n sin f\u00f6reg\u00e5ngare. F\u00e5 1.4 g\u00e5nger h\u00f6gre energieffektivitet \u00e4n f\u00f6reg\u00e5ende generation f\u00f6r en snabbare, svalare och tystare spelupplevelse.",
+        "properties": [
+          "Dell",
+          "NVIDIA",
+          "GeForce",
+          "GeForce GTX",
+          "Grafikkort",
+          "6 GB",
+          "GDDR",
+          "HDMI",
+          "DVI",
+          "DisplayPort"
+        ],
+        "url": "https://www.google.se/shopping/product/13320972062306090211?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 28,
+        "review_rating": 94,
+        "price": "3484.0",
+        "gtins": [
+          "4710562241372"
+        ],
+        "eans": [
+          "4710562241372"
+        ],
+        "brand_name": "NVIDIA",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "NVIDIA"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "50060571",
+              "NE6166SS18J9-1160A",
+              "ne6166ss18j91160a"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04710562241372"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/13320972062306090211/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "13320972062306090211",
+            "price": "3484.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3533.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/palit-vga-palit-gtx1660s-6gb/cat-p/c0/p1000487817",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562241402",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:45Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710886280255",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:44Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710886287049",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:45Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710886317388",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:45Z"
+      },
+      "content": null,
+      "reason": "not found"
+    }
+  ]
+}
