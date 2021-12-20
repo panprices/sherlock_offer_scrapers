@@ -1,4 +1,5 @@
 from typing import List
+import os
 import base64
 import random
 
@@ -62,6 +63,10 @@ def get(
         response_status_code=response.status_code,
         response_body_size_bytes=len(response.content),
     )
+
+    if os.getenv("PANPRICES_ENVIRONMENT") == "local":
+        with open("test.html", "wb") as f:
+            f.write(response.content)
 
     return response
 

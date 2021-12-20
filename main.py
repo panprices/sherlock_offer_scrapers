@@ -1,3 +1,4 @@
+import os
 import json
 import base64
 from typing import Literal, Optional, TypedDict
@@ -49,7 +50,10 @@ def sherlock_idealo(event, context):
 def sherlock_gs_offers(event, context):
     payload: Payload = json.loads(base64.b64decode(event["data"]))
 
-    if payload["triggered_by"]["source"] != "b2b_job":
+    if (
+        os.getenv("PANPRICES_ENVIRONMENT") != "local"
+        and payload["triggered_by"]["source"] != "b2b_job"
+    ):
         print("Not b2b offer search, do not scrape on googleshopping.")
         return
 
@@ -69,7 +73,9 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
         elif offer_source == "idealo":
             offers = idealo.scrape(gtin, cached_offer_urls)
         elif offer_source == "google_shopping":
-            offers = google_shopping.scrape(gtin, cached_offer_urls)
+            offers = google_shopping.scrape(
+                gtin, cached_offer_urls, countries=["NL", "PL"]
+            )
         else:
             raise Exception(f"Offer source {offer_source} not supported.")
 
