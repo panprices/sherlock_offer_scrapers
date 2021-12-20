@@ -1,0 +1,4946 @@
+{
+  "job_id": "61c065520c9dbc00239b8300",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 20,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03838782303159",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:27Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04010118474743",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:26Z"
+      },
+      "content": {
+        "id": "2797732787838561941",
+        "name": "Beyerdynamic DT 770 Pro Headphones (80 Ohm)",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS3aMfI4V-lpQmu3NOib8BnuZBa1swuf7ksahdLdGurhY35nxcyUw57qxPUEIgq0PDJ3xppFi8&usqp=CAY",
+        "description": "The Beyerdynamic DT-770-PRO-32 are closed reference headphones for control and monitoring purposes. The real studio classic. Not only popular with professionals. The 32 Ohms model is ideal for mobile devices, such as smartphones and laptops. A great headphone on the go, if you do not want to do without studio sound. Professional users around the world have been relying on the DT 770 PRO for decades. As a studio reference headphones, this model shines with a very detailed resolution and a very transparent sound. The DT 770 PRO is the closed model in the series, providing maximum flexibility and detailed sound you can count on. It has a firm place in the studios of the world for music producers, sound engineers and broadcast users. The headphones deliver an impressively accurate picture of the entire frequency range and reproduce even low frequencies powerfully and accurately.",
+        "properties": [
+          "beyerdynamic",
+          "DT Series",
+          "DT 770",
+          "On-ear",
+          "DJ/studio",
+          "Tr\u00e5dbundna",
+          "Over-ear"
+        ],
+        "url": "https://www.google.se/shopping/product/2797732787838561941?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 1866,
+        "review_rating": 94,
+        "price": "2350.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "Gold",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Plated Connector",
+            "value": [
+              "Gold"
+            ]
+          },
+          {
+            "label": "Connector Type",
+            "value": [
+              "Headphones (mini-phone 3.5mm)"
+            ]
+          },
+          {
+            "label": "Product Type",
+            "value": [
+              "Headphones - 3.5 mm jack"
+            ]
+          },
+          {
+            "label": "Weight",
+            "value": [
+              "300 g"
+            ]
+          },
+          {
+            "label": "Headphones Form Factor",
+            "value": [
+              "Circumaural"
+            ]
+          },
+          {
+            "label": "Headphones Technology",
+            "value": [
+              "Dynamic"
+            ]
+          },
+          {
+            "label": "Connectivity Technology",
+            "value": [
+              "Wired"
+            ]
+          },
+          {
+            "label": "Sound Output Mode",
+            "value": [
+              "Stereo"
+            ]
+          },
+          {
+            "label": "Frequency Response",
+            "value": [
+              "5 - 35000 Hz"
+            ]
+          },
+          {
+            "label": "Total Harmonic Distortion (THD)",
+            "value": [
+              "0.2%"
+            ]
+          },
+          {
+            "label": "Sensitivity",
+            "value": [
+              "105 dB"
+            ]
+          },
+          {
+            "label": "Impedance",
+            "value": [
+              "80 Ohm"
+            ]
+          },
+          {
+            "label": "In-Cord Volume Control",
+            "value": [
+              "Yes"
+            ]
+          },
+          {
+            "label": "Cables Included",
+            "value": [
+              "Headphones cable - 3 m"
+            ]
+          },
+          {
+            "label": "Included Accessories",
+            "value": [
+              "6.3 mm (1/4\") stereo adapter"
+            ]
+          }
+        ],
+        "offer_count": 3,
+        "offers_url": "https://www.google.se/shopping/product/2797732787838561941/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "2797732787838561941",
+            "price": "1362.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1461.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.muziker.se/beyerdynamic-dt-770-pro-80-ohms",
+            "shop_name": "Muziker SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d5d218c8191",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d5d218c8191",
+            "shop_url": "www.muziker.se",
+            "shop_domain": "muziker.se",
+            "shop_matching_id": "muziker.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "2797732787838561941",
+            "price": "1322.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1452.0",
+            "shipping_costs": "130.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.musik-produktiv.com/se/beyerdynamic-dt-770-pro-80-ohm.html",
+            "shop_name": "Musik Produktiv",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ee8436c973e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ee8436c973e",
+            "shop_url": "www.musik-produktiv.com",
+            "shop_domain": "musik-produktiv.com",
+            "shop_matching_id": "musik-produktiv.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "2797732787838561941",
+            "price": "1490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.spelbutiken.se/produkt/beyerdynamic-dt-770-pro-80-ohms-headphones/AG9V3U",
+            "shop_name": "Spelbutiken",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-21eb5bb759e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-21eb5bb759e",
+            "shop_url": "www.spelbutiken.se",
+            "shop_domain": "spelbutiken.se",
+            "shop_matching_id": "spelbutiken.se",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04054278822129",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:13:32Z"
+      },
+      "content": {
+        "id": "14315116209719868736",
+        "name": "K\u00e4rcher h\u00f6gtryckstv\u00e4tt K 7 Premium Smart Control Flex Home Wood",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQRoZ2sZrFziINjVzXo8k5vVsUwR7H36VhlchUcTQ73JkY7FsZFdR8DxZzXEE0ZjLaWOmrwakiB&usqp=CAY",
+        "description": "K\u00e4rcher K 7 Premium Smart Control Flex Home - Wood H\u00f6gtryckstv\u00e4tten K 7 Premium Smart Control Flex kan enkelt anslutas till anv\u00e4ndarens smartphone via Bluetooth. Det inneb\u00e4r att anv\u00e4ndaren har tillg\u00e5ng till K\u00e4rcher Home & Garden-appen med praktiska tips, tricks och inst\u00e4llningar f\u00f6r en m\u00e4ngd reng\u00f6ringssituationer och \u00e4ndam\u00e5l. Appen inneh\u00e5ller anv\u00e4ndbara funktioner som applikationsr\u00e5dgivaren f\u00f6r \u00e4nnu b\u00e4ttre reng\u00f6ringsresultat, monteringsanvisningar, underh\u00e5llsanvisningar och sk\u00f6tselr\u00e5d samt K\u00e4rchers serviceportal. Enheten har ett boost-l\u00e4ge f\u00f6r extra effekt f\u00f6r att angripa h\u00e5rt sittande smuts. Spolhandtaget G 180 Q Smart Control med LCD display och 3-i-1 Multi Jet spolr\u00f6r erbjuder ocks\u00e5 maximal kontroll: trycket st\u00e4lls in direkt p\u00e5 spolhandtaget eller \u00f6verf\u00f6rs till spolr\u00f6ret med hj\u00e4lp av applikationsr\u00e5dgivaren via appen. P\u00e5 LCD-displayen kan du kontrollera vilken tryckniv\u00e5 som \u00e4r inst\u00e4lld, om det g\u00e5r att aktivera boost-funktionen eller om enheten fortfarande \u00e4r i vilol\u00e4ge. Andra utrustningsdetaljer inkluderar slangvindan f\u00f6r enkel hantering, reng\u00f6ringssystemet Plug \u2019n\u2019 Clean, det h\u00f6gkvalitativa teleskophandtaget i aluminium och parkeringspositionen som g\u00f6r att du enkelt kommer \u00e5t tillbeh\u00f6ren. Flexibel slang i PVC-fritt material och den speciella konstruktionen av PremiumFlex slangen s\u00e4kerst\u00e4ller att enkel f\u00f6rvaring av slang utan trassel.",
+        "properties": [
+          "K\u00e4rcher"
+        ],
+        "url": "https://www.google.se/shopping/product/14315116209719868736?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 1,
+        "review_rating": 100,
+        "price": "5679.0",
+        "gtins": [
+          "4054278822129"
+        ],
+        "eans": [
+          "4054278822129"
+        ],
+        "brand_name": "K\u00e4rcher",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Reng\u00f6ringsmetod",
+            "value": [
+              "V\u00e5t"
+            ]
+          },
+          {
+            "label": "Kontrollelement",
+            "value": [
+              "Vred"
+            ]
+          },
+          {
+            "label": "Kommunikationsteknologi",
+            "value": [
+              "Bluetooth"
+            ]
+          },
+          {
+            "label": "Drifttryck (bar)",
+            "value": [
+              "180"
+            ]
+          },
+          {
+            "label": "Drifttryck (MPa)",
+            "value": [
+              "18"
+            ]
+          },
+          {
+            "label": "Maximal ljudniv\u00e5",
+            "value": [
+              "95 dB"
+            ]
+          },
+          {
+            "label": "Sp\u00e4nning",
+            "value": [
+              "230 V / 50 Hz"
+            ]
+          },
+          {
+            "label": "Maximal belastning",
+            "value": [
+              "3000 W"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxDxH)",
+            "value": [
+              "33 cm x 45.9 cm x 66.6 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "18.06 kg"
+            ]
+          },
+          {
+            "label": "Max. vatteninloppstemperatur",
+            "value": [
+              "60 \u00b0C"
+            ]
+          },
+          {
+            "label": "Slangl\u00e4ngd",
+            "value": [
+              "10 m"
+            ]
+          },
+          {
+            "label": "Fl\u00f6deshastighet",
+            "value": [
+              "600 l/tim"
+            ]
+          },
+          {
+            "label": "Omr\u00e5desprestanda",
+            "value": [
+              "60 m\u00b2/tim"
+            ]
+          },
+          {
+            "label": "Specialegenskaper",
+            "value": [
+              "Inbyggd tillbeh\u00f6rsf\u00f6rvaring"
+            ]
+          },
+          {
+            "label": "Indikatorer",
+            "value": [
+              "Tryckniv\u00e5indikator"
+            ]
+          },
+          {
+            "label": "Kompatibel med smartphone",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Kompatibel med Internet of Things (IoT)",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Drift",
+            "value": [
+              "N\u00e4tanslutning"
+            ]
+          },
+          {
+            "label": "Huvudsp\u00e4nning",
+            "value": [
+              "230 V / 50 Hz"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "45.9 cm"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "K\u00e4rcher"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "1.317-238.0",
+              "71294166"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04054278822129"
+            ]
+          }
+        ],
+        "offer_count": 3,
+        "offers_url": "https://www.google.se/shopping/product/14315116209719868736/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "14315116209719868736",
+            "price": "5679.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5679.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Hoegtryckstvaett/Kaercher-Hoegtryckstvaett-K-7-Premium-Smart-Control-Flex-Home-Wood/2924109?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "14315116209719868736",
+            "price": "5699.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5699.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.whiteaway.se/hem-tradgard/rengoring/hogtryckstvattar/product/kaercher-k-7-premium-smart-ctr-l/?utm_source=google&utm_medium=surfaces",
+            "shop_name": "whiteaway.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-1364fff3eda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-1364fff3eda",
+            "shop_url": "www.whiteaway.se",
+            "shop_domain": "whiteaway.se",
+            "shop_matching_id": "whiteaway.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "14315116209719868736",
+            "price": "5699.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5699.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tretti.se/tradgard/rengoring/tillbehor-till-hogtryckstvatt/product/kaercher-k-7-premium-smart-ctr-l/?utm_source=google&utm_medium=surfaces",
+            "shop_name": "Tretti.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-dc55ad22513",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-dc55ad22513",
+            "shop_url": "www.tretti.se",
+            "shop_domain": "tretti.se",
+            "shop_matching_id": "tretti.se",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719512108314",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:26Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05060216550022",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:13:32Z"
+      },
+      "content": {
+        "id": "13287039827432787644",
+        "name": "Meaco DD8L Standard",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQe7KCQY0s_HVyeRC45T_y2JLnntH8KZeQblHuBZfE84yf0xoHZgnsHoQrvm04_bjFVXP3KVFLNkMY&usqp=CAY",
+        "description": "Avfuktaren Meaco DD8L Standard \u00e4r det perfekta valet f\u00f6r hem, husvagnar och kontor. F\u00f6rutom att \u00f6vervaka luftfuktigheten i inomhusluften renar ett antibakteriellt filter och en jonisator inomhusluften fr\u00e5n skadliga mikrober och dammpartiklar. Avfuktaren \u00e4r ocks\u00e5 perfekt att ha hemma f\u00f6r de med allergier. Effektiv torkningsteknik Avfuktaren tar bort upp till \u00e5tta liter fukt fr\u00e5n rumsluften under dagen. Tack vare sin torkningsteknik kan den anv\u00e4ndas i l\u00e4genheter eller hus med upp till fem rum. Avfuktaren fungerar p\u00e5 ett tillf\u00f6rlitligt och effektivt s\u00e4tt \u00e4ven vid l\u00e5ga temperaturer, till exempel i k\u00e4llare och garage. Avfuktaren kan anv\u00e4ndas vid s\u00e5 l\u00e5ga temperaturer som 1 \u00b0C. Torkmedlet inuti enheten absorberar luftfuktighet och genererar d\u00e4rmed ocks\u00e5 v\u00e4rme. Tyst och m\u00e5ngsidig P\u00e5 grund av sin torkningsteknik \u00e4r avfuktaren v\u00e4ldigt tyst och kan anv\u00e4ndas i sovrum. Apparaten har en timer p\u00e5 \u00e5tta timmar och torken st\u00e4ngs av automatiskt n\u00e4r vattentanken \u00e4r full. Tack vare luftfuktighetsm\u00e4taren \u00f6vervakar enheten luftfuktighetsniv\u00e5n och \u00e4r aktiv l\u00e4ngre om det beh\u00f6vs f\u00f6r att uppn\u00e5 optimal luftfuktighetsbalans. Torka tv\u00e4tt snabbt Ut\u00f6ver andra funktioner har lufttorkaren ett eget program f\u00f6r att torka tv\u00e4tt. Det \u00e4r den perfekta l\u00f6sningen f\u00f6r hem som inte har plats med en separat torktumlare. Torkfunktionen g\u00f6r att tv\u00e4tten torkar snabbare och f\u00f6rhindrar att skadlig kondens bildas inomhus. Dessutom har torken ett antibakteriellt filter och en jonisator som renar och filtrerar inomhusluften. P\u00e5 s\u00e5 s\u00e4tt kan du enkelt se till att luften i ditt hem f\u00f6rblir frisk och ren!",
+        "properties": [
+          "Flyttbar",
+          "8 liter",
+          "Med luftfuktighetsm\u00e4tare",
+          "L\u00e5ga temperaturer"
+        ],
+        "url": "https://www.google.se/shopping/product/13287039827432787644?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 2760,
+        "review_rating": 96,
+        "price": "4499.0",
+        "gtins": [
+          "5060216550022"
+        ],
+        "eans": [
+          "5060216550022"
+        ],
+        "brand_name": "Meaco",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Meaco"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "10001",
+              "10001-3",
+              "39715523",
+              "47384845",
+              "5060216550022",
+              "53050585",
+              "6278101117",
+              "DD8LS",
+              "Dd8ls",
+              "MEA-DD8L",
+              "dd8ls",
+              "meaco_47384845",
+              "meaco_dd8ls"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "05060216550022"
+            ]
+          }
+        ],
+        "offer_count": 3,
+        "offers_url": "https://www.google.se/shopping/product/13287039827432787644/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "13287039827432787644",
+            "price": "4499.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4499.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.power.se/hushaall/klimat-och-ventilation/luftavfuktare/meaco-dd8l-standard-avfuktare/p-1205368/",
+            "shop_name": "Power.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12a02cb9685",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12a02cb9685",
+            "shop_url": "www.power.se",
+            "shop_domain": "power.se",
+            "shop_matching_id": "power.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "13287039827432787644",
+            "price": "4999.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4999.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/822833/hem-hushaall/hushaallsapparater/apparater-for-klimatkontroll/avfuktningsapparater/meaco-dd8l-standard?channable=00945369640038323238333337",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "13287039827432787644",
+            "price": "5528.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5577.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/meaco-dd8l-standard-avfuktare-foer/cat-p/c/p7643064",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05060359287373",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:13:31Z"
+      },
+      "content": {
+        "id": "2363095346348899865",
+        "name": "Irobot Roomba I7550+ Robotdammsugare",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRFVXfCDY7xwXnc-WMStIlPsCwKeTju7STJRog8WePt39R6ISvTMLst2n18kKEaJQsmMrU85og&usqp=CAY",
+        "description": "Med en robotdammsugare slipper du det besv\u00e4rliga med dammsugning. Ist\u00e4llet kan du njuta av en kopp kaffe i soffan. De \u00e4r naturligtvis b\u00e4st f\u00f6r stora golvytor, men de kan ta sig fram \u00f6verallt. Roboten kan arbeta i 75 minuter innan den beh\u00f6ver laddas. Och p\u00e5 endast 90 minuter \u00e4r den laddad och klar f\u00f6r anv\u00e4ndning igen. En annan praktisk funktion \u00e4r att den har en \"virtuell v\u00e4gg\" -funktion. Den l\u00e5ter dig att markera d\u00f6rr\u00f6ppningar eller liknande d\u00e4r du inte vill att roboten ska k\u00f6ra innanf\u00f6r. N\u00e4r den kommer till den virtuella v\u00e4ggen k\u00f6r den automatiskt i en annan riktning.",
+        "properties": [
+          "iRobot",
+          "Roomba",
+          "i Series",
+          "i7",
+          "Robotdammsugare",
+          "Utan p\u00e5se",
+          "Sladdl\u00f6s",
+          "11,3 kg",
+          "F\u00f6r husdjur",
+          "Svart"
+        ],
+        "url": "https://www.google.se/shopping/product/2363095346348899865?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 6300,
+        "review_rating": 90,
+        "price": "8490.0",
+        "gtins": [
+          "5060359287373"
+        ],
+        "eans": [
+          "5060359287373"
+        ],
+        "brand_name": "iRobot",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Robotdammsugare"
+            ]
+          },
+          {
+            "label": "Ljudniv\u00e5 (dB)",
+            "value": [
+              "60 dB"
+            ]
+          },
+          {
+            "label": "P\u00e5sl\u00f6s",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Dammbeh\u00e5llarens volym",
+            "value": [
+              "0.4 l"
+            ]
+          },
+          {
+            "label": "Borste",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Laddningsindikator",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Dammindikator",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Schemalagd st\u00e4dning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "St\u00f6d f\u00f6r virtuellt st\u00e4ngsel",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "WiFi",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Appkompatibel",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Funktioner f\u00f6r v\u00e5tt och torrt",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Mopfunktion",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Room detection",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Underlagssensor",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Smutssensor",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Laddare",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "\u00c5terv\u00e4nder automatiskt till laddningsstationen",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Drifttyp",
+            "value": [
+              "Batteridrift"
+            ]
+          },
+          {
+            "label": "Batterityp",
+            "value": [
+              "Lithium-Ion"
+            ]
+          },
+          {
+            "label": "Batterikapacitet",
+            "value": [
+              "1800 mAh"
+            ]
+          },
+          {
+            "label": "Batteritid",
+            "value": [
+              "75 min"
+            ]
+          },
+          {
+            "label": "Laddningstid",
+            "value": [
+              "90 min"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "35 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "3.4 kg"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "iRobot"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "I755040",
+              "ROOMBA I7550+",
+              "Roomba-i7550+",
+              "i755040",
+              "i755040+"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "05060359287373"
+            ]
+          }
+        ],
+        "offer_count": 7,
+        "offers_url": "https://www.google.se/shopping/product/2363095346348899865/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "2363095346348899865",
+            "price": "8490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/hem-och-hushall/dammsugare-och-rengoring/robotdammsugare/341892/irobot-roomba-i7-robotdammsugare-i755040",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "2363095346348899865",
+            "price": "8490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/hem-fritid/dammsugare-rengoring/robotdammsugare/irobot-roomba-i7550/1010079.9263/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "2363095346348899865",
+            "price": "8490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tretti.se/tradgard/dammsugare/robot-dammsugare/product/irobot-roomba-i7550/?utm_source=google&utm_medium=surfaces",
+            "shop_name": "Tretti.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-dc55ad22513",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-dc55ad22513",
+            "shop_url": "www.tretti.se",
+            "shop_domain": "tretti.se",
+            "shop_matching_id": "tretti.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "2363095346348899865",
+            "price": "8490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.whiteaway.se/hem-tradgard/dammsugare/robot-dammsugare/product/irobot-roomba-i7550/?utm_source=google&utm_medium=surfaces",
+            "shop_name": "whiteaway.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-1364fff3eda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-1364fff3eda",
+            "shop_url": "www.whiteaway.se",
+            "shop_domain": "whiteaway.se",
+            "shop_matching_id": "whiteaway.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "2363095346348899865",
+            "price": "9290.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9290.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mediamarkt.se/sv/product/_irobot-roomba-i7550-robotdammsugare-1333141.html?utm_source=google&utm_medium=seo-product%20feed",
+            "shop_name": "MediaMarkt.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-beb4b17be14",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-beb4b17be14",
+            "shop_url": "www.mediamarkt.se",
+            "shop_domain": "mediamarkt.se",
+            "shop_matching_id": "mediamarkt.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "2363095346348899865",
+            "price": "9222.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9222.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1178764/hem-hushaall/dammsugare-rengoring/robotdammsugare/irobot-roomba-i7550-robotdammsugare-svart?channable=009453696400313137383736349e",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "2363095346348899865",
+            "price": "9222.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9222.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Robotdammsugare/iRobot-Robotdammsugare-Roomba-i7-7550/2853596?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 7
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06009880915897",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:26Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06941565905178",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:13:30Z"
+      },
+      "content": {
+        "id": "2561566036204655148",
+        "name": "DJI MINI 2 FLY MORE COMBO",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT2LNp1BH-FAVPcKmBgnP0g41fEJ6Iaj2InZ25Z8w_wgAo7CdMa0jxqKIC8SuZ7y5RRiyiKvl4&usqp=CAY",
+        "description": "DJI Mini 2 nu \u00e4ntligen med 4K-video! Mini 2 v\u00e4ger fj\u00e4dervikt 249 g och med en flygtid p\u00e5 \u00f6ver 30 minuter kan du ocks\u00e5 anv\u00e4nda hela r\u00e4ckvidden p\u00e5 upp till 10 km. \u00c4ven med sin lilla storlek fungerar Mini 2 f\u00f6rv\u00e5nansv\u00e4rt bra n\u00e4r vinden \u00e4r p\u00e5, den t\u00e5l vind upp till niv\u00e5 5 (9,4 m / s). Fly More Combo levereras ocks\u00e5 med tv\u00e5 extra batterier, praktisk b\u00e4rv\u00e4ska, multiladdare 18W, 3 extra upps\u00e4ttningar propellrar och propellerh\u00e5llare.",
+        "properties": [
+          "DJI",
+          "Mavic",
+          "Dr\u00f6nare",
+          "2,4 GHz",
+          "Smartphone",
+          "Med kamera",
+          "Mini",
+          "Inomhus"
+        ],
+        "url": "https://www.google.se/shopping/product/2561566036204655148?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 5361,
+        "review_rating": 96,
+        "price": "5990.0",
+        "gtins": [
+          "6941565905178"
+        ],
+        "eans": [
+          "6941565905178"
+        ],
+        "brand_name": "DJI",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produktbeskrivning",
+            "value": [
+              "DJI Mini 2 Fly More Combo - quadkopter"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Quadkopter"
+            ]
+          },
+          {
+            "label": "Kompatibilitet",
+            "value": [
+              "iPhone",
+              "iPad",
+              "Android-telefon"
+            ]
+          },
+          {
+            "label": "Kamera",
+            "value": [
+              "Inkluderad - 12 Megapixel"
+            ]
+          },
+          {
+            "label": "Navigering",
+            "value": [
+              "GPS/GLONASS/GALILEO-mottagare"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt",
+            "value": [
+              "Wi-Fi"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "28.9 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "249 g"
+            ]
+          },
+          {
+            "label": "Str\u00f6mk\u00e4lla",
+            "value": [
+              "Batteri"
+            ]
+          },
+          {
+            "label": "Kortl\u00e4sare",
+            "value": [
+              "mikroSD klass 10 eller UHS-I upp till 256 GB"
+            ]
+          },
+          {
+            "label": "Startvikt",
+            "value": [
+              "249 g"
+            ]
+          },
+          {
+            "label": "Vertikal sv\u00e4vningsprecision",
+            "value": [
+              "+/- 0",
+              "1 meter"
+            ]
+          },
+          {
+            "label": "Horisontell sv\u00e4vningsprecision",
+            "value": [
+              "+/- 0",
+              "3 meter"
+            ]
+          },
+          {
+            "label": "Max. vinkelhastighet",
+            "value": [
+              "250 grader per sekund"
+            ]
+          },
+          {
+            "label": "Max. lutningsvinkel",
+            "value": [
+              "40\u00b0"
+            ]
+          },
+          {
+            "label": "Wi-Fi-band",
+            "value": [
+              "2.4 GHz",
+              "5 GHz"
+            ]
+          },
+          {
+            "label": "Kontrollvinkelintervall",
+            "value": [
+              "-90 to 20\u00b0"
+            ]
+          },
+          {
+            "label": "Sensoruppl\u00f6sning",
+            "value": [
+              "12 Megapixel"
+            ]
+          },
+          {
+            "label": "Bildsensortyp",
+            "value": [
+              "CMOS"
+            ]
+          },
+          {
+            "label": "Bildrutehastighet",
+            "value": [
+              "30 frames per second"
+            ]
+          },
+          {
+            "label": "Stillbildsformat",
+            "value": [
+              "JPEG",
+              "RAW",
+              "DNG"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning f\u00f6r stillbilder",
+            "value": [
+              "4000 x 3000",
+              "4000 x 2250"
+            ]
+          },
+          {
+            "label": "Max bildvinkel",
+            "value": [
+              "83 grader"
+            ]
+          },
+          {
+            "label": "Omladdningsbart batteri",
+            "value": [
+              "Laddningsbart"
+            ]
+          },
+          {
+            "label": "Batterikonfigurationer som st\u00f6ds",
+            "value": [
+              "2S"
+            ]
+          },
+          {
+            "label": "Teknik",
+            "value": [
+              "Litiumpolymer"
+            ]
+          },
+          {
+            "label": "Sp\u00e4nning",
+            "value": [
+              "7.7 V"
+            ]
+          },
+          {
+            "label": "Kapacitet",
+            "value": [
+              "17.32 Wh"
+            ]
+          },
+          {
+            "label": "Dimensioner",
+            "value": [
+              "28.9 cm x 24.5 cm x 5.6 cm"
+            ]
+          },
+          {
+            "label": "Min temperatur vid drift",
+            "value": [
+              "0 \u00b0C"
+            ]
+          },
+          {
+            "label": "Max temperatur vid drift",
+            "value": [
+              "40 \u00b0C"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "DJI"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "481071",
+              "56248263",
+              "70755888",
+              "74259791",
+              "905178",
+              "CP.MA.00000307.01",
+              "Mini2 Fly More Combo",
+              "cp.ma.00000307.01",
+              "mavicmini2fmc",
+              "mpn_1049834"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "06941565905178"
+            ]
+          }
+        ],
+        "offer_count": 20,
+        "offers_url": "https://www.google.se/shopping/product/2561566036204655148/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "2561566036204655148",
+            "price": "5990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/hem-fritid/dronare-actionkameror/dji-mini-2-fly-more-combo/1015595.9017/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "2561566036204655148",
+            "price": "6290.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6290.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/foto-video/dronare-och-tillbehor/dronare/248019/dji-mini-2-dronare-fly-more-combo",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "2561566036204655148",
+            "price": "6290.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6290.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.webhallen.com/se/product/327572-DJI-Mini-2-Fly-More-Combo?channable=00c0c769640033323735373222",
+            "shop_name": "Webhallen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-82f3e802042",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-82f3e802042",
+            "shop_url": "www.webhallen.com",
+            "shop_domain": "webhallen.com",
+            "shop_matching_id": "webhallen.com",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "2561566036204655148",
+            "price": "5990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mediamarkt.se/sv/product/_dji-kompakt-och-kraftfull-dr%C3%B6nare-mini-2-fly-more-combo-1330412.html?utm_source=google&utm_medium=seo-product%20feed",
+            "shop_name": "MediaMarkt.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-beb4b17be14",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-beb4b17be14",
+            "shop_url": "www.mediamarkt.se",
+            "shop_domain": "mediamarkt.se",
+            "shop_matching_id": "mediamarkt.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "2561566036204655148",
+            "price": "5990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.scandinavianphoto.se/dji/mini-2-fly-more-combo-1049834",
+            "shop_name": "Scandinavian Photo SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-47d1f5f9f88",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-47d1f5f9f88",
+            "shop_url": "www.scandinavianphoto.se",
+            "shop_domain": "scandinavianphoto.se",
+            "shop_matching_id": "scandinavianphoto.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "2561566036204655148",
+            "price": "5989.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6068.0",
+            "shipping_costs": "79.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://djistockholm.se/product/veckansvara/dji-mini-2-combo/",
+            "shop_name": "DJI Stockholm",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-eb74ee614b5",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-eb74ee614b5",
+            "shop_url": "djistockholm.se",
+            "shop_domain": "djistockholm.se",
+            "shop_matching_id": "djistockholm.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "2561566036204655148",
+            "price": "6190.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6190.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.power.se/mobil-och-foto/dronare-och-tillbehor/dronare/dji-mini-2-fly-more-combo/p-1131317/",
+            "shop_name": "Power.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12a02cb9685",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12a02cb9685",
+            "shop_url": "www.power.se",
+            "shop_domain": "power.se",
+            "shop_matching_id": "power.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "2561566036204655148",
+            "price": "5990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6140.0",
+            "shipping_costs": "150.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.rajalaproshop.se/dji-mini-2-fly-more-combo",
+            "shop_name": "RajalaProShop",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-766655b45bf",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-766655b45bf",
+            "shop_url": "www.rajalaproshop.se",
+            "shop_domain": "rajalaproshop.se",
+            "shop_matching_id": "rajalaproshop.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "2561566036204655148",
+            "price": "6699.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6748.95",
+            "shipping_costs": "49.95",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.clasohlson.com/se/Dr%C3%B6nare-DJI-Mini-2-Fly-More-Combo/p/39-1167?utm_source=google&utm_medium=organic&utm_campaign=google%20surfaces",
+            "shop_name": "Clas Ohlson Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-5e99f6322e9",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5e99f6322e9",
+            "shop_url": "www.clasohlson.com",
+            "shop_domain": "clasohlson.com",
+            "shop_matching_id": "clasohlson.com",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "2561566036204655148",
+            "price": "5990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6069.0",
+            "shipping_costs": "79.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.cyberphoto.se/foto-video/dronare/dronare/dji-mini-2-fly-more-combo",
+            "shop_name": "CyberPhoto",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-809bd0cf62b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-809bd0cf62b",
+            "shop_url": "www.cyberphoto.se",
+            "shop_domain": "cyberphoto.se",
+            "shop_matching_id": "cyberphoto.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "2561566036204655148",
+            "price": "6439.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6439.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011206096/mini-2-fly-more-combo?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "2561566036204655148",
+            "price": "6690.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6690.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.hegethorns.se/Meny/Dronare/Dronare/DJI_Mini_2_Fly_More_Combo?id=6941565905178",
+            "shop_name": "Hegethorns Foto",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-6d3055376f2",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-6d3055376f2",
+            "shop_url": "www.hegethorns.se",
+            "shop_domain": "hegethorns.se",
+            "shop_matching_id": "hegethorns.se",
+            "page": 1,
+            "position": 12
+          },
+          {
+            "id": null,
+            "product_id": "2561566036204655148",
+            "price": "6699.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6699.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1173845/leksaker-hobby/bilbanor-och-radiostyrt/dronare-tillbehor/dronare/dji-mini-2-drone-fly-more-combo?channable=00945369640031313733383435bd",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 13
+          },
+          {
+            "id": null,
+            "product_id": "2561566036204655148",
+            "price": "6290.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6290.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elefun.se/p/prod.aspx?v=50549",
+            "shop_name": "Elefun SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9d11edf1df4",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9d11edf1df4",
+            "shop_url": "www.elefun.se",
+            "shop_domain": "elefun.se",
+            "shop_matching_id": "elefun.se",
+            "page": 1,
+            "position": 14
+          },
+          {
+            "id": null,
+            "product_id": "2561566036204655148",
+            "price": "6695.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6695.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://goecker.se/webshop/dji-mini-2-fly-more-combo-dji481071",
+            "shop_name": "www.goecker.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d58ea912738",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d58ea912738",
+            "shop_url": "goecker.se",
+            "shop_domain": "goecker.se",
+            "shop_matching_id": "goecker.se",
+            "page": 1,
+            "position": 15
+          },
+          {
+            "id": null,
+            "product_id": "2561566036204655148",
+            "price": "6695.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6695.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.coolshop.se/produkt/dji-mavic-mini-2-combo-make-your-moments-fly/236Q7F",
+            "shop_name": "Coolshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-7d63ab4be41",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-7d63ab4be41",
+            "shop_url": "www.coolshop.se",
+            "shop_domain": "coolshop.se",
+            "shop_matching_id": "coolshop.se",
+            "page": 1,
+            "position": 16
+          },
+          {
+            "id": null,
+            "product_id": "2561566036204655148",
+            "price": "6699.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6699.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Droenare/DJI-Mini-2-Combo/2887570?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 17
+          },
+          {
+            "id": null,
+            "product_id": "2561566036204655148",
+            "price": "7059.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7059.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7537045/dji-mini-2-combo-4-rotorer-12-mp-3840-x-2160-pixlar-5-m-s-2250-mah-svart-vit",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 18
+          },
+          {
+            "id": null,
+            "product_id": "2561566036204655148",
+            "price": "6677.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6677.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/dji-mini-2-fly-more-combo-997085672-dc",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 19
+          },
+          {
+            "id": null,
+            "product_id": "2561566036204655148",
+            "price": "6879.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6918.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/leksaker/dji-mini-2-combo-4-rotorer-quadcopter-12-mp-3840-x-2160-pixlar-2250-mah-svart-vit-p88312543",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 20
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06941565911209",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:13:31Z"
+      },
+      "content": {
+        "id": "17750894469057692453",
+        "name": "DJI Air 2S FLY MORE COMBO",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQO0XdVOjitKqB2RBd3miW9Fl4gcNUeJpFpUSrXuxR_83X73gsnJ1yOnQ3oBg&usqp=CAY",
+        "description": "Dji Air 2S \u00e4r den perfekta dr\u00f6naren f\u00f6r fotografen p\u00e5 spr\u00e5ng. F\u00e5nga allt i din v\u00e4g med den ljusstarka 1-tumssensorn som levererar video i upp till 5.4K-uppl\u00f6sning och bilder i RAW-format. Dess n\u00e4tta m\u00e5tt och l\u00e5ga vikt p\u00e5 under 600 g g\u00f6r Air 2S perfekt f\u00f6r resor och \u00e4ventyr. Nya MasterShots och FocusTrack f\u00f6rvandlar enkelt alla \u00e4ventyr till cinematiska filmer utan problem. Fly More Combo inkluderar totalt 3 batterier samt extra propellrar, ND-filter, multiladdare, v\u00e4ska och andra smarta tillbeh\u00f6r!",
+        "properties": [
+          "DJI",
+          "Mavic",
+          "Mavic Air",
+          "Dr\u00f6nare",
+          "2,4 GHz",
+          "Smartphone",
+          "Med kamera",
+          "Inomhus"
+        ],
+        "url": "https://www.google.se/shopping/product/17750894469057692453?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 1138,
+        "review_rating": 96,
+        "price": "12990.0",
+        "gtins": [
+          "6941565911209"
+        ],
+        "eans": [
+          "6941565911209"
+        ],
+        "brand_name": "DJI",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "24"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Aircraft"
+            ]
+          },
+          {
+            "label": "Kompatibilitet",
+            "value": [
+              "iPhone",
+              "iPad",
+              "Android-telefon"
+            ]
+          },
+          {
+            "label": "Fj\u00e4rrkontroll",
+            "value": [
+              "Ja - 2.4 GHz - max. driftdistans: 12 km"
+            ]
+          },
+          {
+            "label": "Str\u00f6mk\u00e4lla",
+            "value": [
+              "Batteri"
+            ]
+          },
+          {
+            "label": "Aktionstyp",
+            "value": [
+              "Ljus"
+            ]
+          },
+          {
+            "label": "Utomhus",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Max. hastighet",
+            "value": [
+              "68",
+              "4 kilometer per timme"
+            ]
+          },
+          {
+            "label": "Funktioner",
+            "value": [
+              "Hinderundvikande system"
+            ]
+          },
+          {
+            "label": "Flashminne",
+            "value": [
+              "8 GB"
+            ]
+          },
+          {
+            "label": "Startvikt",
+            "value": [
+              "595 g"
+            ]
+          },
+          {
+            "label": "Vertikal sv\u00e4vningsprecision",
+            "value": [
+              "+/- 0",
+              "1 meter"
+            ]
+          },
+          {
+            "label": "Horisontell sv\u00e4vningsprecision",
+            "value": [
+              "+/- 0",
+              "1 meter"
+            ]
+          },
+          {
+            "label": "Max. vinkelhastighet",
+            "value": [
+              "250 grader per sekund"
+            ]
+          },
+          {
+            "label": "Max. lutningsvinkel",
+            "value": [
+              "35 grader"
+            ]
+          },
+          {
+            "label": "Navigering",
+            "value": [
+              "GPS/GLONASS/GALILEO-mottagare"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt",
+            "value": [
+              "USB"
+            ]
+          },
+          {
+            "label": "Sensoruppl\u00f6sning",
+            "value": [
+              "20 Megapixel"
+            ]
+          },
+          {
+            "label": "Bildsensortyp",
+            "value": [
+              "CMOS"
+            ]
+          },
+          {
+            "label": "Digital zoom",
+            "value": [
+              "8"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning f\u00f6r videospelare",
+            "value": [
+              "Up to 5472 x 3078"
+            ]
+          },
+          {
+            "label": "Stillbildsformat",
+            "value": [
+              "JPEG",
+              "RAW",
+              "DNG"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning f\u00f6r stillbilder",
+            "value": [
+              "5472 x 3648",
+              "5472 x 3078"
+            ]
+          },
+          {
+            "label": "Max bildvinkel",
+            "value": [
+              "88 grader"
+            ]
+          },
+          {
+            "label": "Omladdningsbart batteri",
+            "value": [
+              "Laddningsbart"
+            ]
+          },
+          {
+            "label": "Batterikonfigurationer som st\u00f6ds",
+            "value": [
+              "3S"
+            ]
+          },
+          {
+            "label": "Teknik",
+            "value": [
+              "Litiumpolymer"
+            ]
+          },
+          {
+            "label": "Sp\u00e4nning",
+            "value": [
+              "11.55 V"
+            ]
+          },
+          {
+            "label": "Kapacitet",
+            "value": [
+              "3500 mAh"
+            ]
+          },
+          {
+            "label": "K\u00f6rtid",
+            "value": [
+              "Upp till 31 min"
+            ]
+          },
+          {
+            "label": "Laddningstid",
+            "value": [
+              "95 min"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "DJI"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "2S Fly More Combo",
+              "480623",
+              "480624",
+              "6941565911209",
+              "78357372",
+              "911209",
+              "CP.MA.00000350.01",
+              "air2sflymore",
+              "mpn_1051226"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "06941565911209"
+            ]
+          }
+        ],
+        "offer_count": 15,
+        "offers_url": "https://www.google.se/shopping/product/17750894469057692453/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "17750894469057692453",
+            "price": "13599.0",
+            "price_additional_info": null,
+            "price_with_shipping": "13599.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.kjell.com/se/produkter/hem-fritid/dronare-quadrocopter/dji-dronare/dji-air-2s-fly-more-combo-dronare-p57724",
+            "shop_name": "Kjell & Company",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4bc09bb32d0",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4bc09bb32d0",
+            "shop_url": "www.kjell.com",
+            "shop_domain": "kjell.com",
+            "shop_matching_id": "kjell.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "17750894469057692453",
+            "price": "13489.0",
+            "price_additional_info": null,
+            "price_with_shipping": "13489.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/foto-video/dronare-och-tillbehor/dronare/303884/dji-air-2s-dronare-fly-more-combo",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "17750894469057692453",
+            "price": "13490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "13490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/hem-fritid/dji-air-2s-fly-more-combo/1017862.8883/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "17750894469057692453",
+            "price": "12990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "12990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.webhallen.com/se/product/334548-DJI-AIR-2S-Fly-More-Combo-EU?channable=00c0c769640033333435343816",
+            "shop_name": "Webhallen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-82f3e802042",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-82f3e802042",
+            "shop_url": "www.webhallen.com",
+            "shop_domain": "webhallen.com",
+            "shop_matching_id": "webhallen.com",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "17750894469057692453",
+            "price": "13475.0",
+            "price_additional_info": null,
+            "price_with_shipping": "13475.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.scandinavianphoto.se/dji/air-2s-fly-more-combo-1051226",
+            "shop_name": "Scandinavian Photo SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-47d1f5f9f88",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-47d1f5f9f88",
+            "shop_url": "www.scandinavianphoto.se",
+            "shop_domain": "scandinavianphoto.se",
+            "shop_matching_id": "scandinavianphoto.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "17750894469057692453",
+            "price": "12989.0",
+            "price_additional_info": null,
+            "price_with_shipping": "13068.0",
+            "shipping_costs": "79.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://djistockholm.se/product/dji-air-2s/dji-air-2-s-fly-more-combo/",
+            "shop_name": "DJI Stockholm",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-eb74ee614b5",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-eb74ee614b5",
+            "shop_url": "djistockholm.se",
+            "shop_domain": "djistockholm.se",
+            "shop_matching_id": "djistockholm.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "17750894469057692453",
+            "price": "13490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "13490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mediamarkt.se/sv/product/_dji-air-2s-fly-more-combo-dr%C3%B6nare-1333589.html?utm_source=google&utm_medium=seo-product%20feed",
+            "shop_name": "MediaMarkt.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-beb4b17be14",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-beb4b17be14",
+            "shop_url": "www.mediamarkt.se",
+            "shop_domain": "mediamarkt.se",
+            "shop_matching_id": "mediamarkt.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "17750894469057692453",
+            "price": "13600.0",
+            "price_additional_info": null,
+            "price_with_shipping": "13600.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011230136/air-2s-fly-more-combo?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "17750894469057692453",
+            "price": "13590.0",
+            "price_additional_info": null,
+            "price_with_shipping": "13740.0",
+            "shipping_costs": "150.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.rajalaproshop.se/dji-air-2s-fly-more-combo",
+            "shop_name": "RajalaProShop",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-766655b45bf",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-766655b45bf",
+            "shop_url": "www.rajalaproshop.se",
+            "shop_domain": "rajalaproshop.se",
+            "shop_matching_id": "rajalaproshop.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "17750894469057692453",
+            "price": "13490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "13569.0",
+            "shipping_costs": "79.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.cyberphoto.se/foto-video/dronare/dronare/dji-air-2s-fly-more-combo",
+            "shop_name": "CyberPhoto",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-809bd0cf62b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-809bd0cf62b",
+            "shop_url": "www.cyberphoto.se",
+            "shop_domain": "cyberphoto.se",
+            "shop_matching_id": "cyberphoto.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "17750894469057692453",
+            "price": "14495.0",
+            "price_additional_info": null,
+            "price_with_shipping": "14495.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://goecker.se/webshop/dji-air-2s-fly-more-combo-dji480624",
+            "shop_name": "www.goecker.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d58ea912738",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d58ea912738",
+            "shop_url": "goecker.se",
+            "shop_domain": "goecker.se",
+            "shop_matching_id": "goecker.se",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "17750894469057692453",
+            "price": "15027.0",
+            "price_additional_info": null,
+            "price_with_shipping": "15027.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7395131/dji-air-2s-fly-more-combo-aircraft-usb",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 12
+          },
+          {
+            "id": null,
+            "product_id": "17750894469057692453",
+            "price": "14499.0",
+            "price_additional_info": null,
+            "price_with_shipping": "14499.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Droenare/DJI-Air-2S-Fly-More-Combo/2938908?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 13
+          },
+          {
+            "id": null,
+            "product_id": "17750894469057692453",
+            "price": "15195.0",
+            "price_additional_info": null,
+            "price_with_shipping": "15195.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.coolshop.se/produkt/dji-air-2s-fly-more-drone-combo/2386H9",
+            "shop_name": "Coolshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-7d63ab4be41",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-7d63ab4be41",
+            "shop_url": "www.coolshop.se",
+            "shop_domain": "coolshop.se",
+            "shop_matching_id": "coolshop.se",
+            "page": 1,
+            "position": 14
+          },
+          {
+            "id": null,
+            "product_id": "17750894469057692453",
+            "price": "14499.0",
+            "price_additional_info": null,
+            "price_with_shipping": "14499.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elefun.se/p/prod.aspx?v=52352",
+            "shop_name": "Elefun SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9d11edf1df4",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9d11edf1df4",
+            "shop_url": "www.elefun.se",
+            "shop_domain": "elefun.se",
+            "shop_matching_id": "elefun.se",
+            "page": 1,
+            "position": 15
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06949710304289",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:13:32Z"
+      },
+      "content": {
+        "id": "3416878045135071519",
+        "name": "Boox Note Air",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRKEEX134QhDszmEdqoqFJKdvPk8TqmykelLhCXZOYoS11cATL0fkr1WpjvOvl6iGnQ1tLZDD89&usqp=CAY",
+        "description": "L\u00e4s och besvara alla filer p\u00e5 A5-sk\u00e4rmen. Du kan kommentera och skriva till mer \u00e4n 20 filformat och l\u00e4gga till bokm\u00e4rken. Det justerbara frontljuset ger dig den mest bekv\u00e4ma vyn av den 227 dpi HD-sk\u00e4rmen i alla ljusf\u00f6rh\u00e5llanden. Note Air med Android 10 OS \u00e4r \u00e4nnu mer kompatibel och flexibel. Du kan installera vilken app som helst och \u00f6ppna tv\u00e5 appar samtidigt f\u00f6r att f\u00f6rdubbla din effektivitet. G-sensorn roterar automatiskt sk\u00e4rmen i r\u00e4tt riktning och g\u00f6r Note Air praktisk f\u00f6r alla anv\u00e4ndare. Aktivera Google Play: Tryck p\u00e5 Inst\u00e4llningar -> Tryck p\u00e5 Program -> \u221a Aktivera Google Play -> Registrera ett Google Play-konto.",
+        "properties": [
+          "ONYX",
+          "BOOX",
+          "BOOX Note",
+          "Note Air",
+          "Sk\u00e4rmstorlek: 10,3 tum",
+          "32 GB",
+          "420 gram",
+          "E Ink",
+          "F\u00e4rgsk\u00e4rm",
+          "Batteritid: 4 veckor"
+        ],
+        "url": "https://www.google.se/shopping/product/3416878045135071519?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 77,
+        "review_rating": 82,
+        "price": "6470.0",
+        "gtins": [
+          "6949710304289"
+        ],
+        "eans": [
+          "6949710304289"
+        ],
+        "brand_name": "ONYX",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "eBook-l\u00e4sare"
+            ]
+          },
+          {
+            "label": "Operativsystem",
+            "value": [
+              "Android 10"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning",
+            "value": [
+              "1872 x 1404 (227 ppi)"
+            ]
+          },
+          {
+            "label": "Peksk\u00e4rm",
+            "value": [
+              "Ja - Multi-Touch"
+            ]
+          },
+          {
+            "label": "Teknik",
+            "value": [
+              "Litiumpolymer"
+            ]
+          },
+          {
+            "label": "Kapacitet",
+            "value": [
+              "3000 mAh"
+            ]
+          },
+          {
+            "label": "Passningstid",
+            "value": [
+              "4 weeks"
+            ]
+          },
+          {
+            "label": "L\u00e5dmaterial",
+            "value": [
+              "Aluminium"
+            ]
+          },
+          {
+            "label": "Sensorer",
+            "value": [
+              "G-sensor"
+            ]
+          },
+          {
+            "label": "Standarder som f\u00f6ljs",
+            "value": [
+              "CCC",
+              "FCC",
+              "RoHS",
+              "TELEC"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "ONYX"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "2_354331",
+              "58335611",
+              "67883827",
+              "6949710304289",
+              "Note Air",
+              "OPC0751R",
+              "noteair",
+              "opc0751r"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "06949710304289"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.se/shopping/product/3416878045135071519/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "3416878045135071519",
+            "price": "6470.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6519.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/onyx-boox-note-air-103/cat-p/c92309/p1001543164",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "3416878045135071519",
+            "price": "6587.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6587.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7184204/onyx-boox-note-air-reader",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07070205301076",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:27Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07070205500349",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:27Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07070205500363",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:27Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07070205500370",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:27Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07332857501199",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:13:31Z"
+      },
+      "content": {
+        "id": "13773736388386994447",
+        "name": "Woods AC CORTINA SILENT 12K WIFI LUFTKONDITIONERING",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSEefu-iWuQepgYl7Z6Ltv6DcTaSOMwcqK2LXsaQvEF5FqgGG8d&usqp=CAY",
+        "description": "En kraftfull AC som klarar upp till 35 kvm stora rum. L\u00e4tt att flytta dit den beh\u00f6vs tack vare hjulen, och kommer med ett smart f\u00f6nsterkit f\u00f6r enkel utledning av varmluft.",
+        "properties": [
+          "Energiklass: A"
+        ],
+        "url": "https://www.google.se/shopping/product/13773736388386994447?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 38,
+        "review_rating": 64,
+        "price": "4738.0",
+        "gtins": [
+          "7332857501199"
+        ],
+        "eans": [
+          "7332857501199"
+        ],
+        "brand_name": "64",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Ljudeffekt dB(A) re 1 pW",
+            "value": [
+              "64"
+            ]
+          },
+          {
+            "label": "K\u00f6ldmedium",
+            "value": [
+              "R290"
+            ]
+          },
+          {
+            "label": "EER",
+            "value": [
+              "2.6"
+            ]
+          },
+          {
+            "label": "Energieffektivitetsklass kylning",
+            "value": [
+              "A"
+            ]
+          },
+          {
+            "label": "Kylkapacitet (kW)",
+            "value": [
+              "3.52"
+            ]
+          },
+          {
+            "label": "Modellbeteckning",
+            "value": [
+              "AC Cortina"
+            ]
+          },
+          {
+            "label": "Djup (cm)",
+            "value": [
+              "35.5"
+            ]
+          },
+          {
+            "label": "Garanti (\u00e5r)",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Produktgrupp",
+            "value": [
+              "Luftkonditionering"
+            ]
+          },
+          {
+            "label": "Display (Ja/Nej)",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Fj\u00e4rrkontroll (Ja/Nej)",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Timer (Ja/Nej)",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "V\u00e4rmefunktion (Ja/Nej)",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Wi-Fi anslutning (Ja/Nej)",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Energim\u00e4rkning kyla",
+            "value": [
+              "A"
+            ]
+          },
+          {
+            "label": "Max. kapacitet kyla (kW)",
+            "value": [
+              "3.5"
+            ]
+          },
+          {
+            "label": "Max. ljudniv\u00e5 (dbA)",
+            "value": [
+              "55"
+            ]
+          },
+          {
+            "label": "Avfuktningskapacitet (l/dygn)",
+            "value": [
+              "33.6"
+            ]
+          },
+          {
+            "label": "Kylmedia",
+            "value": [
+              "R290"
+            ]
+          },
+          {
+            "label": "Energiklass",
+            "value": [
+              "A"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "68485570",
+              "AC CORTINA WIFI",
+              "WAC1203G",
+              "wac1203g"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "07332857501199"
+            ]
+          }
+        ],
+        "offer_count": 5,
+        "offers_url": "https://www.google.se/shopping/product/13773736388386994447/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "13773736388386994447",
+            "price": "4738.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4738.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.hylte-lantman.com/woods-ac-cortina-silent-12k-wifi",
+            "shop_name": "Hylte Jakt & Lantman",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b756455b27b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b756455b27b",
+            "shop_url": "www.hylte-lantman.com",
+            "shop_domain": "hylte-lantman.com",
+            "shop_matching_id": "hylte-lantman.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "13773736388386994447",
+            "price": "5391.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5391.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.maskinklippet.se/maskiner-verktyg/kyla-varmare-avfuktare/kylaggregat/woods-ac-cortina-silent-12k-wifi",
+            "shop_name": "Maskinklippet.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b618f6050de",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b618f6050de",
+            "shop_url": "www.maskinklippet.se",
+            "shop_domain": "maskinklippet.se",
+            "shop_matching_id": "maskinklippet.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "13773736388386994447",
+            "price": "5391.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5391.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://duab.se/garage-verkstad/varme-kyla/luftkonditionering/woods-ac-cortina-silent-12k-wifi",
+            "shop_name": "Duab",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9072c491f1d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9072c491f1d",
+            "shop_url": "duab.se",
+            "shop_domain": "duab.se",
+            "shop_matching_id": "duab.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "13773736388386994447",
+            "price": "6489.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6489.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://hemmy.se/klimat-o-varme/ac-luftkonditionering/luftkonditionering/Woods-AC-Cortina-Silent-12k-WIFI",
+            "shop_name": "Hemmy.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-dd2aa0b2ea0",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-dd2aa0b2ea0",
+            "shop_url": "hemmy.se",
+            "shop_domain": "hemmy.se",
+            "shop_matching_id": "hemmy.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "13773736388386994447",
+            "price": "6489.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6528.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hem-tradgard/woods-ac-cortina-silent-12k-wifi-bast-i-test-p68485570",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 5
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07391987807496",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:13:31Z"
+      },
+      "content": {
+        "id": "10830196075790462536",
+        "name": "TIQ Kung Fu Massage OD600",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXkvg1sNPqk3WGHr2Z5tIndlPyh9BfYynyY8u_l6ErRjArLSxQgEP8g9aQyFofunl6HNlCvqU&usqp=CAY",
+        "description": "Massagekrage med Kung Fu-massage Massagekrage f\u00f6r nacke och rygg 21 olika program 10 intensitetsniv\u00e5er Avancerad massagekrage tillverkad i konstl\u00e4der. F\u00e4sts runt nacken och anv\u00e4nder sedan sig av tv\u00e5 vikter som utf\u00f6r trumrytmer. Massagen kan skr\u00e4ddarsys genom st\u00e4llbar intensitet i tio olika niv\u00e5er samt hela 21 f\u00e4rdiga program. Kragen kan flyttas l\u00e4ngs ryggen f\u00f6r att komma \u00e5t exakta punkter.",
+        "properties": null,
+        "url": "https://www.google.se/shopping/product/10830196075790462536?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 0,
+        "review_rating": null,
+        "price": "2227.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/10830196075790462536/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10830196075790462536",
+            "price": "2227.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2276.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/tiq-kung-fu-massage-od600/cat-p/c/p4240884",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08806090424878",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:13:30Z"
+      },
+      "content": {
+        "id": "2746139620471208085",
+        "name": "Samsung 49\" Curved gamingsk\u00e4rm Odyssey G9",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT1v-iHStZBwEUM5FNdu_YQf_J3-I8IIxkg6jtAWoyUY11pZcV3CCPQFgZy2omoT2kdTe3wtXg&usqp=CAY",
+        "description": "Experience games in a new way and revolutionize your gaming experience with this Samsung 49\" QLED Dual QHD Gaming display that ensures superb image quality. HDR1000 technology and QLED screen - Perfect color scheme The HDR1000 supports brightness up to 1000 nit and HDR content. Samsung's QLED technology delivers 95% DCI-P3 color space for clearer, brighter and extremely realistic color world. Smooth motion in every gaming moment AMD FreeSync 2 eliminates screen tearing and blurring. It synchronizes the refresh rate of the display with the graphics card, which helps to keep the image smooth. FreeSync 2 also supports HDR content and it has low Framerate Compensation (LFC) that ensures a smooth gameplay no matter what. Say goodbye to dual displays Samsung C49G95T is the perfect replacement for dual displays thanks to its 49\" screen size. The screen area is equal to two 27-inch QHD monitors placed side-by-side. You can easily keep multiple documents, web pages or spreadsheets open with just this one screen. The sceren also has Picture-by-Picture and Picture-In-Picture technologies that enhances the device's multitasking potential even more by allowing you to connect two devices at the same time to the screen. Optimal viewing and gaming angle This display is designed to meet even the most demanding needs. The display can be tilted and adjusted conveniently. Customize it to your liking and play in the most optimal and relaxed position. Play your games without annoying picture delay Thanks to the 240 Hz refresh rate, the Samsung C49G95T gaming display minimizes image playback delays and motion blur. Plus, the super-fast 1 ms response time ensures a smooth gaming experience no matter what you play. Made for winning Samsung C49G95T monitor has a brilliant Game Mode that adjusts the contrast and color settings appropriately for each game type. You can also switch from Low Input Lag Mode to even faster response times.",
+        "properties": [
+          "Energiklass: G",
+          "Samsung",
+          "49 tum",
+          "2560 x 1440",
+          "Bakgrundsbelyst LED",
+          "HDMI",
+          "DisplayPort",
+          "Med h\u00f6gtalare",
+          "240 Hz",
+          "Gaming"
+        ],
+        "url": "https://www.google.se/shopping/product/2746139620471208085?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 1347,
+        "review_rating": 86,
+        "price": "14990.0",
+        "gtins": [
+          "8806090424878"
+        ],
+        "eans": [
+          "8806090424878"
+        ],
+        "brand_name": "Samsung",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Typ av enhet",
+            "value": [
+              "QLED monitor - 49\""
+            ]
+          },
+          {
+            "label": "Energiklass",
+            "value": [
+              "Klass G"
+            ]
+          },
+          {
+            "label": "Energikonsumtion per \u00e5r",
+            "value": [
+              "158 kWh"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtion (driftl\u00e4ge)",
+            "value": [
+              "108 W"
+            ]
+          },
+          {
+            "label": "Adaptive-Sync-teknologi",
+            "value": [
+              "NVIDIA G-SYNC",
+              "AMD FreeSync Premium Pro"
+            ]
+          },
+          {
+            "label": "Paneltyp",
+            "value": [
+              "VA"
+            ]
+          },
+          {
+            "label": "Bildf\u00f6rh\u00e5llande",
+            "value": [
+              "32:9"
+            ]
+          },
+          {
+            "label": "Ursprunglig uppl\u00f6sning",
+            "value": [
+              "Dual Quad HD 5120 x 1440 vid 240 Hz"
+            ]
+          },
+          {
+            "label": "Ljusstyrka",
+            "value": [
+              "1000 cd/m\u00b2"
+            ]
+          },
+          {
+            "label": "Kontrastf\u00f6rh\u00e5llande",
+            "value": [
+              "2500:1"
+            ]
+          },
+          {
+            "label": "HDR-kapabel",
+            "value": [
+              "HDR10 / DisplayHDR 1000"
+            ]
+          },
+          {
+            "label": "Responstid",
+            "value": [
+              "1 ms (gr\u00e5-till-gr\u00e5)"
+            ]
+          },
+          {
+            "label": "F\u00e4rgst\u00f6d",
+            "value": [
+              "1",
+              "07 miljarder f\u00e4rger"
+            ]
+          },
+          {
+            "label": "Inmatningsanslutningar",
+            "value": [
+              "2xHDMI",
+              "DisplayPort"
+            ]
+          },
+          {
+            "label": "Displayl\u00e4gesjusteringar",
+            "value": [
+              "H\u00f6jd",
+              "vridbar bas",
+              "lutning"
+            ]
+          },
+          {
+            "label": "Sp\u00e4nning",
+            "value": [
+              "AC 120/230 V (50/60 Hz)"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxDxH) - med st\u00e4ll",
+            "value": [
+              "114.76 cm x 41.64 cm x 53.72 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "16.7 kg"
+            ]
+          },
+          {
+            "label": "Typ av bildsk\u00e4rm",
+            "value": [
+              "QLED monitor / TFT aktiv matris"
+            ]
+          },
+          {
+            "label": "Energiklass (HDR)",
+            "value": [
+              "Klass G"
+            ]
+          },
+          {
+            "label": "Diagonal storlek",
+            "value": [
+              "49\""
+            ]
+          },
+          {
+            "label": "Inbyggda enheter",
+            "value": [
+              "USB 3.0-hubb"
+            ]
+          },
+          {
+            "label": "HDR-format",
+            "value": [
+              "HDR10"
+            ]
+          },
+          {
+            "label": "HDR-certifiering",
+            "value": [
+              "DisplayHDR 1000"
+            ]
+          },
+          {
+            "label": "Horisontell visningsvinkel",
+            "value": [
+              "178"
+            ]
+          },
+          {
+            "label": "Vertikal visningsvinkel",
+            "value": [
+              "178"
+            ]
+          },
+          {
+            "label": "Bakgrundsbelysningsteknik",
+            "value": [
+              "LED-bakgrundsbelysning"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxDxH)",
+            "value": [
+              "114.76 cm x 41.64 cm x 53.72 cm - med st\u00e4ll"
+            ]
+          },
+          {
+            "label": "Lutningsvinkel",
+            "value": [
+              "-3/+13"
+            ]
+          },
+          {
+            "label": "Vridningsvinkel",
+            "value": [
+              "30"
+            ]
+          },
+          {
+            "label": "H\u00f6jdjustering",
+            "value": [
+              "120 mm"
+            ]
+          },
+          {
+            "label": "VESA-inf\u00e4stningsgr\u00e4nssnitt",
+            "value": [
+              "100 x 100 mm"
+            ]
+          },
+          {
+            "label": "Medf\u00f6ljande kablar",
+            "value": [
+              "1 x DisplayPort-kabel; 1 x SuperSpeed USB-kabel"
+            ]
+          },
+          {
+            "label": "Insp\u00e4nning",
+            "value": [
+              "AC 120/230 V (50/60 Hz)"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning f\u00f6r SDR (P\u00e5-l\u00e4ge)",
+            "value": [
+              "108 kWh/1 000 h"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning HDR (P\u00e5-l\u00e4ge)",
+            "value": [
+              "119 kWh/1 000 h"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning (typisk)",
+            "value": [
+              "108 Watt"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtionsst\u00e4ll med",
+            "value": [
+              "0.5 Watt"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtion (vid l\u00e4ge av)",
+            "value": [
+              "0.3 Watt"
+            ]
+          },
+          {
+            "label": "Emballagets bredd",
+            "value": [
+              "126.5 cm"
+            ]
+          },
+          {
+            "label": "Emballagets djup",
+            "value": [
+              "36.6 cm"
+            ]
+          },
+          {
+            "label": "Emballagets h\u00f6jd",
+            "value": [
+              "48.1 cm"
+            ]
+          },
+          {
+            "label": "Emballagets vikt",
+            "value": [
+              "22.6 kg"
+            ]
+          },
+          {
+            "label": "Min temperatur vid drift",
+            "value": [
+              "10 \u00b0C"
+            ]
+          },
+          {
+            "label": "Max temperatur vid drift",
+            "value": [
+              "40 \u00b0C"
+            ]
+          },
+          {
+            "label": "Luftfuktighet vid drift",
+            "value": [
+              "10 - 80 % (icke-kondenserande)"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Samsung"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "53586738",
+              "54502244",
+              "8806090424878",
+              "996003726",
+              "LC49G95TSSRXEN",
+              "LC49G95TSSUXEN",
+              "lc49g95tssrxen",
+              "lc49g95tssuxen"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "08806090424878"
+            ]
+          }
+        ],
+        "offer_count": 5,
+        "offers_url": "https://www.google.se/shopping/product/2746139620471208085/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "2746139620471208085",
+            "price": "14990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "14990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/gaming/gamingskarm/181265/samsung-odyssey-c49g95-49-valvd-bildskarm-for-gaming",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "2746139620471208085",
+            "price": "14990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "14990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.webhallen.com/se/product/321086-Samsung-Odyssey-G9-C49G95-49-WQHD-VA-240Hz-1ms-2xDP-HDMI-HDR1000-Adaptive-Sync?channable=00c0c7696400333231303836a5",
+            "shop_name": "Webhallen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-82f3e802042",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-82f3e802042",
+            "shop_url": "www.webhallen.com",
+            "shop_domain": "webhallen.com",
+            "shop_matching_id": "webhallen.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "2746139620471208085",
+            "price": "15592.99",
+            "price_additional_info": null,
+            "price_with_shipping": "15837.48",
+            "shipping_costs": "244.49",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/samsung-overvaka-c49g95tssu-49/137786855/p?utm_source=google_products&utm_medium=merchant&id_producte=11767304&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "2746139620471208085",
+            "price": "16492.0",
+            "price_additional_info": null,
+            "price_with_shipping": "16541.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/samsung-49-c49g95-curved-1000r/cat-p/c/p1001589025",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "2746139620471208085",
+            "price": "20633.0",
+            "price_additional_info": null,
+            "price_with_shipping": "21631.25",
+            "shipping_costs": "998.25",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.senetic.se/product/LC49G95TSSUXEN",
+            "shop_name": "Senetic Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3d20fd85b7c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3d20fd85b7c",
+            "shop_url": "www.senetic.se",
+            "shop_domain": "senetic.se",
+            "shop_matching_id": "senetic.se",
+            "page": 1,
+            "position": 5
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08806090952616",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:13:32Z"
+      },
+      "content": {
+        "id": "25885444087909140",
+        "name": "Samsung S24A600UCU 24",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSN-kYGRl2zP8cccweqIBqLrHeufLJTAGwsqCf58bbDOj1JEd6YDbTOUJFrX9JAleu-jQ9RD6dC&usqp=CAY",
+        "description": "Njut av en miljard f\u00e4rger med fantastiskt djup. Uppt\u00e4ck detaljerna QHD-uppl\u00f6sning Uppt\u00e4ck en ny niv\u00e5 av detaljrikedom. N\u00e4r du tittar p\u00e5 film eller arbetar med ditt senaste projekt kan du dra nytta av \u00f6kad precision tack vare med 1,7 g\u00e5nger h\u00f6gre pixelt\u00e4thet j\u00e4mf\u00f6rt med Full HD. QHD ger mer utrymme f\u00f6r multitasking, foto och video.",
+        "properties": [
+          "Sv\u00e4ngd",
+          "Med h\u00f6gtalare",
+          "IPS Panel",
+          "Bakgrundsbelyst LED",
+          "2560 x 1440",
+          "HDMI",
+          "VGA",
+          "DVI",
+          "DisplayPort",
+          "USB-C"
+        ],
+        "url": "https://www.google.se/shopping/product/25885444087909140?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 9,
+        "review_rating": 94,
+        "price": "3476.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "36",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "36"
+            ]
+          },
+          {
+            "label": "Typ av bildsk\u00e4rm",
+            "value": [
+              "LED-bakgrundsbelyst LCD-sk\u00e4rm / TFT aktiv matris"
+            ]
+          },
+          {
+            "label": "Energiklass",
+            "value": [
+              "Klass F"
+            ]
+          },
+          {
+            "label": "Energiklass (HDR)",
+            "value": [
+              "Klass G"
+            ]
+          },
+          {
+            "label": "Energikonsumtion per \u00e5r",
+            "value": [
+              "26 kWh"
+            ]
+          },
+          {
+            "label": "Diagonal storlek",
+            "value": [
+              "24\""
+            ]
+          },
+          {
+            "label": "Adaptive-Sync-teknologi",
+            "value": [
+              "AMD FreeSync"
+            ]
+          },
+          {
+            "label": "Inbyggda enheter",
+            "value": [
+              "USB 3.0-hubb"
+            ]
+          },
+          {
+            "label": "Paneltyp",
+            "value": [
+              "IPS"
+            ]
+          },
+          {
+            "label": "Bildf\u00f6rh\u00e5llande",
+            "value": [
+              "16:9"
+            ]
+          },
+          {
+            "label": "Ursprunglig uppl\u00f6sning",
+            "value": [
+              "QHD 2560 x 1440 vid 75 Hz"
+            ]
+          },
+          {
+            "label": "Ljusstyrka",
+            "value": [
+              "300 cd/m\u00b2"
+            ]
+          },
+          {
+            "label": "Kontrastf\u00f6rh\u00e5llande",
+            "value": [
+              "1000:1"
+            ]
+          },
+          {
+            "label": "HDR-format",
+            "value": [
+              "HDR10"
+            ]
+          },
+          {
+            "label": "F\u00e4rgst\u00f6d",
+            "value": [
+              "1",
+              "07 miljarder f\u00e4rger"
+            ]
+          },
+          {
+            "label": "Responstid",
+            "value": [
+              "5 ms"
+            ]
+          },
+          {
+            "label": "Horisontell visningsvinkel",
+            "value": [
+              "178"
+            ]
+          },
+          {
+            "label": "Vertikal visningsvinkel",
+            "value": [
+              "178"
+            ]
+          },
+          {
+            "label": "Bakgrundsbelysningsteknik",
+            "value": [
+              "LED-bakgrundsbelysning"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxDxH)",
+            "value": [
+              "54.23 cm x 19.64 cm x 53.08 cm - med st\u00e4ll"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "5 kg"
+            ]
+          },
+          {
+            "label": "Displayl\u00e4gesjusteringar",
+            "value": [
+              "H\u00f6jd",
+              "pivot (rotation)",
+              "vridbar bas",
+              "lutning"
+            ]
+          },
+          {
+            "label": "Lutningsvinkel",
+            "value": [
+              "-2/+25"
+            ]
+          },
+          {
+            "label": "Vridningsvinkel",
+            "value": [
+              "60"
+            ]
+          },
+          {
+            "label": "Rotationsvinkel",
+            "value": [
+              "-2/+92"
+            ]
+          },
+          {
+            "label": "H\u00f6jdjustering",
+            "value": [
+              "120 mm"
+            ]
+          },
+          {
+            "label": "VESA-inf\u00e4stningsgr\u00e4nssnitt",
+            "value": [
+              "75 x 75 mm"
+            ]
+          },
+          {
+            "label": "Insp\u00e4nning",
+            "value": [
+              "AC 120/240 V"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtion (driftl\u00e4ge)",
+            "value": [
+              "19 W"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning f\u00f6r SDR (P\u00e5-l\u00e4ge)",
+            "value": [
+              "19 kWh/1 000 h"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning HDR (P\u00e5-l\u00e4ge)",
+            "value": [
+              "24 kWh/1 000 h"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning (typisk)",
+            "value": [
+              "19 Watt"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtionsst\u00e4ll med",
+            "value": [
+              "0.5 Watt"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtion (vid l\u00e4ge av)",
+            "value": [
+              "0.3 Watt"
+            ]
+          }
+        ],
+        "offer_count": 4,
+        "offers_url": "https://www.google.se/shopping/product/25885444087909140/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "25885444087909140",
+            "price": "3476.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3476.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7076615/samsung-s24a600ucu-s60ua-series-led-sk%C3%A4rm-24-2560-x-1440-qhd-75-hz-ips-300-cd-m-1000-1-hdr10-5-ms-hdmi-displayport-usb-c",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "25885444087909140",
+            "price": "3599.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3599.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011228126/s24a600u-238-wqhd-ips-169?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "25885444087909140",
+            "price": "3599.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3599.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/samsung-s24a600ucu-24-2560-x-1440-hdmi-displayport-usb-c-75hz-pivot-skaerm",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "25885444087909140",
+            "price": "5049.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5089.36",
+            "shipping_costs": "40.36",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://bigsale.nu/monitorer/monitor-samsung-ls24a600ucuxen-ips-wxga-238.html",
+            "shop_name": "bigsale.nu",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2ef4a9beb86",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2ef4a9beb86",
+            "shop_url": "bigsale.nu",
+            "shop_domain": "bigsale.nu",
+            "shop_matching_id": "bigsale.nu",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08806090952654",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:13:33Z"
+      },
+      "content": {
+        "id": "12718375282203545213",
+        "name": "Samsung S34A650UXU",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSyeBFTnKdP4ETL3ZPQTcRvXhbLkIqvBSQ5d6UVA6kIhj0ZZCM6oW6o3X1BOl6Gy84DacudHR79&usqp=CAY",
+        "description": "34-tums b\u00f6jd bildsk\u00e4rm med Ultra-WQHD-uppl\u00f6sning Oavsett om du spelar, tittar p\u00e5 film eller projicerar, erbjuder den b\u00f6jda 34-tums Ultra-WideWQHD-sk\u00e4rmen med 21:9-bildf\u00f6rh\u00e5llande imponerande betraktningsvinklar och en otroligt detaljerad bildsk\u00e4rm. Ultra-WQHD-uppl\u00f6sningen maximerar sk\u00e4rmens egenskaper och ger s\u00f6ml\u00f6s multitasking p\u00e5 en enda sk\u00e4rm. F\u00f6rb\u00e4ttrar koncentrationen och komforten Maximera prestanda och minska \u00f6gonstress dramatiskt under en l\u00e5ng arbetsdag. Med en perfekt 1000R-kurva f\u00f6r det m\u00e4nskliga \u00f6gat \u00e4r sk\u00e4rmen certifierad f\u00f6r att effektivt minska \u00f6gontr\u00f6tthet, s\u00e5 att du enkelt kan se inneh\u00e5ll snabbt och p\u00e5 ett bekv\u00e4mt s\u00e4tt. 1 miljard f\u00e4rger med HDR 10 Njut av allt inneh\u00e5ll med fantastisk f\u00e4rgprecision och detaljrikedom. Med en bred f\u00e4rgskala, n\u00e4stan obegr\u00e4nsat antal nyanser och HDR10, som g\u00f6r de m\u00f6rkaste f\u00e4rgerna m\u00f6rkare och de ljusaste f\u00e4rgerna \u00e4nnu ljusare, blir varje inneh\u00e5ll en gl\u00e4dje att titta p\u00e5 och kan upplevas precis s\u00e5 som skaparen t\u00e4nkt sig. USB Typ-C med LAN-port Sl\u00e4pp skr\u00e4pet och h\u00e5ll dig uppkopplad. Samsungs h\u00f6guppl\u00f6sta bildsk\u00e4rm har en USB Type-C-port med 90 W-laddning f\u00f6r att driva din b\u00e4rbara dator och \u00f6verf\u00f6ra data med en enda kabel. Dessutom har den en LAN-port som g\u00f6r att en b\u00e4rbar dator utan LAN-port helt enkelt kan anslutas till sk\u00e4rmen f\u00f6r Ethernet-anv\u00e4ndning. TUV-certifierad smart \u00f6gonv\u00e5rd H\u00e5ll \u00f6gonen avslappnade och tr\u00f6ttfria. F\u00f6r projekt som genomf\u00f6rs sent p\u00e5 kv\u00e4llen justeras ljusstyrka och f\u00e4rgtemperatur automatiskt f\u00f6r att optimera ljusstyrkan i alla milj\u00f6er. Sk\u00e4rmen \u00e4r TUV-certifierad f\u00f6r smart \u00f6gonv\u00e5rd och skyddar \u00f6gonen mot \u00f6verdrivet bl\u00e5tt ljus med \u00f6gonskyddsl\u00e4ge och en flimmerfri funktion. Maximera komforten, minska distraktionerna Den n\u00e4stan kantfria designen minimerar distraktioner s\u00e5 att du kan fokusera b\u00e4ttre p\u00e5 ditt arbete. Bl\u00e4ddra enkelt genom flera program, e-post eller dokument utan problem, utan de irriterande kanterna fr\u00e5n en installation med dubbla sk\u00e4rmar. F\u00f6rb\u00e4ttra estetiken i din omgivning med en smal metallbas. Imponerande 100 Hz uppdateringsfrekvens Den ultrasnabba uppdateringsfrekvensen p\u00e5 100 Hz f\u00f6rb\u00e4ttrar prestandan i alla applikationer med mjukare musrespons. Minimerar avbrott i sk\u00e4rmen under snabba scener, vilket ger dig en perfekt spelupplevelse. H\u00e5ll dig i synk med handlingen G\u00f6r din underh\u00e5llningsupplevelse smidigare \u00e4n n\u00e5gonsin. AMD FreeSync h\u00e5ller bildsk\u00e4rmens och grafikkortets uppdateringsfrekvens synkroniserad f\u00f6r att minska bildflimmer och flimmer. Filmer och spel \u00e4r s\u00f6ml\u00f6sa och till och med snabba actionscener \u00e4r ultra-responsiva och flytande.",
+        "properties": [
+          "Samsung",
+          "34 tum",
+          "Bakgrundsbelyst LED",
+          "HDMI",
+          "DisplayPort",
+          "USB-C",
+          "Med h\u00f6gtalare",
+          "100 Hz",
+          "Gaming",
+          "4K"
+        ],
+        "url": "https://www.google.se/shopping/product/12718375282203545213?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 6,
+        "review_rating": 84,
+        "price": "6995.0",
+        "gtins": [
+          "8806090952654"
+        ],
+        "eans": [
+          "8806090952654"
+        ],
+        "brand_name": "Samsung",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "36"
+            ]
+          },
+          {
+            "label": "Typ av bildsk\u00e4rm",
+            "value": [
+              "LED-bakgrundsbelyst LCD-sk\u00e4rm / TFT aktiv matris"
+            ]
+          },
+          {
+            "label": "Energiklass",
+            "value": [
+              "Klass G"
+            ]
+          },
+          {
+            "label": "Energiklass (HDR)",
+            "value": [
+              "Klass G"
+            ]
+          },
+          {
+            "label": "Diagonal storlek",
+            "value": [
+              "34\""
+            ]
+          },
+          {
+            "label": "B\u00f6jd sk\u00e4rm",
+            "value": [
+              "Ja (1000R)"
+            ]
+          },
+          {
+            "label": "Adaptive-Sync-teknologi",
+            "value": [
+              "AMD FreeSync"
+            ]
+          },
+          {
+            "label": "Inbyggda enheter",
+            "value": [
+              "USB 3.0-hubb"
+            ]
+          },
+          {
+            "label": "Paneltyp",
+            "value": [
+              "VA"
+            ]
+          },
+          {
+            "label": "Bildf\u00f6rh\u00e5llande",
+            "value": [
+              "21:9"
+            ]
+          },
+          {
+            "label": "Ursprunglig uppl\u00f6sning",
+            "value": [
+              "UWQHD 3440 x 1440 vid 100 Hz"
+            ]
+          },
+          {
+            "label": "Ljusstyrka",
+            "value": [
+              "300 cd/m\u00b2"
+            ]
+          },
+          {
+            "label": "Kontrastf\u00f6rh\u00e5llande",
+            "value": [
+              "4000:1"
+            ]
+          },
+          {
+            "label": "HDR-format",
+            "value": [
+              "HDR10"
+            ]
+          },
+          {
+            "label": "F\u00e4rgst\u00f6d",
+            "value": [
+              "1",
+              "07 miljarder f\u00e4rger"
+            ]
+          },
+          {
+            "label": "Responstid",
+            "value": [
+              "5 ms"
+            ]
+          },
+          {
+            "label": "Horisontell visningsvinkel",
+            "value": [
+              "178"
+            ]
+          },
+          {
+            "label": "Vertikal visningsvinkel",
+            "value": [
+              "178"
+            ]
+          },
+          {
+            "label": "Bakgrundsbelysningsteknik",
+            "value": [
+              "LED-bakgrundsbelysning"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxDxH)",
+            "value": [
+              "80.66 cm x 23.49 cm x 55.33 cm - med st\u00e4ll"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "7.6 kg"
+            ]
+          },
+          {
+            "label": "Displayl\u00e4gesjusteringar",
+            "value": [
+              "H\u00f6jd",
+              "pivot (rotation)",
+              "vridbar bas",
+              "lutning"
+            ]
+          },
+          {
+            "label": "Lutningsvinkel",
+            "value": [
+              "-2/+25"
+            ]
+          },
+          {
+            "label": "Vridningsvinkel",
+            "value": [
+              "60"
+            ]
+          },
+          {
+            "label": "Rotationsvinkel",
+            "value": [
+              "-2/+2"
+            ]
+          },
+          {
+            "label": "H\u00f6jdjustering",
+            "value": [
+              "120 mm"
+            ]
+          },
+          {
+            "label": "VESA-inf\u00e4stningsgr\u00e4nssnitt",
+            "value": [
+              "100 x 100 mm"
+            ]
+          },
+          {
+            "label": "Medf\u00f6ljande kablar",
+            "value": [
+              "1 x HDMI-kabel; 1 x USB-C-kabel"
+            ]
+          },
+          {
+            "label": "Standarder som f\u00f6ljs",
+            "value": [
+              "TUV"
+            ]
+          },
+          {
+            "label": "Typ av s\u00e4kerhetsplats",
+            "value": [
+              "Kensington s\u00e4kerhetsplats"
+            ]
+          },
+          {
+            "label": "Insp\u00e4nning",
+            "value": [
+              "AC 120/230 V"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtion (driftl\u00e4ge)",
+            "value": [
+              "35 W"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning f\u00f6r SDR (P\u00e5-l\u00e4ge)",
+            "value": [
+              "35 kWh/1 000 h"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning HDR (P\u00e5-l\u00e4ge)",
+            "value": [
+              "38 kWh/1 000 h"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning (typisk)",
+            "value": [
+              "35 Watt"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Samsung"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "247158",
+              "58592056",
+              "62439504",
+              "77018966",
+              "78601621",
+              "81813927",
+              "81919017",
+              "85718629",
+              "998242029",
+              "LS34A650UXUXEN",
+              "S55010990"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "08806090952654"
+            ]
+          }
+        ],
+        "offer_count": 9,
+        "offers_url": "https://www.google.se/shopping/product/12718375282203545213/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "12718375282203545213",
+            "price": "6995.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6995.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1187008/datorutrustning/bildskarm/bildskarmar/samsung-34-curved-skarm-s34a650?channable=00945369640031313837303038ed",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "12718375282203545213",
+            "price": "6456.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6693.43",
+            "shipping_costs": "237.43",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.senetic.se/product/LS34A650UXUXEN",
+            "shop_name": "Senetic Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3d20fd85b7c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3d20fd85b7c",
+            "shop_url": "www.senetic.se",
+            "shop_domain": "senetic.se",
+            "shop_matching_id": "senetic.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "12718375282203545213",
+            "price": "6999.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6999.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011231513/s34a650uxu-34-wqhd-va-219-curved?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "12718375282203545213",
+            "price": "7119.99",
+            "price_additional_info": null,
+            "price_with_shipping": "7338.98",
+            "shipping_costs": "218.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/samsung-bojd-s34a650uxu-34-wqhd-led-100hz-overvaka/138188143/p?utm_source=google_products&utm_medium=merchant&id_producte=13518961&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "12718375282203545213",
+            "price": "6904.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7103.0",
+            "shipping_costs": "199.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/samsung-ls34a650uxuxen-bojd-led-skarm-34-tum-5-ms-svart-hdr-freesync-100-hz-p85718629",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "12718375282203545213",
+            "price": "7314.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7314.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/samsung-s34a650uxu-34-3440-x-1440-hdmi-displayport-usb-c-100hz-pivot-skaerm",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "12718375282203545213",
+            "price": "6995.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7054.0",
+            "shipping_costs": "59.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplettforetag.se/product/1187008/bildskarm/bildskarm/bildskarmar/samsung-34-curved-skarm-s34a650",
+            "shop_name": "Komplett F\u00f6retag",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9edf77b141d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9edf77b141d",
+            "shop_url": "www.komplettforetag.se",
+            "shop_domain": "komplettforetag.se",
+            "shop_matching_id": "komplettforetag.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "12718375282203545213",
+            "price": "8798.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8897.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/146/203147/sort/1/filter/0_0_0_0/LS34A650UXUXEN-34-VA-21-9-sk%C3%A4rm.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "12718375282203545213",
+            "price": "11149.0",
+            "price_additional_info": null,
+            "price_with_shipping": "11149.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://e-shopen.com/sortiment/datorprodukter/bildskarmar-och-tillbehor/bildskarmar/bildskarm-samsung-s34a650-34/",
+            "shop_name": "E-shopen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-04aa1d2922c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-04aa1d2922c",
+            "shop_url": "e-shopen.com",
+            "shop_domain": "e-shopen.com",
+            "shop_matching_id": "e-shopen.com",
+            "page": 1,
+            "position": 9
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08806098730360",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:13:31Z"
+      },
+      "content": {
+        "id": "1521065106997369210",
+        "name": "LG GBB72PZUFN Kombisk\u00e5p",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQwcsoRzNFzn6Ij8BVqnKjKH5iWjN3qqzmVHHf6-XCb34lXQ8vZ&usqp=CAY",
+        "description": "Med en kapacitet p\u00e5 277 liter i kylsektionen passar sk\u00e5pet bra till ett hush\u00e5ll med 3-4 personer. I frysdelen f\u00e5r du plats med 107 liter. Sk\u00e5pets m\u00e5tt \u00e4r 2030 mm i h\u00f6jden. Att frosta av frysen \u00e4r knappast det roligaste arbetet i v\u00e4rlden. Men det automatiska avfrostningsfunktionen som den h\u00e4r modellen har blir det en barnlek och du slipper l\u00e4gga m\u00e5nga, l\u00e5nga, tr\u00e5kiga timmar p\u00e5 att sj\u00e4lva frosta av. Ljudniv\u00e5n p\u00e5 bara 36 dB \u00e4r din garanti f\u00f6r att du inte kommer att st\u00f6ras av ljudet fr\u00e5n detta kyl- och fryssk\u00e5p. Med den digital temperaturinst\u00e4llning kan du st\u00e4lla in temperaturen exakt som du vill ha den. LED-belysningen \u00e4r inte bara energisn\u00e5l, den ger ocks\u00e5 ett behagligt sken och hj\u00e4lper dig att snabbt f\u00e5 \u00f6verblick \u00f6ver dina matvaror.",
+        "properties": [
+          "LG"
+        ],
+        "url": "https://www.google.se/shopping/product/1521065106997369210?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 7,
+        "review_rating": 98,
+        "price": "8019.0",
+        "gtins": [
+          "8806098730360"
+        ],
+        "eans": [
+          "8806098730360"
+        ],
+        "brand_name": "LG",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "Kylsk\u00e5pskapacitet",
+            "value": [
+              "Kylsk\u00e5p-frys"
+            ]
+          },
+          {
+            "label": "Energiklass",
+            "value": [
+              "Klass D"
+            ]
+          },
+          {
+            "label": "Wifi-f\u00f6rberedd",
+            "value": [
+              "Yes"
+            ]
+          },
+          {
+            "label": "Energif\u00f6rbrukning per \u00e5r",
+            "value": [
+              "215 kWh"
+            ]
+          },
+          {
+            "label": "Nettokapacitet totalt",
+            "value": [
+              "384 liter"
+            ]
+          },
+          {
+            "label": "Nettokapacitet hos kylsk\u00e5p",
+            "value": [
+              "277 liter"
+            ]
+          },
+          {
+            "label": "Nettokapacitet hos frys",
+            "value": [
+              "107 liter"
+            ]
+          },
+          {
+            "label": "Klimatklass",
+            "value": [
+              "SN-T"
+            ]
+          },
+          {
+            "label": "Ljudtryckniv\u00e5",
+            "value": [
+              "36 dB"
+            ]
+          },
+          {
+            "label": "Ljudniv\u00e5",
+            "value": [
+              "36 dB(A)"
+            ]
+          },
+          {
+            "label": "Bullerklass",
+            "value": [
+              "C"
+            ]
+          },
+          {
+            "label": "Antal d\u00f6rrar",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Omh\u00e4ngningsbara d\u00f6rrar",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "D\u00f6rrfunktioner",
+            "value": [
+              "D\u00f6rrkylning+"
+            ]
+          },
+          {
+            "label": "Automatisk avfrostning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Kylningstyp",
+            "value": [
+              "Frostfri"
+            ]
+          },
+          {
+            "label": "Frostfri",
+            "value": [
+              "Totalt frostfri"
+            ]
+          },
+          {
+            "label": "Fryskapacitet vid str\u00f6mavbrott",
+            "value": [
+              "19 timmar"
+            ]
+          },
+          {
+            "label": "Temperaturintervall",
+            "value": [
+              "1\u00b0C to 7\u00b0C",
+              "-23\u00b0C to -15\u00b0C"
+            ]
+          },
+          {
+            "label": "Larm vid \u00f6ppen d\u00f6rr",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Handtagsdesign",
+            "value": [
+              "Ficka"
+            ]
+          },
+          {
+            "label": "Kontroll",
+            "value": [
+              "Elektronisk"
+            ]
+          },
+          {
+            "label": "Innerbelysningsfunktioner",
+            "value": [
+              "LED-interi\u00f6rbelysning"
+            ]
+          },
+          {
+            "label": "Kylsk\u00e5psutrymme/zoninformatiom",
+            "value": [
+              "Fresh Converter - 44 liter"
+            ]
+          },
+          {
+            "label": "Temperaturvarningar",
+            "value": [
+              "Ja - h\u00f6rbar",
+              "synlig"
+            ]
+          },
+          {
+            "label": "Invertermotor",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Kylmedel",
+            "value": [
+              "R 600 A"
+            ]
+          },
+          {
+            "label": "Antal kylsk\u00e5pshyllor",
+            "value": [
+              "4"
+            ]
+          },
+          {
+            "label": "Antal l\u00e5dor i kylst\u00e5p",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Antal d\u00f6rrutrymmen p\u00e5 kylsk\u00e5p",
+            "value": [
+              "4"
+            ]
+          },
+          {
+            "label": "Innerbelysning i kylsk\u00e5p",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "F\u00f6rvaring i d\u00f6rrren",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Snabbfrysning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Infrysningskapacitet",
+            "value": [
+              "14 kg/24 h"
+            ]
+          },
+          {
+            "label": "Antal l\u00e5dor i fryssk\u00e5p",
+            "value": [
+              "3"
+            ]
+          },
+          {
+            "label": "Hjul och utj\u00e4mning",
+            "value": [
+              "Justerbara f\u00f6tter"
+            ]
+          },
+          {
+            "label": "Standarder som f\u00f6ljs",
+            "value": [
+              "WEEE",
+              "Directive 1060/2010/EU"
+            ]
+          },
+          {
+            "label": "Medf\u00f6ljande tillbeh\u00f6r",
+            "value": [
+              "\u00c4ggfack; Iskubsfack"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "68.2 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "78 kg"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "LG"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "GBB72PZUFN",
+              "Gbb72pzufn"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "08806098730360"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.se/shopping/product/1521065106997369210/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "1521065106997369210",
+            "price": "8019.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8118.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/216/197880/sort/1/filter/0_0_0_0/GBB72PZUFN-kylsk%C3%A5p.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "1521065106997369210",
+            "price": "9299.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9299.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1164022/vitvaror/kombinerade-kyl-frysar/lg-gbb72pzufn-kombiskaap?channable=0094536964003131363430323268",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    }
+  ]
+}

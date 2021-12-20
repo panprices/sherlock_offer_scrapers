@@ -1,0 +1,1579 @@
+{
+  "job_id": "61c06469e661500023ad2ce8",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 19,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252125519",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:34Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252125953",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:32Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252126394",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:33Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252128732",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:32Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252159934",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:33Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252165881",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:32Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252166338",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:32Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252166789",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:32Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252167236",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:34Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252699799",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:09:36Z"
+      },
+      "content": {
+        "id": "14762954100279103006",
+        "name": "iPhone 13 Pro Max 256GB",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQl6MwaGaakE5MWVs2sTCS--4D1DOxvW-NYPp5PuO_NcbMeDekXRKNHn7BfxMBteor8cPIe1qeu&usqp=CAY",
+        "description": "Ett kamerasystem med mycket mer kraft. En sk\u00e4rm s\u00e5 f\u00f6ljsam att varje tryck och svep k\u00e4nns som en ny upplevelse. V\u00e4rldens snabbaste chip i en smartphone. Extremt t\u00e5lig. Och ett stort spr\u00e5ng f\u00f6r batteritiden. Det \u00e4r Pro. Nu k\u00f6r vi. Super Retina XDR-sk\u00e4rm med ProMotion1. Cinematiskt l\u00e4ge i 1080p med 30 bilder/s. A15 Bionic-chip. IP68 -Vattent\u00e5lig ner till 6 meters djup i upp till 30 minuter. 5G - Supersnabb nedladdning, streaming med h\u00f6g kvalitet. LiDAR-teknik f\u00f6r portr\u00e4tt i nattl\u00e4ge, snabbare autofokus i svagt ljus och AR-upplevelser p\u00e5 en helt ny niv\u00e5. Str\u00f6madapter ing\u00e5r ej. Finnas att l\u00e4gga till i n\u00e4sta steg eller i tillbeh\u00f6rsshoppen.",
+        "properties": [
+          "Apple",
+          "iPhone",
+          "iPhone 13",
+          "iPhone 13 Pro",
+          "iOS",
+          "Sk\u00e4rmstorlek: 6,7 tum",
+          "Fingeravtrycksl\u00e4sare",
+          "Smartphone",
+          "Tr\u00e5dl\u00f6s laddning",
+          "240 gram"
+        ],
+        "url": "https://www.google.se/shopping/product/14762954100279103006?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 3845,
+        "review_rating": 94,
+        "price": "819.0",
+        "gtins": [
+          "194252699799"
+        ],
+        "eans": [
+          "0194252699799"
+        ],
+        "brand_name": "Apple",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Tillverkarens modellnummer",
+            "value": [
+              "A2643"
+            ]
+          },
+          {
+            "label": "Processor",
+            "value": [
+              "Apple A15 Bionic (6-k\u00e4rnig)"
+            ]
+          },
+          {
+            "label": "Minne",
+            "value": [
+              "256 GB"
+            ]
+          },
+          {
+            "label": "Operativsystem",
+            "value": [
+              "iOS 15"
+            ]
+          },
+          {
+            "label": "Andra bakre kamera",
+            "value": [
+              "12 megapixlar - ultravidvinkellins 13 mm - f/1.8"
+            ]
+          },
+          {
+            "label": "Fr\u00e4mre kamera",
+            "value": [
+              "12 megapixlar f/2.2"
+            ]
+          },
+          {
+            "label": "Serviceleverant\u00f6r",
+            "value": [
+              "Inte specificerad"
+            ]
+          },
+          {
+            "label": "Simkort",
+            "value": [
+              "Dual-SIM - nano-SIM",
+              "elektroniskt SIM-kort (e-SIM)"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6st gr\u00e4nssnitt",
+            "value": [
+              "NFC",
+              "Bluetooth",
+              "Wi-Fi 6",
+              "UWB"
+            ]
+          },
+          {
+            "label": "S\u00e4kerhetsenheter",
+            "value": [
+              "Ansiktsigenk\u00e4nning"
+            ]
+          },
+          {
+            "label": "Kontakter",
+            "value": [
+              "Lightning"
+            ]
+          },
+          {
+            "label": "Standarder f\u00f6r tr\u00e5dl\u00f6s laddning",
+            "value": [
+              "Qi"
+            ]
+          },
+          {
+            "label": "Skydd",
+            "value": [
+              "Dammt\u00e4t",
+              "st\u00e4nks\u00e4ker",
+              "vattent\u00e4t"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxDxH)",
+            "value": [
+              "78.1 mm x 7.65 mm x 160.8 mm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "238 g"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "Ber\u00f6ring"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "7.65 mm"
+            ]
+          },
+          {
+            "label": "Generationen mobilt bredband",
+            "value": [
+              "5G"
+            ]
+          },
+          {
+            "label": "Intelligent assistent",
+            "value": [
+              "Siri"
+            ]
+          },
+          {
+            "label": "Navigering",
+            "value": [
+              "GPS",
+              "GLONASS",
+              "BeiDou",
+              "Galileo",
+              "QZSS"
+            ]
+          },
+          {
+            "label": "SIM-korttyp",
+            "value": [
+              "Nano-SIM",
+              "elektroniskt SIM-kort (e-SIM)"
+            ]
+          },
+          {
+            "label": "Antal SIM-kort",
+            "value": [
+              "Dual-SIM"
+            ]
+          },
+          {
+            "label": "Betalningsteknologi",
+            "value": [
+              "Apple Pay"
+            ]
+          },
+          {
+            "label": "Inmatningsenhet",
+            "value": [
+              "Multi-touch"
+            ]
+          },
+          {
+            "label": "S\u00e4kerhetsteknik",
+            "value": [
+              "Ansikts-ID"
+            ]
+          },
+          {
+            "label": "Digitala videostandarder som st\u00f6ds",
+            "value": [
+              "M-JPEG",
+              "H.264",
+              "HEVC",
+              "MPEG-4 del 2",
+              "HEIF"
+            ]
+          },
+          {
+            "label": "Antal processork\u00e4rnor",
+            "value": [
+              "6-k\u00e4rnig"
+            ]
+          },
+          {
+            "label": "Sensoruppl\u00f6sning",
+            "value": [
+              "12 megapixlar"
+            ]
+          },
+          {
+            "label": "Optisk bildstabiliserare",
+            "value": [
+              "Sensorv\u00e4xling OIS (optisk bildstabilisering)"
+            ]
+          },
+          {
+            "label": "Optisk konstruktion",
+            "value": [
+              "7-elementig"
+            ]
+          },
+          {
+            "label": "Pixelstorlek",
+            "value": [
+              "1.9 \u03bcm"
+            ]
+          },
+          {
+            "label": "Fokusjustering",
+            "value": [
+              "Automatisk"
+            ]
+          },
+          {
+            "label": "Optiskt zoom",
+            "value": [
+              "6"
+            ]
+          },
+          {
+            "label": "Digitalt zoom",
+            "value": [
+              "15"
+            ]
+          },
+          {
+            "label": "HDR-l\u00e4ge",
+            "value": [
+              "Smart HDR 4"
+            ]
+          },
+          {
+            "label": "Ljusk\u00e4lla",
+            "value": [
+              "True Tone LED-blixt"
+            ]
+          },
+          {
+            "label": "Antal linselement",
+            "value": [
+              "6-best\u00e5ndsdelar"
+            ]
+          },
+          {
+            "label": "Synf\u00e4lt (FoV)",
+            "value": [
+              "120 grader"
+            ]
+          },
+          {
+            "label": "Optisk zoomning",
+            "value": [
+              "3"
+            ]
+          },
+          {
+            "label": "Optisk bildstabilisator",
+            "value": [
+              "Optisk bildstabiliserare (OIS)"
+            ]
+          },
+          {
+            "label": "Linstyp",
+            "value": [
+              "Telefotoobjektiv"
+            ]
+          },
+          {
+            "label": "Lins\u00f6ppning",
+            "value": [
+              "F/2.8"
+            ]
+          },
+          {
+            "label": "Min. br\u00e4nnvidd",
+            "value": [
+              "77 mm"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s laddning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Apple"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "13 PRO MAX 256GB SIERRA",
+              "241458",
+              "241698",
+              "82810826",
+              "MLLE3",
+              "MLLE3Q",
+              "MLLE3QN/A",
+              "MLLE3ZD/A"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00194252699799"
+            ]
+          }
+        ],
+        "offer_count": 9,
+        "offers_url": "https://www.google.se/shopping/product/14762954100279103006/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "14762954100279103006",
+            "price": "819.0",
+            "price_additional_info": null,
+            "price_with_shipping": "819.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.telenor.se/handla/mobiler/apple/iphone-13-pro-max/#p%3Dts%26cty%3D256%26clr%3D%23abc0d6%26s%3D7282",
+            "shop_name": "Telenor",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-6010a2ae603",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-6010a2ae603",
+            "shop_url": "www.telenor.se",
+            "shop_domain": "telenor.se",
+            "shop_matching_id": "telenor.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "14762954100279103006",
+            "price": "14790.0",
+            "price_additional_info": null,
+            "price_with_shipping": "14790.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/mobil-smartwatch/mobiltelefoner/iphone/iphone-13-pro-max/apple-iphone-13-pro-max-256-gb-sierra-blue/1020855.18172/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "14762954100279103006",
+            "price": "14790.0",
+            "price_additional_info": null,
+            "price_with_shipping": "14790.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/mobil-tele-gps/mobiltelefoner/361872/iphone-13-pro-max-5g-smartphone-256gb-sierra-blue",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "14762954100279103006",
+            "price": "745.0",
+            "price_additional_info": null,
+            "price_with_shipping": "745.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.comviq.se/mobiler/apple-iphone-13-pro-max?variant=184491",
+            "shop_name": "Comviq",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-343c8225c4d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-343c8225c4d",
+            "shop_url": "www.comviq.se",
+            "shop_domain": "comviq.se",
+            "shop_matching_id": "comviq.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "14762954100279103006",
+            "price": "14795.0",
+            "price_additional_info": null,
+            "price_with_shipping": "14795.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.apple.com/se/shop/go/product/MLLE3?cid=aos-se-seo-pla",
+            "shop_name": "Apple",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-476432a3e85",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-476432a3e85",
+            "shop_url": "www.apple.com",
+            "shop_domain": "apple.com",
+            "shop_matching_id": "apple.com",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "14762954100279103006",
+            "price": "0.0",
+            "price_additional_info": "+400,00 kr i 36 m\u00e5nader",
+            "price_with_shipping": "14400.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tre.se/handla/mobiltelefoner/apple/iphone-13-pro-max?articleId=Goujy46fNkkK-UUQhQU7yw%3D%3D&i=JN2qWa1gfci0qc44REVhAg%3D%3D&pricePlanId=X8Q9djchE5wWbmpOhNOMeg%3D%3D",
+            "shop_name": "tre.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a173aa3113c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a173aa3113c",
+            "shop_url": "www.tre.se",
+            "shop_domain": "tre.se",
+            "shop_matching_id": "tre.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "14762954100279103006",
+            "price": "18399.99",
+            "price_additional_info": null,
+            "price_with_shipping": "18399.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7625639/apple-iphone-13-pro-max-5g-smartphone-dual-sim-256-gb-oled-sk%C3%A4rm-6-7-2778-x-1284-pixlar-120-hz-3-st-bakre-kameror-12-mp-12-mp",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "14762954100279103006",
+            "price": "14790.0",
+            "price_additional_info": null,
+            "price_with_shipping": "14790.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011255995/iphone-13-pro-max?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "14762954100279103006",
+            "price": "15995.0",
+            "price_additional_info": null,
+            "price_with_shipping": "15995.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.telefonshoppen.se/mobiltelefoner/iphone-13-pro-max-256gb?att=U2llcnJhIEJsdWU=",
+            "shop_name": "Telefonshoppen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-827b07b45ee",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-827b07b45ee",
+            "shop_url": "www.telefonshoppen.se",
+            "shop_domain": "telefonshoppen.se",
+            "shop_matching_id": "telefonshoppen.se",
+            "page": 1,
+            "position": 9
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00740617303728",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:09:36Z"
+      },
+      "content": {
+        "id": "1592362470187127961",
+        "name": "HyperX Alloy Elite 2 RGB",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQHyzOwAXS9cVbfB7eRpth7aNUBTL-uWXUeV0ppWRpHHuqbc4UL2M8NmjHepIfSr7GHYUk3rnh0&usqp=CAY",
+        "description": "Mekaniskt tangentbord f\u00f6r gaming med utm\u00e4rkt k\u00e4nsla och fantastiska funktioner som dynamisk RGB-belysning, 100% anti-ghosting och s\u00e4rskilda mediatangenter med stor volymratt.",
+        "properties": [
+          "Kingston",
+          "HyperX",
+          "HyperX Alloy",
+          "Mekaniskt",
+          "Gaming",
+          "Windows",
+          "Bakbelyst"
+        ],
+        "url": "https://www.google.se/shopping/product/1592362470187127961?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 1,
+        "review_rating": 80,
+        "price": "1090.0",
+        "gtins": [
+          "740617303728"
+        ],
+        "eans": [
+          "0740617303728"
+        ],
+        "brand_name": "Kingston",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Anslutningstyp",
+            "value": [
+              "USB 2.0"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Kingston"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "54243034",
+              "HKBE2X-1X-NO/G",
+              "hkbe2x1xnog"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00740617303728"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/1592362470187127961/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "1592362470187127961",
+            "price": "1090.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1090.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1160571/gaming/spelutrustning/gamingtangentbord/hyperx-alloy-elite-2-gamingtangentbord?channable=00945369640031313630353731aa",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00743878036176",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:09:36Z"
+      },
+      "content": {
+        "id": "5854826614444399312",
+        "name": "Klipsch R-41SA H\u00f6gtalare, Svart",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTnqKHL3RhvpPEBdvb_JASrdsU1Kqn4y9XH7PXYrEdJGm2po5_YFXxiZ9AJbdCC48pS_6Ehxio&usqp=CAY",
+        "description": "F\u00f6rb\u00e4ttra din hemmabioupplevelse med Dolby Atmos-kompatibla Klipsch R-41SA h\u00f6gtalare som \u00e4r konstruerad f\u00f6r att monteras p\u00e5 v\u00e4ggen eller placeras ovanp\u00e5 de fr\u00e4mre h\u00f6gtalarna.",
+        "properties": [
+          "Klipsch",
+          "Reference Series",
+          "P\u00e5 golvet",
+          "Med surroundljud",
+          "Sats",
+          "St\u00f6d f\u00f6r Dolby Atmos"
+        ],
+        "url": "https://www.google.se/shopping/product/5854826614444399312?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 1860,
+        "review_rating": 96,
+        "price": "4490.0",
+        "gtins": [
+          "743878036176"
+        ],
+        "eans": [
+          "0743878036176"
+        ],
+        "brand_name": "Klipsch",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Bas",
+            "value": [
+              "4\""
+            ]
+          },
+          {
+            "label": "Diskant",
+            "value": [
+              "Hornladdad 1\""
+            ]
+          },
+          {
+            "label": "K\u00e4nslighet",
+            "value": [
+              "F\u00f6ljer Dolby Atmos-riktlinjerna"
+            ]
+          },
+          {
+            "label": "Effekt (RMS)",
+            "value": [
+              "50 Watt"
+            ]
+          },
+          {
+            "label": "Maxeffekt",
+            "value": [
+              "100 Watt"
+            ]
+          },
+          {
+            "label": "Frekvensomf\u00e5ng",
+            "value": [
+              "F\u00f6ljer Dolby Atmos-riktlinjerna"
+            ]
+          },
+          {
+            "label": "Impedans",
+            "value": [
+              "Kompatibel med 8 Ohm"
+            ]
+          },
+          {
+            "label": "Dolby Atmos",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "\u00d6vrigt",
+            "value": [
+              "Single-wire terminal"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "Styck: 2.7 Kg"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxHxD)",
+            "value": [
+              "146 x 180 x 331 mm"
+            ]
+          },
+          {
+            "label": "Enhet",
+            "value": [
+              "Par"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Klipsch"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "1066235",
+              "R-41-SA PARA"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00743878036176"
+            ]
+          }
+        ],
+        "offer_count": 4,
+        "offers_url": "https://www.google.se/shopping/product/5854826614444399312/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "5854826614444399312",
+            "price": "4490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4490.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.brl.se/sv/artiklar/klipsch-r-41sa-dolby-atmos-hogtalare-svart.html",
+            "shop_name": "BRL Electronics",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-eb937a0337b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-eb937a0337b",
+            "shop_url": "www.brl.se",
+            "shop_domain": "brl.se",
+            "shop_matching_id": "brl.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "5854826614444399312",
+            "price": "4490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4490.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.ljudfokus.se/sv/artiklar/klipsch-r-41sa-dolby-atmos-hogtalare-svart-par.html",
+            "shop_name": "Ljudfokus.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-923e762fc6f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-923e762fc6f",
+            "shop_url": "www.ljudfokus.se",
+            "shop_domain": "ljudfokus.se",
+            "shop_matching_id": "ljudfokus.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "5854826614444399312",
+            "price": "4990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1131087/tv-ljud-bild/hogtalare/stativhogtalare/klipsch-r-41sa-atmos-hogtalare-par?channable=009453696400313133313038373f",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "5854826614444399312",
+            "price": "4990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5049.0",
+            "shipping_costs": "59.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplettforetag.se/product/1131087/tv-ljud-bild/hi-fi/hogtalare/golvhogtalare/klipsch-r-41sa-atmos-hogtalare-par",
+            "shop_name": "Komplett F\u00f6retag",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9edf77b141d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9edf77b141d",
+            "shop_url": "www.komplettforetag.se",
+            "shop_domain": "komplettforetag.se",
+            "shop_matching_id": "komplettforetag.se",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00743878043839",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:33Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00889842536591",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:32Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04002516024354",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:09:35Z"
+      },
+      "content": {
+        "id": "14370486553963364106",
+        "name": "Miele - Blizzard CX1 Cat & Dog PowerLine",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQITzmLYxa7q0Eb0IxJd4c-PEYgVZ8NEd4bg0t7H9jaxx7BB13iuBNEefo9duQ&usqp=CAY",
+        "description": "Dammsugare Miele Blizzard CX 1 Cat & Dog PowerLine \u00e4r en r\u00f6d dammsugare utan dammp\u00e5se med turboborste som \u00e4r idealisk f\u00f6r djurh\u00e5r. Den har kraftfullt reng\u00f6ringsresultat genom Vortex-teknik och en maxeffekt p\u00e5 890 W. Utrustad med HEPA AirClean Lifetime-filter f\u00f6r maximal lufthygien. Blizzard CX1 Cat & Dog PowerLine tar effektivt bort h\u00e5rstr\u00e5n och ludd tack vare turboborsten.",
+        "properties": [
+          "Miele",
+          "Blizzard Series"
+        ],
+        "url": "https://www.google.se/shopping/product/14370486553963364106?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 1921,
+        "review_rating": 94,
+        "price": "4990.0",
+        "gtins": [
+          "4002516024354"
+        ],
+        "eans": [
+          "4002516024354"
+        ],
+        "brand_name": "Miele",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "24"
+            ]
+          },
+          {
+            "label": "Typ av reng\u00f6ringsmedel",
+            "value": [
+              "Med beh\u00e5llare"
+            ]
+          },
+          {
+            "label": "Dammsugartyp",
+            "value": [
+              "Vanlig"
+            ]
+          },
+          {
+            "label": "Reng\u00f6ringsmetod",
+            "value": [
+              "Torr"
+            ]
+          },
+          {
+            "label": "Cyklonic-teknologi",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Typ av beh\u00e5llare",
+            "value": [
+              "Utan p\u00e5se"
+            ]
+          },
+          {
+            "label": "Typ av filter",
+            "value": [
+              "HEPA AirClean Lifetime"
+            ]
+          },
+          {
+            "label": "Kapacitet hos p\u00e5se",
+            "value": [
+              "2 liter"
+            ]
+          },
+          {
+            "label": "Specialegenskaper",
+            "value": [
+              "Justerbar sugkraft"
+            ]
+          },
+          {
+            "label": "Avl\u00e4gsnar djurh\u00e5r",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Drift",
+            "value": [
+              "N\u00e4tanslutning"
+            ]
+          },
+          {
+            "label": "Uppm\u00e4tt ing\u00e5ende str\u00f6m",
+            "value": [
+              "890 W"
+            ]
+          },
+          {
+            "label": "Typ av sladdf\u00f6rvaring",
+            "value": [
+              "Automatisk \u00e5terspolning"
+            ]
+          },
+          {
+            "label": "Sladdl\u00e4ngd",
+            "value": [
+              "7.5 m"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Miele"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "10931600",
+              "blizzardcx1cdpower"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04002516024354"
+            ]
+          }
+        ],
+        "offer_count": 3,
+        "offers_url": "https://www.google.se/shopping/product/14370486553963364106/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "14370486553963364106",
+            "price": "4990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1138444/hem-hushaall/dammsugare-rengoring/dammsugare/miele-blizzard-cx1-cat-dog-dammsugare?channable=009453696400313133383434349c",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "14370486553963364106",
+            "price": "5220.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5220.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.bygghemma.se/kok-och-bad/hushallsapparater/dammsugare/golvdammsugare/dammsugare-miele-blizzard-cx-1-cat-och-dog-powerline/p-1031673",
+            "shop_name": "Bygghemma",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8b160d404fe",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8b160d404fe",
+            "shop_url": "www.bygghemma.se",
+            "shop_domain": "bygghemma.se",
+            "shop_matching_id": "bygghemma.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "14370486553963364106",
+            "price": "5495.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5495.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://hemmy.se/dammsugare/golvdammsugare/miele-blizzard-cx-1-catampdog-power",
+            "shop_name": "Hemmy.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-dd2aa0b2ea0",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-dd2aa0b2ea0",
+            "shop_url": "hemmy.se",
+            "shop_domain": "hemmy.se",
+            "shop_matching_id": "hemmy.se",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04002516280330",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:32Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04002516355304",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:32Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "success": false,
+      "reason": "error",
+      "source": "google-shopping",
+      "country": "se",
+      "key": "gtin",
+      "value": "04548736107120",
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04548736107120",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242492",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:33Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242713",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:33Z"
+      },
+      "content": null,
+      "reason": "not found"
+    }
+  ]
+}

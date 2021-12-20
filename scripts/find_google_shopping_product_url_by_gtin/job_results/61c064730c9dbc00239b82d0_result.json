@@ -1,0 +1,3242 @@
+{
+  "job_id": "61c064730c9dbc00239b82d0",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 19,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252204436",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:09:47Z"
+      },
+      "content": {
+        "id": "9534965562802140527",
+        "name": "iPad Pro 11\" 2021 256 GB WiFi + Cellular (rymdgr\u00e5)",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcREdUc8yFfHrRJQp6KaIK4pnPsTAtDNmvVFLlx--uz9ALMAB6m4FVhJmdp0GY3IERWL4wPqjvon&usqp=CAY",
+        "description": "Apple M1-chip med galet bra prestanda. Imponerande 11-tums Liquid Retina-sk\u00e4rm. Och blixtsnabbt 5G. Sp\u00e4nn fast s\u00e4kerhetsb\u00e4ltet.",
+        "properties": [
+          "Apple",
+          "iPad",
+          "iPad Pro",
+          "11 tum",
+          "468 g",
+          "Lagring: 256 GB",
+          "4G"
+        ],
+        "url": "https://www.google.se/shopping/product/9534965562802140527?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 3237,
+        "review_rating": 96,
+        "price": "12490.0",
+        "gtins": [
+          "194252204436"
+        ],
+        "eans": [
+          "0194252204436"
+        ],
+        "brand_name": "Apple",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Sk\u00e4rmstorlek (tum)",
+            "value": [
+              "11 tum"
+            ]
+          },
+          {
+            "label": "Sk\u00e4rmuppl\u00f6sning",
+            "value": [
+              "2388 x 1668"
+            ]
+          },
+          {
+            "label": "Ljusstyrka",
+            "value": [
+              "600 cd/m\u00b2"
+            ]
+          },
+          {
+            "label": "Typ av panel",
+            "value": [
+              "IPS (In-Plane Switching)"
+            ]
+          },
+          {
+            "label": "Sk\u00e4rmtyp",
+            "value": [
+              "Liquid Retina"
+            ]
+          },
+          {
+            "label": "RAM-Minne",
+            "value": [
+              "8 GB"
+            ]
+          },
+          {
+            "label": "Processor",
+            "value": [
+              "Apple M1 chip (8 k\u00e4rnor)"
+            ]
+          },
+          {
+            "label": "Grafikkort",
+            "value": [
+              "8-k\u00e4rnig GPU"
+            ]
+          },
+          {
+            "label": "Lagringsutrymme",
+            "value": [
+              "256 GB"
+            ]
+          },
+          {
+            "label": "Anslutningar",
+            "value": [
+              "USB-C | Magnetisk kontakt | Smart Connector"
+            ]
+          },
+          {
+            "label": "Mobiluppkoppling",
+            "value": [
+              "5G"
+            ]
+          },
+          {
+            "label": "Operativsystem",
+            "value": [
+              "iPad OS"
+            ]
+          },
+          {
+            "label": "Kortl\u00e4sare",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "SIM-kortsformat",
+            "value": [
+              "eSim",
+              "Nano-SIM (4FF)"
+            ]
+          },
+          {
+            "label": "SIM-kortsplats",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Medf\u00f6ljande penna",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Specialfunktioner",
+            "value": [
+              "Ansiktsigenk\u00e4nning"
+            ]
+          },
+          {
+            "label": "Navigationsprogram",
+            "value": [
+              "Digital kompass | Mikrolokalisering med iBeacon"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning frontkamera",
+            "value": [
+              "12MP Ultra Wide camera",
+              "\u0192/2.4"
+            ]
+          },
+          {
+            "label": "Batteritid",
+            "value": [
+              "Upp till 10 timmar"
+            ]
+          },
+          {
+            "label": "Batterityp",
+            "value": [
+              "Litiumpolymer"
+            ]
+          },
+          {
+            "label": "Batterikapacitet",
+            "value": [
+              "28.65 Wh"
+            ]
+          },
+          {
+            "label": "Laddningstid",
+            "value": [
+              "Uppgift saknas"
+            ]
+          },
+          {
+            "label": "Standby-tid",
+            "value": [
+              "Uppgift saknas"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rs\u00f6rjning",
+            "value": [
+              "20 W"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxHxD)",
+            "value": [
+              "- / 466 g"
+            ]
+          },
+          {
+            "label": "Konfiguration",
+            "value": [
+              "iPad Pro 2021"
+            ]
+          },
+          {
+            "label": "H\u00f6lje",
+            "value": [
+              "Aluminium"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "466 g"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Surfplatta"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Apple"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "241180",
+              "MHW73FD/A",
+              "MHW73KN/A",
+              "PRO MHW73KN/A SPACE GREY"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00194252204436"
+            ]
+          }
+        ],
+        "offer_count": 6,
+        "offers_url": "https://www.google.se/shopping/product/9534965562802140527/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "9534965562802140527",
+            "price": "12490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "12490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/datorer-tillbehor/ipad-surfplatta/313139/ipad-pro-11-2021-256-gb-wifi-cellular-rymdgra",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "9534965562802140527",
+            "price": "12490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "12490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/dator-surfplatta/surfplattor/apple-11-inch-ipad-pro-wifi-cellular-256gb-space-grey-mhw73kna/1018032.8899/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "9534965562802140527",
+            "price": "12495.0",
+            "price_additional_info": null,
+            "price_with_shipping": "12495.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.apple.com/se/shop/go/product/MHW73?cid=aos-se-seo-pla",
+            "shop_name": "Apple",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-476432a3e85",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-476432a3e85",
+            "shop_url": "www.apple.com",
+            "shop_domain": "apple.com",
+            "shop_matching_id": "apple.com",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "9534965562802140527",
+            "price": "12391.0",
+            "price_additional_info": null,
+            "price_with_shipping": "12391.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011230431/ipad-pro-2021-wi-fi-cellular?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "9534965562802140527",
+            "price": "12389.0",
+            "price_additional_info": null,
+            "price_with_shipping": "12389.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7384584/apple-11-inch-ipad-pro-wi-fi-cellular-3-e-generationen-surfplatta-256-gb-11-ips-2388-x-1668-3g-4g-5g-lte-rymdgr%C3%A5",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "9534965562802140527",
+            "price": "16599.0",
+            "price_additional_info": null,
+            "price_with_shipping": "16599.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.leasy.se/datorer-och-spel/surfplatta/ipad-pro-wi-fi-mhw73kn-a-space-grey",
+            "shop_name": "L'EASY",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f6a688ca557",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f6a688ca557",
+            "shop_url": "www.leasy.se",
+            "shop_domain": "leasy.se",
+            "shop_matching_id": "leasy.se",
+            "page": 1,
+            "position": 6
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252440759",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:43Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195042128802",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:09:48Z"
+      },
+      "content": {
+        "id": "15916444915834317619",
+        "name": "Lenovo V50s Sff Core I5 8gb 256gb Ssd",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTvxW3l-Ohv51Da1b3UIc3HwDeK1dQbzwM-qtmSk70SdDkzdLf0&usqp=CAY",
+        "description": "Lenovo V50s-07IMB SFF station\u00e4r dator kommer i en kompakt formfaktor s\u00e5 att den kan f\u00e5 plats i alla kontorsupps\u00e4ttningar. 10 gen. Core i5-processorn, snabb DDR4 RAM och en snabb SSD-larging ger en h\u00f6g prestanda som passar f\u00f6r arbete och f\u00f6retag.",
+        "properties": [
+          "Lenovo",
+          "V Series",
+          "Windows",
+          "Processorhastighet: 2,9 GHz",
+          "Intel-grafikprocessor",
+          "Installerat minne: 8 GB",
+          "Lagringskapacitet: 256 GB",
+          "Solid State -enhet",
+          "Intel-CPU"
+        ],
+        "url": "https://www.google.se/shopping/product/15916444915834317619?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 0,
+        "review_rating": null,
+        "price": "7078.0",
+        "gtins": [
+          "195042128802"
+        ],
+        "eans": [
+          "0195042128802"
+        ],
+        "brand_name": "Lenovo",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Cacheminne",
+            "value": [
+              "12 MB"
+            ]
+          },
+          {
+            "label": "Cache/processor",
+            "value": [
+              "12 MB"
+            ]
+          },
+          {
+            "label": "RAM",
+            "value": [
+              "8 GB (installerad) / 32 GB (max) - DDR4 SDRAM"
+            ]
+          },
+          {
+            "label": "Kontrollerkort",
+            "value": [
+              "SATA (SATA 6Gb/s)"
+            ]
+          },
+          {
+            "label": "Optisk lagring",
+            "value": [
+              "Ingen optisk drivenhet"
+            ]
+          },
+          {
+            "label": "Kortl\u00e4sare",
+            "value": [
+              "7 i 1"
+            ]
+          },
+          {
+            "label": "Grafikstyrenhet",
+            "value": [
+              "Intel UHD Graphics 630"
+            ]
+          },
+          {
+            "label": "N\u00e4tverksfunktioner",
+            "value": [
+              "GigE"
+            ]
+          },
+          {
+            "label": "Tangentbord",
+            "value": [
+              "Nordisk"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxDxH)",
+            "value": [
+              "10 cm x 30.4 cm x 27 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "4.2 kg"
+            ]
+          },
+          {
+            "label": "Milj\u00f6standarder",
+            "value": [
+              "ENERGY STAR-godk\u00e4nd EPEAT Silver"
+            ]
+          },
+          {
+            "label": "Tillverkarens garanti",
+            "value": [
+              "Begr\u00e4nsad garanti - 1 \u00e5r - p\u00e5 platsen"
+            ]
+          },
+          {
+            "label": "Formfaktor f\u00f6r produkt",
+            "value": [
+              "Small form factor"
+            ]
+          },
+          {
+            "label": "Inbyggda enheter",
+            "value": [
+              "H\u00f6gtalare"
+            ]
+          },
+          {
+            "label": "Max. turbohastighet",
+            "value": [
+              "4.3 GHz"
+            ]
+          },
+          {
+            "label": "Antal k\u00e4rnor",
+            "value": [
+              "Med 6 k\u00e4rnor"
+            ]
+          },
+          {
+            "label": "Antal CPU",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Kretstyp",
+            "value": [
+              "Intel B460"
+            ]
+          },
+          {
+            "label": "Teknik",
+            "value": [
+              "DDR4 SDRAM"
+            ]
+          },
+          {
+            "label": "Effektiv minneshastighet",
+            "value": [
+              "2666 MHz"
+            ]
+          },
+          {
+            "label": "Minneshastighet",
+            "value": [
+              "2666 MHz"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "DIMM 288-pin"
+            ]
+          },
+          {
+            "label": "Konfigurationsegenskaper",
+            "value": [
+              "1 x 8 GB"
+            ]
+          },
+          {
+            "label": "Kapacitet",
+            "value": [
+              "1 x 256 GB"
+            ]
+          },
+          {
+            "label": "Typ av gr\u00e4nssnitt",
+            "value": [
+              "PCI Express"
+            ]
+          },
+          {
+            "label": "Typ av styrgr\u00e4nssnitt",
+            "value": [
+              "SATA 6Gb/s"
+            ]
+          },
+          {
+            "label": "Antal kanaler",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Bildsk\u00e4rmstyp",
+            "value": [
+              "Ingen"
+            ]
+          },
+          {
+            "label": "Grafikprocessor",
+            "value": [
+              "Intel UHD Graphics 630"
+            ]
+          },
+          {
+            "label": "Videogr\u00e4nssnitt",
+            "value": [
+              "VGA",
+              "HDMI"
+            ]
+          },
+          {
+            "label": "Max antal bildsk\u00e4rmar som st\u00f6ds",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Standarder som f\u00f6ljs",
+            "value": [
+              "HD-ljud"
+            ]
+          },
+          {
+            "label": "Namn tangentbord",
+            "value": [
+              "Lenovo Calliope Keyboard"
+            ]
+          },
+          {
+            "label": "LOkalisering och layout",
+            "value": [
+              "Nordisk"
+            ]
+          },
+          {
+            "label": "Musnamn",
+            "value": [
+              "Lenovo Calliope Mouse"
+            ]
+          },
+          {
+            "label": "Datal\u00e4nkprotokoll",
+            "value": [
+              "Ethernet",
+              "Fast Ethernet",
+              "Gigabit Ethernet"
+            ]
+          },
+          {
+            "label": "Typ av s\u00e4kerhetsplats",
+            "value": [
+              "Kensington s\u00e4kerhetsplats"
+            ]
+          },
+          {
+            "label": "Typ av enhet",
+            "value": [
+              "N\u00e4taggregat"
+            ]
+          },
+          {
+            "label": "Effekt",
+            "value": [
+              "180 Watt"
+            ]
+          },
+          {
+            "label": "Effektivitet",
+            "value": [
+              "85%"
+            ]
+          },
+          {
+            "label": "EPEAT-kompatibel",
+            "value": [
+              "EPEAT Silver"
+            ]
+          },
+          {
+            "label": "ENERGY STAR-certifierad",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "ENERGY STAR-version",
+            "value": [
+              "8.0"
+            ]
+          },
+          {
+            "label": "Service och support",
+            "value": [
+              "Begr\u00e4nsad garanti - 1 \u00e5r - p\u00e5 platsen"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "30.4 cm"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Lenovo"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "11EF0012MX",
+              "11ef0012mx",
+              "88312534",
+              "996111780"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00195042128802"
+            ]
+          }
+        ],
+        "offer_count": 5,
+        "offers_url": "https://www.google.se/shopping/product/15916444915834317619/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "15916444915834317619",
+            "price": "7078.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7078.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/6485867/lenovo-v50s-07imb-11ef-sff-core-i5-10400-2-9-ghz-ram-8-gb-ssd-256-gb-nvme-uhd-graphics-630-gige-win-10-pro-64-bitars-sk%C3%A4rm",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "15916444915834317619",
+            "price": "7490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7490.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Stationaer/Lenovo-V50s-07IMB-256-GB-SSD-8-GB-RAM/2870225?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "15916444915834317619",
+            "price": "8490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1161895/dator-surfplatta/datorer-stationara/alla-stationara-datorer/lenovo-v-series-v50s-sff?channable=0094536964003131363138393590",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "15916444915834317619",
+            "price": "7575.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7575.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/lenovo-v50s-07imb-11ef-sff-i5-10400-256gb-windows-10-pro-64-bit-996111780-dc",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "15916444915834317619",
+            "price": "8411.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8460.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/lenovo-v50s-sff-i5-10400-8gb/cat-p/c/p1001254139",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 5
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195042938715",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:43Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195122291396",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:43Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00711719710691",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:43Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00718037856339",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:43Z"
+      },
+      "content": {
+        "id": "8914938430261817165",
+        "name": "WD Blue 3D Nand SSD SATA 250GB",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRU4zl4nghSO7lTDESqU_VONSjabO7HvkVY5ruwAVXLDi3trEWUSZaYtMG7FWcmg4b7p1s3YMS7&usqp=CAY",
+        "description": "WD Blue 3D NAND SATA SSD anv\u00e4nder 3D NAND-teknik f\u00f6r kapaciteter upp till 2TB med \u00f6kad tillf\u00f6rlitlighet. Tack vare upp till 25% l\u00e4gre str\u00f6mf\u00f6rbrukning \u00e4n tidigare generationer av WD Blue SSD-enheter kan du arbeta l\u00e4ngre innan du laddar upp din b\u00e4rbara dator, medan sekventiella l\u00e4shastigheter upp till 560MB/s och sekventiella skrivhastigheter upp till 530MB/s ger hastigheten du vill ha f\u00f6r dina mest kr\u00e4vande datorprogram. Kommer med 5 \u00e5rs garanti.",
+        "properties": [
+          "Western Digital",
+          "WD Blue",
+          "250 GB",
+          "Solid State",
+          "USB",
+          "2,5-tumsenhet",
+          "Intern",
+          "NVMe"
+        ],
+        "url": "https://www.google.se/shopping/product/8914938430261817165?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 3805,
+        "review_rating": 94,
+        "price": "790.0",
+        "gtins": [
+          "718037856339"
+        ],
+        "eans": [
+          "0718037856339"
+        ],
+        "brand_name": "Western Digital",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Kapacitet",
+            "value": [
+              "250 GB"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "2.5\""
+            ]
+          },
+          {
+            "label": "Data\u00f6verf\u00f6ringshastighet",
+            "value": [
+              "600 MBps"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxDxH)",
+            "value": [
+              "69.85 mm x 100.2 mm x 7 mm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "37.4 g"
+            ]
+          },
+          {
+            "label": "Tillverkarens garanti",
+            "value": [
+              "5 \u00e5rs garanti"
+            ]
+          },
+          {
+            "label": "Typ av enhet",
+            "value": [
+              "Solid state drive - inbyggd"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "100.2 mm"
+            ]
+          },
+          {
+            "label": "SSD-h\u00e5llbarhet",
+            "value": [
+              "100 TB"
+            ]
+          },
+          {
+            "label": "H\u00e5rddiskens \u00f6verf\u00f6ringshastighet",
+            "value": [
+              "600 MBps (extern)"
+            ]
+          },
+          {
+            "label": "Intern datafrekvens",
+            "value": [
+              "550 MBps (l\u00e4s)/ 525 MBps (skriv)"
+            ]
+          },
+          {
+            "label": "Kompatibelt fack",
+            "value": [
+              "2.5\""
+            ]
+          },
+          {
+            "label": "Service och support",
+            "value": [
+              "Begr\u00e4nsad garanti - 5 \u00e5r"
+            ]
+          },
+          {
+            "label": "Min temperatur vid drift",
+            "value": [
+              "0 \u00b0C"
+            ]
+          },
+          {
+            "label": "Max temperatur vid drift",
+            "value": [
+              "70 \u00b0C"
+            ]
+          },
+          {
+            "label": "Min temperatur vid f\u00f6rvaring",
+            "value": [
+              "-55 \u00b0C"
+            ]
+          },
+          {
+            "label": "Max temperatur vid f\u00f6rvaring",
+            "value": [
+              "85 \u00b0C"
+            ]
+          },
+          {
+            "label": "Vibrationstolerans (vid drift)",
+            "value": [
+              "5 g @ 10-2000 Hz"
+            ]
+          },
+          {
+            "label": "Vibrationstolerans (i vila)",
+            "value": [
+              "4.9 g @ 7-800 Hz"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Western Digital"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "1413511",
+              "322250-977",
+              "44104130",
+              "44461290",
+              "45480318",
+              "49979045",
+              "50822106",
+              "718037856339",
+              "7957705",
+              "9517354",
+              "992717437",
+              "B073SB2MXW",
+              "DIAWESSSD0017",
+              "S0214798",
+              "S55075031",
+              "S5601115",
+              "SNS-192-B073SB2MXW",
+              "WDS250G2B0A",
+              "wd_45480318",
+              "wds250g2b0a",
+              "westerndigital_wds250g2b0a"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00718037856339"
+            ]
+          }
+        ],
+        "offer_count": 10,
+        "offers_url": "https://www.google.se/shopping/product/8914938430261817165/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "8914938430261817165",
+            "price": "790.0",
+            "price_additional_info": null,
+            "price_with_shipping": "790.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.kjell.com/se/produkter/dator/datorkomponenter/harddiskar/wd-blue-3d-nand-ssd-disk-250-gb-p67713",
+            "shop_name": "Kjell & Company",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4bc09bb32d0",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4bc09bb32d0",
+            "shop_url": "www.kjell.com",
+            "shop_domain": "kjell.com",
+            "shop_matching_id": "kjell.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "8914938430261817165",
+            "price": "488.0",
+            "price_additional_info": null,
+            "price_with_shipping": "507.0",
+            "shipping_costs": "19.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/945662/datorutrustning/lagring/haarddisk/ssd-25/wd-blue-3d-250gb-25-ssd?channable=0094536964003934353636321f",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "8914938430261817165",
+            "price": "488.0",
+            "price_additional_info": null,
+            "price_with_shipping": "488.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/SSD/WD-Blue-3D-NAND-SSD-25-250GB/2597044?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "8914938430261817165",
+            "price": "414.99",
+            "price_additional_info": null,
+            "price_with_shipping": "472.98",
+            "shipping_costs": "57.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/wd-harddisk-blue-250gb-ssd-2.5-7/137819279/p?utm_source=google_products&utm_medium=merchant&id_producte=11860493&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "8914938430261817165",
+            "price": "595.0",
+            "price_additional_info": null,
+            "price_with_shipping": "664.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011037818/blue-3d-nand?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "8914938430261817165",
+            "price": "565.0",
+            "price_additional_info": null,
+            "price_with_shipping": "630.0",
+            "shipping_costs": "65.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.wesellcd.com/affiliate/redirect.php?ID=gglshse&page=products&product_id=39132",
+            "shop_name": "Wesellcd.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9f63d52d8d1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9f63d52d8d1",
+            "shop_url": "www.wesellcd.com",
+            "shop_domain": "wesellcd.com",
+            "shop_matching_id": "wesellcd.com",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "8914938430261817165",
+            "price": "652.0",
+            "price_additional_info": null,
+            "price_with_shipping": "701.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/western-digital-wd-blue-ssd-250gb/cat-p/c/p9677160",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "8914938430261817165",
+            "price": "794.0",
+            "price_additional_info": null,
+            "price_with_shipping": "834.0",
+            "shipping_costs": "40.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/3683410/wd-blue-3d-nand-sata-ssd-wds250g2b0a-solid-state-drive-250-gb-inbyggd-2-5-sata-6gb-s",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "8914938430261817165",
+            "price": "709.0",
+            "price_additional_info": null,
+            "price_with_shipping": "748.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/western-digital-blue-3d-2-5-250-gb-serial-ata-iii-p89145859",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "8914938430261817165",
+            "price": "688.0",
+            "price_additional_info": null,
+            "price_with_shipping": "727.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/western-digital-wd-blue-ssd-250gb-2-5in-7mm-3d-nand-sata",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 10
+          }
+        ]
+      }
+    },
+    {
+      "success": false,
+      "reason": "error",
+      "source": "google-shopping",
+      "country": "se",
+      "key": "gtin",
+      "value": "00743878041088",
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00743878041088",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00778656080782",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:09:47Z"
+      },
+      "content": {
+        "id": "3153043122690840290",
+        "name": "XFX Radeon RX 6800 XT 16GB MERC 319",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQgR3GHuk8jix-REaEZB-ey6HmHnTwpxsEfk5w2FOFgQFN3X0Wc6-Y_Cuk0SJ7FCqKGjv1-GwD6&usqp=CAY",
+        "description": "Byggd f\u00f6r spelare Kraftfull prestanda AMD Radeon RX 6800-serien grafikkort levererar ultrah\u00f6ga bildhastigheter och seri\u00f6sa 4K-spel. F\u00e5 den ultimata spelupplevelsen med kraftfulla nya ber\u00e4kningsenheter, revolutionerande AMD Infinity Cache och upp till 16 GB dedikerat GDDR6-minne. Och i kombination med en AMD Ryzen station\u00e4r processor i 5000-serien ger AMD Smart Access Memory-tekniken nya niv\u00e5er av spelprestanda. Luftfl\u00f6de och estetik Det \u00e4r en konst att hitta balansen mellan en vacker karta och att maximera dess prestanda. D\u00e4r vi kunde f\u00f6rb\u00e4ttra luftfl\u00f6det gjorde vi det och vi \u00f6ppnade det s\u00e5 att designen h\u00f6lls ren och sval. XFX Ghost Termisk och kylteknik XFX nya Ghost Thermal-design kyler din GPU b\u00e4ttre \u00e4n n\u00e5gonsin tidigare. V\u00e5r nya design har direkt ventilation f\u00f6r att avsev\u00e4rt f\u00f6rb\u00e4ttra kylningen och kompletterar den \u00f6ppna, flytande Ghost Shield-designen. Maximera termisk kylning XFX maximerar kyleffektiviteten p\u00e5 v\u00e5r karta genom att \u00f6ka m\u00e4ngden termisk v\u00e4rmef\u00e5ngst i hela kartan. Sex kopparv\u00e4rmer\u00f6r hj\u00e4lper till att f\u00f6rdela v\u00e4rmen. Alla dessa funktioner hj\u00e4lper till att s\u00e4kerst\u00e4lla stabil prestanda av h\u00f6g kvalitet. XFX dual BIOS redo Vi vet m\u00f6jligheterna f\u00f6r entusiaster, s\u00e5 f\u00f6r v\u00e5rt grafikkort i MERC 319 RX 6800-serien erbjuder vi dubbla BIOS. Tillhandah\u00e5lla en s\u00e4kerhetskopia BIOS i h\u00e4ndelse av en misslyckad BIOS-uppdatering. XFX Zero DB automatiska belastningsavk\u00e4nningsfl\u00e4ktar XFX-fl\u00e4ktar \u00e4r utrustade f\u00f6r att k\u00f6ras med h\u00f6gsta m\u00f6jliga prestanda, medan v\u00e5rt Zero DB-fl\u00e4ktsystem ocks\u00e5 h\u00e5ller dina fl\u00e4ktar ig\u00e5ng vid effektiva varv f\u00f6r att minimera irriterande fl\u00e4ktljud genom att s\u00e4nka varv ner till noll varv per minut. N\u00e4r v\u00e4rmen \u00e4r p\u00e5 under intensivt spel dyker v\u00e5ra fans upp efter behov. AMD RDNA 2 Arkitektur Amd RDNA 2-arkitektur \u00e4r grunden f\u00f6r n\u00e4sta generations speldatorer och konsoler. Det \u00e4r h\u00f6rnstenen i n\u00e4sta revolution inom dator- och molnspel. AMD RDNA 2 f\u00f6rb\u00e4ttrar och f\u00f6renar visuella effekter och spel p\u00e5 flera spelplattformar som ingen annan grafikarkitektur tidigare. Flytta bilder AMD Radeon RX 6800-seriens grafikkort tar dig in i handlingen med uppslukande spelteknik och st\u00f6d f\u00f6r DirectX 12 Ultimate. Upplev spel med realistisk belysning, skuggor och reflektioner, plus m\u00e5nga detaljer tack vare DirectX Raytracing (DXR), VRS -funktioner (Variable Shadow Frequency) och AMD FidelityFX, optimerade f\u00f6r AMD RDNA 2-arkitektur. AMD Smart Access-minne F\u00e5 mer prestanda med nya kommunikationsniv\u00e5er mellan AMD Ryzen station\u00e4ra processorer och AMD Radeon grafikkort via PCI Express.",
+        "properties": [
+          "XFX",
+          "XFX",
+          "Grafikkort",
+          "16 GB",
+          "GDDR6",
+          "HDMI",
+          "DisplayPort",
+          "PCI Express",
+          "L\u00e4ngd: 340 mm",
+          "8 stift"
+        ],
+        "url": "https://www.google.se/shopping/product/3153043122690840290?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 50,
+        "review_rating": 86,
+        "price": "15508.0",
+        "gtins": [
+          "778656080782"
+        ],
+        "eans": [
+          "0778656080782"
+        ],
+        "brand_name": "XFX",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "36"
+            ]
+          },
+          {
+            "label": "Typ av enhet",
+            "value": [
+              "Grafikkort"
+            ]
+          },
+          {
+            "label": "Busstyp",
+            "value": [
+              "PCI Express 4.0 x16"
+            ]
+          },
+          {
+            "label": "Grafikmotor",
+            "value": [
+              "AMD Radeon RX 6800 XT"
+            ]
+          },
+          {
+            "label": "K\u00e4rnklocka",
+            "value": [
+              "1825 MHz"
+            ]
+          },
+          {
+            "label": "Snabbklocka",
+            "value": [
+              "2250 MHz"
+            ]
+          },
+          {
+            "label": "Str\u00f6mprocessorer",
+            "value": [
+              "4608"
+            ]
+          },
+          {
+            "label": "Processteknik",
+            "value": [
+              "7 nm"
+            ]
+          },
+          {
+            "label": "VR-f\u00f6rberedd",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Max uppl\u00f6sning",
+            "value": [
+              "7680 x 4320"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt",
+            "value": [
+              "HDMI; 3 x DisplayPort"
+            ]
+          },
+          {
+            "label": "API-st\u00f6d",
+            "value": [
+              "OpenGL",
+              "OpenCL",
+              "DirectX 12",
+              "DirectX 12 Ultimate"
+            ]
+          },
+          {
+            "label": "Teknik",
+            "value": [
+              "GDDR6 SDRAM"
+            ]
+          },
+          {
+            "label": "Minnehastighet",
+            "value": [
+              "16 Gbps"
+            ]
+          },
+          {
+            "label": "Bussbredd",
+            "value": [
+              "256-bit"
+            ]
+          },
+          {
+            "label": "Operativsystem erfordras",
+            "value": [
+              "Windows 10"
+            ]
+          },
+          {
+            "label": "Erforderligt n\u00e4taggregat",
+            "value": [
+              "750 W"
+            ]
+          },
+          {
+            "label": "Extra krav",
+            "value": [
+              "2 x 8 stifts PCI Express-str\u00f6mkontakt"
+            ]
+          },
+          {
+            "label": "Inkluderade tillbeh\u00f6r",
+            "value": [
+              "2 st. 8-poliga till 6-poliga n\u00e4tkablar"
+            ]
+          },
+          {
+            "label": "Standarder som f\u00f6ljs",
+            "value": [
+              "RoHS",
+              "DisplayPort 1.4"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "34 cm"
+            ]
+          },
+          {
+            "label": "Emballagets bredd",
+            "value": [
+              "12.5 cm"
+            ]
+          },
+          {
+            "label": "Emballagets djup",
+            "value": [
+              "44.5 cm"
+            ]
+          },
+          {
+            "label": "Emballagets h\u00f6jd",
+            "value": [
+              "23.5 cm"
+            ]
+          },
+          {
+            "label": "Emballagets vikt",
+            "value": [
+              "2.22 kg"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "XFX"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "86908780",
+              "RX-68XTALFD9",
+              "rx68xtalfd9"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00778656080782"
+            ]
+          }
+        ],
+        "offer_count": 4,
+        "offers_url": "https://www.google.se/shopping/product/3153043122690840290/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "3153043122690840290",
+            "price": "14199.0",
+            "price_additional_info": null,
+            "price_with_shipping": "14258.0",
+            "shipping_costs": "59.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplettforetag.se/product/1178543/datorkomponenter/grafikkort/pci-express/xfx-radeon-rx-6800-xt-merc-319",
+            "shop_name": "Komplett F\u00f6retag",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9edf77b141d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9edf77b141d",
+            "shop_url": "www.komplettforetag.se",
+            "shop_domain": "komplettforetag.se",
+            "shop_matching_id": "komplettforetag.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "3153043122690840290",
+            "price": "15508.0",
+            "price_additional_info": null,
+            "price_with_shipping": "15557.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/xfx-rx-6800xt-merc-16gb/cat-p/c36132/p1001613192",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "3153043122690840290",
+            "price": "15990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "15990.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Grafikkort/XFX-Radeon-RX-6800-XT-Merc-319-Core-16GB-GDDR6-SDRAM-Grafikkort/2920437?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "3153043122690840290",
+            "price": "23382.0",
+            "price_additional_info": null,
+            "price_with_shipping": "23481.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/xfx-radeon-rx-6800-xt-speedster-merc-319-16gb-gddr6-256-bitars-grafikkort-p86908780",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00840006635314",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:44Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00888793807569",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:09:46Z"
+      },
+      "content": {
+        "id": "558014437108062622",
+        "name": "HP Toner CF412X 410X Gul",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQpOO51HsegRleQcuStBc93gGk3mHFitZerWqQS2LVVlcMsAsMEiZinkSNC5Y9QYZHxKjQmhvk&usqp=CAY",
+        "description": "Toner HP 410X gul Gul toner fr\u00e5n HP med nummer HP 410X eller artikelnummer CF412X som ger ca 5 000 utskrifter. Med denna toner som \u00e4r tillverkad av skrivartillverkaren HP skriver du ut snygga och proffsiga utskrifter. H\u00e4r k\u00f6per du enkelt den f\u00e4rg du beh\u00f6ver eller s\u00e5 kan du v\u00e4lja ett av v\u00e5ra paket s\u00e5 att du f\u00e5r alla toner du beh\u00f6ver till din skrivare med ett enkelt klick! Utskriftstips: F\u00f6r snygga utskrifter, se till att v\u00e4lja r\u00e4tt papperssort i inst\u00e4llningarna. HP har broschyrpapper f\u00f6r laserskrivare som du med f\u00f6rdel kan anv\u00e4nda f\u00f6r b\u00e4ttre bildkvalitet.",
+        "properties": [
+          "HP",
+          "Laser",
+          "Med flera f\u00e4rger",
+          "Flerpack",
+          "Utskriftskapacitet: 5\u00a0000 sidor (svart)",
+          "Utskriftskapacitet: 5\u00a0000 sidor (f\u00e4rg)"
+        ],
+        "url": "https://www.google.se/shopping/product/558014437108062622?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 440,
+        "review_rating": 92,
+        "price": "685.0",
+        "gtins": [
+          "888793807569"
+        ],
+        "eans": [
+          "0888793807569"
+        ],
+        "brand_name": "HP",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Sidor",
+            "value": [
+              "5000"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "HP"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "0888793807569",
+              "111128",
+              "1244~101896",
+              "1244~69646",
+              "1252841",
+              "138489",
+              "166357",
+              "2245636",
+              "2433779",
+              "297402-783",
+              "38604365",
+              "44196158",
+              "51752521",
+              "52123637",
+              "54351-950",
+              "58296694",
+              "59436887",
+              "61536242",
+              "79515",
+              "888793807569",
+              "9351",
+              "989893507",
+              "CAN20260",
+              "CF412X",
+              "HP-CF412X",
+              "HPCF412X",
+              "HYG-888793807569",
+              "S0205052",
+              "cf412x",
+              "hp_cf412x",
+              "hp_hpcf412x",
+              "hpcf412x",
+              "shopify_SE_6795136073906_40198658261170"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00888793807569"
+            ]
+          }
+        ],
+        "offer_count": 20,
+        "offers_url": "https://www.google.se/shopping/product/558014437108062622/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "558014437108062622",
+            "price": "1680.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1719.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inky.se/inkysepla?PS=CF412X",
+            "shop_name": "Inky",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f01ff2ed855",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f01ff2ed855",
+            "shop_url": "www.inky.se",
+            "shop_domain": "inky.se",
+            "shop_matching_id": "inky.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "558014437108062622",
+            "price": "1695.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1744.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://diacopy.se/black-lasertoner/hp/color-laserjet-pro-m-452/hp-410x-cf412x-gul-toner-original-hp/",
+            "shop_name": "Diacopy",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3fa23b5163a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3fa23b5163a",
+            "shop_url": "diacopy.se",
+            "shop_domain": "diacopy.se",
+            "shop_matching_id": "diacopy.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "558014437108062622",
+            "price": "2290.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2290.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.kjell.com/se/produkter/kontor/toner/hp/hp-toner-410x-gul-p25277",
+            "shop_name": "Kjell & Company",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4bc09bb32d0",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4bc09bb32d0",
+            "shop_url": "www.kjell.com",
+            "shop_domain": "kjell.com",
+            "shop_matching_id": "kjell.com",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "558014437108062622",
+            "price": "1690.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1725.0",
+            "shipping_costs": "35.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.123ink.se/HP-410X-CF412X-gul-toner-hog-kapacitet-original-HP-i35547-t109904.html",
+            "shop_name": "123Ink.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-781a7e6e4ae",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-781a7e6e4ae",
+            "shop_url": "www.123ink.se",
+            "shop_domain": "123ink.se",
+            "shop_matching_id": "123ink.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "558014437108062622",
+            "price": "685.0",
+            "price_additional_info": null,
+            "price_with_shipping": "685.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://tonerweb.se/p/hp-toner-gul-hy-412x-5-000-sider-cf412x-124867?p=62554&cmpid=6",
+            "shop_name": "Tonerweb.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4d029199750",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4d029199750",
+            "shop_url": "tonerweb.se",
+            "shop_domain": "tonerweb.se",
+            "shop_matching_id": "tonerweb.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "558014437108062622",
+            "price": "1699.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1748.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tonerlagret.se/CF412X",
+            "shop_name": "Tonerlagret",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a2465f3d42c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a2465f3d42c",
+            "shop_url": "www.tonerlagret.se",
+            "shop_domain": "tonerlagret.se",
+            "shop_matching_id": "tonerlagret.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "558014437108062622",
+            "price": "1775.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1854.0",
+            "shipping_costs": "79.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.megashop.se/CF412X",
+            "shop_name": "megashop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-dc438a465ed",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-dc438a465ed",
+            "shop_url": "www.megashop.se",
+            "shop_domain": "megashop.se",
+            "shop_matching_id": "megashop.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "558014437108062622",
+            "price": "1799.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1799.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.kontors24.se/CF412X",
+            "shop_name": "Kontors24.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a95c1898170",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a95c1898170",
+            "shop_url": "www.kontors24.se",
+            "shop_domain": "kontors24.se",
+            "shop_matching_id": "kontors24.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "558014437108062622",
+            "price": "1976.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1976.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Skrivartillbehoer-blaeck-toner/HP-410X-CF412X-High-Capacity-Yellow-Toner-Tonerkassett-Yellow/2531284?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "558014437108062622",
+            "price": "2093.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2093.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/1239913/hp-410x-l%C3%A5ng-livsl%C3%A4ngd-gul-original-laserjet-tonerkassett-cf412x-f%C3%B6r-color-laserjet-pro-m452-mfp-m377-mfp-m477",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "558014437108062622",
+            "price": "2095.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2095.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.112ink.se/112gosepla?PS=CF412X",
+            "shop_name": "112ink SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4cc2bc7d476",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4cc2bc7d476",
+            "shop_url": "www.112ink.se",
+            "shop_domain": "112ink.se",
+            "shop_matching_id": "112ink.se",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "558014437108062622",
+            "price": "2799.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2799.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.hp.com/se-sv/shop/product.aspx?id=CF412X&opt=&sel=SUP&lang=sv-SE&jumpID=ps_6jytiqsmpx/sf:_sku:CF412X",
+            "shop_name": "HP Store",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-6ce1c1e22cb",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-6ce1c1e22cb",
+            "shop_url": "www.hp.com",
+            "shop_domain": "hp.com",
+            "shop_matching_id": "hp.com",
+            "page": 1,
+            "position": 12
+          },
+          {
+            "id": null,
+            "product_id": "558014437108062622",
+            "price": "2131.99",
+            "price_additional_info": null,
+            "price_with_shipping": "2232.48",
+            "shipping_costs": "100.49",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/hp-410x-toner/137456943/p?utm_source=google_products&utm_medium=merchant&id_producte=10247987&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 13
+          },
+          {
+            "id": null,
+            "product_id": "558014437108062622",
+            "price": "2819.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2868.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inkclub.com/gosesvpla?PS=CF412X",
+            "shop_name": "inkClub",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f3e5aaa55de",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f3e5aaa55de",
+            "shop_url": "www.inkclub.com",
+            "shop_domain": "inkclub.com",
+            "shop_matching_id": "inkclub.com",
+            "page": 1,
+            "position": 14
+          },
+          {
+            "id": null,
+            "product_id": "558014437108062622",
+            "price": "2635.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2684.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.patroner.se/lengow_pla_pat_se?PS=CF412X",
+            "shop_name": "Patroner.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-16f955ffacc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-16f955ffacc",
+            "shop_url": "www.patroner.se",
+            "shop_domain": "patroner.se",
+            "shop_matching_id": "patroner.se",
+            "page": 1,
+            "position": 15
+          },
+          {
+            "id": null,
+            "product_id": "558014437108062622",
+            "price": "2773.75",
+            "price_additional_info": null,
+            "price_with_shipping": "2773.75",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.officedepot.se/produkter/teknik-2130/black-toner-3700/toner-trummor-3089/toner-hp-410x-cf412x-gul-5k-p2245636",
+            "shop_name": "Office Depot",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f7dfe4fbd5e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f7dfe4fbd5e",
+            "shop_url": "www.officedepot.se",
+            "shop_domain": "officedepot.se",
+            "shop_matching_id": "officedepot.se",
+            "page": 1,
+            "position": 16
+          },
+          {
+            "id": null,
+            "product_id": "558014437108062622",
+            "price": "2290.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2290.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.kontorsgiganten.se/hp-toner-cf412x-gul-410x-p-25?from=gpla",
+            "shop_name": "Kontorsgiganten",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-96fb01f6fd7",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-96fb01f6fd7",
+            "shop_url": "www.kontorsgiganten.se",
+            "shop_domain": "kontorsgiganten.se",
+            "shop_matching_id": "kontorsgiganten.se",
+            "page": 1,
+            "position": 17
+          },
+          {
+            "id": null,
+            "product_id": "558014437108062622",
+            "price": "2799.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2868.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5010885667/toner-gul-410x-5k---cf412x?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 18
+          },
+          {
+            "id": null,
+            "product_id": "558014437108062622",
+            "price": "2486.25",
+            "price_additional_info": null,
+            "price_with_shipping": "2486.25",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.papperskungen.se/tonerhpcf412x410x5kgul-p-46498.html",
+            "shop_name": "Papperskungen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-40e655aeac2",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-40e655aeac2",
+            "shop_url": "www.papperskungen.se",
+            "shop_domain": "papperskungen.se",
+            "shop_matching_id": "papperskungen.se",
+            "page": 1,
+            "position": 19
+          },
+          {
+            "id": null,
+            "product_id": "558014437108062622",
+            "price": "2397.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2436.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inkpro.se/produkter/15732-hp-color-laserjet-pro-m-452/111128-hp-410x-gul-toner-5000-sidor-original-hp-cf412x-hy/",
+            "shop_name": "Inkpro",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f15cbf32f25",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f15cbf32f25",
+            "shop_url": "www.inkpro.se",
+            "shop_domain": "inkpro.se",
+            "shop_matching_id": "inkpro.se",
+            "page": 1,
+            "position": 20
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00889842536454",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:09:48Z"
+      },
+      "content": {
+        "id": "14545352951685496582",
+        "name": "Microsoft Windows 10 Home, Engelsk, Usb",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQm540TzDuP8w2JCp6aZXDsUkE8qwhl0tzYUSyQBmlX9thBNzzQq5bXllj8MhFFXDkWuk0s02Q4&usqp=CAY",
+        "description": "Stabilt och s\u00e4kert f\u00f6r hemmabruk. Windows 10 \u00e4r din partner f\u00f6r att f\u00e5 saker att h\u00e4nda. F\u00e5 snabbare uppstart, en bekant men samtidigt f\u00f6rb\u00e4ttrad Start-meny, och fantastiska nya s\u00e4tt att f\u00e5 saker gjorda \u00e4ven p\u00e5 flera olika enheter.",
+        "properties": [
+          "Microsoft",
+          "Windows",
+          "Windows 10"
+        ],
+        "url": "https://www.google.se/shopping/product/14545352951685496582?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 94,
+        "review_rating": 90,
+        "price": "1291.0",
+        "gtins": [
+          "889842536454"
+        ],
+        "eans": [
+          "0889842536454"
+        ],
+        "brand_name": "Microsoft",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "6"
+            ]
+          },
+          {
+            "label": "Operativsystem",
+            "value": [
+              "Windows 10 Home - 32/64-bit",
+              "P2"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Boxpaket"
+            ]
+          },
+          {
+            "label": "Media",
+            "value": [
+              "Flashdrive"
+            ]
+          },
+          {
+            "label": "Spr\u00e5k",
+            "value": [
+              "English International"
+            ]
+          },
+          {
+            "label": "Min processortyp",
+            "value": [
+              "1 GHz"
+            ]
+          },
+          {
+            "label": "Min RAM-storlek",
+            "value": [
+              "1 GB"
+            ]
+          },
+          {
+            "label": "Min h\u00e5rddiskutrymme",
+            "value": [
+              "16 GB"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Microsoft"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "0889842536454",
+              "266284",
+              "48684943",
+              "50068828",
+              "61103777",
+              "79823202",
+              "889842536454",
+              "HAJ-00055",
+              "haj00055"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00889842536454"
+            ]
+          }
+        ],
+        "offer_count": 3,
+        "offers_url": "https://www.google.se/shopping/product/14545352951685496582/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "14545352951685496582",
+            "price": "1375.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1375.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Operativsystem/Microsoft-Windows-10-Home-3264bit-Engelska/2798747?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "14545352951685496582",
+            "price": "1466.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1515.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/microsoft-microsoft%C2%AE-windows-10-home/cat-p/c/p1000399633",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "14545352951685496582",
+            "price": "1629.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1698.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011156008/windows-10-home-p2-3264-bit-engelsk-usb?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04242005264445",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:09:48Z"
+      },
+      "content": {
+        "id": "3659582727451834739",
+        "name": "Bosch WTW85T9SSN Torktumlare",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSXfxWy8Lm7eaPUswJQUJk_kVuU8VbYEFX_4rDcNTlfT22dd1ktQuvjGk_mjLazPbHrS9a32512&usqp=CAY",
+        "description": "Torktumlare Bosch WTW85T9SSN \u00e4r en effektiv och energisn\u00e5l v\u00e4rmepumpstumlare. Den har funktioner som AutoDry som skonsamt torkar tv\u00e4tten till \u00f6nskad torrhetsgrad SensitiveDrying-system som torkar j\u00e4mnt och skonsamt tack vare varmluftsteknik och trummans speciella struktur och utformning.",
+        "properties": [
+          "Energiklass: A++"
+        ],
+        "url": "https://www.google.se/shopping/product/3659582727451834739?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 97,
+        "review_rating": 94,
+        "price": "6990.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "H\u00f6ger",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "H\u00e4ngning",
+            "value": [
+              "H\u00f6ger"
+            ]
+          },
+          {
+            "label": "Man\u00f6verpanel",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Utf\u00f6rande",
+            "value": [
+              "Frontmatad"
+            ]
+          },
+          {
+            "label": "Energieffektivitet",
+            "value": [
+              "A++"
+            ]
+          },
+          {
+            "label": "Kapacitet",
+            "value": [
+              "9 kg"
+            ]
+          },
+          {
+            "label": "Sp\u00e4nning",
+            "value": [
+              "230 V"
+            ]
+          },
+          {
+            "label": "Cykeltid",
+            "value": [
+              "238 (min)"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "599 mm"
+            ]
+          },
+          {
+            "label": "Effektivitet Kondensklass",
+            "value": [
+              "B"
+            ]
+          },
+          {
+            "label": "Bullerniv\u00e5 vid centrifugering",
+            "value": [
+              "64 dB(A)"
+            ]
+          },
+          {
+            "label": "Bullerniv\u00e5",
+            "value": [
+              "64 dB(A)"
+            ]
+          },
+          {
+            "label": "Energif\u00f6rbrukning",
+            "value": [
+              "259 kWh/\u00e5r"
+            ]
+          },
+          {
+            "label": "Omh\u00e4ngbar D\u00f6rr",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Antal Program",
+            "value": [
+              "15"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "45 kg"
+            ]
+          },
+          {
+            "label": "Volym",
+            "value": [
+              "112 l"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.se/shopping/product/3659582727451834739/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "3659582727451834739",
+            "price": "6990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://hemmy.se/tvattstuga/torktumlare/varmepumpstorktumlare/bosch-wtw85t9ssn",
+            "shop_name": "Hemmy.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-dd2aa0b2ea0",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-dd2aa0b2ea0",
+            "shop_url": "hemmy.se",
+            "shop_domain": "hemmy.se",
+            "shop_matching_id": "hemmy.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "3659582727451834739",
+            "price": "6990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7029.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hushallsapparater/bosch-wtw85t9ssn-p59704678",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242737",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:43Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242751",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:43Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242881",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:43Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242898",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:43Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710886007173",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:44Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=04710886007173&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.datagrottan.se/acer-aspire-tc-895-geforce-gtx1660/cat-p/c0/p1001334489",
+            "name": "Acer Aspire TC-895",
+            "product_properties": [],
+            "price": "10739.0",
+            "shipping_costs": "49.0",
+            "price_with_shipping": "10788.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Datagrottan",
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "Datagrottan",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710886235910",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:09:43Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710886257332",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:09:49Z"
+      },
+      "content": {
+        "id": "9160377588469902736",
+        "name": "Acer Predator X34GS",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTy0fQkZGunZ6KC0RU2BOcBhs39M2jNwaibRY48MPLCWYQ_WzPbUknebX1FiQ&usqp=CAY",
+        "description": "Predator X34GS \u00e4r en maxad gamingsk\u00e4rm som \u00e4r \u00f6verklockningsbar upp till 180 Hz och g\u00e5r ner till 0,5 ms i responstid (1 ms GTG). Med st\u00f6d f\u00f6r b\u00e5de FreeSync och G-Sync Compatible adaptiv synkronisering f\u00e5r du en oerh\u00f6rt f\u00f6ljsam upplevelse. USB-C (85 W) g\u00f6r att du kan anv\u00e4nda endast en kabel fr\u00e5n kompatibel laptop f\u00f6r bild och str\u00f6m. Kraftfulla DTS-h\u00f6gtalare sparar \u00e4ven plats p\u00e5 skrivbordet. Sk\u00e4rmen har ut\u00f6ver det HDR 400 f\u00f6r en mer inlevelsefull bild i ljusa och m\u00f6rka scener.",
+        "properties": [
+          "Sv\u00e4ngd",
+          "Med h\u00f6gtalare",
+          "IPS Panel",
+          "1080p",
+          "Bakgrundsbelyst LED",
+          "2560 x 1080",
+          "HDMI",
+          "DVI",
+          "DisplayPort",
+          "USB-C"
+        ],
+        "url": "https://www.google.se/shopping/product/9160377588469902736?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 72,
+        "review_rating": 94,
+        "price": "12490.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "36",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "36"
+            ]
+          },
+          {
+            "label": "Typ av bildsk\u00e4rm",
+            "value": [
+              "LED-bakgrundsbelyst LCD-sk\u00e4rm / TFT aktiv matris"
+            ]
+          },
+          {
+            "label": "Energiklass",
+            "value": [
+              "Klass G"
+            ]
+          },
+          {
+            "label": "Energiklass (HDR)",
+            "value": [
+              "Klass G"
+            ]
+          },
+          {
+            "label": "Diagonal storlek",
+            "value": [
+              "34\""
+            ]
+          },
+          {
+            "label": "B\u00f6jd sk\u00e4rm",
+            "value": [
+              "Ja (1900R)"
+            ]
+          },
+          {
+            "label": "Adaptive-Sync-teknologi",
+            "value": [
+              "NVIDIA G-SYNC",
+              "VESA Adaptive-Sync"
+            ]
+          },
+          {
+            "label": "Bildf\u00f6rh\u00e5llande",
+            "value": [
+              "21:9"
+            ]
+          },
+          {
+            "label": "Ljusstyrka",
+            "value": [
+              "550 cd/m\u00b2"
+            ]
+          },
+          {
+            "label": "Kontrastf\u00f6rh\u00e5llande",
+            "value": [
+              "1000:1"
+            ]
+          },
+          {
+            "label": "HDR Certification",
+            "value": [
+              "DisplayHDR 400"
+            ]
+          },
+          {
+            "label": "F\u00e4rgst\u00f6d",
+            "value": [
+              "1",
+              "07 miljarder f\u00e4rger"
+            ]
+          },
+          {
+            "label": "Responstid",
+            "value": [
+              "1 ms (gr\u00e5-till-gr\u00e5); 0",
+              "5 ms (gr\u00e5-till-gr\u00e5 min)"
+            ]
+          },
+          {
+            "label": "Horisontell visningsvinkel",
+            "value": [
+              "178"
+            ]
+          },
+          {
+            "label": "Vertikal visningsvinkel",
+            "value": [
+              "178"
+            ]
+          },
+          {
+            "label": "Bakgrundsbelysningsteknik",
+            "value": [
+              "LED-bakgrundsbelysning"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxDxH)",
+            "value": [
+              "- med st\u00e4ll"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "8.6 kg"
+            ]
+          },
+          {
+            "label": "Displayl\u00e4gesjusteringar",
+            "value": [
+              "H\u00f6jd",
+              "vridbar bas",
+              "lutning"
+            ]
+          },
+          {
+            "label": "Lutningsvinkel",
+            "value": [
+              "-5/+35"
+            ]
+          },
+          {
+            "label": "Vridningsvinkel",
+            "value": [
+              "60"
+            ]
+          },
+          {
+            "label": "H\u00f6jdjustering",
+            "value": [
+              "130 mm"
+            ]
+          },
+          {
+            "label": "VESA-inf\u00e4stningsgr\u00e4nssnitt",
+            "value": [
+              "100 x 100 mm"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.se/shopping/product/9160377588469902736/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "9160377588469902736",
+            "price": "12490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "12490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/gaming/gamingskarm/acer-predator-x34gs/1016485.12150/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "9160377588469902736",
+            "price": "12290.0",
+            "price_additional_info": null,
+            "price_with_shipping": "12290.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.power.se/datorer/bildskarmar-och-monitorer/bildskarmar/acer-predator-x34-gs-34-bojd-gamingskarm/p-1133468/",
+            "shop_name": "Power.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12a02cb9685",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12a02cb9685",
+            "shop_url": "www.power.se",
+            "shop_domain": "power.se",
+            "shop_matching_id": "power.se",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    }
+  ]
+}

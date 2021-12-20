@@ -1,0 +1,1665 @@
+{
+  "job_id": "61c065040c81f400227dcf6d",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 19,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195235968857",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:09Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195348022507",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:09Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195348149693",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:08Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=00195348149693&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.datagrottan.se/lenovo-thinkpad-e14-g2-14/cat-p/c100081/p1001542964",
+            "name": "Lenovo ThinkPad E14 G2 - Core i7 - 16GB - 512GB SSD - Windows 10 Pro",
+            "product_properties": [],
+            "price": "13949.0",
+            "shipping_costs": "49.0",
+            "price_with_shipping": "13998.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Datagrottan",
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "Datagrottan",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195348150293",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:09Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=00195348150293&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.datagrottan.se/lenovo-thinkpad-e14-g2-14/cat-p/c0/p1001542963",
+            "name": "Lenovo ThinkPad E14 G2 14\" Full HD",
+            "product_properties": [],
+            "price": "9866.0",
+            "shipping_costs": "49.0",
+            "price_with_shipping": "9915.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Datagrottan",
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "Datagrottan",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04718017273930",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:10Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=04718017273930&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://amazly.co/nvidia-and-amd/18132-asus-dual-rtx2060-6g-evo-nvidia-geforce-rtx-2060-6-gb-gddr6-4718017273930.html",
+            "name": "ASUS Dual -RTX2060-6G-EVO NVIDIA GeForce RTX 2060 6 GB GDDR6",
+            "product_properties": [],
+            "price": "11025.0",
+            "shipping_costs": "76.0",
+            "price_with_shipping": "11101.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Amazly.co",
+            "shop_id": "priceapi-179ce94dfc9",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-179ce94dfc9",
+            "shop_url": "amazly.co",
+            "shop_domain": "amazly.co",
+            "shop_matching_id": "Amazly.co",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04718017719735",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:12:13Z"
+      },
+      "content": {
+        "id": "240491850443614832",
+        "name": "Asus Tuf Gaming B460-plus Atx Moderkort",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRZThw2Rr0RIBWwjpc1uuFt0GbIhacOMQJSkj9LLJqFIswxezLLzl8n-nljcz-gWNOdKTCHmzs&usqp=CAY",
+        "description": "Mycket bra standardmoderkort f\u00f6r dig som skall bygga en prisv\u00e4rd dator med en 10:e gen Intel-processor.",
+        "properties": [
+          "ASUS",
+          "ASUS TUF",
+          "ATX",
+          "LGA1151",
+          "Gaming",
+          "Intel",
+          "FireWire",
+          "Ethernet",
+          "DVI",
+          "VGA"
+        ],
+        "url": "https://www.google.se/shopping/product/240491850443614832?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 26,
+        "review_rating": 96,
+        "price": "1627.0",
+        "gtins": [
+          "4718017719735"
+        ],
+        "eans": [
+          "4718017719735"
+        ],
+        "brand_name": "ASUS",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Chipset",
+            "value": [
+              "Intel B460"
+            ]
+          },
+          {
+            "label": "\u00d6verklockningsst\u00f6d",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Processorsocket",
+            "value": [
+              "Intel 1200"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "ATX"
+            ]
+          },
+          {
+            "label": "Internminnestyp",
+            "value": [
+              "DDR4"
+            ]
+          },
+          {
+            "label": "Minneshastighet (Standard)",
+            "value": [
+              "2 933 MHz"
+            ]
+          },
+          {
+            "label": "Minneshastighet (OC)",
+            "value": [
+              "2 933 MHz"
+            ]
+          },
+          {
+            "label": "Antalet platser",
+            "value": [
+              "4 st"
+            ]
+          },
+          {
+            "label": "Maximalt minne",
+            "value": [
+              "128 GB"
+            ]
+          },
+          {
+            "label": "Kanaler",
+            "value": [
+              "Dual channel"
+            ]
+          },
+          {
+            "label": "PCI Express generation",
+            "value": [
+              "PCIe 3.0"
+            ]
+          },
+          {
+            "label": "PCI Express x16",
+            "value": [
+              "2 st"
+            ]
+          },
+          {
+            "label": "PCI Express x1",
+            "value": [
+              "3 st"
+            ]
+          },
+          {
+            "label": "SLI",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Antal M.2",
+            "value": [
+              "2 st"
+            ]
+          },
+          {
+            "label": "M.2 storlek plats 1",
+            "value": [
+              "2242",
+              "2260",
+              "2280"
+            ]
+          },
+          {
+            "label": "M.2 gr\u00e4nssnitt plats 1",
+            "value": [
+              "SATA",
+              "PCIE"
+            ]
+          },
+          {
+            "label": "M.2 gr\u00e4nssnitt plats 2",
+            "value": [
+              "PCIE"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dat n\u00e4tverk",
+            "value": [
+              "1 st"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dad hastighet",
+            "value": [
+              "10/100/1000 Mbit/s"
+            ]
+          },
+          {
+            "label": "N\u00e4tverkskontroller",
+            "value": [
+              "Intel I219-V"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6st n\u00e4tverk",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Bluetooth",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Integrerad grafik",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Grafikmodell",
+            "value": [
+              "Intel HD Graphics"
+            ]
+          },
+          {
+            "label": "HDMI-utg\u00e5ng",
+            "value": [
+              "1 st"
+            ]
+          },
+          {
+            "label": "DisplayPort-utg\u00e5ng",
+            "value": [
+              "1 st"
+            ]
+          },
+          {
+            "label": "Ljudkort",
+            "value": [
+              "Realtek ALC S1200A"
+            ]
+          },
+          {
+            "label": "Analoga utg\u00e5ngar",
+            "value": [
+              "4st"
+            ]
+          },
+          {
+            "label": "Analoga ing\u00e5ngar",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "USB 2.0",
+            "value": [
+              "4 st",
+              "2 st interna kontakter"
+            ]
+          },
+          {
+            "label": "RGB-Header",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Seriellport",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "LED-belysning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "L\u00e4ngd",
+            "value": [
+              "305 mm"
+            ]
+          },
+          {
+            "label": "Garanti",
+            "value": [
+              "3 \u00e5r"
+            ]
+          },
+          {
+            "label": "Paketbredd",
+            "value": [
+              "27.3 cm"
+            ]
+          },
+          {
+            "label": "Paketh\u00f6jd",
+            "value": [
+              "6.8 cm"
+            ]
+          },
+          {
+            "label": "Paketl\u00e4ngd",
+            "value": [
+              "33.8 cm"
+            ]
+          },
+          {
+            "label": "Paketvikt",
+            "value": [
+              "1.357 kg"
+            ]
+          },
+          {
+            "label": "Tillverkarens ArtNr",
+            "value": [
+              "90MB13N0-M0EAY0"
+            ]
+          },
+          {
+            "label": "Upplagd",
+            "value": [
+              "2020-05-27 15:00"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "ASUS"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "4718017719735",
+              "53575907",
+              "54532853",
+              "55707296",
+              "56560081",
+              "58466676",
+              "58930414",
+              "90MB13N0-M0EAY0",
+              "90MB1450-M0EAY0",
+              "90mb13n0m0eay0",
+              "S0228502",
+              "S5607641",
+              "TUF GAMING B460-PLUS",
+              "TUF GAMING B460M-PLUS"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04718017719735"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.se/shopping/product/240491850443614832/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "240491850443614832",
+            "price": "1627.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1676.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/asus-tuf-gaming-b460-plus/cat-p/c/p1001040501",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "240491850443614832",
+            "price": "1735.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1814.0",
+            "shipping_costs": "79.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/asus-tuf-gaming-b460-plus-moderkort-sockel-intelr-1200-formfaktor-atx-moderkort-chipset-intelr-b460-p58930414",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04718017928618",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:09Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=04718017928618&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://rdebutik.se/products/se/417/173432/sort/1/filter/0_0_0_0/GeForce-RTX-3090-ROG-Strix-OC-24GB-GDDR6X-384bit-grafikkort.html",
+            "name": "ASUS ROG STRIX GeForce RTX 3090 24GB Gaming OC",
+            "product_properties": [],
+            "price": "43446.0",
+            "shipping_costs": "99.0",
+            "price_with_shipping": "43545.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "RDEbutik.se",
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "RDEbutik.se",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072727925",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:12:12Z"
+      },
+      "content": {
+        "id": "17735658707116330923",
+        "name": "MSI MAG Infinite 10SI-1053MYS,Stationaer",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTV1X9z_Sm-deWkyZriCeToLfUA8yf53qZcPWNsKKh8LsIQqVneMTwz7ZwAWtI&usqp=CAY",
+        "description": "The MSI MAG Infinite gaming desktop is inspired by a never-ending desire to game. With its iconic electric circuit design on the case, this true gaming desktop breaths boundless possibilities.",
+        "properties": [
+          "MSI",
+          "Infinite",
+          "Windows",
+          "Spel",
+          "Torn",
+          "Processorhastighet: 2,9 GHz",
+          "NVIDIA-grafikprocessor",
+          "Installerat minne: 16 GB",
+          "Lagringskapacitet: 512 GB",
+          "Intel-CPU"
+        ],
+        "url": "https://www.google.se/shopping/product/17735658707116330923?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 3,
+        "review_rating": 100,
+        "price": "14990.0",
+        "gtins": [
+          "4719072727925"
+        ],
+        "eans": [
+          "4719072727925"
+        ],
+        "brand_name": "MSI",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "MSI"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "MAG INFINITE 10SI-1053MYS",
+              "MAG Infinite 10SI-1053MYS",
+              "maginfinite10si1053mys"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04719072727925"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/17735658707116330923/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "17735658707116330923",
+            "price": "14990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "15039.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/msi-mag-infinite-i7-10700-16gb/cat-p/c/p1001040786",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072732561",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:08Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072760434",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 2,
+        "updated_at": "2021-12-20T11:12:10Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072762476",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:12:12Z"
+      },
+      "content": {
+        "id": "2939607926624191767",
+        "name": "MSI GEFORCE RTX 3090 24 GB VENTUS 3X OC GRAFIKKORT",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSnzhjVuYHgorR1dY2Q4CE2gqhhXvALG8HNmTrFwFsCIP8srrL2NN1KBbZK0jQrSCmw4K-k3fk&usqp=CAY",
+        "description": "Trippelfl\u00e4kt \u2013 tre fl\u00e4ktar och en stor kylfl\u00e4ns ger en tyst och v\u00e4lkyld spelupplevelse. Torx Fan 3.0 \u2014 prisbel\u00f6nt fl\u00e4ktdesign kombinerar tv\u00e5 typer av vingar f\u00f6r kylning och d\u00e4mpning. Zero Frozr - Eliminerar buller fr\u00e5n fl\u00e4ktar och stannar automatiskt i l\u00e5gbelastande situationer p\u00e5 GPU Core Pipe v\u00e4rmef\u00f6rdelare med h\u00f6gkvalitativt tryck s\u00e4kerst\u00e4ller god kontakt med GPU f\u00f6r v\u00e4rmef\u00f6rdelning \u00f6ver hela bredden. Dragon Center - Med den h\u00f6gkvalitativa programvaran fr\u00e5n MSI, Dragon Center kan du modifiera och optimera MSI-produkter i realtid.",
+        "properties": [
+          "MSI",
+          "MSI",
+          "Grafikkort",
+          "24 GB",
+          "GDDR",
+          "HDMI",
+          "DVI",
+          "DisplayPort",
+          "PCI Express",
+          "L\u00e4ngd: 305 mm"
+        ],
+        "url": "https://www.google.se/shopping/product/2939607926624191767?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 121,
+        "review_rating": 90,
+        "price": "43718.0",
+        "gtins": [
+          "4719072762476"
+        ],
+        "eans": [
+          "4719072762476"
+        ],
+        "brand_name": "MSI",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "GPU-tillverkare",
+            "value": [
+              "Nvidia"
+            ]
+          },
+          {
+            "label": "GPU-frekvens",
+            "value": [
+              "1 395 MHz"
+            ]
+          },
+          {
+            "label": "Turbofrekvens",
+            "value": [
+              "1 725 MHz"
+            ]
+          },
+          {
+            "label": "Minne",
+            "value": [
+              "24 GB"
+            ]
+          },
+          {
+            "label": "Hastighet",
+            "value": [
+              "19 500 MHz"
+            ]
+          },
+          {
+            "label": "Bussbredd",
+            "value": [
+              "384 bitar"
+            ]
+          },
+          {
+            "label": "HDMI-utg\u00e5ng",
+            "value": [
+              "Ja",
+              "(1st",
+              "2.1)"
+            ]
+          },
+          {
+            "label": "DisplayPort-utg\u00e5ng",
+            "value": [
+              "Ja",
+              "(3st",
+              "1.4)"
+            ]
+          },
+          {
+            "label": "Max. antal sk\u00e4rmar",
+            "value": [
+              "4 st"
+            ]
+          },
+          {
+            "label": "Rek. watt (dator)",
+            "value": [
+              "750 W"
+            ]
+          },
+          {
+            "label": "Str\u00f6manslutning",
+            "value": [
+              "2 st 8-pin"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning",
+            "value": [
+              "350 W"
+            ]
+          },
+          {
+            "label": "L\u00e4ngd",
+            "value": [
+              "305 mm"
+            ]
+          },
+          {
+            "label": "Expansionsplatser",
+            "value": [
+              "2.5 st"
+            ]
+          },
+          {
+            "label": "SLI",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "DirectX",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "NVIDIA GeForce Experience",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt",
+            "value": [
+              "PCI Express 4.0",
+              "16x"
+            ]
+          },
+          {
+            "label": "Garanti",
+            "value": [
+              "3 \u00e5r"
+            ]
+          },
+          {
+            "label": "Paketbredd",
+            "value": [
+              "45 cm"
+            ]
+          },
+          {
+            "label": "Paketh\u00f6jd",
+            "value": [
+              "10 cm"
+            ]
+          },
+          {
+            "label": "Paketl\u00e4ngd",
+            "value": [
+              "30 cm"
+            ]
+          },
+          {
+            "label": "Paketvikt",
+            "value": [
+              "1.957 kg"
+            ]
+          },
+          {
+            "label": "Tillverkarens ArtNr",
+            "value": [
+              "GeForce RTX 3090 24GB VENTUS 3X OC"
+            ]
+          },
+          {
+            "label": "Upplagd",
+            "value": [
+              "2020-09-01 21:02"
+            ]
+          },
+          {
+            "label": "Releasedatum",
+            "value": [
+              "2020\u201009\u201024 15:00"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "MSI"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "5411718",
+              "58280233",
+              "86911162",
+              "GEFORCE RTX 3090 VENTUS 3X 24G OC",
+              "GeForce RTX 3090 24GB VENTUS 3",
+              "GeForce RTX 3090 24GB VENTUS 3X OC",
+              "GeForce RTX 3090 VENTUS 3X 24G OC",
+              "MI8301",
+              "RTX 3090 VENTUS 3X 24G",
+              "RTX 3090 VENTUS 3X 24G OC",
+              "V388-002R",
+              "geforcertx3090ventus3x24goc"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04719072762476"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/2939607926624191767/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "2939607926624191767",
+            "price": "51634.0",
+            "price_additional_info": null,
+            "price_with_shipping": "51733.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/msi-geforce-rtx-3090-ventus-3x-oc-24gb-gddr6x-384-bitars-grafikkort-p86911162",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719331307622",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:08Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719331307660",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:09Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719331308568",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:08Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=04719331308568&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://rdebutik.se/products/se/417/158545/sort/1/filter/0_0_0_0/GeForce-RTX-3060-Gaming-OC-12GB-GDDR6-192bit-grafikkort.html",
+            "name": "Gigabyte GeForce RTX 3060 Gaming OC 12GB",
+            "product_properties": [],
+            "price": "17512.0",
+            "shipping_costs": "99.0",
+            "price_with_shipping": "17611.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "RDEbutik.se",
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "RDEbutik.se",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719331309497",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:12:11Z"
+      },
+      "content": {
+        "id": "7526502944060052159",
+        "name": "Gigabyte GeForce RTX 3080 Gaming OC LHR 10GB GDDR6X 320bit",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR21zxG4BlH3QPWUgSxUOJZ6G4TQ_Y7TicASKA4Br5aefbH03MckXEjgnEIrrhnw_eNuMzwAfU&usqp=CAY",
+        "description": "P\u00e5 grund av brist p\u00e5 grafikkort s\u00e5 kommer vi tillsvidare endast till\u00e5ta varje kund att k\u00f6pa ett grafikkort fr\u00e5n v\u00e5rt RTX 3000-sortiment. Ber\u00e4knade leveransdatum \u00e4r prelimin\u00e4ra och kan komma att justeras. Detta \u00e4r en LHR-modell (\u201cLite Hash Rate,\u201d eller \u201cLHR,\u201d) som inte l\u00e4mpar sig f\u00f6r mining.",
+        "properties": [
+          "GIGABYTE",
+          "GIGABYTE",
+          "Grafikkort",
+          "10 GB",
+          "GDDR6",
+          "VGA",
+          "HDMI",
+          "DVI",
+          "DisplayPort",
+          "PCI Express"
+        ],
+        "url": "https://www.google.se/shopping/product/7526502944060052159?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 294,
+        "review_rating": 86,
+        "price": "24908.0",
+        "gtins": [
+          "4719331309497"
+        ],
+        "eans": [
+          "4719331309497"
+        ],
+        "brand_name": "GIGABYTE",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "DVI-D",
+            "value": [
+              "1 aasta"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "GIGABYTE"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "GV-N3080GAMING OC-10GD 2.0",
+              "gvn3080gamingoc10gd"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04719331309497"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/7526502944060052159/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "7526502944060052159",
+            "price": "24908.0",
+            "price_additional_info": null,
+            "price_with_shipping": "25007.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/417/190173/sort/1/filter/0_0_0_0/GeForce-RTX-3080-Gaming-OC-LHR-10GB-GDDR6X-320bit-grafikkort.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04895173622465",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:09Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04895173622496",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:09Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04895173622823",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:09Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "success": false,
+      "reason": "error",
+      "source": "google-shopping",
+      "country": "se",
+      "key": "gtin",
+      "value": "05099206024823",
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05099206024823",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06935364052867",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:12:09Z"
+      },
+      "content": {
+        "id": "16961998015378619368",
+        "name": "TP-Link Archer TX50E - AX3000 / PCIe Adapter / Bluetooth 5.0 / Wi-Fi 6",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQusdeOaej1r_l6q_mwhYaIR0H2PHpMEqfb4YdMYQqRQlS8biQ&usqp=CAY",
+        "description": "Wi-Fi 6 comes with 1024-QAM and 160 MHz bandwidth, for powerful, continuous Wi-Fi. Bandwidth-intensive applications like VR demand high speeds, which Wi-Fi 6 delivers - 3x faster than Wi-Fi 5. Just insert Archer TX50E into your PC for fully immersive VR experiences.",
+        "properties": [
+          "PCI Express",
+          "PC",
+          "11 Mbit/s",
+          "WEP",
+          "WPA",
+          "WPA2"
+        ],
+        "url": "https://www.google.se/shopping/product/16961998015378619368?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 65,
+        "review_rating": 88,
+        "price": "489.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "TP-Link Archer TX50E - n\u00e4tverksadapter",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produktbeskrivning",
+            "value": [
+              "TP-Link Archer TX50E - n\u00e4tverksadapter"
+            ]
+          },
+          {
+            "label": "Typ av enhet",
+            "value": [
+              "N\u00e4tverksadapter"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "Instickskort"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnittstyp (buss)",
+            "value": [
+              "PCI Express x1"
+            ]
+          },
+          {
+            "label": "Frekvensband",
+            "value": [
+              "2.4 GHz",
+              "5 GHz"
+            ]
+          },
+          {
+            "label": "Systemkrav",
+            "value": [
+              "Windows 10 (64-bit)"
+            ]
+          },
+          {
+            "label": "Anslutningsteknik",
+            "value": [
+              "Tr\u00e5dl\u00f6s"
+            ]
+          },
+          {
+            "label": "Antenn",
+            "value": [
+              "Extern l\u00f6stagbar"
+            ]
+          },
+          {
+            "label": "Antal antenner",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "F\u00f6rst\u00e4rkningsniv\u00e5",
+            "value": [
+              "5 dBi"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt",
+            "value": [
+              "2 x antenn"
+            ]
+          },
+          {
+            "label": "Inkluderade tillbeh\u00f6r",
+            "value": [
+              "H\u00e5llare f\u00f6r l\u00e5g version"
+            ]
+          },
+          {
+            "label": "Medf\u00f6ljande programvara",
+            "value": [
+              "Drivrutiner och hj\u00e4lpprogram"
+            ]
+          },
+          {
+            "label": "Operativsystem erfordras",
+            "value": [
+              "Windows 10 (64-bit)"
+            ]
+          },
+          {
+            "label": "Min temperatur vid drift",
+            "value": [
+              "0 \u00b0C"
+            ]
+          },
+          {
+            "label": "Max temperatur vid drift",
+            "value": [
+              "40 \u00b0C"
+            ]
+          },
+          {
+            "label": "Luftfuktighet vid drift",
+            "value": [
+              "10 - 90 % (icke-kondenserade)"
+            ]
+          }
+        ],
+        "offer_count": 4,
+        "offers_url": "https://www.google.se/shopping/product/16961998015378619368/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "16961998015378619368",
+            "price": "489.0",
+            "price_additional_info": null,
+            "price_with_shipping": "489.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/dator-surfplatta/natverk/natverkskort/tp-link-archer-tx50e/1013352.8930/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "16961998015378619368",
+            "price": "449.0",
+            "price_additional_info": null,
+            "price_with_shipping": "518.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011200815/archer-tx50e-ax3000-wifi-6-bluetooth-50-adapter?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "16961998015378619368",
+            "price": "699.0",
+            "price_additional_info": null,
+            "price_with_shipping": "699.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.alina.se/Produkt.aspx?site=gm&T2=ARCHER%20TX50E",
+            "shop_name": "Alina.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3895675bbec",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3895675bbec",
+            "shop_url": "www.alina.se",
+            "shop_domain": "alina.se",
+            "shop_matching_id": "alina.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "16961998015378619368",
+            "price": "636.0",
+            "price_additional_info": null,
+            "price_with_shipping": "685.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/tp-link-ax3000-wi-fi-6-bluetooth/cat-p/c0/p1001030007",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    }
+  ]
+}

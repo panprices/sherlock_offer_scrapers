@@ -1,0 +1,3317 @@
+{
+  "job_id": "61c06572756eb10023a8d5b0",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 20,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195348990844",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:14:02Z"
+      },
+      "content": {
+        "id": "8647699933443748445",
+        "name": "Lenovo ThinkBook 14s Yoga 14\" Full HD Blue Touch",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQATQ0lxBlh_DlgMfc5a7m4XPZd8AaLP1GvutruaFr7thVm2IQ&usqp=CAY",
+        "description": "Core i7-1165G7, 16GB RAM, 512GB SSD, Windows 10 Pro - Datorer - B\u00e4rbara / laptop Ultraportabel",
+        "properties": null,
+        "url": "https://www.google.se/shopping/product/8647699933443748445?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 265,
+        "review_rating": 90,
+        "price": "14368.0",
+        "gtins": [
+          "195348990844"
+        ],
+        "eans": [
+          "0195348990844"
+        ],
+        "brand_name": "Lenovo",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Lenovo"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "20WE002FMX"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00195348990844"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/8647699933443748445/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "8647699933443748445",
+            "price": "14368.0",
+            "price_additional_info": null,
+            "price_with_shipping": "14417.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/lenovo-thinkbook-14s-yoga-14/cat-p/c36159/p1001653489",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195477004481",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:57Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04242003832660",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:59Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04251442503253",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:14:01Z"
+      },
+      "content": {
+        "id": "11209739397178496669",
+        "name": "noblechairs HERO Black Edition",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1P3CMqLSYDVp1G4OFfxnmC8Ql2ZZEYmWM2Ho_D8ICyDsDMSn8wOJJU4xsliQVVCmDaqD2eYFwvw&usqp=CAY",
+        "description": "Black Edition HERO inneb\u00e4r b\u00e5de en visuell och materiell uppgradering. Den nya och unika PU-hybridkl\u00e4dseln tillh\u00f6r den nya generationen av andningsbart material. Det Tyska materialet, en blandning av vinyl och polyuretan erbjuder det b\u00e4sta av b\u00e5da v\u00e4rldar. Resultat \u00e4r ett ultra-mjukt material som \u00e4r exceptionellt h\u00e5llbart. Dessutom toppas denna premiumuppgradering med nya handtag i rostfritt st\u00e5l, mer estetiskt tilltalande hjulbas, rygg\u00f6ppning i metallimiterande design och f\u00f6rb\u00e4ttrade armst\u00f6d.",
+        "properties": [
+          "noblechairs"
+        ],
+        "url": "https://www.google.se/shopping/product/11209739397178496669?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 335,
+        "review_rating": 88,
+        "price": "4990.0",
+        "gtins": [
+          "4251442503253"
+        ],
+        "eans": [
+          "4251442503253"
+        ],
+        "brand_name": "noblechairs",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Gamingstol"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "noblechairs"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "4251442503253",
+              "50327084",
+              "50370985",
+              "NBL-HRO-PU-BED"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04251442503253"
+            ]
+          }
+        ],
+        "offer_count": 4,
+        "offers_url": "https://www.google.se/shopping/product/11209739397178496669/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "11209739397178496669",
+            "price": "4990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inet.se/produkt/6608685/noblechairs-hero-black-edition",
+            "shop_name": "Inet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fad01df70fc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fad01df70fc",
+            "shop_url": "www.inet.se",
+            "shop_domain": "inet.se",
+            "shop_matching_id": "inet.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "11209739397178496669",
+            "price": "4990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mediamarkt.se/sv/product/_noblechairs-hero-series-black-edition-1325034.html?utm_source=google&utm_medium=seo-product%20feed",
+            "shop_name": "MediaMarkt.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-beb4b17be14",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-beb4b17be14",
+            "shop_url": "www.mediamarkt.se",
+            "shop_domain": "mediamarkt.se",
+            "shop_matching_id": "mediamarkt.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "11209739397178496669",
+            "price": "7574.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7574.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/5922864/noblechairs-hero-stol-ergonomisk-armst%C3%B6d-t-formad-lutning-sv%C3%A4ngtapp-polyuretanl%C3%A4der-st%C3%A5lram-svart",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "11209739397178496669",
+            "price": "7574.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7574.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/inredning-och-mobler/noblechairs-hero-stol-ergonomisk-armstod-t-formad-lutning-svangtapp-polyuretanlader-stalram-svart-p52048106",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04711081119289",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:59Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04711081127178",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:57Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04711081243014",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:57Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04711081310129",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:57Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04718017632256",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:14:02Z"
+      },
+      "content": {
+        "id": "16591713670338423755",
+        "name": "Asus Rog Zephyrus M15 Core I7 16gb 1024gb Ssd 15.6\" Rtx 2070",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSbaZDCSLcwrL0U1QYRBoHP1LzyelsBkiTcImrBLHq9vYI468cFMn5F2uInxXOioT-C9iuCXyQ&usqp=CAY",
+        "description": "Within a lightweight and ultra-slim metal frame, the ROG Zephyrus M fuses well-rounded performance with an exhilarating gaming experience. A powerful CPU and advanced GPU blaze through serious work and play.",
+        "properties": [
+          "ASUS",
+          "ASUS ROG",
+          "ROG Zephyrus"
+        ],
+        "url": "https://www.google.se/shopping/product/16591713670338423755?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 657,
+        "review_rating": 90,
+        "price": "28498.0",
+        "gtins": [
+          "4718017632256"
+        ],
+        "eans": [
+          "4718017632256"
+        ],
+        "brand_name": "ASUS",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "ASUS"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "4718017632256",
+              "GU502LW-AZ034T",
+              "gu502lwaz034t"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04718017632256"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/16591713670338423755/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "16591713670338423755",
+            "price": "28498.0",
+            "price_additional_info": null,
+            "price_with_shipping": "28547.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/asus-rog-zephyrus-m15-gu502lw/cat-p/c/p1001164335",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04718017909297",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:58Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04718017989688",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:58Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04949268621298",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:14:00Z"
+      },
+      "content": {
+        "id": "11181465679919960960",
+        "name": "WACOM - Cintiq Pro 24",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcReqXRrXRcv5sY6DCEbQfWobXmy8RmNsesrW2yp2oUt0hwGxL0&usqp=CAY",
+        "description": "Wacom Cintiq Pro 24 \u00e4r en avancerad kreativ ritsk\u00e4rm, designad f\u00f6r f\u00f6rb\u00e4ttra varje del av i ditt kreativa fl\u00f6de. Med on-screen keypad, radiala menyer och ExpressKey Remote (fj\u00e4rrkontroll med kortkommandoknappar) f\u00e5r du en mer intuitiv upplevelse. S\u00e5 gott som ingen parallax och inget jitter med denna premium 4K-sk\u00e4rm, komplett med en f\u00e4rg\u00e5tervinning i v\u00e4rldsklass med 99% Adobe RGB. Den etsada glassk\u00e4rmen minskar reflektioner och ger en naturlig penna p\u00e5 papper-k\u00e4nsla. Inbyggda bordsben g\u00f6r att du kan vinkla din Wacom Cintiq Pro fr\u00e5n 5\u00b0 till 20\u00b0.",
+        "properties": [
+          "Wacom",
+          "Med LCD-sk\u00e4rm",
+          "Niv\u00e5 8192",
+          "Tr\u00e5dbunden",
+          "Lutningsk\u00e4nslig",
+          "Programmerbar",
+          "7,2 kg",
+          "Windows OS",
+          "Mac OS",
+          "Med multitouch"
+        ],
+        "url": "https://www.google.se/shopping/product/11181465679919960960?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 114,
+        "review_rating": 90,
+        "price": "21620.0",
+        "gtins": [
+          "4949268621298"
+        ],
+        "eans": [
+          "4949268621298"
+        ],
+        "brand_name": "Wacom",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Batterier",
+            "value": [
+              "1 Litiumpolymer Batterier kr\u00e4vs. (inkluderat)"
+            ]
+          },
+          {
+            "label": "Produkten har slutat tillverkas",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Ursprungsland",
+            "value": [
+              "Kina"
+            ]
+          },
+          {
+            "label": "Artikelns vikt",
+            "value": [
+              "11.3 Kilogram"
+            ]
+          },
+          {
+            "label": "RAM",
+            "value": [
+              "\u200e32 GB"
+            ]
+          },
+          {
+            "label": "Typ av datorminne",
+            "value": [
+              "\u200eOk\u00e4nd"
+            ]
+          },
+          {
+            "label": "Svarstid",
+            "value": [
+              "\u200e12 Millisekunder"
+            ]
+          },
+          {
+            "label": "Speciella funktioner",
+            "value": [
+              "\u200eROHS-\u00f6verensst\u00e4mmande."
+            ]
+          },
+          {
+            "label": "Montering av maskinvara",
+            "value": [
+              "\u200eHDMI",
+              "USB",
+              "USB typ C"
+            ]
+          },
+          {
+            "label": "Antal artiklar",
+            "value": [
+              "\u200e1"
+            ]
+          },
+          {
+            "label": "Programvara som st\u00f6ds",
+            "value": [
+              "\u200eMac OS X 10.11 El Capitan"
+            ]
+          },
+          {
+            "label": "St\u00e5ende sk\u00e4rmstorlek",
+            "value": [
+              "\u200e24 tum"
+            ]
+          },
+          {
+            "label": "Visningsvinkel",
+            "value": [
+              "\u200e176 Grader"
+            ]
+          },
+          {
+            "label": "Sp\u00e4nning",
+            "value": [
+              "\u200e19.5 Sp\u00e4nning"
+            ]
+          },
+          {
+            "label": "Batterier inkluderade",
+            "value": [
+              "\u200eJa"
+            ]
+          },
+          {
+            "label": "Batterier kr\u00e4vs",
+            "value": [
+              "\u200eNej"
+            ]
+          },
+          {
+            "label": "Batteriets cellkomposition",
+            "value": [
+              "\u200eLitiumpolymer"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s typ",
+            "value": [
+              "\u200eInfrar\u00f6d"
+            ]
+          },
+          {
+            "label": "Totalt antal USB-portar",
+            "value": [
+              "\u200e2"
+            ]
+          },
+          {
+            "label": "Real Angle Of View",
+            "value": [
+              "\u200e176 Grader"
+            ]
+          },
+          {
+            "label": "Har autofokus",
+            "value": [
+              "\u200eNej"
+            ]
+          },
+          {
+            "label": "Supports Bluetooth Technology",
+            "value": [
+              "\u200eNej"
+            ]
+          },
+          {
+            "label": "Har programmerbara knappar",
+            "value": [
+              "\u200eNej"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Wacom"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "1039041",
+              "1103~224510_TURA",
+              "45484914",
+              "46255307",
+              "4949268621298",
+              "76",
+              "DTK-2420",
+              "DTK2420",
+              "dtk2420",
+              "mpn_1039041",
+              "wacom_46255307"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04949268621298"
+            ]
+          }
+        ],
+        "offer_count": 14,
+        "offers_url": "https://www.google.se/shopping/product/11181465679919960960/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "11181465679919960960",
+            "price": "21620.0",
+            "price_additional_info": null,
+            "price_with_shipping": "21620.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/992883/datorutrustning/kringutrustning/ritbord/ritbord/wacom-cintiq-pro-24-ritbord?channable=009453696400393932383833b2",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "11181465679919960960",
+            "price": "21990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "21990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.scandinavianphoto.se/wacom/cintiq-pro-24-1039041",
+            "shop_name": "Scandinavian Photo SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-47d1f5f9f88",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-47d1f5f9f88",
+            "shop_url": "www.scandinavianphoto.se",
+            "shop_domain": "scandinavianphoto.se",
+            "shop_matching_id": "scandinavianphoto.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "11181465679919960960",
+            "price": "21273.0",
+            "price_additional_info": null,
+            "price_with_shipping": "21273.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/4210461/wacom-cintiq-pro-24-dtk-2420-digitizer-m-lcd-sk%C3%A6rm-52-2-x-29-4-cm-elektromagnetisk-17-knapper-kabling-hdmi-displayport-usb-c",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "11181465679919960960",
+            "price": "22990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "22990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inet.se/produkt/6608310/wacom-cintiq-pro-24",
+            "shop_name": "Inet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fad01df70fc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fad01df70fc",
+            "shop_url": "www.inet.se",
+            "shop_domain": "inet.se",
+            "shop_matching_id": "inet.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "11181465679919960960",
+            "price": "23990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "23990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.webhallen.com/se/product/283674-Wacom-Cintiq-Pro-24-UHD?channable=00c0c7696400323833363734cc",
+            "shop_name": "Webhallen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-82f3e802042",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-82f3e802042",
+            "shop_url": "www.webhallen.com",
+            "shop_domain": "webhallen.com",
+            "shop_matching_id": "webhallen.com",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "11181465679919960960",
+            "price": "22490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "22640.0",
+            "shipping_costs": "150.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.rajalaproshop.se/wacom-cintiq-pro-24",
+            "shop_name": "RajalaProShop",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-766655b45bf",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-766655b45bf",
+            "shop_url": "www.rajalaproshop.se",
+            "shop_domain": "rajalaproshop.se",
+            "shop_matching_id": "rajalaproshop.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "11181465679919960960",
+            "price": "21991.0",
+            "price_additional_info": null,
+            "price_with_shipping": "21991.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011071159/cintiq-pro-24-pen-display?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "11181465679919960960",
+            "price": "21940.0",
+            "price_additional_info": null,
+            "price_with_shipping": "21940.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Ritningsplatta-Digitizer/Wacom-Cintiq-Pro/2658323?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "11181465679919960960",
+            "price": "23699.0",
+            "price_additional_info": null,
+            "price_with_shipping": "23699.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://mymall.se/wacom-ritskrm-cintiq-pro-24-1103-224510-tura",
+            "shop_name": "mymall.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f6c20cec448",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f6c20cec448",
+            "shop_url": "mymall.se",
+            "shop_domain": "mymall.se",
+            "shop_matching_id": "mymall.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "11181465679919960960",
+            "price": "23792.99",
+            "price_additional_info": null,
+            "price_with_shipping": "24037.48",
+            "shipping_costs": "244.49",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/wacom-cintiq-pro-24/137368455/p?utm_source=google_products&utm_medium=merchant&id_producte=9745462&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "11181465679919960960",
+            "price": "22990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "22990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/wacom-cintiq-pro-24-p45484914",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "11181465679919960960",
+            "price": "24204.0",
+            "price_additional_info": null,
+            "price_with_shipping": "24452.8",
+            "shipping_costs": "248.8",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.senetic.se/product/DTK-2420",
+            "shop_name": "Senetic Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3d20fd85b7c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3d20fd85b7c",
+            "shop_url": "www.senetic.se",
+            "shop_domain": "senetic.se",
+            "shop_matching_id": "senetic.se",
+            "page": 1,
+            "position": 12
+          },
+          {
+            "id": null,
+            "product_id": "11181465679919960960",
+            "price": "26072.0",
+            "price_additional_info": null,
+            "price_with_shipping": "26121.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/wacom-cintiq-pro-24/cat-p/c/p10040013",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 13
+          },
+          {
+            "id": null,
+            "product_id": "11181465679919960960",
+            "price": "28349.0",
+            "price_additional_info": null,
+            "price_with_shipping": "28349.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fyndvaruhuset.com/produkt/wacom-cintiq-pro-24-ritbord/",
+            "shop_name": "Fyndvaruhuset.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ef831d97b65",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ef831d97b65",
+            "shop_url": "www.fyndvaruhuset.com",
+            "shop_domain": "fyndvaruhuset.com",
+            "shop_matching_id": "fyndvaruhuset.com",
+            "page": 1,
+            "position": 14
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05011423191515",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:14:03Z"
+      },
+      "content": {
+        "id": "1934025484231798020",
+        "name": "Kenwood - K\u00f6ksmaskin KVC3170S",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRjcZCsu0ljfutGETOdLyjl-Vpi7xdna-zx4bRCKESehAzpeTKTQRvzgHc_d91BNRE2hsKEtFfODg&usqp=CAY",
+        "description": "Oumb\u00e4rlig all-rounder f\u00f6r k\u00f6ket Med denna Kenwood Chef + KVC3170S matprocessor i ditt k\u00f6k kan du enkelt skapa de mest varierade r\u00e4tterna. L\u00e5t Kenwood Chef + g\u00f6ra jobbet f\u00f6r dig, s\u00e5 att du enkelt kan f\u00f6rv\u00e5na dina g\u00e4ster. Med den praktiska k\u00f6ttkvarnen kan du enkelt g\u00f6ra det l\u00e4ckra malet k\u00f6ttet med dina egna \u00f6rtblandningar, de godaste korven eller den f\u00e4rskaste stekstenstenen. Unik planetary rotation Ist\u00e4llet f\u00f6r en rutinm\u00e4ssig roterande r\u00f6relse, som anv\u00e4nds med de flesta blandare, s\u00e4kerst\u00e4ller den unika planetr\u00f6relsen att alla ingredienser blandas noggrant i sk\u00e5len. Inklusive blandning som annars skulle h\u00e5lla fast vid sidorna och basen. Detta ger dig en konsekvent blandning och b\u00e4ttre resultat, oavsett om du stickar ett enda protein eller kn\u00e5dande pund av deg. M\u00e5nga tillbeh\u00f6r f\u00f6r fler m\u00f6jligheter M\u00e5nga olika r\u00e4tter \u00e4r m\u00f6jliga, fr\u00e5n hemgjord majonn\u00e4s, friska smoothies, f\u00e4rska soppor till olika pasta- och k\u00f6ttr\u00e4tter. Dessa \u00e4r alla enkla att g\u00f6ra med hj\u00e4lp av mer \u00e4n 20 tillg\u00e4ngliga tillbeh\u00f6r. L\u00e5t fantasin springa vild och bygg Kenwood Chef + matberedare till en riktig kock i k\u00f6ket!",
+        "properties": [
+          "Kenwood",
+          "Chef and Major",
+          "Chef",
+          "Mixer",
+          "Med stativ",
+          "1\u00a0000 W",
+          "Varierande hastighet",
+          "Kommersiell",
+          "4,9 quart"
+        ],
+        "url": "https://www.google.se/shopping/product/1934025484231798020?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 19,
+        "review_rating": 96,
+        "price": "3995.0",
+        "gtins": [
+          "5011423191515"
+        ],
+        "eans": [
+          "5011423191515"
+        ],
+        "brand_name": "Kenwood",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "24"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "K\u00f6ksmaskin"
+            ]
+          },
+          {
+            "label": "Funktioner",
+            "value": [
+              "Blandare",
+              "kn\u00e5dare",
+              "chopper",
+              "mixer",
+              "beater"
+            ]
+          },
+          {
+            "label": "Sk\u00e5lkapacitet",
+            "value": [
+              "4.6 liter"
+            ]
+          },
+          {
+            "label": "Sk\u00e5lens material",
+            "value": [
+              "Rostfritt st\u00e5l"
+            ]
+          },
+          {
+            "label": "T\u00e5l maskindisk",
+            "value": [
+              "Avtagbara delar"
+            ]
+          },
+          {
+            "label": "Produktmaterial",
+            "value": [
+              "Gjuten metall"
+            ]
+          },
+          {
+            "label": "\u00c4ven inkluderad",
+            "value": [
+              "St\u00e4nkskydd; Urskrapare"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Kenwood"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "0W20011165",
+              "0w20011165",
+              "1103~0W20011165",
+              "1584695",
+              "49226896",
+              "49458619",
+              "49504178",
+              "49629423",
+              "5011423191515",
+              "50182480",
+              "52821631",
+              "592300",
+              "620771",
+              "75670003",
+              "KVC3170S",
+              "Kenwood - 1584695",
+              "kenw0w20011165",
+              "kenwood1584695",
+              "kenwood_50182480"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "05011423191515"
+            ]
+          }
+        ],
+        "offer_count": 16,
+        "offers_url": "https://www.google.se/shopping/product/1934025484231798020/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "1934025484231798020",
+            "price": "3995.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3995.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1132636/hem-hushaall/koksapparater/mixer/kenwood-chef-koksmaskin-kvc3170s?channable=00945369640031313332363336dd",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "1934025484231798020",
+            "price": "3314.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3314.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.bygghemma.se/kok-och-bad/hushallsapparater/koksmaskiner/koksassistent/koksmaskin-kenwood-kvc3170s-chef/p-1357740",
+            "shop_name": "Bygghemma",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8b160d404fe",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8b160d404fe",
+            "shop_url": "www.bygghemma.se",
+            "shop_domain": "bygghemma.se",
+            "shop_matching_id": "bygghemma.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "1934025484231798020",
+            "price": "3759.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3759.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://hemmy.se/hem-o-hushall/koksassistenter/kenwood-kvc3170s-chef-bonuspack",
+            "shop_name": "Hemmy.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-dd2aa0b2ea0",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-dd2aa0b2ea0",
+            "shop_url": "hemmy.se",
+            "shop_domain": "hemmy.se",
+            "shop_matching_id": "hemmy.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "1934025484231798020",
+            "price": "3346.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3346.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.vitvaruexperten.com/koksmaskiner/koksassistent/kenwood-koksmaskin-limited-chef-kvc3170s#fo_c=3028&fo_k=e0d3e289c189ab52230a8760c135916c&fo_s=gsurse",
+            "shop_name": "Vitvaruexperten.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a735d8745a4",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a735d8745a4",
+            "shop_url": "www.vitvaruexperten.com",
+            "shop_domain": "vitvaruexperten.com",
+            "shop_matching_id": "vitvaruexperten.com",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "1934025484231798020",
+            "price": "4189.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4189.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/5861645/kenwood-chef-kvc3170s-k%C3%B6ksmaskin-1000-w-silver",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "1934025484231798020",
+            "price": "4871.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4871.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://inf.se/hem-och-hushall/26739-koksmaskin-kvc3170s-inkkvarn-5011423191515.html",
+            "shop_name": "inf.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-86164cf026b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-86164cf026b",
+            "shop_url": "inf.se",
+            "shop_domain": "inf.se",
+            "shop_matching_id": "inf.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "1934025484231798020",
+            "price": "4323.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4323.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/koksmaskin-kvc3170s-ink-kvarn",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "1934025484231798020",
+            "price": "5495.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5495.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://ellos.se/kenwood/koksmaskin-kvc3170s-ink-kvarn/1584695?extcmp=01_SE_SEM_G4",
+            "shop_name": "Ellos SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-33e42172204",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-33e42172204",
+            "shop_url": "ellos.se",
+            "shop_domain": "ellos.se",
+            "shop_matching_id": "ellos.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "1934025484231798020",
+            "price": "5495.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5495.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.gardenstore.se/koksmaskin-kenwood-kvc3170s?channable=40c154736b7500305732303031313136355e",
+            "shop_name": "GardenStore",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4dcfa102895",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4dcfa102895",
+            "shop_url": "www.gardenstore.se",
+            "shop_domain": "gardenstore.se",
+            "shop_matching_id": "gardenstore.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "1934025484231798020",
+            "price": "5495.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5495.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.husochhemma.se/matrum/hushallsapparater/degmaskiner/koksmaskin-kvc3170s-inkkvarn-0/",
+            "shop_name": "HusochHemma.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-5be442f99e2",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5be442f99e2",
+            "shop_url": "www.husochhemma.se",
+            "shop_domain": "husochhemma.se",
+            "shop_matching_id": "husochhemma.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "1934025484231798020",
+            "price": "5495.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5495.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://mymall.se/kksmaskin-kvc3170s-inkkvarn-1103-0w20011165",
+            "shop_name": "mymall.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f6c20cec448",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f6c20cec448",
+            "shop_url": "mymall.se",
+            "shop_domain": "mymall.se",
+            "shop_matching_id": "mymall.se",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "1934025484231798020",
+            "price": "6399.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6399.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.teknikproffset.se/hem-hushall-tradgard/hushallsapparater/matberedare-koksassistenter/koksassistenter-tillbehor/kenwood-koksmaskin-kvc3170s-inkkvarn",
+            "shop_name": "Teknikproffset.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b1c12f7fe91",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b1c12f7fe91",
+            "shop_url": "www.teknikproffset.se",
+            "shop_domain": "teknikproffset.se",
+            "shop_matching_id": "teknikproffset.se",
+            "page": 1,
+            "position": 12
+          },
+          {
+            "id": null,
+            "product_id": "1934025484231798020",
+            "price": "6514.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6563.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/kenwood-chef-koeksmaskin-kvc3170s/cat-p/c/p1000327547",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 13
+          },
+          {
+            "id": null,
+            "product_id": "1934025484231798020",
+            "price": "4579.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4579.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.buyersclub.se/produkt/kenwood-koksmaskin-kvc3170s-inkkvarn-3",
+            "shop_name": "buyersclub.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f7a257b29c6",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f7a257b29c6",
+            "shop_url": "www.buyersclub.se",
+            "shop_domain": "buyersclub.se",
+            "shop_matching_id": "buyersclub.se",
+            "page": 1,
+            "position": 14
+          },
+          {
+            "id": null,
+            "product_id": "1934025484231798020",
+            "price": "5282.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5282.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hushallsapparater/koksmaskin-kvc3170s-ink-kvarn-p75670003",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 15
+          },
+          {
+            "id": null,
+            "product_id": "1934025484231798020",
+            "price": "5495.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5495.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://villahome.se/varumarken/kenwood/kenwood-koksmaskin-chef",
+            "shop_name": "Villahome.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f0cfd84bac3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f0cfd84bac3",
+            "shop_url": "villahome.se",
+            "shop_domain": "villahome.se",
+            "shop_matching_id": "villahome.se",
+            "page": 1,
+            "position": 16
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07070205300734",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:58Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08806090104527",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 2,
+        "updated_at": "2021-12-20T11:14:00Z"
+      },
+      "content": {
+        "id": "3275343045092454565",
+        "name": "Samsung USB-C v\u00e4ggladdare 45W (svart)",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQdN7XgMb9ptx4oNAw1NzeUfAC0LTe0oOE_2gXMyHRQGDjnKrdnSRnkbdfaYXDSy9eBeUCHNcI&usqp=CAY",
+        "description": "Samsung V\u00e4ggladdare Type-C 45W Svart Snabbladdning n\u00e4r den \u00e4r som b\u00e4st Med snabbladdnings kapacitet p\u00e5 upp till 45 watt \u00e4r hastigheten dess mellannamn. Denna enhet \u00e4r Samsungs ett av de mest effektiva ledningssystemen som laddar din enhet i en snabb takt. Din enhet m\u00e5ste dock ha den n\u00f6dv\u00e4ndiga PD -kompatibiliteten f\u00f6r att f\u00e5 ut det mesta av denna snabbladdare. St\u00f6rre siffror hj\u00e4lper Samsungs reseadapter ger upp till 3A el, vilket \u00e4r mycket mer \u00e4n standardladdare som \u00e4r p\u00e5 1A. S\u00e5 naturligtvis kan du f\u00f6rv\u00e4nta dig en h\u00f6gre m\u00e4ngd str\u00f6m j\u00e4mf\u00f6rt med 700mA eller 1A laddare. Flexibilitet Den medf\u00f6ljande USB Type-C till Type-C laddningskabeln kan anslutas i b\u00e5da \u00e4ndarna. Dessutom kan du anv\u00e4nda den f\u00f6r att ladda din enhet fr\u00e5n vilken annan str\u00f6mk\u00e4lla som helst med en Type-C-port. Du kan ocks\u00e5 anv\u00e4nda den f\u00f6r att \u00f6verf\u00f6ra filer fr\u00e5n en telefon till en annan direkt.",
+        "properties": [
+          "Samsung",
+          "V\u00e4ggladdare",
+          "Mobiltelefon",
+          "Surfplatta",
+          "Snabbladdning",
+          "20 volt",
+          "Svart"
+        ],
+        "url": "https://www.google.se/shopping/product/3275343045092454565?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 9892,
+        "review_rating": 94,
+        "price": "499.0",
+        "gtins": [
+          "8806090104527"
+        ],
+        "eans": [
+          "8806090104527"
+        ],
+        "brand_name": "Samsung",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produkten har slutat tillverkas",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Produktens m\u00e5tt",
+            "value": [
+              "5.3 x 3 x 8.93 cm; 113 Gram"
+            ]
+          },
+          {
+            "label": "Ursprungsland",
+            "value": [
+              "Vietnam"
+            ]
+          },
+          {
+            "label": "Kompatibla enheter",
+            "value": [
+              "Mobiltelefoner"
+            ]
+          },
+          {
+            "label": "Typ av anslutning",
+            "value": [
+              "USB"
+            ]
+          },
+          {
+            "label": "Totalt antal USB-portar",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Watt",
+            "value": [
+              "45 watt"
+            ]
+          },
+          {
+            "label": "Str\u00f6mk\u00e4lla",
+            "value": [
+              "Wire"
+            ]
+          },
+          {
+            "label": "Artikelns vikt",
+            "value": [
+              "0.11 Kilogram"
+            ]
+          },
+          {
+            "label": "Typ av paket",
+            "value": [
+              "Standardf\u00f6rpackning"
+            ]
+          },
+          {
+            "label": "Modellnamn",
+            "value": [
+              "Samsung Schnellladeger\u00e4t 45 W (EP-TA845)"
+            ]
+          },
+          {
+            "label": "Delnummer",
+            "value": [
+              "EP-TA845XBEGWW"
+            ]
+          },
+          {
+            "label": "Antal artiklar",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Typ av str\u00f6mk\u00e4lla",
+            "value": [
+              "Wire"
+            ]
+          },
+          {
+            "label": "Batterier inkluderade",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Batterier kr\u00e4vs",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Antal portar",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Materialtyp",
+            "value": [
+              "Silikon"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Samsung"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "1286~SKU2306",
+              "230529",
+              "45235733",
+              "48634507",
+              "49367770",
+              "49895900",
+              "50057323",
+              "55950609",
+              "55950636",
+              "58066404",
+              "58650324",
+              "61723579",
+              "87550",
+              "8806090104527",
+              "8860M95",
+              "89780",
+              "995002610",
+              "EP-TA845XBEGWW",
+              "EP-TA845XWEGWW",
+              "PACK-SAM-BK-EPTA845",
+              "epta845xbegww",
+              "samsung_49367770",
+              "samsung_49895900",
+              "usb-c snabb reseladdare ep-ta845xbegww - 45w - svart"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "08806090104527"
+            ]
+          }
+        ],
+        "offer_count": 20,
+        "offers_url": "https://www.google.se/shopping/product/3275343045092454565/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "3275343045092454565",
+            "price": "499.0",
+            "price_additional_info": null,
+            "price_with_shipping": "499.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/mobil-smartwatch/mobiltelefontillbehor/mobilladdare/samsung-pd-45w-wall-charger-black/1011256.9066/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "3275343045092454565",
+            "price": "313.0",
+            "price_additional_info": null,
+            "price_with_shipping": "353.0",
+            "shipping_costs": "40.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/5729684/samsung-travel-adapter-ep-ta845-str%C3%B6madapter-45-watt-3-a-sfc-2-0-usb-c-p%C3%A5-kabel-usb-c-svart-f%C3%B6r-galaxy-a20-a50-a70-a8s-m30",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "3275343045092454565",
+            "price": "319.0",
+            "price_additional_info": null,
+            "price_with_shipping": "319.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.teknikdelar.se/samsung-pd-45w-usb-c-vaggladdare-svart?dfw_tracker=35448-EP-TA845XBEGWW&utm_source=google&utm_medium=surfaces&utm_campaign=surfaces_google",
+            "shop_name": "Teknikdelar.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fc59e146f84",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fc59e146f84",
+            "shop_url": "www.teknikdelar.se",
+            "shop_domain": "teknikdelar.se",
+            "shop_matching_id": "teknikdelar.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "3275343045092454565",
+            "price": "324.77",
+            "price_additional_info": null,
+            "price_with_shipping": "393.77",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.conrad.se/p/-2160372?vat=true&utm_source=google&utm_medium=surfaces&utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_term=2160372",
+            "shop_name": "Conrad.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-243c865299c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-243c865299c",
+            "shop_url": "www.conrad.se",
+            "shop_domain": "conrad.se",
+            "shop_matching_id": "conrad.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "3275343045092454565",
+            "price": "346.49",
+            "price_additional_info": null,
+            "price_with_shipping": "413.48",
+            "shipping_costs": "66.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/samsung-type-c-super-fast-charger-45w-with-type-c-cable-1-m/137364504/p?utm_source=google_products&utm_medium=merchant&id_producte=9729014&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "3275343045092454565",
+            "price": "339.0",
+            "price_additional_info": null,
+            "price_with_shipping": "368.0",
+            "shipping_costs": "29.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://malmoteknik.se/laddare/13599-samsung-laddare-pd-45w-usb-c-ep-ta845xbegww-8806090104527.html",
+            "shop_name": "Malm\u00f6 TeknikKompani",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-50e87b159b5",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-50e87b159b5",
+            "shop_url": "malmoteknik.se",
+            "shop_domain": "malmoteknik.se",
+            "shop_matching_id": "malmoteknik.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "3275343045092454565",
+            "price": "399.0",
+            "price_additional_info": null,
+            "price_with_shipping": "399.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elon.se/samsung-wall-charger-45w-usb_c-black-ep_ta845xbegww",
+            "shop_name": "Elon Ljud & Bild",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4d16ab19f9e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4d16ab19f9e",
+            "shop_url": "www.elon.se",
+            "shop_domain": "elon.se",
+            "shop_matching_id": "elon.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "3275343045092454565",
+            "price": "359.0",
+            "price_additional_info": null,
+            "price_with_shipping": "359.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/samsung-travel-adapter-ep-ta845-stromadapter-45-watt-3-a-sfc-2-0-usb-c-pa-kabel-usb-c-svart-for-galaxy-a20-a50-a70-a8s-m30-m40-p50057323",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "3275343045092454565",
+            "price": "390.0",
+            "price_additional_info": null,
+            "price_with_shipping": "459.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011145539/45w-reseadapter-usb-c?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "3275343045092454565",
+            "price": "399.0",
+            "price_additional_info": null,
+            "price_with_shipping": "399.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://inf.se/usb-laddare/23191-samsung-ep-ta845-inomhus-ac-svart-8806090104527.html",
+            "shop_name": "inf.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-86164cf026b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-86164cf026b",
+            "shop_url": "inf.se",
+            "shop_domain": "inf.se",
+            "shop_matching_id": "inf.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "3275343045092454565",
+            "price": "368.0",
+            "price_additional_info": null,
+            "price_with_shipping": "407.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/samsung-samsung-wall-charger-45w-usb-c-black-ep-ta845xbegww",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "3275343045092454565",
+            "price": "383.0",
+            "price_additional_info": null,
+            "price_with_shipping": "412.0",
+            "shipping_costs": "29.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://soldfy.se/samsung-vaggladdare-type-c-45w-svart",
+            "shop_name": "Soldfy.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-700d7a0a45b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-700d7a0a45b",
+            "shop_url": "soldfy.se",
+            "shop_domain": "soldfy.se",
+            "shop_matching_id": "soldfy.se",
+            "page": 1,
+            "position": 12
+          },
+          {
+            "id": null,
+            "product_id": "3275343045092454565",
+            "price": "395.0",
+            "price_additional_info": null,
+            "price_with_shipping": "424.0",
+            "shipping_costs": "29.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mobilfodral.nu/katalog/kablar-reservdelar/laddare-kablar-micro-usb/samsung-laddare-pd-45w-usb-c-ep-ta845xbegww/?dTribesID=69e30b266bcc98bd1f5cc6181d33f9ab%7Cadtribes%7C260437&utm_source=Google%20Shopping&utm_campaign=Google%20Shopping&utm_medium=cpc&utm_term=260437",
+            "shop_name": "mobilfodral.nu",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-6cea9673da1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-6cea9673da1",
+            "shop_url": "www.mobilfodral.nu",
+            "shop_domain": "mobilfodral.nu",
+            "shop_matching_id": "mobilfodral.nu",
+            "page": 1,
+            "position": 13
+          },
+          {
+            "id": null,
+            "product_id": "3275343045092454565",
+            "price": "399.0",
+            "price_additional_info": null,
+            "price_with_shipping": "448.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fruugo.se/samsung-laddare-pd-45w-usb-c-ep-ta845xbegww/p-38301508-78653916?language=sv&ac=croud&utm_source=organic_shopping&utm_medium=organic",
+            "shop_name": "fruugo.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fdf04e0f8d5",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fdf04e0f8d5",
+            "shop_url": "www.fruugo.se",
+            "shop_domain": "fruugo.se",
+            "shop_matching_id": "fruugo.se",
+            "page": 1,
+            "position": 14
+          },
+          {
+            "id": null,
+            "product_id": "3275343045092454565",
+            "price": "398.75",
+            "price_additional_info": null,
+            "price_with_shipping": "427.75",
+            "shipping_costs": "29.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.jollymobile.com/shop/laddare/32157-samsung-quickcharge-45w-reseladdare-svart-ep-ta845xbe-8806090104527.html",
+            "shop_name": "Jolly Mobile",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-34c7450038b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-34c7450038b",
+            "shop_url": "www.jollymobile.com",
+            "shop_domain": "jollymobile.com",
+            "shop_matching_id": "jollymobile.com",
+            "page": 1,
+            "position": 15
+          },
+          {
+            "id": null,
+            "product_id": "3275343045092454565",
+            "price": "449.0",
+            "price_additional_info": null,
+            "price_with_shipping": "498.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.teknikproffset.se/okategoriserade-produkter/samsung-ep-ta845-svart-inomhus",
+            "shop_name": "Teknikproffset.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b1c12f7fe91",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b1c12f7fe91",
+            "shop_url": "www.teknikproffset.se",
+            "shop_domain": "teknikproffset.se",
+            "shop_matching_id": "teknikproffset.se",
+            "page": 1,
+            "position": 16
+          },
+          {
+            "id": null,
+            "product_id": "3275343045092454565",
+            "price": "449.0",
+            "price_additional_info": null,
+            "price_with_shipping": "449.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Mobile-Adapters-Chargers/Samsung-EP-TA845-45W-USB-C-Adapter-with-cable-Black/2799443?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 17
+          },
+          {
+            "id": null,
+            "product_id": "3275343045092454565",
+            "price": "499.0",
+            "price_additional_info": null,
+            "price_with_shipping": "499.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "http://www.themobilestore.se/samsung-vaggladdare-usb-type-c-45w-svart?dfw_tracker=66301-A00-HUR-8806090104527",
+            "shop_name": "TheMobileStore.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-55ad1459f7b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-55ad1459f7b",
+            "shop_url": "www.themobilestore.se",
+            "shop_domain": "themobilestore.se",
+            "shop_matching_id": "themobilestore.se",
+            "page": 1,
+            "position": 18
+          },
+          {
+            "id": null,
+            "product_id": "3275343045092454565",
+            "price": "449.0",
+            "price_additional_info": null,
+            "price_with_shipping": "449.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://teknikhouse.se/kablar-laddare/samsung-usb-c-vaggladdare-45w-ep-ta845xbegww-svart/",
+            "shop_name": "Teknikhouse.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9421a4ca186",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9421a4ca186",
+            "shop_url": "teknikhouse.se",
+            "shop_domain": "teknikhouse.se",
+            "shop_matching_id": "teknikhouse.se",
+            "page": 1,
+            "position": 19
+          },
+          {
+            "id": null,
+            "product_id": "3275343045092454565",
+            "price": "495.0",
+            "price_additional_info": null,
+            "price_with_shipping": "594.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/394/94498/sort/1/filter/0_0_0_0/EP-TA845XBE-Travel-%D0%A1harger-laddare.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 20
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08806091078001",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:57Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08806091154149",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:14:00Z"
+      },
+      "content": {
+        "id": "10607921260436371161",
+        "name": "LG 55\" C1 OLED 4K Smart TV",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ2Kj_OrCQ7QQC0WmQQ15luaQ6U1HTgUWblh9hY4Y-qRCtE1Ub4R-xEFQXk1VPvBgFH3ulKPSE&usqp=CAY",
+        "description": "LG OLED TV \u00e4r en gl\u00e4dje att se. Sj\u00e4lvlysande pixlar har utvecklats f\u00f6r att ge dig en \u00e4nnu mer spektakul\u00e4r bildkvalitet och en m\u00e4ngd designm\u00f6jligheter, samtidigt som de senaste banbrytande teknikerna tar upplevelserna till nya o\u00f6vertr\u00e4ffade h\u00f6jder. Allt du redan \u00e4lskar med TV - p\u00e5 en ny och h\u00f6gre niv\u00e5.",
+        "properties": [
+          "LG",
+          "55 tum",
+          "Smart-tv",
+          "4K",
+          "3D",
+          "23 kg",
+          "High Definition",
+          "3840 x 2160"
+        ],
+        "url": "https://www.google.se/shopping/product/10607921260436371161?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 12297,
+        "review_rating": 96,
+        "price": "17990.0",
+        "gtins": [
+          "8806091154149"
+        ],
+        "eans": [
+          "8806091154149"
+        ],
+        "brand_name": "LG",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "24"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "OLED-TV - Smart TV"
+            ]
+          },
+          {
+            "label": "Energiklass",
+            "value": [
+              "Klass G"
+            ]
+          },
+          {
+            "label": "Energiklass (HDR)",
+            "value": [
+              "Klass G"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtion (driftl\u00e4ge)",
+            "value": [
+              "106 W"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning f\u00f6r SDR (P\u00e5-l\u00e4ge)",
+            "value": [
+              "106 kWh/1 000 h"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning HDR (P\u00e5-l\u00e4ge)",
+            "value": [
+              "171 kWh/1 000 h"
+            ]
+          },
+          {
+            "label": "Diagonalklass",
+            "value": [
+              "55\""
+            ]
+          },
+          {
+            "label": "Plattform",
+            "value": [
+              "webOS",
+              "LG ThinQ AI"
+            ]
+          },
+          {
+            "label": "HDR-f\u00f6rberedd",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "HDR-format",
+            "value": [
+              "HLG10"
+            ]
+          },
+          {
+            "label": "HDR-teknologi",
+            "value": [
+              "HDR 10 Pro",
+              "Dolby Vision IQ"
+            ]
+          },
+          {
+            "label": "Videoprocessor",
+            "value": [
+              "9 Gen 4 AI 4K"
+            ]
+          },
+          {
+            "label": "TV-tuner",
+            "value": [
+              "1 analog",
+              "1 digital"
+            ]
+          },
+          {
+            "label": "TV-mottagaravk\u00e4nning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Sensorer",
+            "value": [
+              "Illuminance gr\u00f6nsensor"
+            ]
+          },
+          {
+            "label": "Videogr\u00e4nssnitt",
+            "value": [
+              "HDMI"
+            ]
+          },
+          {
+            "label": "HDMI-portskvantitet",
+            "value": [
+              "4 portar"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning",
+            "value": [
+              "3840 x 2160"
+            ]
+          },
+          {
+            "label": "Visningsformat",
+            "value": [
+              "4K UHD (2160p)"
+            ]
+          },
+          {
+            "label": "Bildkvot",
+            "value": [
+              "16:9"
+            ]
+          },
+          {
+            "label": "Spr\u00e5k f\u00e4r bildsk\u00e4rmsmeny",
+            "value": [
+              "Multilingual"
+            ]
+          },
+          {
+            "label": "Text-TV",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Text-TV-minne",
+            "value": [
+              "2000 sidor"
+            ]
+          },
+          {
+            "label": "Elektronisk programguide",
+            "value": [
+              "8 dagars EPG"
+            ]
+          },
+          {
+            "label": "Videoformat som st\u00f6ds",
+            "value": [
+              "HEVC",
+              "VP9",
+              "AV1"
+            ]
+          },
+          {
+            "label": "Ljudformat som st\u00f6ds",
+            "value": [
+              "MP3",
+              "WMA",
+              "PCM",
+              "AC3",
+              "AAC",
+              "HE-AAC",
+              "E-AC3",
+              "MP2",
+              "AC4"
+            ]
+          },
+          {
+            "label": "USB-port",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Antal USB-portar",
+            "value": [
+              "3"
+            ]
+          },
+          {
+            "label": "Konfiguration",
+            "value": [
+              "Quad-Core"
+            ]
+          },
+          {
+            "label": "Modell fj\u00e4rrkontroll",
+            "value": [
+              "LG MR21N"
+            ]
+          },
+          {
+            "label": "Batteriets formfaktor",
+            "value": [
+              "AA-typ"
+            ]
+          },
+          {
+            "label": "Batteri ing\u00e5r",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Antal batterier som medf\u00f6ljer",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Surround-l\u00e4ge",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Ljudeffekter",
+            "value": [
+              "OLED Surround",
+              "Dolby Atmos"
+            ]
+          },
+          {
+            "label": "H\u00f6gtalarsystem",
+            "value": [
+              "2",
+              "2 kanal"
+            ]
+          },
+          {
+            "label": "Uteffekt / total",
+            "value": [
+              "40 Watt"
+            ]
+          },
+          {
+            "label": "Funktioner",
+            "value": [
+              "Webbl\u00e4sning",
+              "Internet-videouppspelning"
+            ]
+          },
+          {
+            "label": "Anknytningsbarhet",
+            "value": [
+              "Wi-Fi",
+              "LAN",
+              "Bluetooth"
+            ]
+          },
+          {
+            "label": "Wi-Fi-protokoll",
+            "value": [
+              "802.11ac"
+            ]
+          },
+          {
+            "label": "Bluetoothversion",
+            "value": [
+              "Bluetooth 5.0"
+            ]
+          },
+          {
+            "label": "Anslut och dela",
+            "value": [
+              "Sk\u00e4rmdelning",
+              "Ljuddelning",
+              "N\u00e4tverksfill\u00e4sare"
+            ]
+          },
+          {
+            "label": "St\u00f6d f\u00f6r CEC",
+            "value": [
+              "Simplink"
+            ]
+          },
+          {
+            "label": "N\u00e4tdel",
+            "value": [
+              "N\u00e4taggregat"
+            ]
+          },
+          {
+            "label": "Insp\u00e4nning",
+            "value": [
+              "AC 120/230 V (50/60 Hz)"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtionsst\u00e4ll med",
+            "value": [
+              "0.5 Watt"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "LG"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "240659",
+              "OLED55C15LA.AEU"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "08806091154149"
+            ]
+          }
+        ],
+        "offer_count": 8,
+        "offers_url": "https://www.google.se/shopping/product/10607921260436371161/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10607921260436371161",
+            "price": "17990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "17990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/tv/lg-oled55c15/1017301.8885/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "10607921260436371161",
+            "price": "19890.0",
+            "price_additional_info": null,
+            "price_with_shipping": "19890.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.webhallen.com/se/product/334826-LG-2021-55-OLED55C15LA-OLED-C1-Smart-Tv?channable=00c0c7696400333334383236d4",
+            "shop_name": "Webhallen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-82f3e802042",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-82f3e802042",
+            "shop_url": "www.webhallen.com",
+            "shop_domain": "webhallen.com",
+            "shop_matching_id": "webhallen.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "10607921260436371161",
+            "price": "19990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "19990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1185789/tv-ljud-bild/tv-video/tv/lg-55-oled-4k-tv-oled55c1?channable=0094536964003131383537383974",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "10607921260436371161",
+            "price": "17990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "17990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inet.se/produkt/2219887/lg-55-c1-oled-4k-smart-tv",
+            "shop_name": "Inet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fad01df70fc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fad01df70fc",
+            "shop_url": "www.inet.se",
+            "shop_domain": "inet.se",
+            "shop_matching_id": "inet.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "10607921260436371161",
+            "price": "19890.0",
+            "price_additional_info": null,
+            "price_with_shipping": "19890.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elon.se/lg-55-oled55c15la-207a240659",
+            "shop_name": "Elon Ljud & Bild",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4d16ab19f9e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4d16ab19f9e",
+            "shop_url": "www.elon.se",
+            "shop_domain": "elon.se",
+            "shop_matching_id": "elon.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "10607921260436371161",
+            "price": "17990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "18389.0",
+            "shipping_costs": "399.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011251188/oled55c15la-55-4k-oled-smart-tv?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "10607921260436371161",
+            "price": "17990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "17990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/lg-55-c1-oled-4k-smart-tv-p76841025",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "10607921260436371161",
+            "price": "19890.0",
+            "price_additional_info": null,
+            "price_with_shipping": "19890.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tele-ha.se/produkt/lg-oled55c15/?utm_source=google&utm_campaign=shopping",
+            "shop_name": "Tele-H\u00e5",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-737f86d2df0",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-737f86d2df0",
+            "shop_url": "www.tele-ha.se",
+            "shop_domain": "tele-ha.se",
+            "shop_matching_id": "tele-ha.se",
+            "page": 1,
+            "position": 8
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08806091154620",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:57Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08806092013100",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:58Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=08806092013100&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.datagrottan.se/samsung-238-f24t450-ips-usb/cat-p/c36167/p1001589027",
+            "name": "Samsung 24\" sk\u00e4rm F24T450",
+            "product_properties": [],
+            "price": "2361.0",
+            "shipping_costs": "49.0",
+            "price_with_shipping": "2410.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Datagrottan",
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "Datagrottan",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08806098332939",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:14:02Z"
+      },
+      "content": {
+        "id": "282079645677810489",
+        "name": "LG 49WL95C-W",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQDuT4T_ge8vbfeBIxTjNY8shtFY2nqLvhoDLf86y1dRetDkn0opvxWthdmmFL3JxPrw9P-Jddx&usqp=CAY",
+        "description": "Curved 49\" UltraWide monitor with a dual QHD resolution and beautiful IPS panel. Enjoy larger screen real estate with a widescreen monitor. Great for multitasking and working on large spreadsheets. You'll have access to more space without having to use multiple monitors. This display has twice the resolution of a 1440p monitor. IPS panel with HDR support LG's display can convert typical content to HDR quality directly on the display. The picture quality algorithm improves Tone Mapping processing and changes SDR quality picture to a HDR experience. The 99% sRGB color spectrum and high color gamut reproduce lifelike and vivid colors. The display has large viewing angles, which makes it easy to enjoy the true colors of the picture. Adjustable ergonomics The position of the monitor can be freely adjusted to fit your workstation. Adjust the tilt and height of the monitor to find the perfect spot for your eyes. The monitor is curved to provide better viewing angles for all parts of the screen.",
+        "properties": [
+          "Energiklass: G",
+          "LG",
+          "UltraWide",
+          "49 tum",
+          "3840 x 2160",
+          "Bakgrundsbelyst LED",
+          "HDMI",
+          "VGA",
+          "DVI",
+          "DisplayPort"
+        ],
+        "url": "https://www.google.se/shopping/product/282079645677810489?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 174,
+        "review_rating": 90,
+        "price": "15990.0",
+        "gtins": [
+          "8806098332939"
+        ],
+        "eans": [
+          "8806098332939"
+        ],
+        "brand_name": "LG",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produktens m\u00e5tt \u200f",
+            "value": [
+              "\u200e 121.51 x 11.42 x 36.57 cm; 15.2 Kilogram"
+            ]
+          },
+          {
+            "label": "Modellnamn",
+            "value": [
+              "\u200e49WL95C-W"
+            ]
+          },
+          {
+            "label": "Delnummer",
+            "value": [
+              "\u200e49WL95C-W"
+            ]
+          },
+          {
+            "label": "Maskinvarugr\u00e4nssnitt",
+            "value": [
+              "\u200eUSB Type C",
+              "HDMI",
+              "USB 3",
+              "0"
+            ]
+          },
+          {
+            "label": "Svarstid",
+            "value": [
+              "\u200e5 Millisekunder"
+            ]
+          },
+          {
+            "label": "Skanneruppl\u00f6sning",
+            "value": [
+              "\u200eFHD 1080p"
+            ]
+          },
+          {
+            "label": "Antal artiklar",
+            "value": [
+              "\u200e1"
+            ]
+          },
+          {
+            "label": "Displayteknik",
+            "value": [
+              "\u200eLED"
+            ]
+          },
+          {
+            "label": "St\u00e5ende sk\u00e4rmstorlek",
+            "value": [
+              "\u200e49 tum"
+            ]
+          },
+          {
+            "label": "Visningsvinkel",
+            "value": [
+              "\u200e178 Grader"
+            ]
+          },
+          {
+            "label": "Display resolution",
+            "value": [
+              "\u200e5120 x 1440 Pixel"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning",
+            "value": [
+              "\u200e5120x1440"
+            ]
+          },
+          {
+            "label": "Max Resolution",
+            "value": [
+              "\u200e1440 Pixlar"
+            ]
+          },
+          {
+            "label": "Horizontal Resolution",
+            "value": [
+              "\u200e5120 Pixlar"
+            ]
+          },
+          {
+            "label": "Max Vertical Resolution",
+            "value": [
+              "\u200e1440 Pixlar"
+            ]
+          },
+          {
+            "label": "Watt",
+            "value": [
+              "\u200e80 watt"
+            ]
+          },
+          {
+            "label": "Batterier kr\u00e4vs",
+            "value": [
+              "\u200eNej"
+            ]
+          },
+          {
+            "label": "GSM frequencies",
+            "value": [
+              "\u200e60 Hz"
+            ]
+          },
+          {
+            "label": "Uppdateringsfrekvens",
+            "value": [
+              "\u200e60 Hz"
+            ]
+          },
+          {
+            "label": "Typ av anslutning",
+            "value": [
+              "\u200eUSB",
+              "DisplayPort",
+              "HDMI"
+            ]
+          },
+          {
+            "label": "Real Angle Of View",
+            "value": [
+              "\u200e178 Grader"
+            ]
+          },
+          {
+            "label": "Produktens m\u00e5tt",
+            "value": [
+              "\u200e121.51 x 11.42 x 36.57 cm; 15.2 Kilogram"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "LG"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "46977877",
+              "49WL95C",
+              "49WL95C-W",
+              "49WL95C-W.AEU",
+              "49WL95C-WE",
+              "49WL95C-WE.AEU",
+              "49wl95cw",
+              "53834108",
+              "8806098332939",
+              "lg_49wl95cw"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "08806098332939"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/282079645677810489/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "282079645677810489",
+            "price": "15990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "15990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/datorer-tillbehor/datorskarmar/204239/lg-ultrawide-49wl95c-49-bildskarm",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    }
+  ]
+}
