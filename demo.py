@@ -2,7 +2,7 @@ import argparse
 import base64
 import json
 
-from main import sherlock_idealo, sherlock_gs_offers
+from main import sherlock_idealo, sherlock_gs_offers, sherlock_kelkoo
 
 
 # Define a mocked context
@@ -52,6 +52,26 @@ def demo_sherlock_idealo():
         sherlock_idealo(data, context)
 
 
+def demo_sherlock_kelkoo():
+    message = {
+        "created_at": 1622804976212,
+        "product_id": 11031881,
+        "gtin": "08806091153807",
+        "offer_fetch_complete": False,
+        "offer_urls": {
+            "google_shopping": "16065837288008218653",
+        },
+        "product_token": "test_gAAAAAAAAAAAsMFK1hehjtyl8OSy9z19N9wvdLUdZdZlh0BWDUgGGc08fkgYGqeXaQn1JegqyzvYRJKhMGix6cIKlNUjHqI2sQ==",
+        "triggered_from_client": True,
+        "user_country": "SE",
+        "triggered_by": {"source": "client"},
+    }
+
+    event = {"data": base64.b64encode(json.dumps(message).encode())}
+
+    sherlock_kelkoo(event, {})
+
+
 def demo_sherlock_gs_offers():
     message = {
         "created_at": 1622804976212,
@@ -90,6 +110,8 @@ if __name__ == "__main__":
         pass
     elif args.scraper == "pricerunner":
         pass
+    elif args.scraper == "kelkoo":
+        demo_sherlock_kelkoo()
     elif args.scraper == "idealo":
         demo_sherlock_idealo()
     elif args.scraper == "google_shopping":

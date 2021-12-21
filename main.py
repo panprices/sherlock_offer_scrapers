@@ -6,7 +6,7 @@ from typing import Literal, Optional, TypedDict
 import structlog
 
 from sherlock_offer_scrapers import helpers
-from sherlock_offer_scrapers.scrapers import idealo, google_shopping
+from sherlock_offer_scrapers.scrapers import idealo, google_shopping, kelkoo
 
 
 helpers.logging.config_structlog()
@@ -39,6 +39,12 @@ def sherlock_prisjakt(event, context):
     """Search for offers on Prisjakt for a product."""
     payload: Payload = json.loads(base64.b64decode(event["data"]))
     _sherlock_scrape("prisjakt", payload)
+
+
+def sherlock_kelkoo(event, context):
+    """Search for offers on Kelkoo for a product."""
+    payload: Payload = json.loads(base64.b64decode(event["data"]))
+    _sherlock_scrape("kelkoo", payload)
 
 
 def sherlock_idealo(event, context):
@@ -74,6 +80,8 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
     try:
         if offer_source == "prisjakt":
             pass
+        elif offer_source == "kelkoo":
+            offers = kelkoo.scrape(gtin)
         elif offer_source == "idealo":
             offers = idealo.scrape(gtin, cached_offer_urls)
         elif offer_source == "google_shopping":
