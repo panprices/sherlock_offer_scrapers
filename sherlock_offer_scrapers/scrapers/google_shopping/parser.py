@@ -2,8 +2,10 @@ from typing import Tuple
 
 import price_parser
 
+from sherlock_offer_scrapers.helpers.offers import Offer
 
-def parser_offer_page(soup, country):
+
+def parser_offer_page(soup, country) -> list[Offer]:
     """Extract offers from offer page."""
     if _is_cookies_prompt_page(soup):
         raise Exception(f"Cookies consent page encountered.")
@@ -27,17 +29,17 @@ def parser_offer_page(soup, country):
         offer_url = link_div.attrs["href"]
         retailer_name = link_div.contents[0].get_text()
 
-        offers.append(
-            {
-                "offer_source": f"google_shopping_{country}",
-                "offer_url": f"https://www.google.com{offer_url}",
-                "retail_prod_name": product_name,
-                "retailer_name": retailer_name,
-                "country": country,
-                "price": price,
-                "currency": currency,
-            }
-        )
+        offer: Offer = {
+            "offer_source": f"google_shopping_{country}",
+            "offer_url": f"https://www.google.com{offer_url}",
+            "retail_prod_name": product_name,
+            "retailer_name": retailer_name,
+            "country": country,
+            "price": price,
+            "currency": currency,
+            "stock_status": "in_stock"
+        }
+        offers.append(offer)
 
     return offers
 

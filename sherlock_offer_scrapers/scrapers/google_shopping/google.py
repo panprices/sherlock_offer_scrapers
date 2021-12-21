@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 
 from sherlock_offer_scrapers import helpers
+from sherlock_offer_scrapers.helpers.offers import Offer
 from . import user_agents, parser
 
 uule_of_country = {
@@ -22,14 +23,15 @@ def scrape(
         return []
 
     google_product_id = cached_offers_urls["google_shopping"]
+    all_offers = []
     for country in countries:
         offers = fetch_offers_from_google_product_id(google_product_id, country)
-        # print(offers)
+        all_offers.extend(offers)
 
-    return offers
+    return all_offers
 
 
-def fetch_offers_from_google_product_id(google_pid: str, country: str) -> list:
+def fetch_offers_from_google_product_id(google_pid: str, country: str) -> list[Offer]:
     proxy_country = "DE"  # always use DE proxy
     url = (
         f"https://www.google.com/shopping/product/{google_pid}/offers"
