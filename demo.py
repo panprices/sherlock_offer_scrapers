@@ -59,9 +59,9 @@ def demo_sherlock_gs_offers():
         "gtin": "08806091153807",
         "offer_fetch_complete": False,
         "offer_urls": {
-            "google_shopping_SE": "https://www.google.com/shopping/product/3112645306492221763",
+            "google_shopping": "16065837288008218653",
         },
-        "product_token": "gAAAAAAAAAAAsMFK1hehjtyl8OSy9z19N9wvdLUdZdZlh0BWDUgGGc08fkgYGqeXaQn1JegqyzvYRJKhMGix6cIKlNUjHqI2sQ==",
+        "product_token": "test_gAAAAAAAAAAAsMFK1hehjtyl8OSy9z19N9wvdLUdZdZlh0BWDUgGGc08fkgYGqeXaQn1JegqyzvYRJKhMGix6cIKlNUjHqI2sQ==",
         "triggered_from_client": True,
         "user_country": "SE",
         "triggered_by": {"source": "client"},
