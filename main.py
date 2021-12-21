@@ -50,11 +50,15 @@ def sherlock_idealo(event, context):
 def sherlock_gs_offers(event, context):
     payload: Payload = json.loads(base64.b64decode(event["data"]))
 
-    if (
-        os.getenv("PANPRICES_ENVIRONMENT") != "local"
-        and payload["triggered_by"]["source"] != "b2b_job"
-    ):
-        print("Not b2b offer search, do not scrape on googleshopping.")
+    # if (
+    #     os.getenv("PANPRICES_ENVIRONMENT") != "local"
+    #     and payload["triggered_by"]["source"] != "b2b_job"
+    # ):
+    #     print("Not b2b offer search, do not scrape on googleshopping.")
+    #     return
+
+    if os.getenv("PANPRICES_ENVIRONMENT") != "local":
+        print("Google shopping not enabled yet.")
         return
 
     _sherlock_scrape("google_shopping", payload)

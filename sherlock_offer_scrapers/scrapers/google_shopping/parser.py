@@ -17,7 +17,7 @@ def parser_offer_page(soup, country) -> list[Offer]:
     rows = soup.select("table.dOwBOc tr.sh-osd__offer-row")
     product_name = soup.select(".f0t7kf a")[0].get_text()
 
-    offers = []
+    offers: list[Offer] = []
     for row in rows:
         price_divs = row.select(".drzWO")
         if len(price_divs) == 0:  # skip rows without prices
@@ -37,7 +37,7 @@ def parser_offer_page(soup, country) -> list[Offer]:
             "country": country,
             "price": price,
             "currency": currency,
-            "stock_status": "in_stock"
+            "stock_status": "in_stock",
         }
         offers.append(offer)
 
