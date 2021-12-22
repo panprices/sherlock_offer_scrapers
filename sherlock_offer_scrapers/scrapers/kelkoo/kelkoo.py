@@ -38,15 +38,10 @@ def fetch_offers(country: str, gtin: str) -> list[Offer]:
             "Authorization": f"Bearer {jwt}",
         },
     )
-    # # TODO: <Response [404]>,
-    # # Don't know why we cannot open XML at the first time,
-    # # but refresh can solve this problem
-    # if response.status_code == 404:
-    #     # Try again
-    #     response = helpers.requests.get(url, headers=_get_headers())
-    #     if response.status_code == 404:
-    #         logging.warning(f"404 when request for gtin {gtin} from {country}")
-    #         return []
+    if response.status_code != 200:
+        raise Exception(
+            f"Status code: {response.status_code} when requesting to url: {url}"
+        )
 
     offers = _parse_result(response.json(), country)
     return offers
@@ -65,7 +60,6 @@ def _gtin_to_ean(gtin: str) -> str:
 
 
 def _parse_result(result: dict, country: str) -> list[Offer]:
-    # kelkoo_offers = result["offers"]
     offers: list[Offer] = []
     for kelkoo_offer in result["offers"]:
         offer: Offer = {
@@ -77,10 +71,8 @@ def _parse_result(result: dict, country: str) -> list[Offer]:
             "price": round(float(kelkoo_offer["price"]) * 100),
             "currency": kelkoo_offer["currency"],
             "stock_status": _parse_stock_status(kelkoo_offer["availabilityStatus"]),
-            # deliveryCost: kelkoo_offer["deliveryCost"],
-            # totalPrice: kelkoo_offer["totalPrice"],
-            # "product_id": id,
-            # "requested_at": str(datetime.datetime.now()),
+            # "deliveryCost": kelkoo_offer["deliveryCost"],
+            # "totalPrice": kelkoo_offer["totalPrice"],
         }
         offers.append(offer)
 
