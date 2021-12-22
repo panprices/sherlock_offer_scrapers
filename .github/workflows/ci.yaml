@@ -30,5 +30,8 @@ jobs:
       run: |
         pipenv run mypy
     - name: Test with pytest
+      env:
+        PANPRICES_ENVIRONMENT: local
+        KELKOO_JWT_TOKEN: ${{ secrets.KELKOO_JWT_TOKEN }}
       run: |
         pipenv run test
