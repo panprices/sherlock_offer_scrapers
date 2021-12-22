@@ -1,17 +1,14 @@
-import logging
-import time
-import hashlib
-import base64
 import os
-import datetime
 
-from .user_agents import get_user_agent
+import structlog
+
 from sherlock_offer_scrapers import helpers
 from sherlock_offer_scrapers.helpers.offers import Offer
 
-
 COUNTRIES = ["DE", "FR", "NO", "SE", "DK", "FI", "UK", "NL", "PL"]
 # COUNTRIES = ["SE"]
+
+logger = structlog.get_logger()
 
 
 def scrape(gtin: str):
@@ -24,6 +21,37 @@ def scrape(gtin: str):
     return all_offers
 
 
+def fetch_offers(country: str, gtin: str) -> list[Offer]:
+    # Make request:
+    ean = _gtin_to_ean(gtin)
+    url = (
+        f"https://api.kelkoogroup.net/publisher/shopping/v2/search/offers"
+        + f"?country={country.lower()}"
+        + f"&filterBy=codeEan:{ean}"
+        + f"&additionalFields=merchantName"
+    )
+
+    jwt = os.getenv("KELKOO_JWT_TOKEN")
+    response = helpers.requests.get(
+        url,
+        headers={
+            "Authorization": f"Bearer {jwt}",
+        },
+    )
+    # # TODO: <Response [404]>,
+    # # Don't know why we cannot open XML at the first time,
+    # # but refresh can solve this problem
+    # if response.status_code == 404:
+    #     # Try again
+    #     response = helpers.requests.get(url, headers=_get_headers())
+    #     if response.status_code == 404:
+    #         logging.warning(f"404 when request for gtin {gtin} from {country}")
+    #         return []
+
+    offers = _parse_result(response.json(), country)
+    return offers
+
+
 # Checks if gtin is a GTIN14 and if so, converts to GTIN13
 def _gtin_to_ean(gtin: str) -> str:
     if len(gtin) == 14:
@@ -34,29 +62,6 @@ def _gtin_to_ean(gtin: str) -> str:
         return gtin.zfill(13)
 
     raise ValueError(f"cannot convert gtin to ean: {gtin} is not a valid gtin.")
-
-
-def _parse_stock_status(kelkoo_availability_status: str):
-    """Map Kelkoo's availabilityStatus to Panprices stock_status."""
-    mapping = {
-        "in_stock": "in_stock",
-        "available_on_order": "in_stock",
-        "check_site": "unknown",
-    }
-    if kelkoo_availability_status in mapping:
-        return mapping[kelkoo_availability_status]
-
-    print("Unknown availability status:", kelkoo_availability_status)
-    return "unknown"
-
-
-def _get_headers():
-    jwt = os.getenv("KELKOO_JWT_TOKEN")
-    return {
-        # Random generated user agent
-        "User-Agent": get_user_agent(),
-        "Authorization": f"Bearer {jwt}",
-    }
 
 
 def _parse_result(result: dict, country: str) -> list[Offer]:
@@ -82,24 +87,18 @@ def _parse_result(result: dict, country: str) -> list[Offer]:
     return offers
 
 
-def fetch_offers(country: str, gtin: str) -> list[Offer]:
-    # Make request:
-    ean = _gtin_to_ean(gtin)
-    url = (
-        f"https://api.kelkoogroup.net/publisher/shopping/v2/search/offers"
-        + f"?country={country.lower()}&filterBy=codeEan:{ean}&additionalFields=merchantName"
-    )
+def _parse_stock_status(kelkoo_availability_status: str):
+    """Map Kelkoo's availabilityStatus to Panprices stock_status."""
+    mapping = {
+        "in_stock": "in_stock",
+        "available_on_order": "in_stock",
+        "check_site": "unknown",
+    }
+    if kelkoo_availability_status not in mapping:
+        logger.warning(
+            f"unknown availability status",
+            kelkoo_availability_status=kelkoo_availability_status,
+        )
+        return "unknown"
 
-    response = helpers.requests.get(url, headers=_get_headers())
-    # TODO: <Response [404]>,
-    # Don't know why we cannot open XML at the first time,
-    # but refresh can solve this problem
-    if response.status_code == 404:
-        # Try again
-        response = helpers.requests.get(url, headers=_get_headers())
-        if response.status_code == 404:
-            logging.warning(f"404 when request for gtin {gtin} from {country}")
-            return []
-
-    offers = _parse_result(response.json(), country)
-    return offers
+    return mapping[kelkoo_availability_status]
