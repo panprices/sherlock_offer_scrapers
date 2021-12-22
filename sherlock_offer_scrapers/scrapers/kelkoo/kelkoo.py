@@ -84,6 +84,8 @@ def _parse_stock_status(kelkoo_availability_status: str):
     mapping = {
         "in_stock": "in_stock",
         "available_on_order": "in_stock",
+        "pre_order": "out_of_stock",
+        "not_in_stock": "out_of_stock",
         "check_site": "unknown",
     }
     if kelkoo_availability_status not in mapping:
