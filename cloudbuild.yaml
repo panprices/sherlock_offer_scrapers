@@ -34,5 +34,3 @@ steps:
       - --runtime=python39
       - --max-instances=20
       - --timeout=300s
-      # '--set-env-vars',
-      #    'id_DE=96954745',

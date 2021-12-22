@@ -43,10 +43,6 @@ class Publisher:
         return message_ids
 
 
-cache_link_publisher = Publisher("panprices", "new_gtin_link")
-live_search_publisher = Publisher("panprices", "live_search_offers")
-
-
 def publish_new_offer_urls(gtin: str, offer_urls: dict[str, Optional[str]]):
     """Publish new urls to store them in the database.
 
@@ -56,6 +52,7 @@ def publish_new_offer_urls(gtin: str, offer_urls: dict[str, Optional[str]]):
         ...
     }
     """
+    cache_link_publisher = Publisher("panprices", "new_gtin_link")
     cache_link_publisher.publish_messages([{"gtin": gtin, "links": offer_urls}])
 
     logger.info(
@@ -65,6 +62,8 @@ def publish_new_offer_urls(gtin: str, offer_urls: dict[str, Optional[str]]):
 
 
 def publish_offers(payload, offers: list[Offer], offer_source: str):
+    live_search_publisher = Publisher("panprices", "live_search_offers")
+
     live_search_message = payload
     live_search_message["offer_source"] = offer_source
     live_search_message["offers"] = offers
