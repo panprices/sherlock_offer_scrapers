@@ -351,7 +351,8 @@ def _parse_offers(html_content: str, country: str) -> List[dict]:
     formated_offers = []
     for offer_div in offers_results:
         price_tag = offer_div.find("a", class_="productOffers-listItemOfferPrice")
-        if price_tag is None:
+        offer_link = offer_div.find("a", class_="productOffers-listItemOfferCtaLeadout")
+        if price_tag is None or offer_link is None:
             continue
         info_payload = eval(price_tag["data-gtm-payload"])
 
@@ -364,7 +365,7 @@ def _parse_offers(html_content: str, country: str) -> List[dict]:
             "retailer_name": info_payload["shop_name"],
             "price": price,
             "currency": currency,
-            "offer_url": base_urls[country] + price_tag["href"],
+            "offer_url": base_urls[country] + offer_link["href"],
             "stock_status": stock_status,
         }
 
