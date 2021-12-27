@@ -60,7 +60,7 @@ def sherlock_gs_offers(event, context):
     #     os.getenv("PANPRICES_ENVIRONMENT") != "local"
     #     and payload["triggered_by"]["source"] != "b2b_job"
     # ):
-    #     print("Not b2b offer search, do not scrape on googleshopping.")
+    #     print("Not b2b offer search, do not scrape on google shopping.")
     #     return
 
     if os.getenv("PANPRICES_ENVIRONMENT") != "local":
