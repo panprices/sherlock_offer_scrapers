@@ -38,11 +38,14 @@ _default_user_agents = [
 
 
 def get(
-    url: str, headers: dict = None, cookies: dict = None, proxy_country: str = None
+    url: str,
+    headers: dict = None,
+    cookies: dict = None,
+    proxy_country: str = None,
 ) -> requests.Response:
     """Make a GET request with some default headers and optional proxy.
 
-    Supported proxy_country: ["SE", "DE", "GB"]
+    Supported proxy_country: ["SE", "DE", "UK"]
     """
     if headers is None:
         headers = _get_default_headers()

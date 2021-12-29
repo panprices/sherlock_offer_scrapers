@@ -159,7 +159,7 @@ def _get_headers():
 
 
 def _make_request(url) -> requests.Response:
-    response = helpers.requests.get(url, headers=_get_headers(), proxy_country="DE")
+    response = helpers.requests.get(url, headers=_get_headers(), proxy_country="SE")
     if response.status_code == 200:
         return response
 
