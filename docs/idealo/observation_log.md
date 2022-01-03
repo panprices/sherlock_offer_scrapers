@@ -6,7 +6,7 @@
 4. [December 21, 2020. Captcha on product pages due to IP address](#captcha-on-product-pages-due-to-ip-address)
 5. [December 28, 2020. Dynamic rendering of Product Name](#dynamic-rendering-of-product-name)
 6. [December 16, 2021. Rate limit with Http status code 429](#rate-limit-with-http-status-code-429)
-
+7. [January 03, 2022. Rate limited for 4 days then back to normal](#rate-limited-for-4-days-then-back-to-normal)
 
 ---
 
@@ -137,3 +137,14 @@ We tried to change the request-headers, mainly on User-Agent, and it worked, but
 We now have randomly rotate between a list of ~120 User-Agent and 50 Oxylabs' ISK German IPs. 
 
 We experimented with making 60 requests in 30 minutes with only 1 IP using rotating User-Agent, and did not get blocked. 
+
+
+---
+## Rate limited for 4 days then back to normal
+###### January 03, 2022
+
+From 20:00 December 28th to 19:00 January 1st, we got rate limited (http status code 429) for 60-70% of our requests.
+
+This was due to us enabling the domain-fetcher on 15:00 December 28th, after a long time having it disabled. And since there a lot of pub/sub messages in the queue, we spammed idealo with a rate of approximately 6000 requests/hour. We however quickly realised this and turned it off after 45 minutes.
+
+We quickly turned off the domain-fetcher module, but 4 hours later we got 429 from Idealo. It's strange that (1) it takes so long for Idealo to start blocking us, and (2) our Swedish data center proxy was blocked for almost a year, but this time our proxies are only blocked for 4 days. Point (2) can be think of as an evidence showing that idealo block us not solely by IPs but by other identification as well, such as User-Agent.
