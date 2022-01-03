@@ -143,8 +143,8 @@ We experimented with making 60 requests in 30 minutes with only 1 IP using rotat
 ## Rate limited for 4 days then back to normal
 ###### January 03, 2022
 
-From 20:00 December 28th to 19:00 January 1st, we got rate limited (http status code 429) for 60-70% of our requests.
+From 20:00 December 28th to 19:00 January 1st, we got rate limited (http status code 429 + captcha) for 60-70% of our requests. We got 0 offers so 60-70% probably means that the other remaining 30-40% requests returned empty (404) pages or where broken for some other reason. And that *all* (100%) valid requests got rate limited.
 
-This was due to us enabling the domain-fetcher on 15:00 December 28th, after a long time having it disabled. And since there a lot of pub/sub messages in the queue, we spammed idealo with a rate of approximately 6000 requests/hour. We however quickly realised this and turned it off after 45 minutes.
+This was due to us enabling the domain-fetcher on 15:00 December 28th, after a long time having it disabled. And since there a lot of pub/sub messages in the queue, we spammed idealo with a rate of approximately 6000 requests/hour distributed over 50 static residential DE proxies. We however quickly realised this and turned it off after 45 minutes.
 
 We quickly turned off the domain-fetcher module, but 4 hours later we got 429 from Idealo. It's strange that (1) it takes so long for Idealo to start blocking us, and (2) our Swedish data center proxy was blocked for almost a year, but this time our proxies are only blocked for 4 days. Point (2) can be think of as an evidence showing that idealo block us not solely by IPs but by other identification as well, such as User-Agent.
