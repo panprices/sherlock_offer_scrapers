@@ -19,6 +19,7 @@ google-cloud-pubsub = "~=2.4"
 structlog = "~=21.2"
 types-requests = "*"
 price-parser = "~=0.3"
+pydash = "*"
 
 [dev-packages]
 mypy = {extras = [ "cli",], version = "0.910"}

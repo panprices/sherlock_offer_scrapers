@@ -1,5 +1,6 @@
 import functools
 import asyncio
+import pydash.arrays
 from typing import Optional
 
 from bs4 import BeautifulSoup
@@ -39,6 +40,7 @@ async def scrape(
         all_searches.append(coro)
 
     all_offers = await asyncio.gather(*all_searches)
+    all_offers = pydash.arrays.flatten(all_offers)
     return all_offers
 
 
