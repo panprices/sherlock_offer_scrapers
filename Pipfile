@@ -1,6 +1,7 @@
 [scripts]
 test = "pytest"
 mypy = "mypy ."
+demo = "dotenv run -- python demo.py"
 
 [[source]]
 url = "https://pypi.org/simple"
@@ -18,11 +19,14 @@ google-cloud-pubsub = "~=2.4"
 structlog = "~=21.2"
 types-requests = "*"
 price-parser = "~=0.3"
+pydash = "*"
 
 [dev-packages]
 mypy = {extras = [ "cli",], version = "0.910"}
 pytest = "*"
 black = "==21.4b2"
+python-dotenv = "*"
+rich = "*"
 
 [pipenv]
 allow_prereleases = true
