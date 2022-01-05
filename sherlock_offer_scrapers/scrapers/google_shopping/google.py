@@ -1,6 +1,5 @@
-from typing import Optional, Tuple
+from typing import Optional
 
-import requests
 from bs4 import BeautifulSoup
 
 from sherlock_offer_scrapers import helpers
