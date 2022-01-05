@@ -37,7 +37,6 @@ async def scrape(
     for country in countries:
         coro = fetch_offers_from_google_product_id(google_product_id, country)
         all_searches.append(coro)
-        break  # TODO: remove this break
 
     all_offers = await asyncio.gather(*all_searches)
     return all_offers
