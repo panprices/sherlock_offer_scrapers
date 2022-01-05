@@ -1,10 +1,15 @@
+import functools
+import asyncio
 from typing import Optional
 
 from bs4 import BeautifulSoup
+import structlog
 
 from sherlock_offer_scrapers import helpers
 from sherlock_offer_scrapers.helpers.offers import Offer
 from . import user_agents, parser
+
+logger = structlog.get_logger()
 
 """
 Using UULE parameter to access the offer page in different countries.
@@ -18,33 +23,48 @@ uule_of_country = {
 }
 
 
-def scrape(
-    gtin: str, cached_offers_urls: Optional[dict], countries=["SE"]
+async def scrape(
+    gtin: str,
+    cached_offers_urls: Optional[dict],
+    countries=["SE"],
 ) -> list[helpers.offers.Offer]:
     if not cached_offers_urls or "google_shopping" not in cached_offers_urls:
         print("No google shopping url provided")
         return []
 
     google_product_id = cached_offers_urls["google_shopping"]
-    all_offers = []
+    all_searches = []
     for country in countries:
-        offers = fetch_offers_from_google_product_id(google_product_id, country)
-        all_offers.extend(offers)
+        coro = fetch_offers_from_google_product_id(google_product_id, country)
+        all_searches.append(coro)
+        break  # TODO: remove this break
 
+    all_offers = await asyncio.gather(*all_searches)
     return all_offers
 
 
-def fetch_offers_from_google_product_id(google_pid: str, country: str) -> list[Offer]:
+async def fetch_offers_from_google_product_id(
+    google_pid: str,
+    country: str,
+) -> list[Offer]:
     proxy_country = "DE"  # always use DE proxy
     url = (
         f"https://www.google.com/shopping/product/{google_pid}/offers"
         + f"?hl=en&gl={country}&uule={uule_of_country[country]}"
     )
 
-    response = helpers.requests.get(
-        url,
-        headers={"User-Agent": user_agents.choose_random()},
-        proxy_country=proxy_country,
+    loop = asyncio.get_event_loop()
+
+    logger.msg("fetching url", url=url)
+
+    response = await loop.run_in_executor(
+        None,
+        functools.partial(
+            helpers.requests.get,
+            url,
+            headers={"User-Agent": user_agents.choose_random()},
+            proxy_country=proxy_country,
+        ),
     )
 
     soup = BeautifulSoup(response.text, "html.parser")

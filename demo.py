@@ -1,12 +1,15 @@
 import argparse
 import base64
 import json
+import structlog
 
 from main import sherlock_idealo, sherlock_gs_offers, sherlock_kelkoo
 
 
 # Define a mocked context
 context = {"event_id": "-1", "timestamp": "11111111"}
+
+logger = structlog.get_logger()
 
 
 def demo_sherlock_idealo():
@@ -84,7 +87,7 @@ def demo_sherlock_gs_offers():
         "product_token": "test_gAAAAAAAAAAAsMFK1hehjtyl8OSy9z19N9wvdLUdZdZlh0BWDUgGGc08fkgYGqeXaQn1JegqyzvYRJKhMGix6cIKlNUjHqI2sQ==",
         "triggered_from_client": True,
         "user_country": "SE",
-        "triggered_by": {"source": "client"},
+        "triggered_by": {"source": "b2b_job"},
     }
 
     event = {"data": base64.b64encode(json.dumps(message).encode())}

@@ -1,5 +1,5 @@
-import os
 import json
+import asyncio
 import base64
 from typing import Literal, Optional, TypedDict
 
@@ -9,7 +9,7 @@ from sherlock_offer_scrapers import helpers
 from sherlock_offer_scrapers.scrapers import idealo, google_shopping, kelkoo
 
 
-helpers.logging.config_structlog()
+helpers.structlog.config_structlog()
 logger = structlog.get_logger()
 
 
@@ -56,15 +56,9 @@ def sherlock_idealo(event, context):
 def sherlock_gs_offers(event, context):
     payload: Payload = json.loads(base64.b64decode(event["data"]))
 
-    # if (
-    #     os.getenv("PANPRICES_ENVIRONMENT") != "local"
-    #     and payload["triggered_by"]["source"] != "b2b_job"
-    # ):
-    #     print("Not b2b offer search, do not scrape on google shopping.")
-    #     return
-
-    if os.getenv("PANPRICES_ENVIRONMENT") != "local":
-        print("Google shopping not enabled yet.")
+    # Only trigger for our b2b-flow
+    if payload["triggered_by"]["source"] != "b2b_job":
+        logger.msg("Skipping search. Google shopping is only enabled for b2b")
         return
 
     _sherlock_scrape("google_shopping", payload)
@@ -85,13 +79,14 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
         elif offer_source == "idealo":
             offers = idealo.scrape(gtin, cached_offer_urls)
         elif offer_source == "google_shopping":
-            offers = google_shopping.scrape(
-                gtin, cached_offer_urls, countries=["NL", "PL"]
+            offers = asyncio.run(
+                google_shopping.scrape(gtin, cached_offer_urls, countries=["NL", "PL"])
             )
         else:
             raise Exception(f"Offer source {offer_source} not supported.")
 
     except Exception as ex:
+        logger.exception("exception", exc_info=ex)
         raise ex
     finally:
         helpers.offers.publish_offers(payload, offers, offer_source)

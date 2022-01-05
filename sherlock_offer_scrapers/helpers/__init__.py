@@ -1,1 +1,1 @@
-from . import logging, offers, requests
+from . import offers, requests, structlog
