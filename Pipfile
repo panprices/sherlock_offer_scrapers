@@ -12,7 +12,7 @@ name = "pypi"
 python_version = "3.9"
 
 [packages]
-requests = "~=2.25"
+requests = "2.25"
 unidecode = "~=1.2"
 beautifulsoup4 = "~=4.9"
 google-cloud-pubsub = "~=2.4"
