@@ -5,7 +5,7 @@ steps:
       - deploy
       - sherlock_idealo
       - --source=.
-      - --region=europe-west3
+      - --region=europe-west1
       - --trigger-topic=sherlock_products
       - --runtime=python39
       - --max-instances=10
