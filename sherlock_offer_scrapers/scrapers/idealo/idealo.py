@@ -383,7 +383,8 @@ def _decode_rot47(ciphertext: str) -> str:
 
     original = ""
     text = ciphertext.replace(r"（", r"W").replace(
-        r"）", r"X"
+        r"）",
+        r"X",
     )  # replace the weird parentheses
     text = codecs.decode(text, "unicode_escape")  # type:ignore
     for i, ch in enumerate(text):
