@@ -345,6 +345,24 @@ def _extract_stock_status(offer_div) -> str:
         return "out_of_stock"
 
 
+def _extract_retailer_from_logo(retailer_logo_link) -> Optional[str]:
+    retailer_name = retailer_logo_link["data-shop-name"]
+
+    # The retailer name looks like this:
+    #   - klarmobil.de - Shop aus Büdelsdorf
+    #   - phoneshock.it - Negozio da Roma (RM)
+    #   - Farmacia Loreto Gallo - Negozio da Napoli
+    #   - mobilcom-debitel.de - Shop aus Büdelsdorf
+    #
+    # The format is f"{retailer_name}-{retailer_location}", where
+    #  `retailer_name` can include '-'. We therefore need to
+    # strip everything after the _last_ '-'
+    retailer_name_parts = retailer_name.split("-")[:-1]
+    retailer_name = "-".join(retailer_name_parts)
+
+    return retailer_name
+
+
 def _parse_offers(html_content: str, country: str) -> List[dict]:
     soup = BeautifulSoup(html_content, features="html.parser")
 
@@ -359,22 +377,38 @@ def _parse_offers(html_content: str, country: str) -> List[dict]:
     for offer_div in offers_results:
         price_tag = offer_div.find("a", class_="productOffers-listItemOfferPrice")
         offer_link = offer_div.find("a", class_="productOffers-listItemOfferCtaLeadout")
+        retailer_logo_link = offer_div.find(
+            "a", class_="productOffers-listItemOfferLogoLink"
+        )
+
         if price_tag is None or offer_link is None:
             continue
 
         retail_prod_name = _extract_retail_product_name(offer_div)
         price, currency = _extract_price_and_currency(offer_div)
         stock_status = _extract_stock_status(offer_div)
-        
+
         info_payload = json.loads(price_tag["data-gtm-payload"])
         retailer_name = info_payload["shop_name"]
         if retailer_name is None or retailer_name == "":
+            retailer_name = _extract_retailer_from_logo(retailer_logo_link)
+            logger.msg(
+                "first retailer name is empty, using logo link",
+                info_payload=info_payload,
+                retailer_name_from_logo_link=retailer_name,
+                offer_url=base_urls[country] + offer_link["href"],
+                retail_prod_name=retail_prod_name,
+                country=country,
+            )
+
+        if retailer_name is None or retailer_name == "":
             logger.warn(
-                "retailer name is empty",
+                "retailer name is empty, even after using logo link",
                 info_payload=info_payload,
                 retailer_name=retailer_name,
                 offer_url=base_urls[country] + offer_link["href"],
                 retail_prod_name=retail_prod_name,
+                country=country,
             )
             continue
 
