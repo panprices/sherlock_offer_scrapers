@@ -1,7 +1,6 @@
-import logging
 from typing import List, Optional, Tuple, Dict
 import concurrent.futures
-
+import structlog
 import requests
 from bs4 import BeautifulSoup
 from unidecode import unidecode
@@ -10,6 +9,9 @@ import codecs
 
 from sherlock_offer_scrapers import helpers
 from . import errors, user_agents, products
+
+
+logger = structlog.get_logger()
 
 
 COUNTRIES = ["DE", "UK", "ES", "IT", "FR", "AT"]
@@ -94,12 +96,11 @@ def _find_product_urls(gtin: str) -> Dict[str, Optional[str]]:
     try:
         product_id = products.find_product_id(gtin)
     except Exception as ex:
-        logging.warning(f"Cannot find product_id for gtin: {gtin}")
-        logging.warning(ex)
+        logger.warning("Cannot find product_id for product", gtin=gtin, ex=ex)
         return new_product_urls
 
     if product_id is None:
-        logging.warning(f"Cannot find product with gtin={gtin}.")
+        logger.warning("Cannot find product_id for product", gtin=gtin)
         return new_product_urls
 
     print(f"Product with gtin {gtin} has id={product_id} on Idealo.")
@@ -134,7 +135,7 @@ def get_offers_from_url(idealo_product_url: str) -> List[dict]:
     try:
         response = _make_request(idealo_product_url)
     except errors.IdealoExpectedError as ex:
-        logging.warning(ex)
+        logger.warning("expected idealo error", ex=ex)
         return []
 
     content = response.text
@@ -165,8 +166,11 @@ def _make_request(url) -> requests.Response:
 
     # Try an alternative url:
     alter_url = _switch_url(url)
-    logging.warning(
-        f"Status code: {response.status_code} when requesting to {url}. Trying an alternative url: {alter_url}"
+    logger.warning(
+        "Error when requesting url. Trying an alternative url",
+        status_code=response.status_code,
+        url=url,
+        alter_url=alter_url,
     )
     if not alter_url:  # no alternative found -> request failed:
         if response.status_code == 410:
@@ -265,8 +269,10 @@ def _extract_retail_product_name(offer_div) -> str:
     try:
         product_name = _decode_product_name(encrypted_product_name)
     except Exception as ex:
-        logging.error(
-            f"Error when decoding product name. Ciphertext: " + encrypted_product_name
+        logger.error(
+            "Error when decoding product name",
+            ciphertext=encrypted_product_name,
+            ex=ex,
         )
         raise ex
     return product_name
