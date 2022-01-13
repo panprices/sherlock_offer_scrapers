@@ -1,3 +1,4 @@
+import json
 from typing import List, Optional, Tuple, Dict
 import concurrent.futures
 import structlog
@@ -360,15 +361,26 @@ def _parse_offers(html_content: str, country: str) -> List[dict]:
         offer_link = offer_div.find("a", class_="productOffers-listItemOfferCtaLeadout")
         if price_tag is None or offer_link is None:
             continue
-        info_payload = eval(price_tag["data-gtm-payload"])
 
         retail_prod_name = _extract_retail_product_name(offer_div)
         price, currency = _extract_price_and_currency(offer_div)
         stock_status = _extract_stock_status(offer_div)
+        
+        info_payload = json.loads(price_tag["data-gtm-payload"])
+        retailer_name = info_payload["shop_name"]
+        if retailer_name is None or retailer_name == "":
+            logger.warn(
+                "retailer name is empty",
+                info_payload=info_payload,
+                retailer_name=retailer_name,
+                offer_url=base_urls[country] + offer_link["href"],
+                retail_prod_name=retail_prod_name,
+            )
+            continue
 
         offer = {
             "retail_prod_name": retail_prod_name,
-            "retailer_name": info_payload["shop_name"],
+            "retailer_name": retailer_name,
             "price": price,
             "currency": currency,
             "offer_url": base_urls[country] + offer_link["href"],
