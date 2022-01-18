@@ -80,7 +80,11 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
             offers = idealo.scrape(gtin, cached_offer_urls)
         elif offer_source == "google_shopping":
             offers = asyncio.run(
-                google_shopping.scrape(gtin, cached_offer_urls, countries=["NL", "PL"])
+                google_shopping.scrape(
+                    gtin,
+                    cached_offer_urls,
+                    countries=["NL", "PL", "BL", "IE", "PT", "CZ", "CH"],
+                )
             )
         else:
             raise Exception(f"Offer source {offer_source} not supported.")
