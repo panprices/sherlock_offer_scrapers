@@ -19,10 +19,7 @@ class Offer(TypedDict):
     currency: str
     stock_status: Literal["in_stock", "out_of_stock", "unknown"]
 
-    description: Optional[str]
-    brand: Optional[str]
-    category: Optional[str]
-    images: List[Any]
+    metadata: Any
 
 
 class Publisher:

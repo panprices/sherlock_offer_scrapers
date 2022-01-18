@@ -89,10 +89,12 @@ def _parse_result(result: dict, country: str) -> list[Offer]:
             "price": round(float(kelkoo_offer["price"]) * 100),
             "currency": kelkoo_offer["currency"],
             "stock_status": _parse_stock_status(kelkoo_offer["availabilityStatus"]),
-            "description": kelkoo_offer.get("description"),
-            "brand": kelkoo_offer.get("brand", {}).get("name", ""),
-            "category": kelkoo_offer.get("category", {}).get("name", ""),
-            "images": kelkoo_offer.get("images"),
+            "metadata": {
+                "description": kelkoo_offer.get("description"),
+                "brand": kelkoo_offer.get("brand", {}).get("name", ""),
+                "category": kelkoo_offer.get("category", {}).get("name", ""),
+                "images": kelkoo_offer.get("images"),
+            },
             # "deliveryCost": kelkoo_offer["deliveryCost"],
             # "totalPrice": kelkoo_offer["totalPrice"],
         }
