@@ -5,7 +5,22 @@ import structlog
 from sherlock_offer_scrapers import helpers
 from sherlock_offer_scrapers.helpers.offers import Offer
 
-COUNTRIES = ["DE", "FR", "NO", "SE", "DK", "FI", "UK", "NL", "PL"]
+COUNTRIES = [
+    "DE",
+    "FR",
+    "NO",
+    "SE",
+    "DK",
+    "FI",
+    "UK",
+    "NL",
+    "PL",
+    # "BL", # We don't have support for this country by Kelkoo
+    "IE",
+    "PT",
+    "CZ",
+    "CH",
+]
 # COUNTRIES = ["SE"]
 
 logger = structlog.get_logger()
@@ -39,6 +54,8 @@ def fetch_offers(country: str, gtin: str) -> list[Offer]:
         },
     )
     if response.status_code != 200:
+        if response.status_code < 500:
+            logger.error("request failed", response=response.text)
         raise Exception(
             f"Status code: {response.status_code} when requesting to url: {url}"
         )
