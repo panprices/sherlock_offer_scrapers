@@ -59,7 +59,7 @@ def demo_sherlock_kelkoo():
     message = {
         "created_at": 1622804976212,
         "product_id": 11031881,
-        "gtin": "08806091153807",
+        "gtin": "04242002542768",
         "offer_fetch_complete": False,
         "offer_urls": {
             "google_shopping": "16065837288008218653",

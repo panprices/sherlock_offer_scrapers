@@ -1,4 +1,4 @@
-from typing import Literal, Optional, List, TypedDict
+from typing import Any, Literal, Optional, List, TypedDict
 import json
 
 import structlog
@@ -18,6 +18,11 @@ class Offer(TypedDict):
     price: int
     currency: str
     stock_status: Literal["in_stock", "out_of_stock", "unknown"]
+
+    description: Optional[str]
+    brand: Optional[str]
+    category: Optional[str]
+    images: List[Any]
 
 
 class Publisher:
