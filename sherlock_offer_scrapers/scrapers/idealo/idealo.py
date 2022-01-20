@@ -307,7 +307,7 @@ def _parse_description(soup):
     if description_wrapper is None:
         return None
 
-    description = description_wrapper.get_text().trim()
+    description = description_wrapper.get_text().strip()
 
     return description
 
