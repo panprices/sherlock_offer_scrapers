@@ -83,7 +83,7 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
                 google_shopping.scrape(
                     gtin,
                     cached_offer_urls,
-                    countries=["NL", "PL", "BL", "IE", "PT", "CZ", "CH"],
+                    countries=["NL", "PL", "BE", "IE", "PT", "CZ", "CH"],
                 )
             )
         else:

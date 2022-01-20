@@ -17,7 +17,7 @@ COUNTRIES = [
     "UK",
     "NL",
     "PL",
-    # "BL", # We don't have support for this country by Kelkoo
+    "BE",
     "IE",
     "PT",
     "CZ",
