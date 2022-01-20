@@ -245,8 +245,13 @@ def _parse_offers_results(soup):
     return offers
 
 
-def _parse_category(soup) -> List[str]:
+def _parse_category(soup) -> Optional[List[str]]:
     breadcrumb = soup.find("div", class_="breadcrumb")
+
+    if breadcrumb is None:
+        logger.warning("Cannot find breadcrumb")
+        return None
+
     breadcrumb_leafs = breadcrumb.find_all("span", class_="breadcrumb-leaf")
 
     breadcrumbs = [
