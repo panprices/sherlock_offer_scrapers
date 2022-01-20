@@ -4,6 +4,7 @@ import concurrent.futures
 import structlog
 import requests
 from bs4 import BeautifulSoup
+from bs4.element import NavigableString
 from unidecode import unidecode
 import codecs
 
@@ -244,6 +245,65 @@ def _parse_offers_results(soup):
     return offers
 
 
+def _parse_category(soup) -> List[str]:
+    breadcrumb = soup.find("div", class_="breadcrumb")
+    breadcrumb_leafs = breadcrumb.find_all("span", class_="breadcrumb-leaf")
+
+    breadcrumbs = [
+        leaf.find("span", class_="breadcrumb-linkText").text
+        for leaf in breadcrumb_leafs
+    ]
+
+    return breadcrumbs
+
+
+def _parse_specs(soup) -> Dict[str, Dict[str, str]]:
+    datasheet_list = soup.find("ul", class_="datasheet-list")
+
+    last_group_title = "root"
+    specs: Dict[str, Dict[str, str]] = {"root": {}}
+
+    for child in datasheet_list.children:
+        # Filter out newlines etc, so that we only have HTML elements left.
+        if type(child) == NavigableString:
+            continue
+
+        is_group_title = "datasheet-listItem--group" in child.get("class", [])
+
+        if is_group_title:
+            last_group_title = child.text.strip()
+            specs[last_group_title] = {}
+        else:
+            spec_rows = child.find_all("li", class_="datasheet-listItem--properties")
+            for row in spec_rows:
+                # Filter out newlines etc, so that we only have HTML elements left.
+                if type(child) == NavigableString:
+                    continue
+
+                key = row.find("span", class_="datasheet-listItemKey").text.strip()
+                value = row.find("span", class_="datasheet-listItemValue").text.strip()
+                specs[last_group_title][key] = value
+
+    return specs
+
+
+def _parse_images(soup):
+    image_elements = soup.select(".simple-carousel-item > img")
+    if len(image_elements) == 0:
+        return None
+
+    image = image_elements[0]
+    return image.get("src")
+
+
+def _parse_description(soup):
+    description_wrapper = soup.find("div", class_="editorialProductTextInner")
+
+    description = description_wrapper.get_text().trim()
+
+    return description
+
+
 def _extract_retail_product_name(offer_div) -> str:
     name_tag = offer_div.find("span", class_="productOffers-listItemTitleInner")
 
@@ -369,6 +429,11 @@ def _parse_offers(html_content: str, country: str) -> List[dict]:
     if _is_captcha_page(soup):
         raise Exception("Captcha page encountered.")
 
+    category = _parse_category(soup)
+    description = _parse_description(soup)
+    images = _parse_images(soup)
+    specs = _parse_specs(soup)
+
     # Iterate over the HTML of the page and grab all the retail offers
     offers_results = _parse_offers_results(soup)
 
@@ -419,6 +484,14 @@ def _parse_offers(html_content: str, country: str) -> List[dict]:
             "currency": currency,
             "offer_url": base_urls[country] + offer_link["href"],
             "stock_status": stock_status,
+            "metadata": json.dumps(
+                {
+                    "category": category,
+                    "description": description,
+                    "images": images,
+                    "specs": specs,
+                }
+            ),
         }
 
         if not None in offer.values():

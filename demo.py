@@ -14,24 +14,24 @@ logger = structlog.get_logger()
 
 def demo_sherlock_idealo():
     messages = [
-        {
-            "created_at": 1622804976212,
-            "product_id": 11039509,
-            "gtin": "00194715600645",
-            "offer_fetch_complete": False,
-            "offer_urls": {
-                "idealo_DE": "https://www.idealo.de/preisvergleich/OffersOfProduct/201386993",
-                "idealo_UK": "https://www.idealo.co.uk/compare/201386993",
-                "idealo_ES": "https://www.idealo.es/precios/201386993",
-                "idealo_IT": "https://www.idealo.it/confronta-prezzi/201386993",
-                "idealo_FR": "https://www.idealo.fr/prix/201386993",
-                "idealo_AT": "https://www.idealo.at/preisvergleich/OffersOfProduct/201386993",
-            },
-            "product_token": "gAAAAAAAAAAA8HDc9UvYXDxW-lFum7e-77tDmVhJNlZV31Lf79tU-w6OiF85_L2s7cFP3nHS7WHdhOn6Sll-1nCu1UrM4IWKtQ==",
-            "triggered_from_client": True,
-            "user_country": "SE",
-            "triggered_by": {"source": "client"},
-        },
+        # {
+        #     "created_at": 1622804976212,
+        #     "product_id": 11039509,
+        #     "gtin": "00194715600645",
+        #     "offer_fetch_complete": False,
+        #     "offer_urls": {
+        #         "idealo_DE": "https://www.idealo.de/preisvergleich/OffersOfProduct/201386993",
+        #         "idealo_UK": "https://www.idealo.co.uk/compare/201386993",
+        #         "idealo_ES": "https://www.idealo.es/precios/201386993",
+        #         "idealo_IT": "https://www.idealo.it/confronta-prezzi/201386993",
+        #         "idealo_FR": "https://www.idealo.fr/prix/201386993",
+        #         "idealo_AT": "https://www.idealo.at/preisvergleich/OffersOfProduct/201386993",
+        #     },
+        #     "product_token": "gAAAAAAAAAAA8HDc9UvYXDxW-lFum7e-77tDmVhJNlZV31Lf79tU-w6OiF85_L2s7cFP3nHS7WHdhOn6Sll-1nCu1UrM4IWKtQ==",
+        #     "triggered_from_client": True,
+        #     "user_country": "SE",
+        #     "triggered_by": {"source": "client"},
+        # },
         # {
         #     "created_at": 1622804931119,
         #     "product_id": 10114356,
@@ -47,6 +47,24 @@ def demo_sherlock_idealo():
         #     "user_country": "SE",
         #     "triggered_by": {"source": "client"},
         # },
+        {  # Product with description
+            "created_at": 1622804976212,
+            "product_id": 9978653,
+            "gtin": "00889842651393",
+            "offer_fetch_complete": False,
+            "offer_urls": {
+                "idealo_DE": "https://www.idealo.de/preisvergleich/OffersOfProduct/200637075",
+                "idealo_UK": "https://www.idealo.co.uk/compare/200637075",
+                "idealo_ES": "https://www.idealo.es/precios/200637075",
+                "idealo_IT": "https://www.idealo.it/confronta-prezzi/200637075",
+                "idealo_FR": "https://www.idealo.fr/prix/200637075",
+                "idealo_AT": "https://www.idealo.at/preisvergleich/OffersOfProduct/200637075",
+            },
+            "product_token": "gAAAAABfc-DzBi5GrOEIprSqxyNjV-Ayx_MZeTg8wXnVNqTVog2J6FIOQk9_kY3kYAh4uGqEMTJVWx7o_hgDGShoH-gQ7EZ1Qg==",
+            "triggered_from_client": True,
+            "user_country": "SE",
+            "triggered_by": {"source": "client"},
+        },
     ]
     for message in messages:
         # Simulate how a message gets received from Pubsub
