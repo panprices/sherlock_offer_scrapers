@@ -299,6 +299,9 @@ def _parse_images(soup):
 def _parse_description(soup):
     description_wrapper = soup.find("div", class_="editorialProductTextInner")
 
+    if description_wrapper is None:
+        return None
+
     description = description_wrapper.get_text().trim()
 
     return description
