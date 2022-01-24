@@ -97,10 +97,10 @@ def demo_sherlock_gs_offers():
     message = {
         "created_at": 1622804976212,
         "product_id": 11031881,
-        "gtin": "08806091153807",
+        "gtin": "04038986119634",
         "offer_fetch_complete": False,
         "offer_urls": {
-            "google_shopping": "16065837288008218653",
+            "google_shopping": "17406769024333775394",
         },
         "product_token": "test_gAAAAAAAAAAAsMFK1hehjtyl8OSy9z19N9wvdLUdZdZlh0BWDUgGGc08fkgYGqeXaQn1JegqyzvYRJKhMGix6cIKlNUjHqI2sQ==",
         "triggered_from_client": True,

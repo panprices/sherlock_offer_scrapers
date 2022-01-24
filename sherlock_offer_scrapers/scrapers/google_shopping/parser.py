@@ -76,9 +76,11 @@ def _is_cookies_prompt_page(soup) -> bool:
 
 
 def _extract_price_and_currency(price_text: str, country: str) -> Tuple[int, str]:
-    price_obj = price_parser.parse_price(price_text)
+    price_text_normalized = price_text.replace("'", "").replace("’", "")
+
+    price_obj = price_parser.parse_price(price_text_normalized)
     if not price_obj.amount or not price_obj.currency:
-        raise Exception(f"Error when parsing price: {price_text}")
+        raise Exception(f"Error when parsing price: {price_text_normalized}")
 
     amount, currency = round(price_obj.amount * 100), price_obj.currency
     # Convert currency symbols to ISO 4217 currency code:
@@ -101,6 +103,7 @@ def _extract_price_and_currency(price_text: str, country: str) -> Tuple[int, str
     logger.msg(
         "parsing price and currency",
         input_price_text=price_text,
+        input_price_text_normalized=price_text_normalized,
         input_country=country,
         output_amount=amount,
         output_currency=currency,
