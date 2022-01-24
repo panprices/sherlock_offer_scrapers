@@ -22,6 +22,11 @@ COUNTRIES = [
     "PT",
     "CZ",
     "CH",
+    # "EE", # Does not exist on Kelkoo's platform
+    # "LT", # Does not exist on Kelkoo's platform
+    # "LV", # Does not exist on Kelkoo's platform
+    "GR",
+    "SK",
 ]
 # COUNTRIES = ["SE"]
 
