@@ -65,9 +65,15 @@ def sherlock_gs_offers(event, context):
 
 
 def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
-    logger.info("offer-scraping-started", offer_source=offer_source, payload=payload)
-
     gtin = payload["gtin"]
+
+    logger.info(
+        "offer-scraping-started",
+        offer_source=offer_source,
+        payload=payload,
+        gtin=gtin,
+    )
+
     cached_offer_urls = payload.get("offer_urls")
     offers = []
 
