@@ -1,8 +1,11 @@
 from typing import Tuple
 
 import price_parser
+import structlog
 
 from sherlock_offer_scrapers.helpers.offers import Offer
+
+logger = structlog.get_logger()
 
 
 def parser_offer_page(soup, country) -> list[Offer]:
@@ -94,5 +97,13 @@ def _extract_price_and_currency(price_text: str, country: str) -> Tuple[int, str
         currency = price_obj.currency  # already in ISO format, do nothing
     else:
         raise Exception(f"Cannot convert currency: {currency}")
+
+    logger.msg(
+        "parsing price and currency",
+        input_price_text=price_text,
+        input_country=country,
+        output_amount=amount,
+        output_currency=currency,
+    )
 
     return amount, currency
