@@ -97,11 +97,11 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
                         "PT",
                         "CZ",
                         "CH",
-                        "EE",
-                        "LT",
-                        "LV",
-                        "GR",
-                        "SK",
+                        # "EE",
+                        # "LT",
+                        # "LV",
+                        # "GR",
+                        # "SK",
                     ],
                 )
             )
