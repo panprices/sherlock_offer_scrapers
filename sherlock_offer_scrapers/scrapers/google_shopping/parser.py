@@ -17,9 +17,18 @@ def parser_offer_page(soup, country) -> list[Offer]:
         print("This product does not exist on google_shopping_SE")
         return []
 
-    rows = soup.select("table.dOwBOc tr.sh-osd__offer-row")
-    product_name = soup.select(".f0t7kf a")[0].get_text()
+    try:
+        product_name = _extract_product_name(soup)
+    except Exception as ex:
+        div_MPhl6c_exist = len(soup.select(".MPhl6c")) > 0
+        logger.error(
+            "cannot extract product name, new google html page encountered",
+            country=country,
+            div_MPhl6c_exist=div_MPhl6c_exist,
+        )
+        raise ex
 
+    rows = soup.select("table.dOwBOc tr.sh-osd__offer-row")
     offers: list[Offer] = []
     for row in rows:
         price_divs = row.select(".drzWO")
@@ -41,10 +50,16 @@ def parser_offer_page(soup, country) -> list[Offer]:
             "price": price,
             "currency": currency,
             "stock_status": "in_stock",
+            "metadata": None,
         }
         offers.append(offer)
 
     return offers
+
+
+def _extract_product_name(soup) -> str:
+    product_name = soup.select(".f0t7kf a")[0].get_text()
+    return product_name
 
 
 def _is_cookies_prompt_page(soup) -> bool:
