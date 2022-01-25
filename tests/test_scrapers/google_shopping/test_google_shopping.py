@@ -1,7 +1,7 @@
 import pytest
 import asyncio
 
-from soupsieve import bs4
+import bs4
 
 from sherlock_offer_scrapers.scrapers import google_shopping
 from sherlock_offer_scrapers.scrapers.google_shopping import parser
