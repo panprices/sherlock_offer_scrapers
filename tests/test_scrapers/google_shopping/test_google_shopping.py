@@ -1,6 +1,8 @@
 import pytest
 import asyncio
 
+from soupsieve import bs4
+
 from sherlock_offer_scrapers.scrapers import google_shopping
 from sherlock_offer_scrapers.scrapers.google_shopping import parser
 
@@ -24,3 +26,15 @@ def test_scrape():
 )
 def test_extract_price_and_currency(input, expected):
     assert parser._extract_price_and_currency(*input) == expected
+
+
+@pytest.mark.skip(reason="does not implement this test yet")
+def test_parser_offer_page():
+    import pathlib
+
+    dir = pathlib.Path(__file__).parent.resolve()
+    with open(f"{dir}/data/gg_CH_cannot_parse_product_name.html", "r") as f:
+        soup = bs4.BeautifulSoup(f)
+
+    offers = parser.parser_offer_page(soup, "BE")
+    print(offers)
