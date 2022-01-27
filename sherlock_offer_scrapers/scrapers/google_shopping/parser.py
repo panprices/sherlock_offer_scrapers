@@ -135,6 +135,12 @@ def _extract_price_and_currency(price_text: str, country: str) -> Tuple[int, str
         currency = "GBP"
     elif price_obj.currency == "NZ$":
         currency = "NZD"
+    elif price_obj.currency == "A$" or price_obj.currency == "AU$":
+        currency = "AUD"
+    elif price_obj.currency == "MX$" or price_obj.currency == "Mex$":
+        currency = "MXN"
+    elif price_obj.currency == "₪":
+        currency = "ILS"
     elif len(currency) == 3:
         currency = price_obj.currency  # already in ISO format, do nothing
     else:
