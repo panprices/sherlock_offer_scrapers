@@ -1,6 +1,9 @@
+import pytest
+
 from sherlock_offer_scrapers.scrapers import idealo
 
 
+@pytest.mark.integration
 def test_scrape():
     gtin = "00194715600645"
     cached_offer_urls = {

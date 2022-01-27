@@ -1,5 +1,6 @@
 [scripts]
-test = "pytest"
+unit-test = "pytest -m unit"
+integration-test = "pytest -m integration"
 mypy = "mypy ."
 demo = "dotenv run -- python demo.py"
 
@@ -26,7 +27,6 @@ mypy = {extras = [ "cli",], version = "0.910"}
 pytest = "*"
 black = "==21.4b2"
 python-dotenv = "*"
-rich = "*"
 
 [pipenv]
 allow_prereleases = true

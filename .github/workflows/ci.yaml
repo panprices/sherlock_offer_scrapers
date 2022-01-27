@@ -29,9 +29,9 @@ jobs:
     - name: Analysing the code with mypy
       run: |
         pipenv run mypy
-    - name: Test with pytest
+    - name: Unit test with pytest
       env:
         PANPRICES_ENVIRONMENT: local
         KELKOO_JWT_TOKEN: ${{ secrets.KELKOO_JWT_TOKEN }}
       run: |
-        pipenv run test
+        pipenv run unit-test

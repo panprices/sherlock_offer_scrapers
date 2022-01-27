@@ -14,11 +14,11 @@ def parser_offer_page(soup, country) -> list[Offer]:
         raise Exception(f"Cookies consent page encountered.")
 
     if len(soup.select(".product-not-found")) > 0:
-        print("This product does not exist on google_shopping_SE")
+        logger.warn("This product does not exist on google_shopping_SE")
         return []
 
     try:
-        product_name = _extract_product_name(soup)
+        product_name, page_variant = _extract_product_name(soup)
     except Exception as ex:
         div_MPhl6c_exist = len(soup.select(".MPhl6c")) > 0
         logger.error(
@@ -28,22 +28,35 @@ def parser_offer_page(soup, country) -> list[Offer]:
         )
         raise ex
 
-    rows = soup.select("table.dOwBOc tr.sh-osd__offer-row")
+    if page_variant == 0:
+        rows = soup.select("table.dOwBOc tr.sh-osd__offer-row")
+    elif page_variant == 1:
+        rows = soup.select("div.Nq7DI div.MVQv4e")
+
     offers: list[Offer] = []
     for row in rows:
-        price_divs = row.select(".drzWO")
+        if page_variant == 0:
+            price_divs = row.select(".drzWO")
+        elif page_variant == 1:
+            price_divs = row.select("div.DX0ugf div.xwW5Ce div.DX0ugf span.Lhpu7d")
+
         if len(price_divs) == 0:  # skip rows without prices
             continue
         price_text = price_divs[0].get_text()
         price, currency = _extract_price_and_currency(price_text, country)
 
-        link_div = row.select("a.b5ycib")[0]
-        offer_url = link_div.attrs["href"]
-        retailer_name = link_div.contents[0].get_text()
+        if page_variant == 0:
+            link_anchor = row.select("a.b5ycib")[0]
+            offer_url = link_anchor.attrs["href"]
+            offer_url = f"https://www.google.com{offer_url}"
+        elif page_variant == 1:
+            link_anchor = row.select("a.ueI0Ed")[0]
+            offer_url = link_anchor.attrs["href"]
+        retailer_name = link_anchor.contents[0].get_text()
 
         offer: Offer = {
             "offer_source": f"google_shopping_{country}",
-            "offer_url": f"https://www.google.com{offer_url}",
+            "offer_url": offer_url,
             "retail_prod_name": product_name,
             "retailer_name": retailer_name,
             "country": country,
@@ -57,9 +70,19 @@ def parser_offer_page(soup, country) -> list[Offer]:
     return offers
 
 
-def _extract_product_name(soup) -> str:
-    product_name = soup.select(".f0t7kf a")[0].get_text()
-    return product_name
+def _extract_product_name(soup) -> Tuple[str, int]:
+    page_variant = 0
+
+    product_title = soup.find("div", class_="f0t7kf")
+    if product_title is None:
+        product_title = soup.find("div", class_="MPhl6c")
+        page_variant = 1
+    if product_title is None:
+        raise Exception("Cannot find product title")
+
+    product_name = product_title.get_text()
+
+    return product_name, page_variant
 
 
 def _is_cookies_prompt_page(soup) -> bool:
