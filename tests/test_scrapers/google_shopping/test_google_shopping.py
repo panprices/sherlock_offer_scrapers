@@ -121,3 +121,43 @@ def test_parser_offer_page_variant_1():
     assert offers[1]["currency"] == "CHF"
     assert offers[1]["stock_status"] == "in_stock"
     assert offers[1]["metadata"] == None
+
+
+@pytest.mark.unit
+def test_parser_offer_page_nzd_currency():
+    import pathlib
+
+    dir = pathlib.Path(__file__).parent.resolve()
+    with open(f"{dir}/data/nzd_currency.html", "r") as f:
+        soup = bs4.BeautifulSoup(f, "html.parser")
+
+    offers = parser.parser_offer_page(soup, "PT")
+
+    for offer in offers:
+        print(offer)
+
+    assert len(offers) == 16
+
+    assert offers[0] == {
+        "offer_source": "google_shopping_PT",
+        "offer_url": "https://www.google.com/aclk?sa=L&ai=DChcSEwjr7qOCjdL1AhV_BaIDHWvjAMcYABABGgJsZQ&sig=AOD64_3v4BPx6YlNNhfQhKpUIJUs3KkxIQ&ctype=5&q=&ved=0ahUKEwjMg6GCjdL1AhWlk4sKHTggAIQQ2ikIGQ&adurl=",
+        "retail_prod_name": 'ASUS PG259QNR 62.2 cm (24.5") 1920 x 1080 pixels Full HD LED Black(2)',
+        "retailer_name": "PCDiga",
+        "country": "PT",
+        "price": 73990,
+        "currency": "EUR",
+        "stock_status": "in_stock",
+        "metadata": None,
+    }
+
+    assert offers[1] == {
+        "offer_source": "google_shopping_PT",
+        "offer_url": "https://www.google.com/aclk?sa=L&ai=DChcSEwjr7qOCjdL1AhV_BaIDHWvjAMcYABADGgJsZQ&sig=AOD64_3YBYovJD-IkkhqsDl4epet-B9N7Q&ctype=5&q=&ved=0ahUKEwjMg6GCjdL1AhWlk4sKHTggAIQQ2ikIHw&adurl=",
+        "retail_prod_name": 'ASUS PG259QNR 62.2 cm (24.5") 1920 x 1080 pixels Full HD LED Black(2)',
+        "retailer_name": "Conrad Electronic International",
+        "country": "PT",
+        "price": 124899,
+        "currency": "NZD",  # New Zealand Dollar. This is the strange part that is being tested
+        "stock_status": "in_stock",
+        "metadata": None,
+    }
