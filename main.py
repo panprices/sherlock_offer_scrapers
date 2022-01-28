@@ -76,6 +76,7 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
 
     cached_offer_urls = payload.get("offer_urls")
     offers = []
+    exceptions = []
 
     try:
         if offer_source == "prisjakt":
@@ -85,7 +86,7 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
         elif offer_source == "idealo":
             offers = idealo.scrape(gtin, cached_offer_urls)
         elif offer_source == "google_shopping":
-            offers = asyncio.run(
+            offers, exceptions = asyncio.run(
                 google_shopping.scrape(
                     gtin,
                     cached_offer_urls,
@@ -107,6 +108,18 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
             )
         else:
             raise Exception(f"Offer source {offer_source} not supported.")
+
+        for (ex, country) in exceptions:
+            logger.error(
+                "error when fetching offers",
+                error=ex,
+                country=country,
+                gtin=gtin,
+                offer_source=offer_source,
+            )
+
+        if len(exceptions) > 0:
+            raise exceptions[0][0]
 
     except Exception as ex:
         logger.exception("exception", exc_info=ex)

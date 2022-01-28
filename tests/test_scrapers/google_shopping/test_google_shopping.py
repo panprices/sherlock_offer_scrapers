@@ -13,8 +13,9 @@ def test_scrape():
     cached_offer_urls = {
         "google_shopping": "3112645306492221763",
     }
-    offers = asyncio.run(google_shopping.scrape(gtin, cached_offer_urls))
+    offers, errors = asyncio.run(google_shopping.scrape(gtin, cached_offer_urls))
     assert len(offers) > 0
+    assert len(errors) == 0
 
 
 @pytest.mark.unit
@@ -161,3 +162,29 @@ def test_parser_offer_page_nzd_currency():
         "stock_status": "in_stock",
         "metadata": None,
     }
+
+
+@pytest.mark.unit
+def test_parser_offer_page_product_not_found_0():
+    import pathlib
+
+    dir = pathlib.Path(__file__).parent.resolve()
+    with open(f"{dir}/data/product_not_found_0.html", "r") as f:
+        soup = bs4.BeautifulSoup(f, "html.parser")
+
+    offers = parser.parser_offer_page(soup, "LT")
+
+    assert len(offers) == 0
+
+
+@pytest.mark.unit
+def test_parser_offer_page_product_not_found_1():
+    import pathlib
+
+    dir = pathlib.Path(__file__).parent.resolve()
+    with open(f"{dir}/data/product_not_found_1.html", "r") as f:
+        soup = bs4.BeautifulSoup(f, "html.parser")
+
+    offers = parser.parser_offer_page(soup, "LT")
+
+    assert len(offers) == 0
