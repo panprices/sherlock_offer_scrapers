@@ -1,5 +1,6 @@
 steps:
   - name: "gcr.io/cloud-builders/gcloud"
+    waitFor: ['-']
     args:
       - functions
       - deploy
@@ -12,6 +13,7 @@ steps:
       - --timeout=300s
 
   - name: "gcr.io/cloud-builders/gcloud"
+    waitFor: ['-']
     args:
       - functions
       - deploy
@@ -24,6 +26,7 @@ steps:
       - --timeout=300s
 
   - name: "gcr.io/cloud-builders/gcloud"
+    waitFor: ['-']
     args:
       - functions
       - deploy
