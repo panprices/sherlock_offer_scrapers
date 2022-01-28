@@ -49,7 +49,7 @@ async def scrape(
     google_product_id = cached_offers_urls["google_shopping"]
     all_searches = []
     for country in countries:
-        coro = fetch_offers_from_google_product_id(google_product_id, country)
+        coro = fetch_offers_from_google_product_id(google_product_id, gtin, country)
         all_searches.append(coro)
 
     offer_results = await asyncio.gather(*all_searches)
@@ -66,6 +66,7 @@ async def scrape(
 
 async def fetch_offers_from_google_product_id(
     google_pid: str,
+    gtin: str,
     country: str,
 ) -> Tuple[list[Offer], str, Optional[Exception]]:
     try:
@@ -90,8 +91,18 @@ async def fetch_offers_from_google_product_id(
         )
 
         soup = BeautifulSoup(response.text, "html.parser")
-        offers = parser.parser_offer_page(soup, country)
-        return offers, country, None
+        try:
+            offers = parser.parser_offer_page(soup, country)
+            return offers, country, None
+        except Exception as ex:
+            logger.msg("error parsing html", country=country, exception=ex)
+            helpers.dump_html.dump_html(
+                response.text,
+                "google_shopping",
+                gtin,
+                country,
+            )
+            raise ex
     except Exception as ex:
         logger.error(
             "error when fetching offers",

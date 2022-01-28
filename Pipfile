@@ -21,6 +21,7 @@ structlog = "~=21.2"
 types-requests = "*"
 price-parser = "~=0.3"
 pydash = "*"
+google-cloud-storage = "*"
 
 [dev-packages]
 mypy = {extras = [ "cli",], version = "0.910"}
