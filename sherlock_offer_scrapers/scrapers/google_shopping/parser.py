@@ -156,4 +156,13 @@ def _extract_price_and_currency(price_text: str, country: str) -> Tuple[int, str
         )
         raise Exception(f"Cannot convert currency: {currency}")
 
+    logger.msg(
+        "parsing price and currency",
+        input_price_text=price_text,
+        input_price_text_normalized=price_text_normalized,
+        country=country,
+        output_amount=amount,
+        output_currency=currency,
+    )
+
     return amount, currency
