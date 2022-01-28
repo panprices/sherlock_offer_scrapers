@@ -133,6 +133,8 @@ def _extract_price_and_currency(price_text: str, country: str) -> Tuple[int, str
         currency = "EUR"
     elif price_obj.currency == "£":
         currency = "GBP"
+    elif price_obj.currency == "$":
+        currency = "USD"
     elif price_obj.currency == "NZ$":
         currency = "NZD"
     elif price_obj.currency == "A$" or price_obj.currency == "AU$":
@@ -144,6 +146,14 @@ def _extract_price_and_currency(price_text: str, country: str) -> Tuple[int, str
     elif len(currency) == 3:
         currency = price_obj.currency  # already in ISO format, do nothing
     else:
+        logger.error(
+            "error when parsing price and currency",
+            input_price_text=price_text,
+            input_price_text_normalized=price_text_normalized,
+            input_country=country,
+            output_amount=amount,
+            output_currency=currency,
+        )
         raise Exception(f"Cannot convert currency: {currency}")
 
     logger.msg(

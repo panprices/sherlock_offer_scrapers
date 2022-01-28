@@ -188,3 +188,31 @@ def test_parser_offer_page_product_not_found_1():
     offers = parser.parser_offer_page(soup, "LT")
 
     assert len(offers) == 0
+
+
+@pytest.mark.unit
+def test_parser_offer_page_usd_currency():
+    import pathlib
+
+    dir = pathlib.Path(__file__).parent.resolve()
+    with open(f"{dir}/data/usd_currency.html", "r") as f:
+        soup = bs4.BeautifulSoup(f, "html.parser")
+
+    offers = parser.parser_offer_page(soup, "EE")
+
+    for offer in offers:
+        print(offer)
+
+    assert len(offers) == 20
+
+    assert offers[0] == {
+        "offer_source": "google_shopping_EE",
+        "offer_url": "https://www.google.com/aclk?sa=L&ai=DChcSEwimzoWv1NT1AhWBAOYKHSC_B9sYABABGgJscg&sig=AOD64_2mYVd5m8Dcwn2Gg4CG6BwcKCMuNQ&ctype=5&q=&ved=0ahUKEwjPv4Ov1NT1AhXooosKHXJQDi8Q2ikIGA&adurl=",
+        "retail_prod_name": "Apple - AirTag Leather Loop - Saddle Brown(387)",
+        "retailer_name": "Apple",
+        "country": "EE",
+        "price": 4154,
+        "currency": "USD",
+        "stock_status": "in_stock",
+        "metadata": None,
+    }
