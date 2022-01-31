@@ -17,6 +17,10 @@ def parser_offer_page(soup, country) -> list[Offer]:
         logger.warn("This product does not exist on google_shopping_SE")
         return []
 
+    if len(soup.select("body > :not(script,style)")) == 0:
+        logger.warn("We got a page with no content")
+        return []
+
     try:
         product_name, page_variant = _extract_product_name(soup)
     except Exception as ex:
