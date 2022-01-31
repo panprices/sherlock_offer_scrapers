@@ -41,9 +41,6 @@ def test_parser_offer_page_variant_0():
 
     offers = parser.parser_offer_page(soup, "NL")
 
-    for offer in offers:
-        print(offer)
-
     assert len(offers) == 6
 
     assert offers[0] == {
@@ -93,8 +90,6 @@ def test_parser_offer_page_variant_1():
 
     offers = parser.parser_offer_page(soup, "BE")
 
-    print(offers)
-
     assert len(offers) == 2
 
     assert offers[0]["offer_source"] == "google_shopping_BE"
@@ -133,9 +128,6 @@ def test_parser_offer_page_nzd_currency():
         soup = bs4.BeautifulSoup(f, "html.parser")
 
     offers = parser.parser_offer_page(soup, "PT")
-
-    for offer in offers:
-        print(offer)
 
     assert len(offers) == 16
 
@@ -200,9 +192,6 @@ def test_parser_offer_page_usd_currency():
 
     offers = parser.parser_offer_page(soup, "EE")
 
-    for offer in offers:
-        print(offer)
-
     assert len(offers) == 20
 
     assert offers[0] == {
@@ -216,3 +205,19 @@ def test_parser_offer_page_usd_currency():
         "stock_status": "in_stock",
         "metadata": None,
     }
+
+
+@pytest.mark.unit
+def test_parser_offer_page_zero_price():
+    import pathlib
+
+    dir = pathlib.Path(__file__).parent.resolve()
+    with open(f"{dir}/data/zero_price.html", "r") as f:
+        soup = bs4.BeautifulSoup(f, "html.parser")
+
+    offers = parser.parser_offer_page(soup, "EE")
+
+    for offer in offers:
+        assert offer["price"] != 0
+
+    assert len(offers) == 19

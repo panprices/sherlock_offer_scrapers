@@ -1,4 +1,4 @@
-from typing import Tuple
+from typing import Optional, Tuple
 
 import price_parser
 import structlog
@@ -43,7 +43,10 @@ def parser_offer_page(soup, country) -> list[Offer]:
         if len(price_divs) == 0:  # skip rows without prices
             continue
         price_text = price_divs[0].get_text()
-        price, currency = _extract_price_and_currency(price_text, country)
+        price_and_currency = _extract_price_and_currency(price_text, country)
+        if price_and_currency is None:
+            continue
+        price, currency = price_and_currency
 
         if page_variant == 0:
             link_anchor = row.select("a.b5ycib")[0]
@@ -113,11 +116,17 @@ def _is_cookies_prompt_page(soup) -> bool:
 #     return price, currency
 
 
-def _extract_price_and_currency(price_text: str, country: str) -> Tuple[int, str]:
+def _extract_price_and_currency(
+    price_text: str, country: str
+) -> Optional[Tuple[int, str]]:
     price_text_normalized = price_text.replace("'", "").replace("’", "")
 
     price_obj = price_parser.parse_price(price_text_normalized)
-    if not price_obj.amount or not price_obj.currency:
+
+    if price_obj.amount == 0:
+        return None
+
+    if price_obj.amount is None or price_obj.currency is None:
         raise Exception(f"Error when parsing price: {price_text_normalized}")
 
     amount, currency = round(price_obj.amount * 100), price_obj.currency
