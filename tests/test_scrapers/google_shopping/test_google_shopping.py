@@ -276,3 +276,16 @@ def test_get_image_variant_0():
             offer["metadata"]["image"]
             == "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRRI8YV7Fx14oOr8dR0XXmpWDy-kiQqEv79YUfcO2gjjTGIKsPHtMy-9gkO9HJLRKGLhPP67xI&usqp=CAY"
         )
+
+
+@pytest.mark.unit
+def test_server_error():
+    import pathlib
+
+    dir = pathlib.Path(__file__).parent.resolve()
+    with open(f"{dir}/data/server_error.html", "r") as f:
+        soup = bs4.BeautifulSoup(f, "html.parser")
+
+    offers = parser.parser_offer_page(soup, "LV")
+
+    assert len(offers) == 0

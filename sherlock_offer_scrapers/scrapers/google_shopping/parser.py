@@ -21,6 +21,10 @@ def parser_offer_page(soup, country) -> list[Offer]:
         logger.warn("We got a page with no content")
         return []
 
+    if _is_server_error_page(soup):
+        logger.warn("We got a server error page")
+        return []
+
     try:
         product_name, page_variant = _extract_product_name(soup)
     except Exception as ex:
@@ -98,6 +102,10 @@ def _is_empty_page(soup) -> bool:
             return True
 
     return False
+
+
+def _is_server_error_page(soup) -> bool:
+    return soup.find("h1", string="Server Error") is not None
 
 
 def _extract_product_name(soup) -> Tuple[str, int]:
