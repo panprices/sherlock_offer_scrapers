@@ -17,7 +17,7 @@ def parser_offer_page(soup, country) -> list[Offer]:
         logger.warn("This product does not exist on google_shopping_SE")
         return []
 
-    if len(soup.select("body > :not(script,style)")) == 0:
+    if _is_empty_page(soup):
         logger.warn("We got a page with no content")
         return []
 
@@ -75,6 +75,17 @@ def parser_offer_page(soup, country) -> list[Offer]:
         offers.append(offer)
 
     return offers
+
+
+def _is_empty_page(soup) -> bool:
+    if len(soup.select("body > :not(script,style,c-wiz)")) == 0:
+        return True
+
+    if len(soup.select('c-wiz[jsrenderer="NpbnR"]')) > 0:
+        if len(soup.select('div[jscontroller="kOTMef"]')) <= 2:
+            return True
+
+    return False
 
 
 def _extract_product_name(soup) -> Tuple[str, int]:

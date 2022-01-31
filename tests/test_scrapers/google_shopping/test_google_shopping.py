@@ -234,3 +234,16 @@ def test_parser_offer_page_no_content():
     offers = parser.parser_offer_page(soup, "EE")
 
     assert len(offers) == 0
+
+
+@pytest.mark.unit
+def test_parser_offer_page_almost_no_content():
+    import pathlib
+
+    dir = pathlib.Path(__file__).parent.resolve()
+    with open(f"{dir}/data/almost_no_content.html", "r") as f:
+        soup = bs4.BeautifulSoup(f, "html.parser")
+
+    offers = parser.parser_offer_page(soup, "EE")
+
+    assert len(offers) == 0
