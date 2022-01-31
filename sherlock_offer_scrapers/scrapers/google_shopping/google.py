@@ -78,8 +78,6 @@ async def fetch_offers_from_google_product_id(
 
         loop = asyncio.get_event_loop()
 
-        logger.msg("fetching url", country=country, url=url)
-
         response = await loop.run_in_executor(
             None,
             functools.partial(
@@ -87,6 +85,7 @@ async def fetch_offers_from_google_product_id(
                 url,
                 headers={"User-Agent": user_agents.choose_random()},
                 proxy_country=proxy_country,
+                offer_source_country=country,
             ),
         )
 

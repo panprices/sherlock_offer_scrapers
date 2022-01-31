@@ -42,6 +42,7 @@ def get(
     headers: dict = None,
     cookies: dict = None,
     proxy_country: str = None,
+    offer_source_country: str = None,
 ) -> requests.Response:
     """Make a GET request with some default headers and optional proxy.
 
@@ -65,6 +66,7 @@ def get(
         request_proxy=proxy_config,
         response_status_code=response.status_code,
         response_body_size_bytes=len(response.content),
+        country=offer_source_country,
     )
 
     if os.getenv("PANPRICES_ENVIRONMENT") == "local":
