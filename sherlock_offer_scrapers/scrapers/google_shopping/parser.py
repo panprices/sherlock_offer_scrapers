@@ -32,6 +32,11 @@ def parser_offer_page(soup, country) -> list[Offer]:
         )
         raise ex
 
+    image = None
+    image_element = soup.find("img", class_="r4m4nf")
+    if image_element is not None:
+        image = image_element.get("src")
+
     if page_variant == 0:
         rows = soup.select("table.dOwBOc tr.sh-osd__offer-row")
     elif page_variant == 1:
@@ -61,6 +66,13 @@ def parser_offer_page(soup, country) -> list[Offer]:
             offer_url = link_anchor.attrs["href"]
         retailer_name = link_anchor.contents[0].get_text()
 
+        if image is not None:
+            metadata = {
+                "image": image,
+            }
+        else:
+            metadata = None
+
         offer: Offer = {
             "offer_source": f"google_shopping_{country}",
             "offer_url": offer_url,
@@ -70,7 +82,7 @@ def parser_offer_page(soup, country) -> list[Offer]:
             "price": price,
             "currency": currency,
             "stock_status": "in_stock",
-            "metadata": None,
+            "metadata": metadata,
         }
         offers.append(offer)
 

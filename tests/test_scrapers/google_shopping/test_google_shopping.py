@@ -52,7 +52,9 @@ def test_parser_offer_page_variant_0():
         "price": 112665,
         "currency": "EUR",
         "stock_status": "in_stock",
-        "metadata": None,
+        "metadata": {
+            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRRI8YV7Fx14oOr8dR0XXmpWDy-kiQqEv79YUfcO2gjjTGIKsPHtMy-9gkO9HJLRKGLhPP67xI&usqp=CAY"
+        },
     }
 
     assert offers[1] == {
@@ -64,7 +66,9 @@ def test_parser_offer_page_variant_0():
         "price": 119194,
         "currency": "EUR",
         "stock_status": "in_stock",
-        "metadata": None,
+        "metadata": {
+            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRRI8YV7Fx14oOr8dR0XXmpWDy-kiQqEv79YUfcO2gjjTGIKsPHtMy-9gkO9HJLRKGLhPP67xI&usqp=CAY"
+        },
     }
 
     assert offers[5] == {
@@ -76,7 +80,9 @@ def test_parser_offer_page_variant_0():
         "price": 123602,
         "currency": "EUR",
         "stock_status": "in_stock",
-        "metadata": None,
+        "metadata": {
+            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRRI8YV7Fx14oOr8dR0XXmpWDy-kiQqEv79YUfcO2gjjTGIKsPHtMy-9gkO9HJLRKGLhPP67xI&usqp=CAY"
+        },
     }
 
 
@@ -140,7 +146,9 @@ def test_parser_offer_page_nzd_currency():
         "price": 73990,
         "currency": "EUR",
         "stock_status": "in_stock",
-        "metadata": None,
+        "metadata": {
+            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQYfzPI5e1g2RQU_VO4lBeAYeh2362L87URvuHSbTVcaTfU5yAKrxk4wo4jb9NLoML_8g3xBzyYKElmgmK16E3fw5P4uHWqzO-JY4CzEIlTW1VN3MoWYhTzRQ&usqp=CAY"
+        },
     }
 
     assert offers[1] == {
@@ -152,7 +160,9 @@ def test_parser_offer_page_nzd_currency():
         "price": 124899,
         "currency": "NZD",  # New Zealand Dollar. This is the strange part that is being tested
         "stock_status": "in_stock",
-        "metadata": None,
+        "metadata": {
+            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQYfzPI5e1g2RQU_VO4lBeAYeh2362L87URvuHSbTVcaTfU5yAKrxk4wo4jb9NLoML_8g3xBzyYKElmgmK16E3fw5P4uHWqzO-JY4CzEIlTW1VN3MoWYhTzRQ&usqp=CAY"
+        },
     }
 
 
@@ -203,7 +213,9 @@ def test_parser_offer_page_usd_currency():
         "price": 4154,
         "currency": "USD",
         "stock_status": "in_stock",
-        "metadata": None,
+        "metadata": {
+            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS2tFVHDdo52LocsfffA8q-lM_vOSlyiln3rB_FjLv_RYXLOTD1okoVmIO12nJ8XasAZ3nk2hDeUSs4aF9qmfAp0e6lEJtP3WnWGpbcl94FJeuz7OaNOjbxcw&usqp=CAY"
+        },
     }
 
 
@@ -247,3 +259,20 @@ def test_parser_offer_page_almost_no_content():
     offers = parser.parser_offer_page(soup, "EE")
 
     assert len(offers) == 0
+
+
+@pytest.mark.unit
+def test_get_image_variant_0():
+    import pathlib
+
+    dir = pathlib.Path(__file__).parent.resolve()
+    with open(f"{dir}/data/variant_0.html", "r") as f:
+        soup = bs4.BeautifulSoup(f, "html.parser")
+
+    offers = parser.parser_offer_page(soup, "NL")
+
+    for offer in offers:
+        assert (
+            offer["metadata"]["image"]
+            == "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRRI8YV7Fx14oOr8dR0XXmpWDy-kiQqEv79YUfcO2gjjTGIKsPHtMy-9gkO9HJLRKGLhPP67xI&usqp=CAY"
+        )
