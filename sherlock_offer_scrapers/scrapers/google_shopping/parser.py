@@ -186,6 +186,12 @@ def _extract_price_and_currency(
         currency = "MXN"
     elif price_obj.currency == "₪":
         currency = "ILS"
+    elif (
+        price_obj.currency == "Can$"
+        or price_obj.currency == "C$"
+        or price_obj.currency == "CA$"
+    ):
+        currency = "CAD"
     elif len(currency) == 3:
         currency = price_obj.currency  # already in ISO format, do nothing
     else:
