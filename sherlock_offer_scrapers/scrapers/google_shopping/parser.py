@@ -1,3 +1,4 @@
+import json
 from typing import Optional, Tuple
 
 import price_parser
@@ -71,9 +72,7 @@ def parser_offer_page(soup, country) -> list[Offer]:
         retailer_name = link_anchor.contents[0].get_text()
 
         if image is not None:
-            metadata = {
-                "image": image,
-            }
+            metadata = json.dumps({"image": image})
         else:
             metadata = None
 
