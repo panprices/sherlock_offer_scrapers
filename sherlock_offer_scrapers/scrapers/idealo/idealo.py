@@ -245,12 +245,12 @@ def _parse_offers_results(soup):
     return offers
 
 
-def _parse_category(soup) -> Optional[List[str]]:
+def _parse_category(soup) -> List[str]:
     breadcrumb = soup.find("div", class_="breadcrumb")
 
     if breadcrumb is None:
         logger.warning("Cannot find breadcrumb")
-        return None
+        return []
 
     breadcrumb_leafs = breadcrumb.find_all("span", class_="breadcrumb-leaf")
 
@@ -295,10 +295,13 @@ def _parse_specs(soup) -> Dict[str, Dict[str, str]]:
 def _parse_images(soup):
     image_elements = soup.select(".simple-carousel-item > img")
     if len(image_elements) == 0:
-        return None
+        return []
 
     image = image_elements[0]
-    return image.get("src")
+    if image.get("src") is not None:
+        return [image.get("src")]
+    else:
+        return []
 
 
 def _parse_description(soup):

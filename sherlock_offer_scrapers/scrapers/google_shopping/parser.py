@@ -72,7 +72,7 @@ def parser_offer_page(soup, country) -> list[Offer]:
         retailer_name = link_anchor.contents[0].get_text()
 
         if image is not None:
-            metadata = json.dumps({"image": image})
+            metadata = json.dumps({"images": [image]})
         else:
             metadata = None
 

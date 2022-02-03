@@ -89,6 +89,14 @@ def _parse_result(result: dict, country: str) -> list[Offer]:
         category = kelkoo_offer.get("category", {}).get("name", "")
         category = [category] if len(category) > 0 else []
 
+        images = [
+            image.get("zoomUrl")
+            for image in kelkoo_offer.get("images", [])
+            if image.get("zoomUrl") is not None
+        ]
+
+        print(kelkoo_offer.get("images"))
+
         offer: Offer = {
             "offer_source": "kelkoo_" + country,
             "offer_url": kelkoo_offer["goUrl"],
@@ -103,7 +111,7 @@ def _parse_result(result: dict, country: str) -> list[Offer]:
                     "description": kelkoo_offer.get("description"),
                     "brand": kelkoo_offer.get("brand", {}).get("name", ""),
                     "category": category,
-                    "images": kelkoo_offer.get("images"),
+                    "images": images,
                 }
             ),
             # "deliveryCost": kelkoo_offer["deliveryCost"],
