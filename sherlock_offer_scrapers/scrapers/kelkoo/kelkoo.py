@@ -86,6 +86,9 @@ def _gtin_to_ean(gtin: str) -> str:
 def _parse_result(result: dict, country: str) -> list[Offer]:
     offers: list[Offer] = []
     for kelkoo_offer in result["offers"]:
+        category = kelkoo_offer.get("category", {}).get("name", "")
+        category = [category] if len(category) > 0 else []
+
         offer: Offer = {
             "offer_source": "kelkoo_" + country,
             "offer_url": kelkoo_offer["goUrl"],
@@ -99,7 +102,7 @@ def _parse_result(result: dict, country: str) -> list[Offer]:
                 {
                     "description": kelkoo_offer.get("description"),
                     "brand": kelkoo_offer.get("brand", {}).get("name", ""),
-                    "category": kelkoo_offer.get("category", {}).get("name", ""),
+                    "category": category,
                     "images": kelkoo_offer.get("images"),
                 }
             ),
