@@ -105,7 +105,7 @@ def demo_sherlock_gs_offers():
         "product_token": "test_gAAAAAAAAAAAsMFK1hehjtyl8OSy9z19N9wvdLUdZdZlh0BWDUgGGc08fkgYGqeXaQn1JegqyzvYRJKhMGix6cIKlNUjHqI2sQ==",
         "triggered_from_client": True,
         "user_country": "SE",
-        "triggered_by": {"source": "b2b_job"},
+        "triggered_by": {"source": "b2b_job", "job_id": "UupuDUjLXoHbAKjHsrtH"},
     }
 
     event = {"data": base64.b64encode(json.dumps(message).encode())}
