@@ -1,4 +1,5 @@
 import json
+import re
 from typing import Optional, Tuple
 
 import price_parser
@@ -7,6 +8,7 @@ import structlog
 from sherlock_offer_scrapers.helpers.offers import Offer
 
 logger = structlog.get_logger()
+currency_regex = re.compile(r"^[A-Za-z]{3}$")
 
 
 def parser_offer_page(soup, country) -> list[Offer]:
@@ -192,8 +194,8 @@ def _extract_price_and_currency(
         or price_obj.currency == "CA$"
     ):
         currency = "CAD"
-    elif len(currency) == 3:
-        currency = price_obj.currency  # already in ISO format, do nothing
+    elif len(currency) == 3 and currency_regex.search(currency) is not None:
+        currency = price_obj.currency.upper()  # already in ISO format, do nothing
     else:
         logger.error(
             "error when parsing price and currency",
