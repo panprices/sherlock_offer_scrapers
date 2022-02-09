@@ -17,15 +17,24 @@ def parser_offer_page(soup, country) -> list[Offer]:
         raise Exception(f"Cookies consent page encountered.")
 
     if len(soup.select(".product-not-found")) > 0:
-        logger.warn("This product does not exist on google_shopping_SE")
+        logger.warn(
+            "Product does not exist",
+            country=country,
+        )
         return []
 
     if _is_empty_page(soup):
-        logger.warn("We got a page with no content")
+        logger.warn(
+            "We got a page with no content",
+            country=country,
+        )
         return []
 
     if _is_server_error_page(soup):
-        logger.warn("We got a server error page")
+        logger.warn(
+            "We got a server error page",
+            country=country,
+        )
         return []
 
     try:
