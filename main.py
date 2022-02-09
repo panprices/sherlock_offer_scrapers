@@ -76,7 +76,7 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
 
     cached_offer_urls = payload.get("offer_urls")
     offers = []
-    exceptions = []
+    exceptions: list[tuple[Exception, str]] = []
 
     try:
         if offer_source == "prisjakt":

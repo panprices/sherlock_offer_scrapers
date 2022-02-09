@@ -72,7 +72,28 @@ def publish_offers(payload, offers: list[Offer], offer_source: str):
 
     live_search_publisher.publish_message(live_search_message)
 
+    nb_offers_per_country = _get_number_of_offers_per_country(offers)
     logger.info(
         "live-search-offers-published",
         nb_offers=len(offers),
+        **nb_offers_per_country,
     )
+
+
+def _get_number_of_offers_per_country(offers: list[Offer]) -> dict[str, int]:
+    """Example output:
+    {
+        "nb_offers_SE": 13,
+        "nb_offers_FR": 8
+    }
+    """
+    log_offers_per_country: dict[str, int] = {}
+    for offer in offers:
+        country = offer["country"]
+        key = f"nb_offers_{country}"
+        if key in log_offers_per_country:
+            log_offers_per_country[key] += 1
+        else:
+            log_offers_per_country[key] = 1
+
+    return log_offers_per_country
