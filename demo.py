@@ -97,15 +97,19 @@ def demo_sherlock_gs_offers():
     message = {
         "created_at": 1622804976212,
         "product_id": 11031881,
-        "gtin": "04038986119634",
+        "gtin": "00711719827399",
         "offer_fetch_complete": False,
         "offer_urls": {
-            "google_shopping": "17406769024333775394",
+            "google_shopping": "5346533728443139525",
         },
         "product_token": "test_gAAAAAAAAAAAsMFK1hehjtyl8OSy9z19N9wvdLUdZdZlh0BWDUgGGc08fkgYGqeXaQn1JegqyzvYRJKhMGix6cIKlNUjHqI2sQ==",
         "triggered_from_client": True,
         "user_country": "SE",
-        "triggered_by": {"source": "b2b_job", "job_id": "UupuDUjLXoHbAKjHsrtH"},
+        "triggered_by": {
+            "source": "b2b_job",
+            "job_id": "UupuDUjLXoHbAKjHsrtH",
+            "task_id": "hyAnhCIoQQyt0qWl5W3S",
+        },
     }
 
     event = {"data": base64.b64encode(json.dumps(message).encode())}
