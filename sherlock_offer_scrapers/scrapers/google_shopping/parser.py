@@ -39,6 +39,7 @@ def parser_offer_page(soup, country) -> list[Offer]:
 
     try:
         product_name, page_variant = _extract_product_name(soup)
+        logger.info("page variant", page_variant=page_variant)
     except Exception as ex:
         div_MPhl6c_exist = len(soup.select(".MPhl6c")) > 0
         logger.error(
