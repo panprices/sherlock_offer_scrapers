@@ -94,7 +94,7 @@ async def fetch_offers_from_google_product_id(
             offers = parser.parser_offer_page(soup, country)
             return offers, country, None
         except Exception as ex:
-            logger.msg("error parsing html", country=country, exception=ex)
+            logger.msg("error parsing html", country=country, exception=str(ex))
             helpers.dump_html.dump_html(
                 response.text,
                 "google_shopping",
@@ -107,6 +107,6 @@ async def fetch_offers_from_google_product_id(
             "error when fetching offers",
             google_pid=google_pid,
             country=country,
-            error=ex,
+            error=str(ex),
         )
         return [], country, ex
