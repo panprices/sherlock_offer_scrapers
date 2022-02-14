@@ -3,13 +3,30 @@ import base64
 import json
 import structlog
 
-from main import sherlock_idealo, sherlock_gs_offers, sherlock_kelkoo
+from main import (
+    sherlock_pricerunner,
+    sherlock_idealo,
+    sherlock_gs_offers,
+    sherlock_kelkoo,
+)
 
 
 # Define a mocked context
 context = {"event_id": "-1", "timestamp": "11111111"}
 
 logger = structlog.get_logger()
+
+
+def demo_sherlock_pricerunner():
+    import json
+    from sherlock_offer_scrapers.scrapers.pricerunner.parser import parse_offers
+
+    with open("docs/pricerunner/sample_response_v3.json") as f:
+        json_result = json.load(f)
+
+    offers = parse_offers(json_result, "SE")
+    with open("test_result.json", "w") as f:
+        json.dump(offers, f)
 
 
 def demo_sherlock_idealo():
@@ -134,7 +151,7 @@ if __name__ == "__main__":
     if args.scraper == "prisjakt":
         pass
     elif args.scraper == "pricerunner":
-        pass
+        demo_sherlock_pricerunner()
     elif args.scraper == "kelkoo":
         demo_sherlock_kelkoo()
     elif args.scraper == "idealo":

@@ -40,6 +40,10 @@ def sherlock_prisjakt(event, context):
     payload: Payload = json.loads(base64.b64decode(event["data"]))
     _sherlock_scrape("prisjakt", payload)
 
+def sherlock_pricerunner(event, context):
+    """Search for offers on Pricerunner for a product."""
+    pass
+
 
 def sherlock_kelkoo(event, context):
     """Search for offers on Kelkoo for a product."""
