@@ -2,6 +2,8 @@ import random
 import time
 import requests
 
+from sherlock_offer_scrapers.helpers.requests import SessionWithLogger
+
 from . import user_agents
 
 
@@ -13,7 +15,8 @@ BASE_URL = {
 
 def create_session(country="SE"):
     headers = _get_headers(country)
-    session = requests.Session()
+    # session = requests.Session()
+    session = SessionWithLogger()
     session.headers.update(headers)
     return session
 
