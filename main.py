@@ -137,6 +137,4 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
         logger.exception("exception", exc_info=ex)
         raise ex
     finally:
-        with open("test.json", "w") as f:
-            json.dump(offers, f)
         helpers.offers.publish_offers(payload, offers, offer_source)
