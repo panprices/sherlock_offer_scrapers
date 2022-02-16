@@ -1,5 +1,7 @@
 import pytest
 import asyncio
+import pathlib
+import json
 
 import bs4
 
@@ -33,8 +35,6 @@ def test_extract_price_and_currency(input, expected):
 
 @pytest.mark.unit
 def test_parser_offer_page_variant_0():
-    import pathlib
-
     dir = pathlib.Path(__file__).parent.resolve()
     with open(f"{dir}/data/variant_0.html", "r") as f:
         soup = bs4.BeautifulSoup(f, "html.parser")
@@ -52,9 +52,13 @@ def test_parser_offer_page_variant_0():
         "price": 112665,
         "currency": "EUR",
         "stock_status": "in_stock",
-        "metadata": {
-            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRRI8YV7Fx14oOr8dR0XXmpWDy-kiQqEv79YUfcO2gjjTGIKsPHtMy-9gkO9HJLRKGLhPP67xI&usqp=CAY"
-        },
+        "metadata": json.dumps(
+            {
+                "images": [
+                    "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRRI8YV7Fx14oOr8dR0XXmpWDy-kiQqEv79YUfcO2gjjTGIKsPHtMy-9gkO9HJLRKGLhPP67xI&usqp=CAY"
+                ]
+            }
+        ),
     }
 
     assert offers[1] == {
@@ -66,9 +70,13 @@ def test_parser_offer_page_variant_0():
         "price": 119194,
         "currency": "EUR",
         "stock_status": "in_stock",
-        "metadata": {
-            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRRI8YV7Fx14oOr8dR0XXmpWDy-kiQqEv79YUfcO2gjjTGIKsPHtMy-9gkO9HJLRKGLhPP67xI&usqp=CAY"
-        },
+        "metadata": json.dumps(
+            {
+                "images": [
+                    "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRRI8YV7Fx14oOr8dR0XXmpWDy-kiQqEv79YUfcO2gjjTGIKsPHtMy-9gkO9HJLRKGLhPP67xI&usqp=CAY"
+                ]
+            }
+        ),
     }
 
     assert offers[5] == {
@@ -80,16 +88,18 @@ def test_parser_offer_page_variant_0():
         "price": 123602,
         "currency": "EUR",
         "stock_status": "in_stock",
-        "metadata": {
-            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRRI8YV7Fx14oOr8dR0XXmpWDy-kiQqEv79YUfcO2gjjTGIKsPHtMy-9gkO9HJLRKGLhPP67xI&usqp=CAY"
-        },
+        "metadata": json.dumps(
+            {
+                "images": [
+                    "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRRI8YV7Fx14oOr8dR0XXmpWDy-kiQqEv79YUfcO2gjjTGIKsPHtMy-9gkO9HJLRKGLhPP67xI&usqp=CAY"
+                ]
+            }
+        ),
     }
 
 
 @pytest.mark.unit
 def test_parser_offer_page_variant_1():
-    import pathlib
-
     dir = pathlib.Path(__file__).parent.resolve()
     with open(f"{dir}/data/variant_1.html", "r") as f:
         soup = bs4.BeautifulSoup(f, "html.parser")
@@ -127,8 +137,6 @@ def test_parser_offer_page_variant_1():
 
 @pytest.mark.unit
 def test_parser_offer_page_nzd_currency():
-    import pathlib
-
     dir = pathlib.Path(__file__).parent.resolve()
     with open(f"{dir}/data/nzd_currency.html", "r") as f:
         soup = bs4.BeautifulSoup(f, "html.parser")
@@ -146,9 +154,13 @@ def test_parser_offer_page_nzd_currency():
         "price": 73990,
         "currency": "EUR",
         "stock_status": "in_stock",
-        "metadata": {
-            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQYfzPI5e1g2RQU_VO4lBeAYeh2362L87URvuHSbTVcaTfU5yAKrxk4wo4jb9NLoML_8g3xBzyYKElmgmK16E3fw5P4uHWqzO-JY4CzEIlTW1VN3MoWYhTzRQ&usqp=CAY"
-        },
+        "metadata": json.dumps(
+            {
+                "images": [
+                    "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQYfzPI5e1g2RQU_VO4lBeAYeh2362L87URvuHSbTVcaTfU5yAKrxk4wo4jb9NLoML_8g3xBzyYKElmgmK16E3fw5P4uHWqzO-JY4CzEIlTW1VN3MoWYhTzRQ&usqp=CAY"
+                ]
+            }
+        ),
     }
 
     assert offers[1] == {
@@ -160,16 +172,18 @@ def test_parser_offer_page_nzd_currency():
         "price": 124899,
         "currency": "NZD",  # New Zealand Dollar. This is the strange part that is being tested
         "stock_status": "in_stock",
-        "metadata": {
-            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQYfzPI5e1g2RQU_VO4lBeAYeh2362L87URvuHSbTVcaTfU5yAKrxk4wo4jb9NLoML_8g3xBzyYKElmgmK16E3fw5P4uHWqzO-JY4CzEIlTW1VN3MoWYhTzRQ&usqp=CAY"
-        },
+        "metadata": json.dumps(
+            {
+                "images": [
+                    "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQYfzPI5e1g2RQU_VO4lBeAYeh2362L87URvuHSbTVcaTfU5yAKrxk4wo4jb9NLoML_8g3xBzyYKElmgmK16E3fw5P4uHWqzO-JY4CzEIlTW1VN3MoWYhTzRQ&usqp=CAY"
+                ]
+            }
+        ),
     }
 
 
 @pytest.mark.unit
 def test_parser_offer_page_product_not_found_0():
-    import pathlib
-
     dir = pathlib.Path(__file__).parent.resolve()
     with open(f"{dir}/data/product_not_found_0.html", "r") as f:
         soup = bs4.BeautifulSoup(f, "html.parser")
@@ -181,8 +195,6 @@ def test_parser_offer_page_product_not_found_0():
 
 @pytest.mark.unit
 def test_parser_offer_page_product_not_found_1():
-    import pathlib
-
     dir = pathlib.Path(__file__).parent.resolve()
     with open(f"{dir}/data/product_not_found_1.html", "r") as f:
         soup = bs4.BeautifulSoup(f, "html.parser")
@@ -194,8 +206,6 @@ def test_parser_offer_page_product_not_found_1():
 
 @pytest.mark.unit
 def test_parser_offer_page_usd_currency():
-    import pathlib
-
     dir = pathlib.Path(__file__).parent.resolve()
     with open(f"{dir}/data/usd_currency.html", "r") as f:
         soup = bs4.BeautifulSoup(f, "html.parser")
@@ -213,16 +223,18 @@ def test_parser_offer_page_usd_currency():
         "price": 4154,
         "currency": "USD",
         "stock_status": "in_stock",
-        "metadata": {
-            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS2tFVHDdo52LocsfffA8q-lM_vOSlyiln3rB_FjLv_RYXLOTD1okoVmIO12nJ8XasAZ3nk2hDeUSs4aF9qmfAp0e6lEJtP3WnWGpbcl94FJeuz7OaNOjbxcw&usqp=CAY"
-        },
+        "metadata": json.dumps(
+            {
+                "images": [
+                    "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS2tFVHDdo52LocsfffA8q-lM_vOSlyiln3rB_FjLv_RYXLOTD1okoVmIO12nJ8XasAZ3nk2hDeUSs4aF9qmfAp0e6lEJtP3WnWGpbcl94FJeuz7OaNOjbxcw&usqp=CAY"
+                ]
+            }
+        ),
     }
 
 
 @pytest.mark.unit
 def test_parser_offer_page_zero_price():
-    import pathlib
-
     dir = pathlib.Path(__file__).parent.resolve()
     with open(f"{dir}/data/zero_price.html", "r") as f:
         soup = bs4.BeautifulSoup(f, "html.parser")
@@ -237,8 +249,6 @@ def test_parser_offer_page_zero_price():
 
 @pytest.mark.unit
 def test_parser_offer_page_no_content():
-    import pathlib
-
     dir = pathlib.Path(__file__).parent.resolve()
     with open(f"{dir}/data/no_content.html", "r") as f:
         soup = bs4.BeautifulSoup(f, "html.parser")
@@ -250,8 +260,6 @@ def test_parser_offer_page_no_content():
 
 @pytest.mark.unit
 def test_parser_offer_page_almost_no_content():
-    import pathlib
-
     dir = pathlib.Path(__file__).parent.resolve()
     with open(f"{dir}/data/almost_no_content.html", "r") as f:
         soup = bs4.BeautifulSoup(f, "html.parser")
@@ -263,8 +271,6 @@ def test_parser_offer_page_almost_no_content():
 
 @pytest.mark.unit
 def test_get_image_variant_0():
-    import pathlib
-
     dir = pathlib.Path(__file__).parent.resolve()
     with open(f"{dir}/data/variant_0.html", "r") as f:
         soup = bs4.BeautifulSoup(f, "html.parser")
@@ -272,16 +278,15 @@ def test_get_image_variant_0():
     offers = parser.parser_offer_page(soup, "NL")
 
     for offer in offers:
+        offer_metadata_dict = json.loads(offer["metadata"])
         assert (
-            offer["metadata"]["image"]
+            offer_metadata_dict["images"][0]
             == "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRRI8YV7Fx14oOr8dR0XXmpWDy-kiQqEv79YUfcO2gjjTGIKsPHtMy-9gkO9HJLRKGLhPP67xI&usqp=CAY"
         )
 
 
 @pytest.mark.unit
 def test_server_error():
-    import pathlib
-
     dir = pathlib.Path(__file__).parent.resolve()
     with open(f"{dir}/data/server_error.html", "r") as f:
         soup = bs4.BeautifulSoup(f, "html.parser")

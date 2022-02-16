@@ -1,0 +1,1278 @@
+{
+    "filteredOfferList": {
+        "offerCount": 20,
+        "linkCount": 13,
+        "minPrice": {
+            "amount": "4790.00",
+            "currency": "SEK"
+        },
+        "maxPrice": {
+            "amount": "6017.00",
+            "currency": "SEK"
+        },
+        "merchants": {
+            "40076": {
+                "id": "40076",
+                "url": "/ri/40076/Proshop",
+                "name": "Proshop",
+                "logo": {
+                    "name": "proshop600x200.png"
+                },
+                "safeBuy": false,
+                "addedValues": {
+                    "ADDED_VALUES_CERTIFICATIONS": [
+                        "1001"
+                    ],
+                    "ADDED_VALUES_PAYMENT_METHOD": [
+                        "3001",
+                        "3006",
+                        "3002",
+                        "3003"
+                    ],
+                    "ADDED_VALUES_SERVICE_OFFERS": [
+                        "4007",
+                        "4011"
+                    ]
+                },
+                "paymentMethods": [
+                    {
+                        "name": "Klarna",
+                        "logo": "/images/logos/addedvalues/3001-1327452685.png"
+                    },
+                    {
+                        "name": "Swish",
+                        "logo": "/images/logos/addedvalues/3006-1214221329.png"
+                    },
+                    {
+                        "name": "Visa",
+                        "logo": "/images/logos/addedvalues/3002-102401089.png"
+                    },
+                    {
+                        "name": "Mastercard",
+                        "logo": "/images/logos/addedvalues/3003-32039491.png"
+                    }
+                ],
+                "certificates": [
+                    {
+                        "name": "Trygg E-handel",
+                        "logo": "/images/logos/addedvalues/1001-1596858449.png"
+                    }
+                ],
+                "country": null,
+                "rating": {
+                    "count": 1288,
+                    "average": "4.6"
+                },
+                "lastOrderDateBeforeHolidayDelivery": null,
+                "lastOrderBeforeHolidayDelivery": null,
+                "certified": false,
+                "verified": true,
+                "clickable": true,
+                "urlHandling": "NONE"
+            },
+            "2091": {
+                "id": "2091",
+                "url": "/ri/2091/FotoKungen",
+                "name": "FotoKungen",
+                "logo": {
+                    "name": "fotokungen600200.png"
+                },
+                "safeBuy": false,
+                "addedValues": {
+                    "ADDED_VALUES_PAYMENT_METHOD": [
+                        "3002",
+                        "3003",
+                        "3007"
+                    ]
+                },
+                "paymentMethods": [
+                    {
+                        "name": "Visa",
+                        "logo": "/images/logos/addedvalues/3002-102401089.png"
+                    },
+                    {
+                        "name": "Mastercard",
+                        "logo": "/images/logos/addedvalues/3003-32039491.png"
+                    },
+                    {
+                        "name": "Delbetalning",
+                        "logo": null
+                    }
+                ],
+                "certificates": [],
+                "country": null,
+                "rating": null,
+                "lastOrderDateBeforeHolidayDelivery": null,
+                "lastOrderBeforeHolidayDelivery": null,
+                "certified": true,
+                "verified": true,
+                "clickable": true,
+                "urlHandling": "NONE"
+            },
+            "106353": {
+                "id": "106353",
+                "url": "/ri/106353/Goecker",
+                "name": "Goecker",
+                "logo": {
+                    "name": "106353-1638842972.png"
+                },
+                "safeBuy": false,
+                "addedValues": {
+                    "ADDED_VALUES_PAYMENT_METHOD": [
+                        "3002",
+                        "3003",
+                        "3013"
+                    ],
+                    "ADDED_VALUES_SERVICE_OFFERS": [
+                        "4007"
+                    ]
+                },
+                "paymentMethods": [
+                    {
+                        "name": "Visa",
+                        "logo": "/images/logos/addedvalues/3002-102401089.png"
+                    },
+                    {
+                        "name": "Mastercard",
+                        "logo": "/images/logos/addedvalues/3003-32039491.png"
+                    },
+                    {
+                        "name": "Direktbetalning",
+                        "logo": null
+                    }
+                ],
+                "certificates": [],
+                "country": null,
+                "rating": null,
+                "lastOrderDateBeforeHolidayDelivery": null,
+                "lastOrderBeforeHolidayDelivery": null,
+                "certified": true,
+                "verified": true,
+                "clickable": true,
+                "urlHandling": "NONE"
+            },
+            "112488": {
+                "id": "112488",
+                "url": "/ri/112488/Amazon.se",
+                "name": "Amazon.se",
+                "logo": {
+                    "name": "112488-1577876687.png"
+                },
+                "safeBuy": false,
+                "addedValues": null,
+                "paymentMethods": [],
+                "certificates": [],
+                "country": null,
+                "rating": null,
+                "lastOrderDateBeforeHolidayDelivery": null,
+                "lastOrderBeforeHolidayDelivery": null,
+                "certified": false,
+                "verified": false,
+                "clickable": false,
+                "urlHandling": "NONE"
+            },
+            "49": {
+                "id": "49",
+                "url": "/ri/49/CyberPhoto",
+                "name": "CyberPhoto",
+                "logo": {
+                    "name": "cyberphoto600200.png"
+                },
+                "safeBuy": false,
+                "addedValues": {
+                    "ADDED_VALUES_CERTIFICATIONS": [
+                        "1001"
+                    ],
+                    "ADDED_VALUES_PAYMENT_METHOD": [
+                        "3006",
+                        "3015",
+                        "3002",
+                        "3003",
+                        "3013",
+                        "3007"
+                    ],
+                    "ADDED_VALUES_SERVICE_OFFERS": [
+                        "4007"
+                    ]
+                },
+                "paymentMethods": [
+                    {
+                        "name": "Swish",
+                        "logo": "/images/logos/addedvalues/3006-1214221329.png"
+                    },
+                    {
+                        "name": "Svea",
+                        "logo": "/images/logos/addedvalues/3015-73253827.png"
+                    },
+                    {
+                        "name": "Visa",
+                        "logo": "/images/logos/addedvalues/3002-102401089.png"
+                    },
+                    {
+                        "name": "Mastercard",
+                        "logo": "/images/logos/addedvalues/3003-32039491.png"
+                    },
+                    {
+                        "name": "Direktbetalning",
+                        "logo": null
+                    },
+                    {
+                        "name": "Delbetalning",
+                        "logo": null
+                    }
+                ],
+                "certificates": [
+                    {
+                        "name": "Trygg E-handel",
+                        "logo": "/images/logos/addedvalues/1001-1596858449.png"
+                    }
+                ],
+                "country": null,
+                "rating": {
+                    "count": 21,
+                    "average": "4.8"
+                },
+                "lastOrderDateBeforeHolidayDelivery": null,
+                "lastOrderBeforeHolidayDelivery": null,
+                "certified": true,
+                "verified": true,
+                "clickable": true,
+                "urlHandling": "NONE"
+            },
+            "15001": {
+                "id": "15001",
+                "url": "/ri/15001/Dustin-Home",
+                "name": "Dustin Home",
+                "logo": {
+                    "name": "Dustinhome_logopricerunner.png"
+                },
+                "safeBuy": true,
+                "addedValues": {
+                    "ADDED_VALUES_SHIPPING_CONTRACTS": [
+                        "5001"
+                    ],
+                    "ADDED_VALUES_CERTIFICATIONS": [
+                        "1001"
+                    ],
+                    "ADDED_VALUES_PAYMENT_METHOD": [
+                        "3001",
+                        "3002",
+                        "3003"
+                    ],
+                    "ADDED_VALUES_FINANCING_CONTRACT": [
+                        "2001"
+                    ],
+                    "ADDED_VALUES_SERVICE_OFFERS": [
+                        "4007"
+                    ]
+                },
+                "paymentMethods": [
+                    {
+                        "name": "Klarna",
+                        "logo": "/images/logos/addedvalues/3001-1327452685.png"
+                    },
+                    {
+                        "name": "Visa",
+                        "logo": "/images/logos/addedvalues/3002-102401089.png"
+                    },
+                    {
+                        "name": "Mastercard",
+                        "logo": "/images/logos/addedvalues/3003-32039491.png"
+                    }
+                ],
+                "certificates": [
+                    {
+                        "name": "Trygg E-handel",
+                        "logo": "/images/logos/addedvalues/1001-1596858449.png"
+                    }
+                ],
+                "country": null,
+                "rating": null,
+                "lastOrderDateBeforeHolidayDelivery": null,
+                "lastOrderBeforeHolidayDelivery": null,
+                "certified": true,
+                "verified": true,
+                "clickable": true,
+                "urlHandling": "NONE"
+            },
+            "3097": {
+                "id": "3097",
+                "url": "/ri/3097/Nybro-Foto",
+                "name": "Nybro Foto",
+                "logo": null,
+                "safeBuy": false,
+                "addedValues": null,
+                "paymentMethods": [],
+                "certificates": [],
+                "country": null,
+                "rating": null,
+                "lastOrderDateBeforeHolidayDelivery": null,
+                "lastOrderBeforeHolidayDelivery": null,
+                "certified": true,
+                "verified": false,
+                "clickable": false,
+                "urlHandling": "NONE"
+            },
+            "47704": {
+                "id": "47704",
+                "url": "/ri/47704/SS-Foto",
+                "name": "SS Foto",
+                "logo": {
+                    "name": "ssfoto.png"
+                },
+                "safeBuy": false,
+                "addedValues": {
+                    "ADDED_VALUES_PAYMENT_METHOD": [
+                        "3001",
+                        "3009",
+                        "3014"
+                    ]
+                },
+                "paymentMethods": [
+                    {
+                        "name": "Klarna",
+                        "logo": "/images/logos/addedvalues/3001-1327452685.png"
+                    },
+                    {
+                        "name": "PayPal",
+                        "logo": "/images/logos/addedvalues/3009-941243781.png"
+                    },
+                    {
+                        "name": "Payson",
+                        "logo": "/images/logos/addedvalues/3014-1202177913.png"
+                    }
+                ],
+                "certificates": [],
+                "country": null,
+                "rating": null,
+                "lastOrderDateBeforeHolidayDelivery": null,
+                "lastOrderBeforeHolidayDelivery": null,
+                "certified": false,
+                "verified": false,
+                "clickable": false,
+                "urlHandling": "NONE"
+            },
+            "2093": {
+                "id": "2093",
+                "url": "/ri/2093/Gunnar-Olssons-Foto-AB",
+                "name": "Gunnar Olssons Foto AB",
+                "logo": {
+                    "name": "2093-263060384.png"
+                },
+                "safeBuy": false,
+                "addedValues": {
+                    "ADDED_VALUES_PAYMENT_METHOD": [
+                        "3016",
+                        "3002",
+                        "3003",
+                        "3007"
+                    ],
+                    "ADDED_VALUES_SERVICE_OFFERS": [
+                        "4007"
+                    ]
+                },
+                "paymentMethods": [
+                    {
+                        "name": "Trustly",
+                        "logo": "/images/logos/addedvalues/3016-1455413706.png"
+                    },
+                    {
+                        "name": "Visa",
+                        "logo": "/images/logos/addedvalues/3002-102401089.png"
+                    },
+                    {
+                        "name": "Mastercard",
+                        "logo": "/images/logos/addedvalues/3003-32039491.png"
+                    },
+                    {
+                        "name": "Delbetalning",
+                        "logo": null
+                    },
+                    {
+                        "name": "Collector",
+                        "logo": "/images/logos/addedvalues/2011-2032982130.png"
+                    }
+                ],
+                "certificates": [],
+                "country": null,
+                "rating": null,
+                "lastOrderDateBeforeHolidayDelivery": null,
+                "lastOrderBeforeHolidayDelivery": null,
+                "certified": true,
+                "verified": true,
+                "clickable": true,
+                "urlHandling": "NONE"
+            },
+            "76055": {
+                "id": "76055",
+                "url": "/ri/76055/Mattssons-Foto",
+                "name": "Mattssons Foto",
+                "logo": null,
+                "safeBuy": false,
+                "addedValues": null,
+                "paymentMethods": [],
+                "certificates": [],
+                "country": null,
+                "rating": null,
+                "lastOrderDateBeforeHolidayDelivery": null,
+                "lastOrderBeforeHolidayDelivery": null,
+                "certified": true,
+                "verified": false,
+                "clickable": false,
+                "urlHandling": "NONE"
+            },
+            "2975": {
+                "id": "2975",
+                "url": "/ri/2975/Hegethorns-Foto-AB",
+                "name": "Hegethorns Foto AB",
+                "logo": {
+                    "name": "2975-1957018642.png"
+                },
+                "safeBuy": false,
+                "addedValues": {
+                    "ADDED_VALUES_CERTIFICATIONS": [
+                        "1001"
+                    ],
+                    "ADDED_VALUES_PAYMENT_METHOD": [
+                        "3001",
+                        "3006",
+                        "3002",
+                        "3003",
+                        "3013",
+                        "3007"
+                    ],
+                    "ADDED_VALUES_SERVICE_OFFERS": [
+                        "4007"
+                    ]
+                },
+                "paymentMethods": [
+                    {
+                        "name": "Klarna",
+                        "logo": "/images/logos/addedvalues/3001-1327452685.png"
+                    },
+                    {
+                        "name": "Swish",
+                        "logo": "/images/logos/addedvalues/3006-1214221329.png"
+                    },
+                    {
+                        "name": "Visa",
+                        "logo": "/images/logos/addedvalues/3002-102401089.png"
+                    },
+                    {
+                        "name": "Mastercard",
+                        "logo": "/images/logos/addedvalues/3003-32039491.png"
+                    },
+                    {
+                        "name": "Direktbetalning",
+                        "logo": null
+                    },
+                    {
+                        "name": "Delbetalning",
+                        "logo": null
+                    },
+                    {
+                        "name": "SANTANDER",
+                        "logo": "/images/logos/addedvalues/2002-594436729.png"
+                    }
+                ],
+                "certificates": [
+                    {
+                        "name": "Trygg E-handel",
+                        "logo": "/images/logos/addedvalues/1001-1596858449.png"
+                    }
+                ],
+                "country": null,
+                "rating": {
+                    "count": 3,
+                    "average": "5.0"
+                },
+                "lastOrderDateBeforeHolidayDelivery": null,
+                "lastOrderBeforeHolidayDelivery": null,
+                "certified": false,
+                "verified": true,
+                "clickable": true,
+                "urlHandling": "NONE"
+            },
+            "50484": {
+                "id": "50484",
+                "url": "/ri/50484/Goetaplatsens-Foto",
+                "name": "G\u00f6taplatsens Foto",
+                "logo": {
+                    "name": "GotaplatsensFoto.png"
+                },
+                "safeBuy": false,
+                "addedValues": {
+                    "ADDED_VALUES_PAYMENT_METHOD": [
+                        "3012",
+                        "3002",
+                        "3003"
+                    ],
+                    "ADDED_VALUES_SERVICE_OFFERS": [
+                        "4007"
+                    ]
+                },
+                "paymentMethods": [
+                    {
+                        "name": "Dibs",
+                        "logo": "/images/logos/addedvalues/3012-1735095568.png"
+                    },
+                    {
+                        "name": "Visa",
+                        "logo": "/images/logos/addedvalues/3002-102401089.png"
+                    },
+                    {
+                        "name": "Mastercard",
+                        "logo": "/images/logos/addedvalues/3003-32039491.png"
+                    }
+                ],
+                "certificates": [],
+                "country": null,
+                "rating": null,
+                "lastOrderDateBeforeHolidayDelivery": null,
+                "lastOrderBeforeHolidayDelivery": null,
+                "certified": true,
+                "verified": true,
+                "clickable": true,
+                "urlHandling": "NONE"
+            },
+            "86787": {
+                "id": "86787",
+                "url": "/ri/86787/Power-SE",
+                "name": "Power SE",
+                "logo": {
+                    "name": "86787-1144941072.png"
+                },
+                "safeBuy": false,
+                "addedValues": {
+                    "ADDED_VALUES_PAYMENT_METHOD": [
+                        "3001",
+                        "3006",
+                        "3002",
+                        "3003",
+                        "3013",
+                        "3007"
+                    ],
+                    "ADDED_VALUES_SERVICE_OFFERS": [
+                        "4006",
+                        "4007",
+                        "4011"
+                    ]
+                },
+                "paymentMethods": [
+                    {
+                        "name": "Klarna",
+                        "logo": "/images/logos/addedvalues/3001-1327452685.png"
+                    },
+                    {
+                        "name": "Swish",
+                        "logo": "/images/logos/addedvalues/3006-1214221329.png"
+                    },
+                    {
+                        "name": "Visa",
+                        "logo": "/images/logos/addedvalues/3002-102401089.png"
+                    },
+                    {
+                        "name": "Mastercard",
+                        "logo": "/images/logos/addedvalues/3003-32039491.png"
+                    },
+                    {
+                        "name": "Direktbetalning",
+                        "logo": null
+                    },
+                    {
+                        "name": "Delbetalning",
+                        "logo": null
+                    }
+                ],
+                "certificates": [],
+                "country": null,
+                "rating": {
+                    "count": 78,
+                    "average": "4.7"
+                },
+                "lastOrderDateBeforeHolidayDelivery": null,
+                "lastOrderBeforeHolidayDelivery": null,
+                "certified": true,
+                "verified": true,
+                "clickable": true,
+                "urlHandling": "NONE"
+            },
+            "87985": {
+                "id": "87985",
+                "url": "/ri/87985/Ernstsonfoto",
+                "name": "Ernstsonfoto",
+                "logo": null,
+                "safeBuy": false,
+                "addedValues": null,
+                "paymentMethods": [],
+                "certificates": [],
+                "country": null,
+                "rating": null,
+                "lastOrderDateBeforeHolidayDelivery": null,
+                "lastOrderBeforeHolidayDelivery": null,
+                "certified": true,
+                "verified": false,
+                "clickable": false,
+                "urlHandling": "NONE"
+            },
+            "47672": {
+                "id": "47672",
+                "url": "/ri/47672/Uppsala-Foto-Kompani",
+                "name": "Uppsala Foto Kompani",
+                "logo": null,
+                "safeBuy": false,
+                "addedValues": null,
+                "paymentMethods": [],
+                "certificates": [],
+                "country": null,
+                "rating": null,
+                "lastOrderDateBeforeHolidayDelivery": null,
+                "lastOrderBeforeHolidayDelivery": null,
+                "certified": true,
+                "verified": false,
+                "clickable": false,
+                "urlHandling": "NONE"
+            },
+            "54658": {
+                "id": "54658",
+                "url": "/ri/54658/B.A.-Foto",
+                "name": "B.A. Foto",
+                "logo": null,
+                "safeBuy": false,
+                "addedValues": null,
+                "paymentMethods": [],
+                "certificates": [],
+                "country": null,
+                "rating": null,
+                "lastOrderDateBeforeHolidayDelivery": null,
+                "lastOrderBeforeHolidayDelivery": null,
+                "certified": false,
+                "verified": false,
+                "clickable": false,
+                "urlHandling": "NONE"
+            },
+            "108": {
+                "id": "108",
+                "url": "/ri/108/Elon",
+                "name": "Elon",
+                "logo": {
+                    "name": "elon.jpg"
+                },
+                "safeBuy": false,
+                "addedValues": {
+                    "ADDED_VALUES_PAYMENT_METHOD": [
+                        "3001",
+                        "3002",
+                        "3003",
+                        "3013",
+                        "3007"
+                    ],
+                    "ADDED_VALUES_SERVICE_OFFERS": [
+                        "4007"
+                    ]
+                },
+                "paymentMethods": [
+                    {
+                        "name": "Klarna",
+                        "logo": "/images/logos/addedvalues/3001-1327452685.png"
+                    },
+                    {
+                        "name": "Visa",
+                        "logo": "/images/logos/addedvalues/3002-102401089.png"
+                    },
+                    {
+                        "name": "Mastercard",
+                        "logo": "/images/logos/addedvalues/3003-32039491.png"
+                    },
+                    {
+                        "name": "Direktbetalning",
+                        "logo": null
+                    },
+                    {
+                        "name": "Delbetalning",
+                        "logo": null
+                    }
+                ],
+                "certificates": [],
+                "country": null,
+                "rating": {
+                    "count": 1464,
+                    "average": "4.7"
+                },
+                "lastOrderDateBeforeHolidayDelivery": null,
+                "lastOrderBeforeHolidayDelivery": null,
+                "certified": true,
+                "verified": true,
+                "clickable": true,
+                "urlHandling": "NONE"
+            },
+            "50": {
+                "id": "50",
+                "url": "/ri/50/Scandinavian-Photo",
+                "name": "Scandinavian Photo",
+                "logo": {
+                    "name": "scandinavianphoto600200.png"
+                },
+                "safeBuy": false,
+                "addedValues": {
+                    "ADDED_VALUES_PAYMENT_METHOD": [
+                        "3006",
+                        "3015",
+                        "3002",
+                        "3003",
+                        "3013",
+                        "3007"
+                    ],
+                    "ADDED_VALUES_SERVICE_OFFERS": [
+                        "4007"
+                    ]
+                },
+                "paymentMethods": [
+                    {
+                        "name": "Swish",
+                        "logo": "/images/logos/addedvalues/3006-1214221329.png"
+                    },
+                    {
+                        "name": "American Express",
+                        "logo": "/images/logos/addedvalues/3004-253760492.png"
+                    },
+                    {
+                        "name": "Svea",
+                        "logo": "/images/logos/addedvalues/3015-73253827.png"
+                    },
+                    {
+                        "name": "Visa",
+                        "logo": "/images/logos/addedvalues/3002-102401089.png"
+                    },
+                    {
+                        "name": "Mastercard",
+                        "logo": "/images/logos/addedvalues/3003-32039491.png"
+                    },
+                    {
+                        "name": "Direktbetalning",
+                        "logo": null
+                    },
+                    {
+                        "name": "Delbetalning",
+                        "logo": null
+                    }
+                ],
+                "certificates": [
+                    {
+                        "name": "Trygg E-handel",
+                        "logo": "/images/logos/addedvalues/1001-1596858449.png"
+                    }
+                ],
+                "country": null,
+                "rating": null,
+                "lastOrderDateBeforeHolidayDelivery": null,
+                "lastOrderBeforeHolidayDelivery": null,
+                "certified": true,
+                "verified": true,
+                "clickable": true,
+                "urlHandling": "NONE"
+            },
+            "68771": {
+                "id": "68771",
+                "url": "/ri/68771/Panasonic-Shop",
+                "name": "Panasonic Shop",
+                "logo": {
+                    "name": "panasonic150x50.jpg"
+                },
+                "safeBuy": false,
+                "addedValues": {
+                    "ADDED_VALUES_PAYMENT_METHOD": [
+                        "3004",
+                        "3009",
+                        "3002",
+                        "3003"
+                    ]
+                },
+                "paymentMethods": [
+                    {
+                        "name": "American Express",
+                        "logo": "/images/logos/addedvalues/3004-253760492.png"
+                    },
+                    {
+                        "name": "PayPal",
+                        "logo": "/images/logos/addedvalues/3009-941243781.png"
+                    },
+                    {
+                        "name": "Visa",
+                        "logo": "/images/logos/addedvalues/3002-102401089.png"
+                    },
+                    {
+                        "name": "Mastercard",
+                        "logo": "/images/logos/addedvalues/3003-32039491.png"
+                    }
+                ],
+                "certificates": [],
+                "country": null,
+                "rating": {
+                    "count": 6,
+                    "average": "2.2"
+                },
+                "lastOrderDateBeforeHolidayDelivery": null,
+                "lastOrderBeforeHolidayDelivery": null,
+                "certified": false,
+                "verified": true,
+                "clickable": true,
+                "urlHandling": "NONE"
+            }
+        },
+        "merchantOffers": [
+            {
+                "merchantId": "2091",
+                "price": {
+                    "amount": "4790.00",
+                    "currency": "SEK"
+                },
+                "shipping": {
+                    "amount": "0.00",
+                    "currency": "SEK"
+                },
+                "delivery": null,
+                "offers": [
+                    {
+                        "id": "2091_106753",
+                        "url": "/gotostore/v1/SE/2091_106753?productId=3345033",
+                        "name": "Panasonic LUMIX DMC-LX15",
+                        "stockStatus": "IN_STOCK"
+                    }
+                ]
+            },
+            {
+                "merchantId": "112488",
+                "price": {
+                    "amount": "4911.69",
+                    "currency": "SEK"
+                },
+                "shipping": {
+                    "amount": "0.00",
+                    "currency": "SEK"
+                },
+                "delivery": null,
+                "offers": [
+                    {
+                        "id": "112488_B01LZ89X0M",
+                        "url": "/gotostore/v1/SE/112488_B01LZ89X0M?productId=3345033",
+                        "name": "Panasonic Lumix LX15 Kamera, Svart",
+                        "stockStatus": "UNKNOWN"
+                    }
+                ]
+            },
+            {
+                "merchantId": "86787",
+                "price": {
+                    "amount": "4990.00",
+                    "currency": "SEK"
+                },
+                "shipping": {
+                    "amount": "0.00",
+                    "currency": "SEK"
+                },
+                "delivery": {
+                    "minDays": 1,
+                    "maxDays": 2
+                },
+                "offers": [
+                    {
+                        "id": "86787_489055",
+                        "url": "/gotostore/v1/SE/86787_489055?productId=3345033",
+                        "name": "PANASONIC LUMIX DMC-LX15 KAMERA SVART",
+                        "stockStatus": "IN_STOCK"
+                    }
+                ]
+            },
+            {
+                "merchantId": "50",
+                "price": {
+                    "amount": "4990.00",
+                    "currency": "SEK"
+                },
+                "shipping": {
+                    "amount": "0.00",
+                    "currency": "SEK"
+                },
+                "delivery": null,
+                "offers": [
+                    {
+                        "id": "50_1029070",
+                        "url": "/gotostore/v1/SE/50_1029070?productId=3345033",
+                        "name": "Lumix DMC-LX15 svart",
+                        "stockStatus": "IN_STOCK"
+                    }
+                ]
+            },
+            {
+                "merchantId": "2091",
+                "price": {
+                    "amount": "4990.00",
+                    "currency": "SEK"
+                },
+                "shipping": {
+                    "amount": "0.00",
+                    "currency": "SEK"
+                },
+                "delivery": null,
+                "offers": [
+                    {
+                        "id": "2091_P106753",
+                        "url": "/gotostore/v1/SE/2091_P106753?productId=3345033",
+                        "name": "Panasonic LUMIX DMC-LX15 inkl. extra batteri",
+                        "stockStatus": "IN_STOCK"
+                    }
+                ]
+            },
+            {
+                "merchantId": "15001",
+                "price": {
+                    "amount": "5085.00",
+                    "currency": "SEK"
+                },
+                "shipping": {
+                    "amount": "0.00",
+                    "currency": "SEK"
+                },
+                "delivery": null,
+                "offers": [
+                    {
+                        "id": "15001_5010979677",
+                        "url": "/gotostore/v1/SE/15001_5010979677?productId=3345033",
+                        "name": "Panasonic Lumix Dmc-lx15",
+                        "stockStatus": "IN_STOCK"
+                    }
+                ]
+            },
+            {
+                "merchantId": "49",
+                "price": {
+                    "amount": "5490.00",
+                    "currency": "SEK"
+                },
+                "shipping": {
+                    "amount": "0.00",
+                    "currency": "SEK"
+                },
+                "delivery": {
+                    "minDays": 1,
+                    "maxDays": 3
+                },
+                "offers": [
+                    {
+                        "id": "49_LX15",
+                        "url": "/gotostore/v1/SE/49_LX15?productId=3345033",
+                        "name": "Lumix DMC-LX15 svart",
+                        "stockStatus": "IN_STOCK"
+                    }
+                ]
+            },
+            {
+                "merchantId": "108",
+                "price": {
+                    "amount": "5490.00",
+                    "currency": "SEK"
+                },
+                "shipping": {
+                    "amount": "0.00",
+                    "currency": "SEK"
+                },
+                "delivery": {
+                    "minDays": 2,
+                    "maxDays": 5
+                },
+                "offers": [
+                    {
+                        "id": "108_207A652540",
+                        "url": "/gotostore/v1/SE/108_207A652540?productId=3345033",
+                        "name": "Panasonic DMC-LX15EP-K",
+                        "stockStatus": "IN_STOCK"
+                    }
+                ]
+            },
+            {
+                "merchantId": "2975",
+                "price": {
+                    "amount": "5490.00",
+                    "currency": "SEK"
+                },
+                "shipping": {
+                    "amount": "0.00",
+                    "currency": "SEK"
+                },
+                "delivery": null,
+                "offers": [
+                    {
+                        "id": "2975_5025232855384",
+                        "url": "/gotostore/v1/SE/2975_5025232855384?productId=3345033",
+                        "name": "Panasonic Lumix DMC-LX15",
+                        "stockStatus": "OUT_OF_STOCK"
+                    }
+                ]
+            },
+            {
+                "merchantId": "68771",
+                "price": {
+                    "amount": "5490.00",
+                    "currency": "SEK"
+                },
+                "shipping": {
+                    "amount": "0.00",
+                    "currency": "SEK"
+                },
+                "delivery": null,
+                "offers": [
+                    {
+                        "id": "68771_DMC-LX15EP-K,sv_SE,pd",
+                        "url": "/gotostore/v1/SE/68771_DMC-LX15EP-K%2Csv_SE%2Cpd?productId=3345033",
+                        "name": "DMC-LX15EP-K F\u00f6rstklassig kompaktkamera med f/1,4-2,8 24-72 mm LEICA DC-objektiv, 1-tums sensor ...",
+                        "stockStatus": "OUT_OF_STOCK"
+                    }
+                ]
+            },
+            {
+                "merchantId": "2093",
+                "price": {
+                    "amount": "5490.00",
+                    "currency": "SEK"
+                },
+                "shipping": {
+                    "amount": "95.00",
+                    "currency": "SEK"
+                },
+                "delivery": null,
+                "offers": [
+                    {
+                        "id": "2093_0168005454",
+                        "url": "/gotostore/v1/SE/2093_0168005454?productId=3345033",
+                        "name": "Panasonic Lumix DMC-LX15",
+                        "stockStatus": "OUT_OF_STOCK"
+                    }
+                ]
+            },
+            {
+                "merchantId": "50484",
+                "price": {
+                    "amount": "5490.00",
+                    "currency": "SEK"
+                },
+                "shipping": {
+                    "amount": "119.00",
+                    "currency": "SEK"
+                },
+                "delivery": null,
+                "offers": [
+                    {
+                        "id": "50484_0207009382",
+                        "url": "/gotostore/v1/SE/50484_0207009382?productId=3345033",
+                        "name": "Panasonic Lumix DMC-LX15 Svart",
+                        "stockStatus": "IN_STOCK"
+                    }
+                ]
+            },
+            {
+                "merchantId": "3097",
+                "price": {
+                    "amount": "5490.00",
+                    "currency": "SEK"
+                },
+                "shipping": {
+                    "amount": "0.00",
+                    "currency": "SEK"
+                },
+                "delivery": null,
+                "offers": [
+                    {
+                        "id": "3097_84425129",
+                        "url": "/gotostore/v1/SE/3097_84425129?productId=3345033",
+                        "name": "Panasonic Lumix DMC-LX15",
+                        "stockStatus": "IN_STOCK"
+                    }
+                ]
+            },
+            {
+                "merchantId": "47672",
+                "price": {
+                    "amount": "5490.00",
+                    "currency": "SEK"
+                },
+                "shipping": {
+                    "amount": "0.00",
+                    "currency": "SEK"
+                },
+                "delivery": null,
+                "offers": [
+                    {
+                        "id": "47672_108309514",
+                        "url": "/gotostore/v1/SE/47672_108309514?productId=3345033",
+                        "name": "LUMIX DMC LX15 PANASONIC",
+                        "stockStatus": "OUT_OF_STOCK"
+                    }
+                ]
+            },
+            {
+                "merchantId": "76055",
+                "price": {
+                    "amount": "5490.00",
+                    "currency": "SEK"
+                },
+                "shipping": {
+                    "amount": "0.00",
+                    "currency": "SEK"
+                },
+                "delivery": null,
+                "offers": [
+                    {
+                        "id": "76055_0169013886",
+                        "url": "/gotostore/v1/SE/76055_0169013886?productId=3345033",
+                        "name": "Panasonic Lumix DMC-LX15",
+                        "stockStatus": "UNKNOWN"
+                    }
+                ]
+            },
+            {
+                "merchantId": "87985",
+                "price": {
+                    "amount": "5490.00",
+                    "currency": "SEK"
+                },
+                "shipping": {
+                    "amount": "0.00",
+                    "currency": "SEK"
+                },
+                "delivery": null,
+                "offers": [
+                    {
+                        "id": "87985_Panasonic-Lumix-Lx15",
+                        "url": "/gotostore/v1/SE/87985_Panasonic-Lumix-Lx15?productId=3345033",
+                        "name": "PANASONIC LUMIX LX15",
+                        "stockStatus": "UNKNOWN"
+                    }
+                ]
+            },
+            {
+                "merchantId": "47704",
+                "price": {
+                    "amount": "5490.00",
+                    "currency": "SEK"
+                },
+                "shipping": {
+                    "amount": "69.00",
+                    "currency": "SEK"
+                },
+                "delivery": null,
+                "offers": [
+                    {
+                        "id": "47704_100072146",
+                        "url": "/gotostore/v1/SE/47704_100072146?productId=3345033",
+                        "name": "Panasonic Lumix DMC-LX15",
+                        "stockStatus": "IN_STOCK"
+                    }
+                ]
+            },
+            {
+                "merchantId": "54658",
+                "price": {
+                    "amount": "5495.00",
+                    "currency": "SEK"
+                },
+                "shipping": {
+                    "amount": "85.00",
+                    "currency": "SEK"
+                },
+                "delivery": null,
+                "offers": [
+                    {
+                        "id": "54658_panasonic-lumix-lx15",
+                        "url": "/gotostore/v1/SE/54658_panasonic-lumix-lx15?productId=3345033",
+                        "name": "Panasonic Lumix LX15",
+                        "stockStatus": "IN_STOCK"
+                    }
+                ]
+            },
+            {
+                "merchantId": "106353",
+                "price": {
+                    "amount": "5657.50",
+                    "currency": "SEK"
+                },
+                "shipping": {
+                    "amount": "140.00",
+                    "currency": "SEK"
+                },
+                "delivery": null,
+                "offers": [
+                    {
+                        "id": "106353_panasonic-lumix-dmc-lx15-panlx15",
+                        "url": "/gotostore/v1/SE/106353_panasonic-lumix-dmc-lx15-panlx15?productId=3345033",
+                        "name": "PANASONIC LUMIX DMC-LX15",
+                        "stockStatus": "IN_STOCK"
+                    }
+                ]
+            },
+            {
+                "merchantId": "40076",
+                "price": {
+                    "amount": "6017.00",
+                    "currency": "SEK"
+                },
+                "shipping": {
+                    "amount": "0.00",
+                    "currency": "SEK"
+                },
+                "delivery": {
+                    "minDays": 4,
+                    "maxDays": 5
+                },
+                "offers": [
+                    {
+                        "id": "40076_2625867",
+                        "url": "/gotostore/v1/SE/40076_2625867?productId=3345033",
+                        "name": "Panasonic Lumix DMC-LX15 - Black",
+                        "stockStatus": "IN_STOCK"
+                    }
+                ]
+            }
+        ]
+    },
+    "excludedOfferList": {
+        "offerCount": 0,
+        "linkCount": 0,
+        "minPrice": null,
+        "maxPrice": null,
+        "merchants": {},
+        "merchantOffers": []
+    },
+    "images": [
+        {
+            "id": "1817699856",
+            "path": "/product/1817699856/Panasonic-Lumix-DMC-LX15.jpg",
+            "description": "Panasonic Lumix DMC-LX15"
+        },
+        {
+            "id": "1817700015",
+            "path": "/product/1817700015/Panasonic-Lumix-DMC-LX15.jpg",
+            "description": "Panasonic Lumix DMC-LX15"
+        },
+        {
+            "id": "1817700006",
+            "path": "/product/1817700006/Panasonic-Lumix-DMC-LX15.jpg",
+            "description": "Panasonic Lumix DMC-LX15"
+        },
+        {
+            "id": "1817699983",
+            "path": "/product/1817699983/Panasonic-Lumix-DMC-LX15.jpg",
+            "description": "Panasonic Lumix DMC-LX15"
+        },
+        {
+            "id": "1817699881",
+            "path": "/product/1817699881/Panasonic-Lumix-DMC-LX15.jpg",
+            "description": "Panasonic Lumix DMC-LX15"
+        },
+        {
+            "id": "1817699976",
+            "path": "/product/1817699976/Panasonic-Lumix-DMC-LX15.jpg",
+            "description": "Panasonic Lumix DMC-LX15"
+        }
+    ]
+}

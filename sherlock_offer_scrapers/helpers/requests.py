@@ -37,6 +37,31 @@ _default_user_agents = [
 ]
 
 
+class SessionWithLogger(requests.Session):
+    def get(self, url, **kwargs) -> requests.Response:  # type: ignore
+        response = super().get(url, **kwargs)
+        _log_request(url, response, **kwargs)
+        return response
+
+    def post(self, url, **kwargs) -> requests.Response:  # type: ignore
+        response = super().post(url, **kwargs)
+        _log_request(url, response, **kwargs)
+        return response
+
+
+def _log_request(url, response: requests.Response, **kwargs):
+    logger.info(
+        "make-request",
+        request_type=response.request.method,
+        request_url=url,
+        request_headers=response.request.headers,
+        request_proxy=response.request.headers.get("Proxy-Authorization"),
+        response_status_code=response.status_code,
+        response_body_size_bytes=len(response.content),
+        country=kwargs.get("offer_source_country"),
+    )
+
+
 def get(
     url: str,
     headers: dict = None,
@@ -59,6 +84,7 @@ def get(
 
     response = requests.get(url, headers=headers, proxies=proxy_config, cookies=cookies)
 
+    # TODO: Try to use the _log_request() function
     logger.info(
         "make-request",
         request_url=url,
