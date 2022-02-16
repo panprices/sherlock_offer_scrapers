@@ -2,6 +2,8 @@ import random
 import time
 import requests
 
+from . import user_agents
+
 
 BASE_URL = {
     "SE": "https://www.pricerunner.se",
@@ -9,25 +11,29 @@ BASE_URL = {
 }
 
 
-def _make_request(url, session, retries=0):
-    # max_retries is not defined",
-    max_retries = 1
-    try:
-        response = session.get(url)
-    except requests.exceptions.Timeout:
-        print("Got a timeout on url " + url)
-        if retries >= max_retries:
-            raise e
-        retries += 1
-        return _make_request(url, session, retries)
-    except requests.exceptions.RequestException as e:
-        print(
-            "There was an error with getting product offers for "
-            + url
-            + " on Pricerunner: "
-            + str(e)
-        )
-        raise e
+def create_session(country="SE"):
+    headers = _get_headers(country)
+    session = requests.Session()
+    session.headers.update(headers)
+    return session
+
+
+def _get_headers(country):
+    return {
+        "Content-Type": "application/json;charset=utf-8",
+        # Random generated user agents
+        "User-Agent": user_agents.choose_random(),
+        "Authority": get_header_authority(country),
+    }
+
+
+def get_header_authority(country: str) -> str:
+    return f"www.pricerunner.{country.lower()}"
+
+
+def _make_request(url, session):
+    response = session.get(url)
+
     # Check if we wasn't able to acces the content because Pricerunner blocker our IP
     if response.status_code == 403:
         # click the "I am not the robot button"
@@ -35,22 +41,8 @@ def _make_request(url, session, retries=0):
         # in the button implementation, they wait for 0.25 second, so do we
         time.sleep(0.25)
         # fetch the data api again
-        try:
-            response = session.get(url)
-        except requests.exceptions.Timeout:
-            print("Got a timeout on url " + url)
-            if retries >= max_retries:
-                raise e
-            retries += 1
-            return _make_request(url, session, retries)
-        except requests.exceptions.RequestException as e:
-            print(
-                "There was an error with getting product offers for "
-                + url
-                + " on Pricerunner: "
-                + str(e)
-            )
-            raise e
+
+        response = session.get(url)
         # check 403 again
         if response.status_code == 403:
             print("They still block us")
@@ -61,7 +53,7 @@ def _make_request(url, session, retries=0):
             print("I am not a robot")
     # Check if we wasn't able to acces the content because Pricerunner blocker our IP
     if response.status_code == 410:
-        print("<Response 410>: the target resource is no longer available")
+        print("<Response 410>: the target resource is no longer available. Url:", url)
 
     return response
 

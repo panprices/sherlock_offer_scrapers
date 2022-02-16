@@ -18,15 +18,22 @@ logger = structlog.get_logger()
 
 
 def demo_sherlock_pricerunner():
-    import json
-    from sherlock_offer_scrapers.scrapers.pricerunner.parser import parse_offers
+    message = {
+        "created_at": 1622804976212,
+        "product_id": 11031881,
+        "gtin": "05099206092938",
+        "offer_fetch_complete": False,
+        "offer_urls": {
+            # "pricerunner_SE": "/pl/110-5286908/Datormoess/Logitech-MX-Anywhere-3-priser",
+        },
+        "product_token": "test_gAAAAAAAAAAAsMFK1hehjtyl8OSy9z19N9wvdLUdZdZlh0BWDUgGGc08fkgYGqeXaQn1JegqyzvYRJKhMGix6cIKlNUjHqI2sQ==",
+        "triggered_from_client": True,
+        "user_country": "SE",
+        "triggered_by": {"source": "client"},
+    }
 
-    with open("docs/pricerunner/sample_response_v3.json") as f:
-        json_result = json.load(f)
-
-    offers = parse_offers(json_result, "SE")
-    with open("test_result.json", "w") as f:
-        json.dump(offers, f)
+    event = {"data": base64.b64encode(json.dumps(message).encode())}
+    sherlock_pricerunner(event, {})
 
 
 def demo_sherlock_idealo():
