@@ -38,13 +38,15 @@ _default_user_agents = [
 
 
 class SessionWithLogger(requests.Session):
-    def get(self, url, **kwargs) -> requests.Response:
+    def get(self, url, **kwargs) -> requests.Response:  # type: ignore
         response = super().get(url, **kwargs)
         _log_request(url, response, **kwargs)
         return response
 
-    def post(self, url, **kwargs) -> requests.Response:
-        return super().post(url, **kwargs)
+    def post(self, url, **kwargs) -> requests.Response:  # type: ignore
+        response = super().post(url, **kwargs)
+        _log_request(url, response, **kwargs)
+        return response
 
 
 def _log_request(url, response: requests.Response, **kwargs):
