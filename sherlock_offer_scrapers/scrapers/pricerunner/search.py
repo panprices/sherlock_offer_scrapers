@@ -5,7 +5,11 @@ from typing import Optional
 from . import common
 
 
-def query_products(gtin: str, country: str):
+def query_products(gtin: str, country: str) -> Optional[str]:
+    """Find the product's url_path on pricerunner.
+
+    Example return: /pl/110-5286908/Datormoess/Logitech-MX-Anywhere-3-priser
+    """
     # Mimic the behavior of a real human by
     # 1st fetch the home page, then wait a few seconds,
     # then fetch the search API. All within a session.

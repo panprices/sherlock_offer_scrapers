@@ -13,7 +13,7 @@ BASE_URL = {
 }
 
 
-def create_session(country="SE"):
+def create_session(country: str):
     headers = _get_headers(country)
     # session = requests.Session()
     session = SessionWithLogger()

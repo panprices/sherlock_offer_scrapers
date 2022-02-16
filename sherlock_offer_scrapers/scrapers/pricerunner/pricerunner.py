@@ -12,7 +12,7 @@ from . import parser
 
 ENABLED_COUNTRIES = [
     "SE",
-    # "DK",
+    "DK",
 ]
 
 
@@ -31,29 +31,26 @@ def scrape(gtin, cached_offer_urls: Optional[dict]) -> list[Offer]:
 
         if not url_path:
             print("No product found for gtin", gtin, "in country", country)
+            continue
 
-        print(url_path)
-        offers = get_offers(url_path, wait=False)
+        offers = get_offers(url_path, country)
         all_offers.extend(offers)
 
     return all_offers
 
 
-def get_offers(url_path, country="SE", wait=True) -> list[Offer]:
+def get_offers(url_path: str, country: str) -> list[Offer]:
     # Logic: Fetch the offers page (html), then wait a bit and fetch the data API
     # using the same session to disguise as a real user.
     session = create_session(country)
     product_page_url = _get_offers_html_url(url_path, country)
-    print("product_page_url", product_page_url)
     _make_request(product_page_url, session)
 
     # wait a little bit
-    if wait:
-        pause_execution_random(min_sec=2, max_sec=5)
+    pause_execution_random(min_sec=2, max_sec=5)
 
     # # fetch the offer data
     offer_url = get_offer_api_url(url_path, country)
-    print("url:", url_path)
     response = _make_request(offer_url, session)
     # when the link is incorrect, pricerunner api actually return 204, not 404
     if response.status_code == 204 or response.status_code >= 400:
@@ -63,7 +60,7 @@ def get_offers(url_path, country="SE", wait=True) -> list[Offer]:
         return parser.parse_offers(response.json(), country)
 
 
-def _get_offers_html_url(url_path, country):
+def _get_offers_html_url(url_path: str, country: str) -> str:
     return f"https://www.pricerunner.{country.lower()}" + url_path
 
 

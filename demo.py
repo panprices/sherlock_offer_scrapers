@@ -24,7 +24,7 @@ def demo_sherlock_pricerunner():
         "gtin": "05099206092938",
         "offer_fetch_complete": False,
         "offer_urls": {
-            # "pricerunner_SE": "/pl/110-5286908/Datormoess/Logitech-MX-Anywhere-3-priser",
+            "pricerunner_SE": "/pl/110-5286908/Datormoess/Logitech-MX-Anywhere-3-priser",
         },
         "product_token": "test_gAAAAAAAAAAAsMFK1hehjtyl8OSy9z19N9wvdLUdZdZlh0BWDUgGGc08fkgYGqeXaQn1JegqyzvYRJKhMGix6cIKlNUjHqI2sQ==",
         "triggered_from_client": True,
