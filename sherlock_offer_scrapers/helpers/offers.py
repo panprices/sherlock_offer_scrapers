@@ -19,7 +19,22 @@ class Offer(TypedDict):
     currency: str
     stock_status: Literal["in_stock", "out_of_stock", "unknown"]
 
-    metadata: Any
+    """
+    This is a json as a string. It has the following structure: 
+    
+    - description: str, the full description of the product 
+    - category: list[str], the path in the category tree, from left to right
+    - images: list[str], a list of urls from where product images can be loaded for this product
+    - specs: dict, a dictionary that contains the specifications of the product in the following format
+        {
+            "specs_group_name": {
+                "spec_name": "spec_value",
+                ...
+            },
+            ...
+        }
+    """
+    metadata: str
 
 
 class Publisher:
