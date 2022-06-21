@@ -1,4 +1,4 @@
-from typing import Any, Literal, Optional, List, TypedDict
+from typing import Any, Literal, Optional, List, TypedDict, Union
 import json
 
 import structlog
@@ -34,7 +34,7 @@ class Offer(TypedDict):
             ...
         }
     """
-    metadata: str
+    metadata: Union[str, None]
 
 
 class Publisher:

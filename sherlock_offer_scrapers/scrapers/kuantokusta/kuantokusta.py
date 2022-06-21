@@ -1,3 +1,6 @@
+from ctypes import Union
+from typing import Tuple
+
 from bs4 import BeautifulSoup, Tag
 import structlog
 import re
@@ -21,12 +24,19 @@ def fetch_offers(gtin: str) -> list[Offer]:
     response = helpers.requests.get(url)
 
     soup = BeautifulSoup(response.text, "html.parser")
+    return fetch_offers_from_search_page(soup)
+
+
+def fetch_offers_from_search_page(soup: BeautifulSoup) -> list[Offer]:
     if len(soup.select(".products-empty")) > 0:
         logger.warn("Product does not exist")
         return []
 
-    product_url = parse_results_page(soup)
-    response = helpers.requests.get(product_url)
+    product_page_url = parse_results_page(soup)
+    if product_page_url == f'{root_url}#':
+        return [parse_results_page_with_unique_retailer(soup)]
+
+    response = helpers.requests.get(product_page_url)
     soup = BeautifulSoup(response.text, "html.parser")
 
     return parse_product_page_by_json(soup)
@@ -45,8 +55,39 @@ def parse_results_page(soup: BeautifulSoup) -> str:
     return f'{root_url}{product_url}'
 
 
+def parse_results_page_with_unique_retailer(soup: BeautifulSoup) -> Offer:
+    """
+    There are special cases where only one retailer has that product in its offer, where the price aggregator will no
+    longer redirect to its product page, but it would directly redirect to that unique retailer.
+
+    In that case, we should return that offer directly from the search page
+    """
+
+    offer_url = soup.find('a', class_='product-item-image')['onclick'].split(';')[0].split(',')[2][2:-1]
+    retailer_name: str = soup.find('span', class_='product-item-store-image').find('img')['alt']
+    product_element = soup.find('div', class_='product-item')
+    product_name = product_element.find('h2', itemprop='name').text.strip()
+    price = int(product_element.find('a', class_='product-item-price')['data-max-price-raw'])
+
+    return {
+        'offer_source': 'kuantokusta',
+        'offer_url': offer_url,
+        'retail_prod_name': product_name,
+        'retailer_name': retailer_name,
+        'country': 'PT',
+        'price': price,
+        'currency': 'eur',
+        'stock_status': 'unknown',
+        'metadata': None
+    }
+
+
 def parse_product_page_by_json(soup: BeautifulSoup) -> list[Offer]:
-    product_json = soup.find('script', id='__NEXT_DATA__', type='application/json').text
+    product_json_element = soup.find('script', id='__NEXT_DATA__', type='application/json')
+    if product_json_element is None:
+        return parse_product_page_by_schema_org(soup)
+
+    product_json = product_json_element.text
     product_dict = json.loads(product_json)
     page_props = product_dict['props']['pageProps']
     product = page_props['productPage']['product']
@@ -69,12 +110,66 @@ def parse_product_page_by_json(soup: BeautifulSoup) -> list[Offer]:
         'offer_url': o['businessRules']['cpc']['url'],
         'retail_prod_name': o['productName'],
         'retailer_name': o['storeName'],
-        'country': 'pt',
+        'country': 'PT',
         'price': round(o['price']),
         'currency': 'eur',
         'stock_status': 'unknown',
         'metadata': json.dumps(metadata)
     } for o in product['offers']]
+
+
+def parse_product_page_by_schema_org(soup: BeautifulSoup) -> list[Offer]:
+    product_element = soup.find('div', itemtype='http://schema.org/Product')
+    if product_element is None:
+        logger.warn('Neither __NEXT_DATA__, nor schema.org information is available', soup.contents)
+        return []
+
+    result: list[Offer] = []
+    product_url = product_element.find('meta', itemprop='url')['content']
+    product_id = product_url.split('/')[-2]
+
+    metadata = extract_metadata_schema_org(soup)
+    for offer_element in soup.find_all('div', itemtype='http://schema.org/Offer'):
+        retailer_id = offer_element.find('span', class_='store-item-image')['data-seller'][2:]
+        retailer_name: str = offer_element.find('div', itemtype='http://schema.org/Organization')\
+            .find('meta', itemprop='name')['content']
+
+        offer: Offer = {
+            'offer_source': 'kuantokusta',
+            'offer_url': f'{root_url}/follow/products/{product_id}/offers/{retailer_id}',
+            'retail_prod_name': offer_element.find('p', itemprop='alternateName').text,
+            'retailer_name': retailer_name,
+            'country': 'PT',
+            'price': round(float(offer_element.find('meta', itemprop='price')['content'])),
+            'currency': 'eur',
+            'stock_status': 'unknown',
+            'metadata': metadata
+        }
+        result.append(offer)
+
+    return result
+
+
+def extract_metadata_schema_org(soup: BeautifulSoup) -> str:
+    specs_element = soup.find('div', class_='product-specifications')
+    specs = {}
+    for specs_category in specs_element.find_all('div', class_='row'):
+        category_name = specs_category.find('h3', class_='title').text
+        specs[category_name] = {}
+        for spec in specs_category.find_all('div', class_='product-specification-item'):
+            specs[category_name][spec.find('p', class_='product-specification-label').text] = \
+                spec.find('p', class_='product-specification-value').text
+
+    description = soup.find('head').find('meta', {'name': 'description'})['content']
+    category = [item.text for item in soup.find('ul', class_='breadcrumb').find_all('a')[1:]]
+    images = [i['url_600'] for i in json.loads(soup.find('input', {'name': 'mobile-images'})['value'])]
+
+    return json.dumps({
+        'description': description,
+        'category': category,
+        'images': images,
+        'specs': specs
+    })
 
 
 def standardize_features_group(features_group: list[dict]) -> dict:
@@ -123,7 +218,7 @@ def _parse_product_page_by_html(soup: BeautifulSoup) -> list[Offer]:
             'price': round(extract_price(element)),
             'currency': 'eur',
             'stock_status': 'unknown',
-            'metadata': {}  # TODO: parse metadata
+            'metadata': None
         }
 
         result.append(offer)

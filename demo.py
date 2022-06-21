@@ -156,10 +156,7 @@ def demo_sherlock_kuantokusta():
         "triggered_from_client": True,
         "user_country": "PT",
         "triggered_by": {
-            "source": "b2b_job",
-            "job_id": "UupuDUjLXoHbAKjHsrtH",
-            "task_id": "hyAnhCIoQQyt0qWl5W3S",
-            "offer_search_id": "JGUl2cEn2pU77PevQBYx",
+            "source": "client"
         },
     }
 
