@@ -73,7 +73,7 @@ def parse_product_page_by_json(soup: BeautifulSoup) -> list[Offer]:
         'price': round(o['price']),
         'currency': 'eur',
         'stock_status': 'unknown',
-        'metadata': metadata
+        'metadata': json.dumps(metadata)
     } for o in product['offers']]
 
 
