@@ -5,6 +5,7 @@ from unicodedata import category
 import structlog
 
 from sherlock_offer_scrapers import helpers
+from sherlock_offer_scrapers.helpers.utils import gtin_to_ean
 from sherlock_offer_scrapers.helpers.offers import Offer
 
 COUNTRIES = [
@@ -45,7 +46,7 @@ def scrape(gtin: str):
 
 def fetch_offers(country: str, gtin: str) -> list[Offer]:
     # Make request:
-    ean = _gtin_to_ean(gtin)
+    ean = gtin_to_ean(gtin)
     url = (
         f"https://api.kelkoogroup.net/publisher/shopping/v2/search/offers"
         + f"?country={country.lower()}"
@@ -69,18 +70,6 @@ def fetch_offers(country: str, gtin: str) -> list[Offer]:
 
     offers = _parse_result(response.json(), country)
     return offers
-
-
-# Checks if gtin is a GTIN14 and if so, converts to GTIN13
-def _gtin_to_ean(gtin: str) -> str:
-    if len(gtin) == 14:
-        return gtin[1:14]
-    if len(gtin) == 13:
-        return gtin
-    if len(gtin) < 13:
-        return gtin.zfill(13)
-
-    raise ValueError(f"cannot convert gtin to ean: {gtin} is not a valid gtin.")
 
 
 def _parse_result(result: dict, country: str) -> list[Offer]:

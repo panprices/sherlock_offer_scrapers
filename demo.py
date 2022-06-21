@@ -8,6 +8,7 @@ from main import (
     sherlock_idealo,
     sherlock_gs_offers,
     sherlock_kelkoo,
+    sherlock_kuantokusta,
 )
 
 
@@ -142,6 +143,31 @@ def demo_sherlock_gs_offers():
     sherlock_gs_offers(event, {})
 
 
+def demo_sherlock_kuantokusta():
+    message = {
+        "created_at": 1622804976212,
+        "product_id": 11031881,
+        "gtin": "06934177714573",
+        "offer_fetch_complete": False,
+        "offer_urls": {
+            "google_shopping": "5346533728443139525",
+        },
+        "product_token": "test_gAAAAAAAAAAAsMFK1hehjtyl8OSy9z19N9wvdLUdZdZlh0BWDUgGGc08fkgYGqeXaQn1JegqyzvYRJKhMGix6cIKlNUjHqI2sQ==",
+        "triggered_from_client": True,
+        "user_country": "PT",
+        "triggered_by": {
+            "source": "b2b_job",
+            "job_id": "UupuDUjLXoHbAKjHsrtH",
+            "task_id": "hyAnhCIoQQyt0qWl5W3S",
+            "offer_search_id": "JGUl2cEn2pU77PevQBYx",
+        },
+    }
+
+    event = {"data": base64.b64encode(json.dumps(message).encode())}
+
+    sherlock_kuantokusta(event, {})
+
+
 if __name__ == "__main__":
     # Instantiate the parser
     parser = argparse.ArgumentParser(
@@ -150,7 +176,7 @@ if __name__ == "__main__":
     # Define the arguments
     parser.add_argument(
         "scraper",
-        choices=["prisjakt", "pricerunner", "kelkoo", "idealo", "google_shopping"],
+        choices=["prisjakt", "pricerunner", "kelkoo", "idealo", "google_shopping", "kuantokusta"],
         help="run a scraper",
     )
 
@@ -166,3 +192,5 @@ if __name__ == "__main__":
         demo_sherlock_idealo()
     elif args.scraper == "google_shopping":
         demo_sherlock_gs_offers()
+    elif args.scraper == "kuantokusta":
+        demo_sherlock_kuantokusta()

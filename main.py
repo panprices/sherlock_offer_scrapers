@@ -11,6 +11,7 @@ from sherlock_offer_scrapers.scrapers import (
     kelkoo,
     idealo,
     google_shopping,
+    kuantokusta,
 )
 
 
@@ -75,6 +76,11 @@ def sherlock_gs_offers(event, context):
     _sherlock_scrape("google_shopping", payload)
 
 
+def sherlock_kuantokusta(event, context):
+    payload: Payload = json.loads(base64.b64decode(event['data']))
+    _sherlock_scrape('kuantokusta', payload)
+
+
 def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
     gtin = payload["gtin"]
 
@@ -118,6 +124,8 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
                     ],
                 )
             )
+        elif offer_source == 'kuantokusta':
+            offers = kuantokusta.scrape(gtin)
         else:
             raise Exception(f"Offer source {offer_source} not supported.")
 
