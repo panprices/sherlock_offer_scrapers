@@ -1,5 +1,5 @@
 from ctypes import Union
-from typing import Tuple
+from typing import Tuple, Dict
 
 from bs4 import BeautifulSoup, Tag
 import structlog
@@ -152,7 +152,7 @@ def parse_product_page_by_schema_org(soup: BeautifulSoup) -> list[Offer]:
 
 def extract_metadata_schema_org(soup: BeautifulSoup) -> str:
     specs_element = soup.find('div', class_='product-specifications')
-    specs = {}
+    specs: Dict[str, Dict[str, str]] = {}
     for specs_category in specs_element.find_all('div', class_='row'):
         category_name = specs_category.find('h3', class_='title').text
         specs[category_name] = {}
