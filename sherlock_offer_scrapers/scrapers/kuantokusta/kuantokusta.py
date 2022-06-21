@@ -107,7 +107,11 @@ def _parse_product_page_by_html(soup: BeautifulSoup) -> list[Offer]:
     for element in url_elements:
         if not re.match(offer_url_pattern, element['href']):
             continue
+
         text_element = next(element.find('h3').children, None)
+        if text_element is None:  # if it still doesn't have the expected structure, we skip it
+            continue
+
         offer_name = text_element.string
 
         offer: Offer = {
@@ -131,7 +135,7 @@ def extract_price(element: Tag) -> float:
     price_elements = element.find_all('span', text=re.compile('\\d+,\\d{2}€'))
 
     min_depth = 9999
-    offer_price = 0
+    offer_price = 0.0
     for price_element in price_elements:
         depth = find_depth(element, price_element)
         if depth < min_depth:
