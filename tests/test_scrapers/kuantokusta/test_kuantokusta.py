@@ -18,15 +18,16 @@ def test_normal_search():
 @pytest.mark.unit
 def test_normal_product_page():
     normal_product_page = load_test_page('product_page_normal.html')
-    offers = kuantokusta.parse_product_page_by_json(normal_product_page)
+    offers = kuantokusta.parse_product_page(normal_product_page)
 
-    assert len(offers) == 18
+    assert len(offers) == 14
+    assert all([o['offer_url'] is not None for o in offers])
 
 
 @pytest.mark.unit
 def test_no_next_data():
     no_next_data_page = load_test_page('no_next_data.html')
-    offers = kuantokusta.parse_product_page_by_json(no_next_data_page)
+    offers = kuantokusta.parse_product_page(no_next_data_page)
 
     assert len(offers) == 17
 

@@ -39,7 +39,7 @@ def fetch_offers_from_search_page(soup: BeautifulSoup) -> list[Offer]:
     response = helpers.requests.get(product_page_url)
     soup = BeautifulSoup(response.text, "html.parser")
 
-    return parse_product_page_by_json(soup)
+    return parse_product_page(soup)
 
 
 def parse_results_page(soup: BeautifulSoup) -> str:
@@ -70,7 +70,7 @@ def parse_results_page_with_unique_retailer(soup: BeautifulSoup) -> Offer:
     price = int(product_element.find('a', class_='product-item-price')['data-max-price-raw'])
 
     return {
-        'offer_source': 'kuantokusta',
+        'offer_source': 'kuantokusta_PT',
         'offer_url': offer_url,
         'retail_prod_name': product_name,
         'retailer_name': retailer_name,
@@ -82,11 +82,17 @@ def parse_results_page_with_unique_retailer(soup: BeautifulSoup) -> Offer:
     }
 
 
-def parse_product_page_by_json(soup: BeautifulSoup) -> list[Offer]:
+def parse_product_page(soup: BeautifulSoup) -> list[Offer]:
     product_json_element = soup.find('script', id='__NEXT_DATA__', type='application/json')
-    if product_json_element is None:
-        return parse_product_page_by_schema_org(soup)
+    offers = parse_product_page_by_json(product_json_element) if product_json_element is not None \
+        else parse_product_page_by_schema_org(soup)
 
+    # Sometimes this website displays offers without actual link to them, and this generates errors later in the
+    # search process. So we choose to filter them out right away.
+    return [o for o in offers if o['offer_url'] is not None]
+
+
+def parse_product_page_by_json(product_json_element: Tag) -> list[Offer]:
     product_json = product_json_element.text
     product_dict = json.loads(product_json)
     page_props = product_dict['props']['pageProps']
@@ -106,7 +112,7 @@ def parse_product_page_by_json(soup: BeautifulSoup) -> list[Offer]:
     }
 
     return [{
-        'offer_source': 'kuantokusta',
+        'offer_source': 'kuantokusta_PT',
         'offer_url': o['businessRules']['cpc']['url'],
         'retail_prod_name': o['productName'],
         'retailer_name': o['storeName'],
@@ -135,7 +141,7 @@ def parse_product_page_by_schema_org(soup: BeautifulSoup) -> list[Offer]:
             .find('meta', itemprop='name')['content']
 
         offer: Offer = {
-            'offer_source': 'kuantokusta',
+            'offer_source': 'kuantokusta_PT',
             'offer_url': f'{root_url}/follow/products/{product_id}/offers/{retailer_id}',
             'retail_prod_name': offer_element.find('p', itemprop='alternateName').text,
             'retailer_name': retailer_name,
@@ -210,7 +216,7 @@ def _parse_product_page_by_html(soup: BeautifulSoup) -> list[Offer]:
         offer_name = text_element.string
 
         offer: Offer = {
-            'offer_source': 'kuantokusta',
+            'offer_source': 'kuantokusta_PT',
             'offer_url': element['href'],
             'retail_prod_name': offer_name,
             'retailer_name': '',  # TODO: parse retailer name

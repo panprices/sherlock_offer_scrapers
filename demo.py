@@ -154,9 +154,12 @@ def demo_sherlock_kuantokusta():
         },
         "product_token": "test_gAAAAAAAAAAAsMFK1hehjtyl8OSy9z19N9wvdLUdZdZlh0BWDUgGGc08fkgYGqeXaQn1JegqyzvYRJKhMGix6cIKlNUjHqI2sQ==",
         "triggered_from_client": True,
-        "user_country": "PT",
+        "user_country": "SE",
         "triggered_by": {
-            "source": "client"
+            "source": "b2b_job",
+            "job_id": "UupuDUjLXoHbAKjHsrtH",
+            "task_id": "hyAnhCIoQQyt0qWl5W3S",
+            "offer_search_id": "JGUl2cEn2pU77PevQBYx",
         },
     }
 
