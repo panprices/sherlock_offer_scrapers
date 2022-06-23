@@ -61,7 +61,7 @@ steps:
       - --region=europe-west1
       - --trigger-topic=sherlock_products
       - --runtime=python39
-      - --max-instance=10
+      - --max-instances=10
       - --timeout=300s
 
   
