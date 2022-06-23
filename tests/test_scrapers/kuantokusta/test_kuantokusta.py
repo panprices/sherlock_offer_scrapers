@@ -40,7 +40,7 @@ def test_search_one_retailer():
     assert len(offers) == 1
     assert offers[0] is not None
     assert offers[0]['retail_prod_name'] == 'Gre Piscina em Composite 326x186x96cm'
-    assert offers[0]['price'] == 4069
+    assert offers[0]['price'] == 406990
 
 
 def load_test_page(name: str) -> bs4.BeautifulSoup:

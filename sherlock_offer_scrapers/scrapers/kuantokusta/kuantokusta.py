@@ -67,7 +67,7 @@ def parse_results_page_with_unique_retailer(soup: BeautifulSoup) -> Offer:
     retailer_name: str = soup.find('span', class_='product-item-store-image').find('img')['alt']
     product_element = soup.find('div', class_='product-item')
     product_name = product_element.find('h2', itemprop='name').text.strip()
-    price = int(product_element.find('a', class_='product-item-price')['data-max-price-raw'])
+    price = int(float(product_element.find('a', class_='product-item-price')['data-max-price-raw']) * 100)
 
     return {
         'offer_source': 'kuantokusta_PT',
@@ -117,7 +117,7 @@ def parse_product_page_by_json(product_json_element: Tag) -> list[Offer]:
         'retail_prod_name': o['productName'],
         'retailer_name': o['storeName'],
         'country': 'PT',
-        'price': round(o['price']),
+        'price': round(float(o['price']) * 100),
         'currency': 'eur',
         'stock_status': 'unknown',
         'metadata': json.dumps(metadata)
@@ -146,7 +146,7 @@ def parse_product_page_by_schema_org(soup: BeautifulSoup) -> list[Offer]:
             'retail_prod_name': offer_element.find('p', itemprop='alternateName').text,
             'retailer_name': retailer_name,
             'country': 'PT',
-            'price': round(float(offer_element.find('meta', itemprop='price')['content'])),
+            'price': round(float(offer_element.find('meta', itemprop='price')['content']) * 100),
             'currency': 'eur',
             'stock_status': 'unknown',
             'metadata': metadata
@@ -221,7 +221,7 @@ def _parse_product_page_by_html(soup: BeautifulSoup) -> list[Offer]:
             'retail_prod_name': offer_name,
             'retailer_name': '',  # TODO: parse retailer name
             'country': 'pt',
-            'price': round(extract_price(element)),
+            'price': round(extract_price(element) * 100),
             'currency': 'eur',
             'stock_status': 'unknown',
             'metadata': None
