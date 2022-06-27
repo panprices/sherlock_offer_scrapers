@@ -43,6 +43,14 @@ def test_search_one_retailer():
     assert offers[0]['price'] == 406990
 
 
+@pytest.mark.unit
+def test_search_no_result():
+    search_no_result = load_test_page('search_no_result.html')
+    offers: list[Offer] = kuantokusta.fetch_offers_from_search_page(search_no_result)
+
+    assert len(offers) == 0
+
+
 def load_test_page(name: str) -> bs4.BeautifulSoup:
     directory = pathlib.Path(__file__).parent.resolve()
     with open(f'{directory}/data/{name}', 'r') as f:
