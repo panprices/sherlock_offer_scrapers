@@ -22,6 +22,9 @@ def fetch_offers(gtin: str) -> list[Offer]:
     ean = gtin_to_ean(gtin)
     url = f'{root_url}/search?q={ean}'
     response = helpers.requests.get(url)
+    if response.status_code >= 300:
+        logger.warn("We've probably been blocked")
+        return []
 
     soup = BeautifulSoup(response.text, "html.parser")
     return fetch_offers_from_search_page(soup)
