@@ -1,3 +1,4 @@
+import os
 import time
 from typing import Optional
 import logging
@@ -9,17 +10,17 @@ from offers import publish_new_offer_urls
 logger = logging.getLogger()
 
 
-def find(gtins: list[str]):
-    products = fetch_products_using_priceapi(gtins)
+def find(gtins: list[str], country: str):
+    products = fetch_products_using_priceapi(gtins, country)
     print(products)
 
     for gtin, google_pid in products.items():
         publish_new_offer_urls(gtin, {"google_shopping": google_pid})
 
 
-def fetch_products_using_priceapi(gtins: list[str]) -> dict[str, str]:
+def fetch_products_using_priceapi(gtins: list[str], country: str) -> dict[str, str]:
     job_id = priceapi.create_job(
-        country="se",
+        country=country.lower(),
         source="google_shopping",
         topic="product_and_offers",
         key="gtin",
@@ -33,7 +34,10 @@ def fetch_products_using_priceapi(gtins: list[str]) -> dict[str, str]:
 
     job_result = priceapi.get_result(job_id)
 
-    with open(f"job_results/{job_id}_result.json", "w", encoding="utf-8") as f:
+    this_dir_path = os.path.dirname(os.path.realpath(__file__))
+    with open(
+        f"{this_dir_path}/job_results/{job_id}_result.json", "w", encoding="utf-8"
+    ) as f:
         json.dump(job_result, f, indent=2)
 
     products = _parse_product_and_offers_result(job_result)
@@ -121,10 +125,13 @@ def check_correctness(gtin, google_pid):
 
 
 if __name__ == "__main__":
+    # COUNTRY = "SE"
+    COUNTRY = "PT"
+
     from input_gtins import gtins
 
     chunk_size = 20
     for start_i in range(0, len(gtins), chunk_size):
         stop_i = start_i + chunk_size
         print("searching for gtins from", start_i, "to", stop_i, "...")
-        find(gtins[start_i:stop_i])
+        find(gtins[start_i:stop_i], COUNTRY)

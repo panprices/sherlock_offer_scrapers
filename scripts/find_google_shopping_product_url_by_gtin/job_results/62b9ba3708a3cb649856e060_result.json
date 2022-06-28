@@ -1,0 +1,2925 @@
+{
+  "job_id": "62b9ba3708a3cb649856e060",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 19,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03800146242923",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:10:12Z"
+      },
+      "content": {
+        "id": "11329844551630834691",
+        "name": "Biox Triciclo Jockey Bege (12 meses)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzFS3zqD7NEx1IBMuzII1Flh46Q76VxsfGQCBtJN5sxBo9dR4tsEkNYlS-oGfeEUVv4L0ui6npGn73i0w8IoAUmiO4lKVFMP0FhUcFB6ZTsiz5F7w08tQSCr24eEvuhJf-NynXWaPhTBQppL_6uZk-CkPCtTrL1sWuknebQ87IDV7YCBbIlTq65ql70IzsZQMeCpebBHw=s512-pd-pc0x00ffffff",
+        "description": "Triciclo musical infantil JOCKEY. Uma \u00f3tima op\u00e7\u00e3o de passeios a um pre\u00e7o incr\u00edvel pela qualidade e detalhes dispon\u00edveis. - Adequado de 12 meses a 72 meses e m\u00e1ximo de 28 quilos - Assento confort\u00e1vel e largo que gira e pode ir para a frente ou para...",
+        "properties": [
+          "Com guia",
+          "Dobr\u00e1vel",
+          "Bege"
+        ],
+        "url": "https://www.google.pt/shopping/product/11329844551630834691?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Grupo Et\u00e1rio",
+            "value": [
+              "kids"
+            ]
+          },
+          {
+            "label": "Vendido por",
+            "value": [
+              "Babyshoppen"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/11329844551630834691/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "11329844551630834691",
+            "price": "124.1",
+            "price_additional_info": [],
+            "price_with_shipping": "124.1",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/triciclos-para-bebe/triciclo-biox-jockey-bege-12-meses-MRKEAN-3800146242923",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03800151994930",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:10:12Z"
+      },
+      "content": {
+        "id": "16392608629049436532",
+        "name": "Lorelli Carrinho de Beb\u00e9 TRIO 3 em 1 Alba set Cinzento",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkybJOd9j48QBz_bdBh0TnVJAAWzgp06vy5N5jdHbWOyTedId9k8MatuHk8wBOP4Z29IKoWgsI3thT-kiGWfivxUtwCYJ51XaRQ2SkJ17q8StpPc-2GwajnWwExaaX_VxoCWD2mFS9GWR_A4jJRIEI4XdRcxtybbHt5A57AGAZ_Ls-S_fSoNaIHZz-X6yR_o5U3sJRM5MKc=s512-pd-pc0x00ffffff",
+        "description": "Caracter\u00edsticas: Carrinho convers\u00edvel em assento / - Tapa-p\u00e9s / - Cesto grande / - Al\u00e7a regul\u00e1vel em altura / Dimens\u00f5es do carrinho dobr\u00e1vel: 66 x 82 x 29 cm / - Almofada macia / - Cinto de seguran\u00e7a de 5 pontos / - Rodas de borracha / - Girat\u00f3ria...",
+        "properties": [
+          "Para terrenos irregulares",
+          "Individual"
+        ],
+        "url": "https://www.google.pt/shopping/product/16392608629049436532?hl=pt&gl=pt&sfr=compass",
+        "review_count": 2,
+        "review_rating": 100,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Vendido por",
+            "value": [
+              "Babyshoppen"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/16392608629049436532/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "16392608629049436532",
+            "price": "289.99",
+            "price_additional_info": [],
+            "price_with_shipping": "305.98",
+            "shipping_costs": "15.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-lorelli-trio-3-em-1-alba-set-cinzento-MRKEAN-3800151994930",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03800931043452",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:10:14Z"
+      },
+      "content": {
+        "id": "905260301927959937",
+        "name": "Chipolino Triciclo Evolutivo CR21368 com Assento Giratorio 360o Matrix Vanilla (Peso M\u00e1x: 25 kg - 72 x 46 x 105 cm)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxSjlUB9N_dZJmpJbasJ5OD8dxNxIBz41zm35HL3UR5pXLTNDF8p-LybPm_hLw0r7qs2DHNJNU7yrQU43DyZYRW352VV_TT3zXNX3rfXH9CCB1r7aTfVYS4G9uXhb7fsnWxU0Lqzn1JZLPhYgBlck4pWVCRRqyjj0nygzfbqo5q2p06FkdO_v-JFhRk6f3jc528QiyzlcM=s512-pd-pc0x00ffffff",
+        "description": "Adecuado para ni\u00f1os mayores de 18 meses que pesen hasta 25 kg. - Producto multifuncional con 2 formas de uso diferentes: - el padre empuja al ni\u00f1o por el manillar parental. - el ni\u00f1o conduce el juguete a trav\u00e9s de los pedales. - Triciclo evolutivo...",
+        "properties": [
+          "Com guia",
+          "Dobr\u00e1vel",
+          "Bege"
+        ],
+        "url": "https://www.google.pt/shopping/product/905260301927959937?hl=pt&gl=pt&sfr=compass",
+        "review_count": 1,
+        "review_rating": 100,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Vendido por",
+            "value": [
+              "Babyshoppen"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/905260301927959937/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "905260301927959937",
+            "price": "84.0",
+            "price_additional_info": [],
+            "price_with_shipping": "84.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/triciclos-para-bebe/triciclo-evolutivo-chipolino-cr21368-com-assento-giratorio-360o-matrix-vanilla-peso-max-25-kg-72-x-46-x-105-cm-MRKEAN-3800931043452",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "905260301927959937",
+            "price": "101.6",
+            "price_additional_info": [],
+            "price_with_shipping": "103.6",
+            "shipping_costs": "2.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.carrinhosbaratos.pt/matrix-triciclo-evolutivo-com-assento-giratorio-de-360-a-partir-de-chipolino-2569_2708.html#/306-cor-baunilha",
+            "shop_name": "Carrinhosbaratos.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-cc7b8a526af",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-cc7b8a526af",
+            "shop_url": "www.carrinhosbaratos.pt",
+            "shop_domain": "carrinhosbaratos.pt",
+            "shop_matching_id": "carrinhosbaratos.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04260183363576",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:10:13Z"
+      },
+      "content": {
+        "id": "12037465399519236683",
+        "name": "Placa Gr\u00e1fica Geforce Gt 710 2gb - Gainward",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzcsfx8G6fEMyFjemUU0mankl9lv8_vrF8NRkC3aV-5XgahG_3VjTG3G9-5G_ftXLWZXve5YZ2YeFKLZ2_imB_FZPASIUiRqNMZLimhIMTBrGZHJPbAUwzl8ERC52SgGlbyaSDhL0mcMcR7eJAA-zXYDBH1427qNEM9o876J8UMJBcNAw0GMNmIvwXBJYE4YSSGq6kF=s512-pd-pc0x00ffffff",
+        "description": "NEAT7100HD46-2080H e mais produtos da Gainward voc\u00ea encontra aqui na Zoing \u2013 Tudo para o seu computador \u2713Compra segura \u2713Entrega R\u00e1pida.",
+        "properties": [
+          "PCI Express",
+          "VGA",
+          "DVI",
+          "HDMI",
+          "GDDR3",
+          "4096 x 2160",
+          "Placa gr\u00e1fica",
+          "Ativo"
+        ],
+        "url": "https://www.google.pt/shopping/product/12037465399519236683?hl=pt&gl=pt&sfr=compass",
+        "review_count": 25,
+        "review_rating": 86,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 4,
+        "offers_url": "https://www.google.pt/shopping/product/12037465399519236683/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "12037465399519236683",
+            "price": "54.91",
+            "price_additional_info": [],
+            "price_with_shipping": "62.41",
+            "shipping_costs": "7.5",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://greatecno.com/pt/placas-graficas/238218-gainward-geforce-gt-710-2-go-hdmi-dvi-passivo-ddr3-4260183363576.html?srsltid=AQP2TeMG-x3KluKTbC4-piWHPjFrJkNQjIjJ9lFaH9CYkpUQT0V9uM5LXZs",
+            "shop_name": "GreaTecno",
+            "shop_review_count": 72,
+            "shop_review_rating": 88,
+            "shop_id": "priceapi-c7bb28ea093",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c7bb28ea093",
+            "shop_url": "greatecno.com",
+            "shop_domain": "greatecno.com",
+            "shop_matching_id": "greatecno.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "12037465399519236683",
+            "price": "73.49",
+            "price_additional_info": [],
+            "price_with_shipping": "73.49",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp8958816/Placa-de-video-Gainward-426018336-3576-Preto/w-4?oref=941994ee-8910-806a-9dcc-90a50b9a88d3",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "12037465399519236683",
+            "price": "61.7",
+            "price_additional_info": [],
+            "price_with_shipping": "67.7",
+            "shipping_costs": "6.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/informatica-e-acessorios/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-gainwar-geforce-gt-710-nvidia-2-gb-gddr3-MRKEAN-4260183363576",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "12037465399519236683",
+            "price": "45.0",
+            "price_additional_info": [],
+            "price_with_shipping": "45.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://ptelectronica.com/produto/placa-grafica-gainward-geforce-gt-710-2gb-silentfx-ddr3/?utm_source=Google%20Shopping&utm_campaign=shopping&utm_medium=cpc&utm_term=17382",
+            "shop_name": "PTelectr\u00f3nica",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8301270dc62",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8301270dc62",
+            "shop_url": "ptelectronica.com",
+            "shop_domain": "ptelectronica.com",
+            "shop_matching_id": "ptelectronica.com",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072804619",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:10:16Z"
+      },
+      "content": {
+        "id": "10684936345879016483",
+        "name": "MSI - Geforce Rtx 3060 Aero Itx 12g Oc",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxm-jDahlvn6aY2c30ConRXfx3yzmd1qdFwde5fOGiYOMzagPmcVnpn8VhOcW4kQaa7QLbWGGS-LfdPvr5ca5_Z2BU3Yx6_Mp3s7D1PPp4QmrPcvFnVAw68-ErXa-IL9Z2RhHZuQPXkfrwNeCG_MeXnmsO4U-oFT1-PPeYHEZ49wKvf2nsfG-oOoKWI7G5bh0d1GqH5dw=s512-pd-pc0x00ffffff",
+        "description": "A GeForce RTX 3060 permite que enfrente os jogos mais recentes usando a pot\u00eancia do Ampere - a arquitetura RTX de 2a gera\u00e7\u00e3o da NVIDIA. Obtenha um desempenho incr\u00edvel com n\u00facleos Ray Tracing e n\u00facleos Tensor, novos multiprocessadores de streaming ...",
+        "properties": [
+          "MSI",
+          "PCI Express",
+          "DVI",
+          "HDMI",
+          "DisplayPort",
+          "GDDR",
+          "Placa gr\u00e1fica",
+          "8 pinos",
+          "Ativo",
+          "Suporte a Ray Tracing"
+        ],
+        "url": "https://www.google.pt/shopping/product/10684936345879016483?hl=pt&gl=pt&sfr=compass",
+        "review_count": 10,
+        "review_rating": 96,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Fam\u00edlia de processadores gr\u00e1ficos",
+            "value": [
+              "NVIDIA"
+            ]
+          },
+          {
+            "label": "Processador gr\u00e1fico",
+            "value": [
+              "GeForce RTX 3060"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o M\u00e1xima",
+            "value": [
+              "7680 x 4320 pixels"
+            ]
+          },
+          {
+            "label": "CUDA",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Apoio a tecnologia paralela de processamento",
+            "value": [
+              "N\u00e3o suportado"
+            ]
+          },
+          {
+            "label": "CUDA cores",
+            "value": [
+              "3584"
+            ]
+          },
+          {
+            "label": "Velocidade do processador com boost",
+            "value": [
+              "1792 MHz"
+            ]
+          },
+          {
+            "label": "Exibi\u00e7\u00f5es m\u00e1ximas por cart\u00e3o de v\u00eddeo",
+            "value": [
+              "4"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria de placa gr\u00e1fica discreta",
+            "value": [
+              "12 GB"
+            ]
+          },
+          {
+            "label": "Tipo de mem\u00f3ria da placa gr\u00e1fica",
+            "value": [
+              "GDDR6"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria bus",
+            "value": [
+              "192 bit"
+            ]
+          },
+          {
+            "label": "Taxa de transfer\u00eancia de dados",
+            "value": [
+              "15 Gbit/s"
+            ]
+          },
+          {
+            "label": "Tipo de interface",
+            "value": [
+              "PCI Express 4.0"
+            ]
+          },
+          {
+            "label": "Quantidade de portas HDMI",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Quantidade de portas DisplayPort",
+            "value": [
+              "3"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o HDMI",
+            "value": [
+              "2.1"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o DisplayPort",
+            "value": [
+              "1.4a"
+            ]
+          },
+          {
+            "label": "Afinador TV integrado",
+            "value": [
+              "N\u00e3o"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o DirectX",
+            "value": [
+              "12.0"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o OpenGL",
+            "value": [
+              "4.6"
+            ]
+          },
+          {
+            "label": "Dual Link DVI",
+            "value": [
+              "N\u00e3o"
+            ]
+          },
+          {
+            "label": "Preparado para Realidade Virtual (RV)",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "HDCP",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "NVIDIA G-SYNC",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Tipo de refrigera\u00e7\u00e3o",
+            "value": [
+              "Ativo"
+            ]
+          },
+          {
+            "label": "N\u00famero de vento\u00ednhas",
+            "value": [
+              "1 ventoinha(s)"
+            ]
+          },
+          {
+            "label": "Altura do suporte",
+            "value": [
+              "Full-Height (FH)"
+            ]
+          },
+          {
+            "label": "N\u00famero de slots",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Fornecimento m\u00ednimo de energia do sistema",
+            "value": [
+              "550 W"
+            ]
+          },
+          {
+            "label": "Consumo de energia (t\u00edpico)",
+            "value": [
+              "170 W"
+            ]
+          },
+          {
+            "label": "Conectores de alimenta\u00e7\u00e3o suplementares",
+            "value": [
+              "1x 8-pin"
+            ]
+          },
+          {
+            "label": "Profundidade",
+            "value": [
+              "172 mm"
+            ]
+          },
+          {
+            "label": "Largura",
+            "value": [
+              "43 mm"
+            ]
+          },
+          {
+            "label": "Manual",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Peso da embalagem",
+            "value": [
+              "833 g"
+            ]
+          }
+        ],
+        "offer_count": 3,
+        "offers_url": "https://www.google.pt/shopping/product/10684936345879016483/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10684936345879016483",
+            "price": "479.9",
+            "price_additional_info": [],
+            "price_with_shipping": "479.9",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.novoatalho.pt/pt-PT/produto/54443/Placa-Gr%C3%A1fica-MSI-GeForce%C2%AE-RTX-3060-AERO-ITX-OC-12G.html",
+            "shop_name": "Novo Atalho",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ba9dba739ca",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ba9dba739ca",
+            "shop_url": "www.novoatalho.pt",
+            "shop_domain": "novoatalho.pt",
+            "shop_matching_id": "novoatalho.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "10684936345879016483",
+            "price": "503.45",
+            "price_additional_info": [],
+            "price_with_shipping": "509.44",
+            "shipping_costs": "5.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/informatica-e-acessorios/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-msi-aero-rtx-3060-itx-nvidia-12-gb-ddr6-7522712",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "10684936345879016483",
+            "price": "522.11",
+            "price_additional_info": [],
+            "price_with_shipping": "527.1",
+            "shipping_costs": "4.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.minfo.pt/product/b-4719072804619-912-v809-3835-geforce-rtx-3060-aero-itx-12g-oc-gt",
+            "shop_name": "Minfo.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-7569bd876cd",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-7569bd876cd",
+            "shop_url": "www.minfo.pt",
+            "shop_domain": "minfo.pt",
+            "shop_matching_id": "minfo.pt",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04895173623417",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:10:14Z"
+      },
+      "content": {
+        "id": "217404333232833328",
+        "name": "ZOTAC - GeForce RTX 3070 8 GB GDDR6",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxHbZZSLRrfYsK5GjStU9oly6ZRoJ2uo8s_nxLUlUfhSgk-l1Y95fLsPuXM3Sn287Skf2uwg2-hHgXtcMk2Ze9DQfWpE6HRkQb40mdjJQgNDXZyH-z8E-98B_u_BQfDmowQ32aRP9wXLaVN4s6AXNTScCdTznOV4MczyFOAWQE3OZotUXJzS7rDSFOLEcMTERaBs4fdxA=s512-pd-pc0x00ffffff",
+        "description": "A Nvidia \u00e9 o fabricante l\u00edder de placas de v\u00eddeo, sua qualidade garante uma experi\u00eancia positiva no desenvolvimento do motor gr\u00e1fico do seu computador. Al\u00e9m disso, seus processadores usam tecnologia de ponta para que voc\u00ea possa desfrutar de um pro...",
+        "properties": [
+          "ZOTAC",
+          "PCI Express",
+          "VGA",
+          "DVI",
+          "HDMI",
+          "DisplayPort",
+          "GDDR",
+          "Placa gr\u00e1fica",
+          "Ativo",
+          "Suporte a Ray Tracing"
+        ],
+        "url": "https://www.google.pt/shopping/product/217404333232833328?hl=pt&gl=pt&sfr=compass",
+        "review_count": 177,
+        "review_rating": 90,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Quantidade DisplayPorts",
+            "value": [
+              "3"
+            ]
+          },
+          {
+            "label": "Quantidade de portas HDMI",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Tipo de interface",
+            "value": [
+              "PCI Express x16 4.0"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o DisplayPort",
+            "value": [
+              "1.4a"
+            ]
+          },
+          {
+            "label": "Altura da embalagem",
+            "value": [
+              "363 mil\u00edmetros"
+            ]
+          },
+          {
+            "label": "Largura da embalagem",
+            "value": [
+              "261 mil\u00edmetros"
+            ]
+          },
+          {
+            "label": "Profundidade de embalagem",
+            "value": [
+              "100 mm"
+            ]
+          },
+          {
+            "label": "cor de ilumina\u00e7\u00e3o",
+            "value": [
+              "Branco"
+            ]
+          },
+          {
+            "label": "N\u00famero do slot",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Tecnologia de refrigera\u00e7\u00e3o",
+            "value": [
+              "Zotac IceStorm 2.0"
+            ]
+          },
+          {
+            "label": "Tipo de resfriamento",
+            "value": [
+              "Ativo"
+            ]
+          },
+          {
+            "label": "Grande",
+            "value": [
+              "41",
+              "5 mm"
+            ]
+          },
+          {
+            "label": "Profundidade",
+            "value": [
+              "231",
+              "9 mm"
+            ]
+          },
+          {
+            "label": "Consumo",
+            "value": [
+              "220 W"
+            ]
+          },
+          {
+            "label": "Fonte de alimenta\u00e7\u00e3o m\u00ednima",
+            "value": [
+              "650 watts"
+            ]
+          },
+          {
+            "label": "Largura de dados",
+            "value": [
+              "256 bits"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria gr\u00e1fica dedicada",
+            "value": [
+              "8 GB"
+            ]
+          },
+          {
+            "label": "Tipo de mem\u00f3ria do adaptador gr\u00e1fico",
+            "value": [
+              "GDDR6"
+            ]
+          },
+          {
+            "label": "DVI de link duplo",
+            "value": [
+              "N\u00e3o"
+            ]
+          },
+          {
+            "label": "NVIDIA G-SYNC",
+            "value": [
+              "sim"
+            ]
+          },
+          {
+            "label": "Sintonizador de TV integrado",
+            "value": [
+              "N\u00e3o"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o OpenGL",
+            "value": [
+              "4",
+              "6"
+            ]
+          },
+          {
+            "label": "MILAGRES",
+            "value": [
+              "sim"
+            ]
+          },
+          {
+            "label": "N\u00facleos CUDA",
+            "value": [
+              "5888"
+            ]
+          },
+          {
+            "label": "Processador gr\u00e1fico",
+            "value": [
+              "GeForce RTX 3070"
+            ]
+          },
+          {
+            "label": "Processador / provedor de gr\u00e1ficos",
+            "value": [
+              "NVIDIA"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o M\u00e1xima",
+            "value": [
+              "7680 x 4320 pixels"
+            ]
+          },
+          {
+            "label": "Tecnologia de processo paralelo",
+            "value": [
+              "N\u00e3o suportado"
+            ]
+          },
+          {
+            "label": "Aumente a velocidade do rel\u00f3gio",
+            "value": [
+              "1725 MHz"
+            ]
+          }
+        ],
+        "offer_count": 5,
+        "offers_url": "https://www.google.pt/shopping/product/217404333232833328/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "217404333232833328",
+            "price": "619.9",
+            "price_additional_info": [],
+            "price_with_shipping": "619.9",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.pcdiga.com/placa-grafica-zotac-gaming-geforce-rtx-3070-twin-edge-lhr-8gb-gddr6-zt-a30700e-10plhr",
+            "shop_name": "PCDiga",
+            "shop_review_count": 163,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-f8542fbc9d7",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f8542fbc9d7",
+            "shop_url": "www.pcdiga.com",
+            "shop_domain": "pcdiga.com",
+            "shop_matching_id": "pcdiga.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "217404333232833328",
+            "price": "627.33",
+            "price_additional_info": [],
+            "price_with_shipping": "634.33",
+            "shipping_costs": "7.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/informatica-e-acessorios/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-zotac-geforce-rtx-3070-nvidia-8-gb-gddr6-MRKEAN-4895173623417",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "217404333232833328",
+            "price": "680.96",
+            "price_additional_info": [],
+            "price_with_shipping": "680.96",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.pccomponentes.pt/zotac-gaming-geforce-rtx-3070-twin-edge-lhr-8gb-gddr6",
+            "shop_name": " PcComponentes PT",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9f9ce0a43ef",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9f9ce0a43ef",
+            "shop_url": "www.pccomponentes.pt",
+            "shop_domain": "pccomponentes.pt",
+            "shop_matching_id": "pccomponentes.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "217404333232833328",
+            "price": "711.35",
+            "price_additional_info": [],
+            "price_with_shipping": "718.34",
+            "shipping_costs": "6.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp20831654/Placa-de-Video-Zotac-ZT-A30700E-10PLHR-Preto/w-4?oref=294ad4e4-9781-6615-a03b-6613e85717dc",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "217404333232833328",
+            "price": "703.22",
+            "price_additional_info": [],
+            "price_with_shipping": "710.72",
+            "shipping_costs": "7.5",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://greatecno.com/pt/placas-graficas/194076-zotac-geforce-rtx-3070-twin-edge-8gb-gddr6-lhr-4895173623417.html?srsltid=AQP2TePAQbxWLJ9EFcU923Sxg6FIGO7O3-_XGEyqKP55Dhy6oy6DCGJWnZI",
+            "shop_name": "GreaTecno",
+            "shop_review_count": 72,
+            "shop_review_rating": 88,
+            "shop_id": "priceapi-c7bb28ea093",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c7bb28ea093",
+            "shop_url": "greatecno.com",
+            "shop_domain": "greatecno.com",
+            "shop_matching_id": "greatecno.com",
+            "page": 1,
+            "position": 5
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04960759904157",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:10:12Z"
+      },
+      "content": {
+        "id": "9140611045323162875",
+        "name": "NIKON D780 Corpo",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkx2kodR09q6sMRPyYohOT0ZOGinaVqIlACM4A_hOhyUIFIFJV7SdF6wB5nNRf470QqtpOmtNCf5cRd75D8dbmRGgVEZ6QTtrajw_9AoVf98S_CutCHr8a0pQoJlFvJx5BRcC9zxvApQxIhXTRcDfbztsCyoTXqQ6AV4D7VCVoldHKvMWDZiCEF5duqNs-rkcFmiz0Efww=s512-pd-pc0x00ffffff",
+        "description": "Mixing a contemporary imaging approach with traditional form and function, the Nikon D780 is a versatile DSLR excelling in both photography and video applications. Featuring a 24.5MP full-frame CMOS sensor, high-resolution stills and video recordi...",
+        "properties": [
+          "CMOS",
+          "Com v\u00eddeo",
+          "Sensor Full Frame",
+          "Resistente \u00e0 \u00e1gua",
+          "Flash remov\u00edvel",
+          "Com estabiliza\u00e7\u00e3o de imagem",
+          "Bluetooth",
+          "Com Wi-Fi"
+        ],
+        "url": "https://www.google.pt/shopping/product/9140611045323162875?hl=pt&gl=pt&sfr=compass",
+        "review_count": 293,
+        "review_rating": 96,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Sensor",
+            "value": [
+              "CMOS Full Frame - 35",
+              "9 x 23",
+              "9mm"
+            ]
+          },
+          {
+            "label": "Filtro de Cor",
+            "value": [
+              "Prim\u00e1ria - RGB"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o Foto",
+            "value": [
+              "24.5 MP"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o M\u00e1xima de V\u00eddeo",
+            "value": [
+              "Ultra HD 4K 2160p",
+              "29.97 fps"
+            ]
+          }
+        ],
+        "offer_count": 5,
+        "offers_url": "https://www.google.pt/shopping/product/9140611045323162875/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "9140611045323162875",
+            "price": "1939.0",
+            "price_additional_info": [],
+            "price_with_shipping": "1939.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/fotografia-e-drones/maquinas-fotograficas/maquinas-fotograficas-reflex-dslr/maquina-fotografica-reflex-nikon-d780-full-frame-7109606",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "9140611045323162875",
+            "price": "1978.94",
+            "price_additional_info": [],
+            "price_with_shipping": "1978.94",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/Nikon-D780-Corpo/a7474890/w-4?oref=c0f70b55-e7c7-f71d-d2b9-2f118d9f876d",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "9140611045323162875",
+            "price": "1796.83",
+            "price_additional_info": [
+              "PRE\u00c7O BAIXO"
+            ],
+            "price_with_shipping": "1802.83",
+            "shipping_costs": "6.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://xikixi.pt/catalog/product/view/id/6821364/",
+            "shop_name": "Xikixi PT",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-7215342b944",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-7215342b944",
+            "shop_url": "xikixi.pt",
+            "shop_domain": "xikixi.pt",
+            "shop_matching_id": "xikixi.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "9140611045323162875",
+            "price": "2999.0",
+            "price_additional_info": [],
+            "price_with_shipping": "3002.9",
+            "shipping_costs": "3.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elcorteingles.pt/tecnologia/A34632619-camara-reflex-nikon-d780-corpo/?ref=001010116100016%20&feed=true",
+            "shop_name": "El Corte Ingl\u00e9s",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-59e992a5443",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-59e992a5443",
+            "shop_url": "www.elcorteingles.pt",
+            "shop_domain": "elcorteingles.pt",
+            "shop_matching_id": "elcorteingles.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "9140611045323162875",
+            "price": "2529.0",
+            "price_additional_info": [],
+            "price_with_shipping": "2529.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.digitfoto.pt/GoogleMC.php?prod=NIKONVBA560AE",
+            "shop_name": "DigitFoto.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8b836e914d0",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8b836e914d0",
+            "shop_url": "www.digitfoto.pt",
+            "shop_domain": "digitfoto.pt",
+            "shop_matching_id": "digitfoto.pt",
+            "page": 1,
+            "position": 5
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05060233830039",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:10:11Z"
+      },
+      "content": {
+        "id": "12266148102557892645",
+        "name": "Bubblebum Assento Elevat\u00f3rio Black (Grupo 2/3)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxVrTnU9Zv8PiudXF0TNh4a2S7patbosziQ13URqBIAcThvFAZ3mkF3LdMmck3SuvtoSSxn-_NDNJc0GiIYrbAbNeTe8xYyPdojRNasQVOGluhsilZRWJ_3062Ja05okGF2S7E_4aqIdMUguVo1Nk4QKtwFv8iuZJEkGgWcmLJ0Ih8h2wXCII-QApic6XiKJJqEnTzQtT8=s512-pd-pc0x00ffffff",
+        "description": "Assento Elevatorio Insuflavel para Carro BubbleBum BubbleBum \u00e9 o primeiro assento elevat\u00f3rio insufl\u00e1vel de carro homologado do mercado. \u00c9 um assento elevat\u00f3rio inovador, port\u00e1til e leve recomendado para crianas de idades compreendidas entre os 4 e...",
+        "properties": [
+          "Virada para frente",
+          "Assento de eleva\u00e7\u00e3o",
+          "Preto"
+        ],
+        "url": "https://www.google.pt/shopping/product/12266148102557892645?hl=pt&gl=pt&sfr=compass",
+        "review_count": 461,
+        "review_rating": 88,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/12266148102557892645/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "12266148102557892645",
+            "price": "64.44",
+            "price_additional_info": [],
+            "price_with_shipping": "69.43",
+            "shipping_costs": "4.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp8829036/Cadeira-de-Bebe-sem-Costas-para-Carro-BubbleBum-BUM007-Preto/w-4?oref=4f399159-4974-7eaa-71d1-75851977897e",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "12266148102557892645",
+            "price": "70.23",
+            "price_additional_info": [],
+            "price_with_shipping": "75.22",
+            "shipping_costs": "4.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-bubblebum-black-grupo-2-3-MRKEAN-5060233830039",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05900495890191",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:10:14Z"
+      },
+      "content": {
+        "id": "12108564653862656184",
+        "name": "Trotinete Com 3 Rodas Qkids Lumis F\u00facsia - Momi",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzZk5kyKlB1ZuwicPkMbHGu4NoaxzV5AWJXtPyRYEB6cFgrs4Wbtxw6jvBHuPWXt8rXriAyyzdHHiz_Ypa_wk25shF3s07PY1ZZCiQhCex9HafjtVjpgC5abJ3L76TZGI-_hbOV8GhVuPHbIjDLOeq7cu_PaGcL0SgRbEsY8nUF6dKXjR8EjDbv6vdaODAG8EP_QRRbGhQ=s512-pd-pc0x00ffffff",
+        "description": "Guiador de alum\u00ednio com ajuste em 3 etapas. Trav\u00e3o Flexbrake. Rodas de poliuretano com rolamentos ABEC-7. Luzes LED integradas nas rodas. Pegas antiderrapantes no guiador (esponja TPR). Mecanismo simples para dobrar a trotinete. Marca Momi. Peso d...",
+        "properties": [
+          "Rosa"
+        ],
+        "url": "https://www.google.pt/shopping/product/12108564653862656184?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/12108564653862656184/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "12108564653862656184",
+            "price": "32.99",
+            "price_additional_info": [],
+            "price_with_shipping": "37.99",
+            "shipping_costs": "5.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/trotinete-qkids-lumis-rosa-MRKEAN-5900495890191",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "12108564653862656184",
+            "price": "32.99",
+            "price_additional_info": [],
+            "price_with_shipping": "32.99",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://chicmybaby.pt/product/trotinete-qkids-lumis-pink/?utm_source=Google%20Shopping&utm_campaign=Google%20Shopping&utm_medium=cpc&utm_term=13570",
+            "shop_name": "Chic My Baby",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-66dd0ad9d87",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-66dd0ad9d87",
+            "shop_url": "chicmybaby.pt",
+            "shop_domain": "chicmybaby.pt",
+            "shop_matching_id": "chicmybaby.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05901435408681",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:10:10Z"
+      },
+      "content": {
+        "id": "17596806676196281324",
+        "name": "Baby Ono Discos de Amamenta\u00e7\u00e3o (100 + 40 un)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzRo1AbHxJq3mvLH3VKh2uboHzc7ghtUQYaheDe7wwHT1Uu500EuErWVZKWw3XEoo6wrZGTI3XDF6_lBFtdHysBcwpIdh7OAe2Dkv8CtQhb6OBC3e_WoCWxZgGYlxAkybc_jAlodT21YeGMWC8TruAqRZ3uQHoDRSgrSG8nGIDCBuQFnLpLPe8wKnLVOXqzJ9Fk1_4s5no=s512-pd-pc0x00ffffff",
+        "description": "Discos de amamenta\u00e7\u00e3o \u2013 as camadas arejadas e delicadas dos discos ajudam a manter a pele e a roupa secas, protegendo os seios sens\u00edveis da pele contra irrita\u00e7\u00f5es. Ultrafino e discreto garantem conforto e discri\u00e7\u00e3o no uso. Para uma higiene adequad...",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/17596806676196281324?hl=pt&gl=pt&sfr=compass",
+        "review_count": 673,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "MRW",
+            "value": [
+              "quarta-feira 18/05/2022"
+            ]
+          },
+          {
+            "label": "Recolher na loja",
+            "value": [
+              "quarta-feira 18/05/2022"
+            ]
+          },
+          {
+            "label": "UPS Correio A\u00e9reo",
+            "value": [
+              "segunda-feira 16/05/2022"
+            ]
+          }
+        ],
+        "offer_count": 3,
+        "offers_url": "https://www.google.pt/shopping/product/17596806676196281324/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "17596806676196281324",
+            "price": "15.0",
+            "price_additional_info": [],
+            "price_with_shipping": "18.99",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://dott.pt/pt/products/baby-ono-comfor-breast-pads-100-pcs-40-pcs-42bf3ec4-6bb0-438b-bd46-c4c7acb8269f?utm_source=google-shopping&utm_medium=organic&utm_campaign=Biber%C3%B5es%20e%20termos%20%3E%20Alimenta%C3%A7%C3%A3o%20%3E%20Beb%C3%A9%20Crian%C3%A7a%20e%20Brinquedos&utm_content=Baby%20Ono%20Comfor%20Breast%20Pads%20100%20Pcs%20+%2040%20Pcs",
+            "shop_name": "Dott",
+            "shop_review_count": 123,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-5aa8ad5316e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5aa8ad5316e",
+            "shop_url": "dott.pt",
+            "shop_domain": "dott.pt",
+            "shop_matching_id": "dott.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "17596806676196281324",
+            "price": "18.5",
+            "price_additional_info": [],
+            "price_with_shipping": "23.64",
+            "shipping_costs": "5.14",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp19053648/Discos-de-Amamentacao-Baby-Ono-Comfor-100-Pcs-40-Pcs/w-4?oref=00d32810-9749-c79e-95bf-14478b20683e",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "17596806676196281324",
+            "price": "18.5",
+            "price_additional_info": [],
+            "price_with_shipping": "18.5",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/pre-mama-e-mama/amamentacao/discos-de-amamentacao-baby-ono-100-40-un-MRKEAN-5901435408681",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05901435408896",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:10:17Z"
+      },
+      "content": {
+        "id": "15389690583971961392",
+        "name": "Baby Ono Term\u00f3metro de Banho Urso",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkyuA7Z_uw3ZA1nP5c6ydd64WNNtSAoeA9ys-LiH_JM1SRHT3SPWYzOSjRXCzlH7EW6Sis_m_TUpQZzqd4_zLGAKvqOO-AKWYTSi38rxF3f4s1ONhyJtQlN2L6IpPHCIG5AxnJToQwX5EdJdEORpBvUwSp4FCt_iwkXK2J_MgdvEvf0mYikG154c0AoIdFVjMj5GZmxHhw=s512-pd-pc0x00ffffff",
+        "description": "O term\u00f3metro do banho ajudar\u00e1 com seguran\u00e7a e confiabilidade a atingir e manter a temperatura certa para o banho do seu beb\u00e9. Uma escala grande e leg\u00edvel facilita a leitura da temperatura. Gra\u00e7as \u00e0 sua constru\u00e7\u00e3o leve, o term\u00f4metro flutua na super...",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/15389690583971961392?hl=pt&gl=pt&sfr=compass",
+        "review_count": 58,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "MRW",
+            "value": [
+              "quarta-feira 11/05/2022"
+            ]
+          },
+          {
+            "label": "Recolher na loja",
+            "value": [
+              "quarta-feira 11/05/2022"
+            ]
+          }
+        ],
+        "offer_count": 4,
+        "offers_url": "https://www.google.pt/shopping/product/15389690583971961392/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "15389690583971961392",
+            "price": "2.0",
+            "price_additional_info": [],
+            "price_with_shipping": "5.99",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://dott.pt/pt/products/baby-ono-termometro-de-banho-urso-138d6f15-0ee8-4dd5-bbff-69655189f1d3?utm_source=google-shopping&utm_medium=organic&utm_campaign=Acess%C3%B3rios%20de%20banho%20%3E%20Banho%20e%20Higiene%20do%20beb%C3%A9%20%3E%20Beb%C3%A9%20Crian%C3%A7a%20e%20Brinquedos&utm_content=Baby%20Ono%20Term%C3%B3metro%20de%20Banho%20Urso",
+            "shop_name": "Dott",
+            "shop_review_count": 123,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-5aa8ad5316e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5aa8ad5316e",
+            "shop_url": "dott.pt",
+            "shop_domain": "dott.pt",
+            "shop_matching_id": "dott.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "15389690583971961392",
+            "price": "2.6",
+            "price_additional_info": [],
+            "price_with_shipping": "8.55",
+            "shipping_costs": "5.95",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.notino.pt/babyono/thermometer-termometro-para-banho/p-16103746/",
+            "shop_name": "Notino.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0565aa8c267",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0565aa8c267",
+            "shop_url": "www.notino.pt",
+            "shop_domain": "notino.pt",
+            "shop_matching_id": "notino.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "15389690583971961392",
+            "price": "6.0",
+            "price_additional_info": [],
+            "price_with_shipping": "11.14",
+            "shipping_costs": "5.14",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp19054031/Termometro-de-Banho-Baby-Ono-Urso/w-4?oref=dc52890c-b58e-2b43-0dd2-ff27d24a25b6",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "15389690583971961392",
+            "price": "6.5",
+            "price_additional_info": [],
+            "price_with_shipping": "6.5",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/termometros-bebe/termometro-de-banho-baby-ono-urso-MRKEAN-5901435408896",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06459846266127",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:10:10Z"
+      },
+      "content": {
+        "id": "4637746807982921971",
+        "name": "Ohpa Intercomunicador para Beb\u00e9 GC60 Wireless 720P",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzO1rz1J67OVS6AtekfxsRhicknlnFrCip3xY_kN87BM7a8r8TzQhL5B8AVuYL1p8aCRlUGfkU19M8NOD2U5y3e4v6y4frZRUoAC3F348_Fz9o2BCXYfb1-rGBXgrKyY8fvgj_JJAw2UveeF9QIxUi4pwu0eddx-ITylqwQMOYCQBcLDyxMirGlcNdiuBKI_bCtXknyTA=s512-pd-pc0x00ffffff",
+        "description": "Caracter\u00edsticas:A c\u00e2mera de seguran\u00e7a multifuncional 720P HD pode ser usada como um monitor de beb\u00ea / s\u00eanior / animal de estima\u00e7\u00e3o, como uma c\u00e2mera de seguran\u00e7a dom\u00e9stica, etc. Cart\u00e3o de 64GB.A conex\u00e3o Wi-Fi 2.4G, est\u00e1vel e confi\u00e1vel, garante uma ...",
+        "properties": [
+          "Com \u00e1udio",
+          "Vis\u00e3o noturna",
+          "Sensor de movimento",
+          "Wi-Fi",
+          "Interno",
+          "Sem fio",
+          "Residencial"
+        ],
+        "url": "https://www.google.pt/shopping/product/4637746807982921971?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/4637746807982921971/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "4637746807982921971",
+            "price": "65.99",
+            "price_additional_info": [],
+            "price_with_shipping": "65.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/intercomunicadores-bebe/intercomunicador-para-bebe-ohpa-gc60-wireless-720p-MRKEAN-6459846266127",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06941211760175",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:10:09Z"
+      },
+      "content": {
+        "id": "17117266496211133980",
+        "name": "Protetor de Assento Apramo",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxvSFjuw_OdoiQra_sd4BrXdzStjdpp8vz4N81HR_UYVslk3R3YwQ5DsiTb-DpY5eIJskXzK0gQWpL6UyviDmQM7HXi2xZ-mhlSrNjs-k0iepPHsHxZzDfia4gdDsS0NpCCfwsCtRofYvkRD5K2QkFoPfzoC5eQhm9NGgWzhAiEw-Hio6JW4SdLcdEJBi-w8gNLfN0BrBU=s512-pd-pc0x00ffffff",
+        "description": "Acolchoado protetor de assento para proteger os assentos do ve\u00edculo de sujeira e Use. Ele pode ser usado com assentos de seguran\u00e7a para crian\u00e7as com e sem Isofix. Ele pode ser usado na frente e traseiras assentos do ve\u00edculo. Compat\u00edvel com todos o...",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/17117266496211133980?hl=pt&gl=pt&sfr=compass",
+        "review_count": 1,
+        "review_rating": 100,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Fabricante/Marca",
+            "value": [
+              "Apramo"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/17117266496211133980/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "17117266496211133980",
+            "price": "17.0",
+            "price_additional_info": [],
+            "price_with_shipping": "20.99",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://dott.pt/pt/products/apramo-protector-asiento-completo-85f281f7-75fd-4edd-8226-14a9afb6070b?utm_source=google-shopping&utm_medium=organic&utm_campaign=Seguran%C3%A7a%20e%20Alarmes%20%3E%20Smart%20home%20%3E%20Imagem%20Som%20e%20Home%20tech&utm_content=Apramo%20Protector%20Asiento%20Completo",
+            "shop_name": "Dott",
+            "shop_review_count": 123,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-5aa8ad5316e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5aa8ad5316e",
+            "shop_url": "dott.pt",
+            "shop_domain": "dott.pt",
+            "shop_matching_id": "dott.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "17117266496211133980",
+            "price": "21.25",
+            "price_additional_info": [],
+            "price_with_shipping": "26.75",
+            "shipping_costs": "5.5",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/acessorios-de-carrinhos-de-bebe/protetor-de-assento-apramo-infantil-MRKEAN-6941211760175",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08010898261072",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:10:10Z"
+      },
+      "content": {
+        "id": "11117890446790134890",
+        "name": "Eurasia P\u00e1ra Sol Lateral Maxi Pj Masks",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkygOKsO3k4SSwxT9i2qTs3SR_Sg2z3WqTSMYmtq3tCrT-dem-cpjxJEu7fzhWjcf3d9_-xOo8SxUClRjHNDloUCMmcDJ5eV2BgqcmfUY8j-QJa9V6u3GZVYuQdRe5lv9dZveoiOhZe3uAcGsUM695m8_T0sqTrKILv8YsgJC7H1pnvRAmvUlyW89T5LhihB8W18fi0YBJ8=s512-pd-pc0x00ffffff",
+        "description": "P\u00e1ra sol Lateral Maxi para autom\u00f3vel dos Pj Masks. Cont\u00e9m apenas uma pe\u00e7a. A fixa\u00e7\u00e3o \u00e9 feita atrav\u00e9s de ventosas. Dimens\u00f5es: 60x40cm.",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/11117890446790134890?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/11117890446790134890/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "11117890446790134890",
+            "price": "2.99",
+            "price_additional_info": [],
+            "price_with_shipping": "6.94",
+            "shipping_costs": "3.95",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/acessorios-de-carrinhos-de-bebe/para-sol-lateral-maxi-pj-masks-MRKEAN-8010898261072",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "11117890446790134890",
+            "price": "2.99",
+            "price_additional_info": [],
+            "price_with_shipping": "6.98",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://dott.pt/pt/products/para-sol-lateral-maxi-pj-masks-cb8da837-a615-4818-86ea-dfc756366e45?utm_source=google-shopping&utm_medium=organic&utm_campaign=Acess%C3%B3rios%20viagem%20autom%C3%B3vel%20crian%C3%A7a%20%3E%20Cadeiras%20auto%20e%20Acess%C3%B3rios%20de%20viagem%20%3E%20Passeio%20e%20Viagens%20%3E%20Beb%C3%A9%20Crian%C3%A7a%20e%20Brinquedos&utm_content=P%C3%A1ra%20Sol%20Lateral%20Maxi%20Pj%20Masks",
+            "shop_name": "Dott",
+            "shop_review_count": 123,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-5aa8ad5316e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5aa8ad5316e",
+            "shop_url": "dott.pt",
+            "shop_domain": "dott.pt",
+            "shop_matching_id": "dott.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08013240200040",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:10:14Z"
+      },
+      "content": {
+        "id": "10851885339507852800",
+        "name": "Laica Nebulizador NE3001",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkyZGFoFNkf06UZQ1vY0BnDZNGC_dseD5jY4DDMriGeO0RK9Q0VbR_NeFw7ADjD12N_XQcgEm9F2JS4TRDQRyCS5rCemuoVDqQ5HdkqVSTrtjFSMD5q-zwKb_-d7cdofNuMVadWPLeosAuoxLneQN7AvsgbLmZYZBq0Fw4zeVKavMaRAN22gyeS9AlhVLaxKv6unTekWonM=s512-pd-pc0x00ffffff",
+        "description": "Sa\u00fade e beleza Cuidados Respirat\u00f3rios Laica Nebulizador de pist\u00e3o Ne3001 Branco O NE3001 Laica Compressor Device for Aerosol Therapy \u00e9 compacto e f\u00e1cil de usar, e sua opera\u00e7\u00e3o silenciosa o torna perfeito para crian\u00e7as. \u00c9 adequado para pulverizar q...",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/10851885339507852800?hl=pt&gl=pt&sfr=compass",
+        "review_count": 3,
+        "review_rating": 86,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 3,
+        "offers_url": "https://www.google.pt/shopping/product/10851885339507852800/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10851885339507852800",
+            "price": "64.61",
+            "price_additional_info": [],
+            "price_with_shipping": "64.61",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/nebulizadores-bebe/nebulizador-laica-ne3001-MRKEAN-8013240200040",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "10851885339507852800",
+            "price": "85.88",
+            "price_additional_info": [],
+            "price_with_shipping": "85.88",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp9769439/Nebulizador-Laica-NE3001-Branco/w-4?oref=ec6710c9-5c7e-3dd8-7d7e-25faaaf12324",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "10851885339507852800",
+            "price": "72.12",
+            "price_additional_info": [],
+            "price_with_shipping": "72.12",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.docmorris.pt/pt/laica-a-nebulizador-de-pistao-ne3001-cor-branco/p-204834?country_code=PT",
+            "shop_name": "DocMorris",
+            "shop_review_count": 136,
+            "shop_review_rating": 92,
+            "shop_id": "priceapi-a7520ef8759",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a7520ef8759",
+            "shop_url": "www.docmorris.pt",
+            "shop_domain": "docmorris.pt",
+            "shop_matching_id": "docmorris.pt",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08058664077595",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:10:13Z"
+      },
+      "content": {
+        "id": "4761545679080152599",
+        "name": "Cadeira De Passeio London Blue Passion - Chicco",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkyWJMNg9Vtzne_Il01isfZtGSl71LLDru-sGqsbi5JlXbkx90Lutq8ZB0zlCmOOkpmEGwylUNwQ3fPH--j7nKUB5p4kgTZ1l3C4JZpCjBmbCpg8oG16Dlt6ZN4LsU_cvLChk0YHNq4NfV-ec-MKAHaCvbZUOsneG3Gq6C5GvfjZO4SBUdWvPTlG-SOXPYhKBL0LjhUaAg=s512-pd-pc0x00ffffff",
+        "description": "A Chicco \u00e9 uma empresa l\u00edder no mercado de produtos infantis. Est\u00e1 presente em mais de 120 pa\u00edses, e h\u00e1 60 anos acompanha os pais para tornar a cria\u00e7\u00e3o dos seus filhos mais simples e segura. O compromisso e a paix\u00e3o pelo que faz a orienta a buscar...",
+        "properties": [
+          "Individual",
+          "Guarda-chuva"
+        ],
+        "url": "https://www.google.pt/shopping/product/4761545679080152599?hl=pt&gl=pt&sfr=compass",
+        "review_count": 488,
+        "review_rating": 88,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 4,
+        "offers_url": "https://www.google.pt/shopping/product/4761545679080152599/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "4761545679080152599",
+            "price": "89.99",
+            "price_additional_info": [],
+            "price_with_shipping": "89.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.toysrus.pt/Chicco-Carrinho-de-Passeio-London-Blue-Passion-Chicco/p/K1019590",
+            "shop_name": "ToysRus Portugal",
+            "shop_review_count": 646,
+            "shop_review_rating": 88,
+            "shop_id": "priceapi-dbd3c3b79b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-dbd3c3b79b1",
+            "shop_url": "www.toysrus.pt",
+            "shop_domain": "toysrus.pt",
+            "shop_matching_id": "toysrus.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "4761545679080152599",
+            "price": "114.15",
+            "price_additional_info": [],
+            "price_with_shipping": "114.15",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-individual-chicco-london-up-com-blue-passion-bow-preto-e-azul-MRKEAN-8058664077595",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "4761545679080152599",
+            "price": "119.4",
+            "price_additional_info": [],
+            "price_with_shipping": "119.4",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp18139060/Carrinho-de-bebe-Chicco-London-Azul/w-4?oref=f8959f17-2372-d212-6070-b8cdd386536c",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "4761545679080152599",
+            "price": "130.47",
+            "price_additional_info": [],
+            "price_with_shipping": "134.46",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://dott.pt/pt/products/chicco-london-carrinho-de-bebe-tradicional-1-lugares-preto-azul-a46dd48e-f9d4-4e26-83b7-2b5d971fbb4e?utm_source=google-shopping&utm_medium=organic&utm_campaign=Carrinhos%20alcofa%20%3E%20Carrinhos%20%3E%20Passeio%20e%20Viagens%20%3E%20Beb%C3%A9%20Crian%C3%A7a%20e%20Brinquedos&utm_content=Chicco%20London%20Carrinho%20de%20Beb%C3%A9%20Tradicional%201%20Lugares%20Preto%20Azul",
+            "shop_name": "Dott",
+            "shop_review_count": 123,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-5aa8ad5316e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5aa8ad5316e",
+            "shop_url": "dott.pt",
+            "shop_domain": "dott.pt",
+            "shop_matching_id": "dott.pt",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08435428773427",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:10:17Z"
+      },
+      "content": {
+        "id": "13885961531096328997",
+        "name": "HOMCOM Triciclo infantil com toldo Barreira Apoio para os p\u00e9s Luz e M\u00fasica 93x51x94 cm Azul",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwhQJ46snZsuBDWMj_LMQeVWlM77MaeZqDv-JJvXJpGpBG80b5AkFCSVzhX9LTCsgRb-iGLkaPoG5E5Hc38KQsc3R-c6BmsCCDS0pA7Tuaisjy54ev1BnLudQtdRlyMNqAoyW--FJu2UeZxdjuKPhPwe6vaueXTjaNxL1jiZAp2pDjUf6SKs6pXa21ej2mqTKHIL1i7zjg=s512-pd-pc0x00ffffff",
+        "description": "O triciclo retr\u00e1til para crian\u00e7as HOMCOM Kids \u00e9 um ve\u00edculo e um brinquedo seguro. Com ele, voc\u00ea pode passear com seus filhos de uma maneira confort\u00e1vel e divertida. Eles v\u00e3o adorar a sua forma de motocicleta e voc\u00ea vai adorar a flexibilidade que v...",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/13885961531096328997?hl=pt&gl=pt&sfr=compass",
+        "review_count": 4,
+        "review_rating": 100,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "SIN",
+            "value": [
+              "1551A4DFRMO01"
+            ]
+          }
+        ],
+        "offer_count": 9,
+        "offers_url": "https://www.google.pt/shopping/product/13885961531096328997/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "13885961531096328997",
+            "price": "83.99",
+            "price_additional_info": [],
+            "price_with_shipping": "83.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/triciclos-para-bebe/triciclo-infantil-homcom-370-094bu-com-luzes-e-musica-azul-MRKEAN-8435428773427",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "13885961531096328997",
+            "price": "86.99",
+            "price_additional_info": [],
+            "price_with_shipping": "86.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.aosom.pt/item/homcom-triciclo-infantil-com-toldo-barreira-apoio-para-os-p-s-luz-e-m-sica-93x51x94-cm-azul~370-094BU.html?utm_source=google&utm_medium=cpc&utm_campaign=google_shopping",
+            "shop_name": "Aosom Portugal",
+            "shop_review_count": 166,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-59e6560ba9a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-59e6560ba9a",
+            "shop_url": "www.aosom.pt",
+            "shop_domain": "aosom.pt",
+            "shop_matching_id": "aosom.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "13885961531096328997",
+            "price": "83.99",
+            "price_additional_info": [],
+            "price_with_shipping": "83.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp18886658/Triciclo-Infantil-com-Toldo-HOMCOM-Barreira-Apoio-para-os-Pes-Luz-e-Musica-93x51x94-cm-Azul/w-4?oref=5d14011d-e9a4-dd7f-9be3-aeaf3ee38c6e",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "13885961531096328997",
+            "price": "76.24",
+            "price_additional_info": [],
+            "price_with_shipping": "76.24",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.planetahuerto.pt/venda-triciclo-infantil-com-toldo-barreira-apoio-para-os-pes-luz-e-musica-93x51x94-cm-azul-homcom_212591?srsltid=AQP2TeNzFtWqQADzeGwYGtLsm2oY5LpU02kJCMtbRuxH1mY089OCJioI0t8",
+            "shop_name": "Planeta Huerto",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4b6739d069f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4b6739d069f",
+            "shop_url": "www.planetahuerto.pt",
+            "shop_domain": "planetahuerto.pt",
+            "shop_matching_id": "planetahuerto.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "13885961531096328997",
+            "price": "79.28",
+            "price_additional_info": [],
+            "price_with_shipping": "79.28",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://habitium.pt/bicicletas/triciclo-estilo-moto-infantil-com-teto-azul-homcom.html?land=&dfw_tracker=89522-411161",
+            "shop_name": "Habitium.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-98d9b8568be",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-98d9b8568be",
+            "shop_url": "habitium.pt",
+            "shop_domain": "habitium.pt",
+            "shop_matching_id": "habitium.pt",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "13885961531096328997",
+            "price": "94.77",
+            "price_additional_info": [],
+            "price_with_shipping": "98.76",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://dott.pt/pt/products/triciclo-infantil-com-toldo-barreira-apoio-para-os-pes-luz-e-musica-93x51x94-cm-azul-a2987003-ba40-49fa-be64-b3687bb05606?utm_source=google-shopping&utm_medium=organic&utm_campaign=Parques%20Espregui%C3%A7adeiras%20e%20Andarilhos%20%3E%20Brinquedos%20de%20beb%C3%A9%20%3E%20Brinquedos%20%3E%20Beb%C3%A9%20Crian%C3%A7a%20e%20Brinquedos&utm_content=Triciclo%20Infantil%20com%20Toldo%20Barreira%20Apoio%20para%20Os%20P%C3%A9s%20Luz%20e%20M%C3%BAsica%2093X51X94%20cm%20Azul",
+            "shop_name": "Dott",
+            "shop_review_count": 123,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-5aa8ad5316e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5aa8ad5316e",
+            "shop_url": "dott.pt",
+            "shop_domain": "dott.pt",
+            "shop_matching_id": "dott.pt",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "13885961531096328997",
+            "price": "86.99",
+            "price_additional_info": [],
+            "price_with_shipping": "86.99",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.bigstore.pt/compra/homcom-triciclo-infantil-com-toldo-barreira-apoio-para-os-pes-luz-e-9062",
+            "shop_name": "Bigstore.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d21c4bd6356",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d21c4bd6356",
+            "shop_url": "www.bigstore.pt",
+            "shop_domain": "bigstore.pt",
+            "shop_matching_id": "bigstore.pt",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "13885961531096328997",
+            "price": "86.99",
+            "price_additional_info": [],
+            "price_with_shipping": "86.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://maisonline.pt/produto/homcom-triciclo-infantil-com-toldo-barreira-apoio-para-os-pes-luz-e-musica-93x51x94-cm-azul/?utm_source=Google+Shopping&utm_medium=cpc&utm_campaign=Maisonline",
+            "shop_name": "maisonline.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-760218e4936",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-760218e4936",
+            "shop_url": "maisonline.pt",
+            "shop_domain": "maisonline.pt",
+            "shop_matching_id": "maisonline.pt",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "13885961531096328997",
+            "price": "99.0",
+            "price_additional_info": [],
+            "price_with_shipping": "99.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://recemmama.pt/pt/produtos/triciclo-com-luz-e-musica-azul-ou-vermelho-370-094",
+            "shop_name": "Rec\u00e9m Mam\u00e3 - Loja Infantil",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c1a1d038b78",
+            "shop_sub_id": "Loja Infantil",
+            "shop_extended_source_id": "priceapi-c1a1d038b78-Loja Infantil",
+            "shop_url": "recemmama.pt",
+            "shop_domain": "recemmama.pt",
+            "shop_matching_id": "recemmama.pt - Loja Infantil",
+            "page": 1,
+            "position": 9
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08712930172123",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:10:14Z"
+      },
+      "content": {
+        "id": "6496950142474785994",
+        "name": "Maxi Cosi Carrinho Leona Essential Black",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwzkHUd6YzvaQjUurTO518dzlUyaZalyowt4Atq6jayCPhrjpeI5qlvFwfpTEdA5S9rkUHa2-dKbS6QL9w0ds3EmtHuIwVBMusjL9x_KSOuF1AjQKDrr8LeM01COA5qQ4bhBFALpB_PrHHBF5VDAAHss5ggf1L5lXVxZ4JdiRWjIe-77ITWlyLh3L28pwEqHhZFYdIKxQ=s512-pd-pc0x00ffffff",
+        "description": "O Leona \u00e9 um carrinho compacto, leve e confort\u00e1vel. Compat\u00edvel com a maioria dos ovinhos Maxi-Cosi. Na cor Essential Black.",
+        "properties": [
+          "Individual"
+        ],
+        "url": "https://www.google.pt/shopping/product/6496950142474785994?hl=pt&gl=pt&sfr=compass",
+        "review_count": 74,
+        "review_rating": 92,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Qualidade",
+            "value": [
+              "Pre\u00e7o"
+            ]
+          }
+        ],
+        "offer_count": 5,
+        "offers_url": "https://www.google.pt/shopping/product/6496950142474785994/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "6496950142474785994",
+            "price": "332.99",
+            "price_additional_info": [
+              "PROMO\u00c7\u00c3O"
+            ],
+            "price_with_shipping": "336.89",
+            "shipping_costs": "3.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elcorteingles.pt/bebes/A40921183-carrinho-de-passeio-leona-essential-black-preto/?ref=001005310324198%20&feed=true",
+            "shop_name": "El Corte Ingl\u00e9s",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-59e992a5443",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-59e992a5443",
+            "shop_url": "www.elcorteingles.pt",
+            "shop_domain": "elcorteingles.pt",
+            "shop_matching_id": "elcorteingles.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "6496950142474785994",
+            "price": "332.99",
+            "price_additional_info": [],
+            "price_with_shipping": "332.99",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://myminimoon.com/carrinhos-bengala/3250-maxi-cosi-leona-essential-black-8712930172123",
+            "shop_name": "My Mini Moon",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d2681381e02",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d2681381e02",
+            "shop_url": "myminimoon.com",
+            "shop_domain": "myminimoon.com",
+            "shop_matching_id": "myminimoon.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "6496950142474785994",
+            "price": "369.99",
+            "price_additional_info": [],
+            "price_with_shipping": "369.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-individual-maxi-cosi-leona-72x45x103-cm-MRKEAN-8712930172123",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "6496950142474785994",
+            "price": "369.99",
+            "price_additional_info": [],
+            "price_with_shipping": "369.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://sitiodobebe.com/produto/passeio/carrinhos-de-bebe/carrinhos-compactos/maxicosi-carrinho-de-passeio-leona-essential-black/",
+            "shop_name": "Sitio do Bebe",
+            "shop_review_count": 300,
+            "shop_review_rating": 96,
+            "shop_id": "priceapi-cfd70a752f2",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-cfd70a752f2",
+            "shop_url": "sitiodobebe.com",
+            "shop_domain": "sitiodobebe.com",
+            "shop_matching_id": "sitiodobebe.com",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "6496950142474785994",
+            "price": "369.99",
+            "price_additional_info": [],
+            "price_with_shipping": "369.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.bybebe.pt/pt/carrinhos-porta-bebes/carrinhos-bebe/maxi-cosi-carrinho-leona-essential-black.html",
+            "shop_name": "bybeb\u00e9",
+            "shop_review_count": 704,
+            "shop_review_rating": 98,
+            "shop_id": "priceapi-e95092fa6cd",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e95092fa6cd",
+            "shop_url": "www.bybebe.pt",
+            "shop_domain": "bybebe.pt",
+            "shop_matching_id": "bybebe.pt",
+            "page": 1,
+            "position": 5
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08720286345399",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:10:11Z"
+      },
+      "content": {
+        "id": "16772497837410364285",
+        "name": "vidaXL Barra de seguran\u00e7a p/ cama infantil tecido 180x25 cm azul",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkz_iSWbr_ssXxRhXOBR7p7j3aR3uqPFzXJjiACJa-aeC1r3yC3LZomfqZ_hL7KIrSdIR4QMyvzkx3rfqOaHSkG98IZGECoxM6n_RoBdBqk49fhgORHbjq6NNTIjqSS7s7ARU5Wzj90dgr3QVYEY2GZfTkPGPoFdE2K92oPRSWCF1arSRsBIks7DysUnpVrqMO5aiAM3Kg=s512-pd-pc0x00ffffff",
+        "description": "Esta barra de seguran\u00e7a para cama proporciona uma \u00f3tima prote\u00e7\u00e3o contra quedas e assegura sonhos agrad\u00e1veis ao seu pequeno. Feita de tecido lav\u00e1vel em poli\u00e9ster e com um leve tubo de metal, esta barra de seguran\u00e7a para cama \u00e9 robusta, dur\u00e1vel e f\u00e1...",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/16772497837410364285?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Montagem necess\u00e1ria",
+            "value": [
+              "sim"
+            ]
+          }
+        ],
+        "offer_count": 3,
+        "offers_url": "https://www.google.pt/shopping/product/16772497837410364285/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "16772497837410364285",
+            "price": "30.99",
+            "price_additional_info": [],
+            "price_with_shipping": "30.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/seguranca-e-protecao-bebe/barreira-de-cama-vidaxl-infantil-azul-180x25x95-cm-MRKEAN-8720286345399",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "16772497837410364285",
+            "price": "34.99",
+            "price_additional_info": [],
+            "price_with_shipping": "34.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.vidaxl.pt/e/vidaxl-barra-de-seguranca-p-cama-infantil-tecido-180x25-cm-azul/8720286345399.html",
+            "shop_name": "vidaXL.pt",
+            "shop_review_count": 143,
+            "shop_review_rating": 86,
+            "shop_id": "priceapi-a01dd5bddff",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a01dd5bddff",
+            "shop_url": "www.vidaxl.pt",
+            "shop_domain": "vidaxl.pt",
+            "shop_matching_id": "vidaxl.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "16772497837410364285",
+            "price": "51.65",
+            "price_additional_info": [],
+            "price_with_shipping": "51.65",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.ricardoevaz.com/artigos/barra-de-seguranca-p-cama-infantil-tecido-180x25-cm-azul-434087?srsltid=AQP2TeNRVUjXr4Ma1qbwtPrguhOFjRMkGwGQdTbTtNNI8EWNnhVOBa5MI94",
+            "shop_name": "Riva Office Supplies",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-1ff35f77cb4",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-1ff35f77cb4",
+            "shop_url": "www.ricardoevaz.com",
+            "shop_domain": "ricardoevaz.com",
+            "shop_matching_id": "ricardoevaz.com",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "success": false,
+      "reason": "invalid value",
+      "source": "google-shopping",
+      "country": "pt",
+      "key": "gtin",
+      "value": "09908214737456",
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "09908214737456",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      }
+    }
+  ]
+}
