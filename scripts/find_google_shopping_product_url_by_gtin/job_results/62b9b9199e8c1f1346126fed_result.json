@@ -1,0 +1,3777 @@
+{
+  "job_id": "62b9b9199e8c1f1346126fed",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 18,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00018208953479",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:05:25Z"
+      },
+      "content": {
+        "id": "4065160504986747329",
+        "name": "NIKON - C\u00e2mara D7500",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkz5faGSE3Jx8Mv6OQWowJTORF0EnrCxEY45e07siy9evUg5Jxnh9Db94WJ-dabOyBvhld0I8vrpclHVwbw9p2Nk8bAGKvOR8TWflMGY68qrcFkiXZqYWZIgMruRuL37I4YAdbcRBrxFP0O8JY6UwRV0gkOrIf6xXBbDd6uUEXyVX-powO3vIctLxPBSuYQsERkruJsE19M=s512-pd-pc0x00ffffff",
+        "description": "Apta para a noite. Incr\u00edvel sensibilidade \u00e0 luz. Excelente em condi\u00e7\u00f5es de ilumina\u00e7\u00e3o reduzida. Gra\u00e7as \u00e0 sensibilidade de 100-51200 ISO, extens\u00edvel at\u00e9 1640000 ISO (equivalente), a D7500 n\u00e3o tem medo da escurid\u00e3o. Capte os detalhes. Excecional rec...",
+        "properties": [
+          "CMOS",
+          "Com v\u00eddeo",
+          "Sensor com fator de corte",
+          "Resistente \u00e0 \u00e1gua",
+          "Flash embutido",
+          "Flash remov\u00edvel",
+          "Com estabiliza\u00e7\u00e3o de imagem",
+          "Bluetooth",
+          "Com Wi-Fi"
+        ],
+        "url": "https://www.google.pt/shopping/product/4065160504986747329?hl=pt&gl=pt&sfr=compass",
+        "review_count": 2256,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Op\u00e7\u00f5es de reembolso",
+            "value": [
+              "dispon\u00edveis para este produto"
+            ]
+          },
+          {
+            "label": "TAEG",
+            "value": [
+              "15",
+              "8%"
+            ]
+          },
+          {
+            "label": "TAN",
+            "value": [
+              "12",
+              "53%"
+            ]
+          }
+        ],
+        "offer_count": 3,
+        "offers_url": "https://www.google.pt/shopping/product/4065160504986747329/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "4065160504986747329",
+            "price": "1058.99",
+            "price_additional_info": [],
+            "price_with_shipping": "1058.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/fotografia-e-drones/maquinas-fotograficas/maquinas-fotograficas-reflex-dslr/maquina-fotografica-reflex-nikon-d7500-dx-6244706",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "4065160504986747329",
+            "price": "1004.85",
+            "price_additional_info": [],
+            "price_with_shipping": "1004.85",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/Nikon-D7500-Corpo-camara-SLR-20-9MP-CMOS-5568-x-3712pixels-Preto/a1262901/w-4?oref=6872f575-f1c2-94c0-3d7e-c85d7d6ac431",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "4065160504986747329",
+            "price": "1379.0",
+            "price_additional_info": [],
+            "price_with_shipping": "1382.9",
+            "shipping_costs": "3.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elcorteingles.pt/tecnologia/A22963150-camara-reflex-nikon-d7500-corpo-209mp/?ref=001010114120735%20&feed=true",
+            "shop_name": "El Corte Ingl\u00e9s",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-59e992a5443",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-59e992a5443",
+            "shop_url": "www.elcorteingles.pt",
+            "shop_domain": "elcorteingles.pt",
+            "shop_matching_id": "elcorteingles.pt",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03220660266791",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:05:26Z"
+      },
+      "content": {
+        "id": "16832747083274313393",
+        "name": "Maxi-Cosi Espelho Retrovisor",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwPS2SvPMJwZ_F5tS6G0cVft4-vr8NdUmSBP6wt8gU6TeLYYeixHqDudKmFxatxr_ZJS3s2U6sVYLM_YOkG8UOVDCJ7r8LotjQuQVKC0FB-fLy8pQub8Oh1mudRVGBeDbFsja5ViSxTcf7h0cPjrLPg_YqFgLcQ1UeL4uymXLnVPgtNdlEqSbyuNojMgdWzlsWutMzM56w=s512-pd-pc0x00ffffff",
+        "description": "Os Pais j\u00e1 podem viajar seguros e relaxados gra\u00e7as ao espelho retrovisor traseiro da Maxi-Cosi. Podem ver o beb\u00e9 ou crian\u00e7a na posi\u00e7\u00e3o de costas para a estrada. Ajuda a prevenir o risco de acidentes. Muito f\u00e1cil de instalar, o espelho retrovisor t...",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/16832747083274313393?hl=pt&gl=pt&sfr=compass",
+        "review_count": 861,
+        "review_rating": 90,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 6,
+        "offers_url": "https://www.google.pt/shopping/product/16832747083274313393/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "16832747083274313393",
+            "price": "17.99",
+            "price_additional_info": [
+              "PROMO\u00c7\u00c3O"
+            ],
+            "price_with_shipping": "21.89",
+            "shipping_costs": "3.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elcorteingles.pt/bebes/A42057102-espelho-retrovisor-traseiro-preto/?ref=001005323006980%20&feed=true",
+            "shop_name": "El Corte Ingl\u00e9s",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-59e992a5443",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-59e992a5443",
+            "shop_url": "www.elcorteingles.pt",
+            "shop_domain": "elcorteingles.pt",
+            "shop_matching_id": "elcorteingles.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "16832747083274313393",
+            "price": "18.99",
+            "price_additional_info": [],
+            "price_with_shipping": "22.89",
+            "shipping_costs": "3.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/acessorios-de-carrinhos-de-bebe/acessorio-para-assentos-maxi-cosi-3220660266791-MRKEAN-3220660266791",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "16832747083274313393",
+            "price": "19.99",
+            "price_additional_info": [],
+            "price_with_shipping": "24.98",
+            "shipping_costs": "4.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.espacomamas.pt/para-o-bebe/maxi-cosi-espelho-retrovisor",
+            "shop_name": "Espa\u00e7o Mam\u00e3s",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-7f61ac4c502",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-7f61ac4c502",
+            "shop_url": "www.espacomamas.pt",
+            "shop_domain": "espacomamas.pt",
+            "shop_matching_id": "espacomamas.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "16832747083274313393",
+            "price": "19.99",
+            "price_additional_info": [],
+            "price_with_shipping": "24.89",
+            "shipping_costs": "4.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.bybebe.pt/pt/seguranca-auto/acessorios-cadeiras/maxi-cosi-espelho-retrovisor.html",
+            "shop_name": "bybeb\u00e9",
+            "shop_review_count": 704,
+            "shop_review_rating": 98,
+            "shop_id": "priceapi-e95092fa6cd",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e95092fa6cd",
+            "shop_url": "www.bybebe.pt",
+            "shop_domain": "bybebe.pt",
+            "shop_matching_id": "bybebe.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "16832747083274313393",
+            "price": "29.16",
+            "price_additional_info": [
+              "REDU\u00c7\u00c3O NO PRE\u00c7O"
+            ],
+            "price_with_shipping": "29.16",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp11402588/Espelho-Posterior-de-Assento-Auto-de-Bebe-Maxi-Cosi-Back-Seat-Car-Mirror-Preto/w-4?oref=0be11d44-9170-9795-f53d-60e1dfff13e9",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "16832747083274313393",
+            "price": "30.28",
+            "price_additional_info": [],
+            "price_with_shipping": "34.27",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://dott.pt/pt/products/maxi-cosi-back-seat-car-mirror-espelho-posterior-de-assento-auto-de-bebe-58f6efb0-f1e7-4ff3-9395-90ed4f1e0ab9?utm_source=google-shopping&utm_medium=organic&utm_campaign=Acess%C3%B3rios%20de%20Viagem%20e%20Trasportes%20%3E%20Viagens%20e%20transporte%20%3E%20Acess%C3%B3rios%20para%20Ve%C3%ADculos&utm_content=Maxi-Cosi%20Back%20Seat%20Car%20Mirror%20Espelho%20Posterior%20de%20Assento%20Auto%20de%20Beb%C3%A9",
+            "shop_name": "Dott",
+            "shop_review_count": 123,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-5aa8ad5316e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5aa8ad5316e",
+            "shop_url": "dott.pt",
+            "shop_domain": "dott.pt",
+            "shop_matching_id": "dott.pt",
+            "page": 1,
+            "position": 6
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03220660326303",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:05:24Z"
+      },
+      "content": {
+        "id": "8910089581724312291",
+        "name": "Zy Safe Carrinho de Beb\u00e9 Individual Road Plus (100x47x81 - Cinza)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkyj1iatPftkMLZSOVKZKw0uToLHgFwgnTXtcKNRtSQgnynJ-cHJ2enNUwBhxP-jb83RznrNerQk6SYCcIoEnEm0zB6saT9rF05gH72vslBBBmEofxDVUfwXNenu-8LUKl6TIjtckSBLKtHtvjP7Zoq3WN6B7UVvCphiKFWGARoqOFsBVcf6vpdbQseJjkL5u0eT5FcwRn0=s512-pd-pc0x00ffffff",
+        "description": "Cadeira de rua super pr\u00e1tica com estrutura ultracompacta, leve e f\u00e1cil de manobrar. Ideal para espa\u00e7os reduzidos, com fecho tipo bengala, cesto e capota de sol para proteger o beb\u00e9. Dimens\u00f5es aberto (AxLxP): 100X47X81cm. Dimens\u00f5es fechado (AxLxP):...",
+        "properties": [
+          "Individual",
+          "Mois\u00e9s",
+          "Guarda-chuva"
+        ],
+        "url": "https://www.google.pt/shopping/product/8910089581724312291?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/8910089581724312291/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "8910089581724312291",
+            "price": "49.99",
+            "price_additional_info": [],
+            "price_with_shipping": "53.98",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://zippyonline.com/pt/carrinho-bengala-road-plus-zy-safe-grey/7117206.html?LGWCODE=7117206;114169;9295",
+            "shop_name": "ZIPPY",
+            "shop_review_count": 257,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-1603146d07a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-1603146d07a",
+            "shop_url": "zippyonline.com",
+            "shop_domain": "zippyonline.com",
+            "shop_matching_id": "zippyonline.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "8910089581724312291",
+            "price": "49.99",
+            "price_additional_info": [],
+            "price_with_shipping": "53.98",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-individual-zy-safe-road-plus-cinzento-100-x-47-x-81-cm-MRKEAN-3220660326303",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03800151979470",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:05:25Z"
+      },
+      "content": {
+        "id": "13521830809493963481",
+        "name": "Lorelli Carrinho de Beb\u00e9 Duo 2 Em 1 Cinzento",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwp_mqBYVOgZX0byMRWVjC1oWG_OcGTqu43GPUK77Mew2tDzQsTzoVODk9q7vyJQh1yM-C4hhzIAAA4aw9VPacekmy6vae5LRtgBs1h4ioyeyCq_8OIdqXAK-4BcTfv4yAy9ehPynfe64PyLEj-zZbZaC3JFg0nDw608UNBw3LILRegHtHCkIDkY4_TAUf2gq3herZ4yR4=s512-pd-pc0x00ffffff",
+        "description": "Amortecedores, Tampa de pernas, Dossel dobr\u00e1vel, Saco, Estrutura de alum\u00ednio, Cesto grande, Rodas dianteiras girat\u00f3rias, Saco de beb\u00e9 rec\u00e9m, nascido convert\u00edvel em banco, Pneus insufl\u00e1veis, Assento revers\u00edvel, Cinto Dispositivo de seguran\u00e7a de 5 p...",
+        "properties": [
+          "Duplo",
+          "Alum\u00ednio"
+        ],
+        "url": "https://www.google.pt/shopping/product/13521830809493963481?hl=pt&gl=pt&sfr=compass",
+        "review_count": 25,
+        "review_rating": 88,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/13521830809493963481/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "13521830809493963481",
+            "price": "199.99",
+            "price_additional_info": [],
+            "price_with_shipping": "215.98",
+            "shipping_costs": "15.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-duo-lorelli-2-em-1-cinzento-MRKEAN-3800151979470",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04718017695893",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:05:23Z"
+      },
+      "content": {
+        "id": "17910431072884527988",
+        "name": "Asus GeForce GTX 1650 TUF Gaming 4GB OC GDDR6",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkymGMsMNaRsut60fviwVm-XAXe4LYIOE7oTV3fH_hpzAugkEAoYT24bgoGhLyZ7tdkm1iIIH7CS3E8mIBQzxvMKsUxfH-k9Eme2Cs0NF2O6lFMQW3Y6e8e__cW4xXyB_ag2Q1SMFD55Adf72lNmhyBYPhCrjYcef-J96Qr5V_znoJotsLn5ZnYQqCBdZPbxIjNwazUvfX4=s512-pd-pc0x00ffffff",
+        "description": "Edi\u00e7\u00e3o OC: Boost Clock 1680 MHz (Modo OC) / 1650 MHz (Modo Gaming) A ASUS TUF Gaming GeForce GTX 1650 foi constru\u00edda com o desempenho gr\u00e1fico inovador da premiada arquitetura NVIDIA Turing para turbinar seus jogos favoritos. GDDR6 ultrarr\u00e1pido com...",
+        "properties": [
+          "ASUS",
+          "PCI Express",
+          "DVI",
+          "HDMI",
+          "DisplayPort",
+          "GDDR",
+          "Placa gr\u00e1fica",
+          "Ativo"
+        ],
+        "url": "https://www.google.pt/shopping/product/17910431072884527988?hl=pt&gl=pt&sfr=compass",
+        "review_count": 118,
+        "review_rating": 92,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Fam\u00edlia de processadores gr\u00e1ficos",
+            "value": [
+              "NVIDIA"
+            ]
+          },
+          {
+            "label": "Processador gr\u00e1fico",
+            "value": [
+              "GeForce GTX 1650"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o M\u00e1xima",
+            "value": [
+              "7680 x 4320 pixels"
+            ]
+          },
+          {
+            "label": "CUDA",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "CUDA cores",
+            "value": [
+              "896"
+            ]
+          },
+          {
+            "label": "Frequ\u00eancia do processador",
+            "value": [
+              "1410 MHz"
+            ]
+          },
+          {
+            "label": "Velocidade do processador com boost",
+            "value": [
+              "1650 MHz"
+            ]
+          },
+          {
+            "label": "Velocidade do rel\u00f3gio do processador (modo OC)",
+            "value": [
+              "1680 MHz"
+            ]
+          },
+          {
+            "label": "Exibi\u00e7\u00f5es m\u00e1ximas por cart\u00e3o de v\u00eddeo",
+            "value": [
+              "3"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria de placa gr\u00e1fica discreta",
+            "value": [
+              "4 GB"
+            ]
+          },
+          {
+            "label": "Tipo de mem\u00f3ria da placa gr\u00e1fica",
+            "value": [
+              "GDDR6"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria bus",
+            "value": [
+              "128 bit"
+            ]
+          },
+          {
+            "label": "Largura de banda da mem\u00f3ria (m\u00e1x)",
+            "value": [
+              "12 GB/s"
+            ]
+          },
+          {
+            "label": "Tipo de interface",
+            "value": [
+              "PCI Express 3.0"
+            ]
+          },
+          {
+            "label": "Quantidade de portas HDMI",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Quantidade de portas DisplayPort",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o HDMI",
+            "value": [
+              "2.0b"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o DisplayPort",
+            "value": [
+              "1.4"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o OpenGL",
+            "value": [
+              "4.6"
+            ]
+          },
+          {
+            "label": "HDCP",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "NVIDIA G-SYNC",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "NVIDIA Ansel",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Tipo de refrigera\u00e7\u00e3o",
+            "value": [
+              "Ativo"
+            ]
+          },
+          {
+            "label": "N\u00famero de vento\u00ednhas",
+            "value": [
+              "2 ventoinha(s)"
+            ]
+          },
+          {
+            "label": "Fornecimento m\u00ednimo de energia do sistema",
+            "value": [
+              "300 W"
+            ]
+          },
+          {
+            "label": "Largura",
+            "value": [
+              "204",
+              "5 mm"
+            ]
+          },
+          {
+            "label": "Manual",
+            "value": [
+              "Sim"
+            ]
+          }
+        ],
+        "offer_count": 10,
+        "offers_url": "https://www.google.pt/shopping/product/17910431072884527988/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "17910431072884527988",
+            "price": "238.6",
+            "price_additional_info": [],
+            "price_with_shipping": "242.85",
+            "shipping_costs": "4.25",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp18671781/Placa-de-video-ASUS-TUF-Gaming-TUF-GTX1650-O4GD6-GAMING-Preto/w-4?oref=08a65801-a4a2-5711-f17b-6b3c7f70ec88",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "17910431072884527988",
+            "price": "240.5",
+            "price_additional_info": [],
+            "price_with_shipping": "240.5",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/informatica-e-acessorios/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-asus-tuf-geforce-gtx-1650-nvidia-4-gb-ddr6-7388617",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "17910431072884527988",
+            "price": "224.99",
+            "price_additional_info": [],
+            "price_with_shipping": "227.98",
+            "shipping_costs": "2.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tradeinn.com/techinn/pt/asus-placa-grafica-tuf-gtx1650-overclock-4gb/137650311/p?utm_source=google_products&utm_medium=merchant&id_producte=11185066&country=pt",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 464,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.tradeinn.com",
+            "shop_domain": "tradeinn.com",
+            "shop_matching_id": "tradeinn.com",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "17910431072884527988",
+            "price": "233.79",
+            "price_additional_info": [],
+            "price_with_shipping": "233.79",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.pccomponentes.pt/asus-tuf-gaming-geforce-gtx-1650-oc-edition-4gb-gddr6",
+            "shop_name": " PcComponentes PT",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9f9ce0a43ef",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9f9ce0a43ef",
+            "shop_url": "www.pccomponentes.pt",
+            "shop_domain": "pccomponentes.pt",
+            "shop_matching_id": "pccomponentes.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "17910431072884527988",
+            "price": "246.9",
+            "price_additional_info": [],
+            "price_with_shipping": "246.9",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.novoatalho.pt/pt-PT/produto/49813/Placa-Gr%C3%A1fica-Asus-GeForce%C2%AE-GTX-1650-TUF-GAMING-OC-4GB-GDDR6.html",
+            "shop_name": "Novo Atalho",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ba9dba739ca",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ba9dba739ca",
+            "shop_url": "www.novoatalho.pt",
+            "shop_domain": "novoatalho.pt",
+            "shop_matching_id": "novoatalho.pt",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "17910431072884527988",
+            "price": "239.9",
+            "price_additional_info": [],
+            "price_with_shipping": "243.9",
+            "shipping_costs": "4.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://youget.pt/pt/placa-grafica-asus-geforce-gtx-1650-oc-edition-4gb-gddr6-preto?srsltid=AQP2TeMWrvTihM30KlxahVlVzn93SYaPbW7bXL0nIgh1FcmzGJKx_xyWSTs",
+            "shop_name": "You Get",
+            "shop_review_count": 213,
+            "shop_review_rating": 96,
+            "shop_id": "priceapi-11e283f1958",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-11e283f1958",
+            "shop_url": "youget.pt",
+            "shop_domain": "youget.pt",
+            "shop_matching_id": "youget.pt",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "17910431072884527988",
+            "price": "231.53",
+            "price_additional_info": [],
+            "price_with_shipping": "239.03",
+            "shipping_costs": "7.5",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://greatecno.com/pt/placas-graficas/215726-asus-tuf-gaming-nvidia-geforce-gtx-1650-4gb-gddr6-4718017695893.html?srsltid=AQP2TeOV3f1CRRzob6VRqwkOoZj9360VoyhvBbuHk1U1UuK3BuIWC6K1YlI",
+            "shop_name": "GreaTecno",
+            "shop_review_count": 72,
+            "shop_review_rating": 88,
+            "shop_id": "priceapi-c7bb28ea093",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c7bb28ea093",
+            "shop_url": "greatecno.com",
+            "shop_domain": "greatecno.com",
+            "shop_matching_id": "greatecno.com",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "17910431072884527988",
+            "price": "249.99",
+            "price_additional_info": [],
+            "price_with_shipping": "249.99",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.radiopopular.pt/produto/placa-graf-asus-tuf-gtx1650-gddr6-2",
+            "shop_name": "Radio Popular",
+            "shop_review_count": 173,
+            "shop_review_rating": 92,
+            "shop_id": "priceapi-d9878524606",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d9878524606",
+            "shop_url": "www.radiopopular.pt",
+            "shop_domain": "radiopopular.pt",
+            "shop_matching_id": "radiopopular.pt",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "17910431072884527988",
+            "price": "259.0",
+            "price_additional_info": [],
+            "price_with_shipping": "259.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.switchtechnology.pt/pt/placa-grafica-asus-tuf-gaming-geforce-gtx-1650-4gb-gddr6-oc-edition.html",
+            "shop_name": "Switch Technology",
+            "shop_review_count": 33,
+            "shop_review_rating": 96,
+            "shop_id": "priceapi-0e83bb48fc2",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0e83bb48fc2",
+            "shop_url": "www.switchtechnology.pt",
+            "shop_domain": "switchtechnology.pt",
+            "shop_matching_id": "switchtechnology.pt",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "17910431072884527988",
+            "price": "245.7",
+            "price_additional_info": [],
+            "price_with_shipping": "250.7",
+            "shipping_costs": "5.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://greencomputer.pt/produto/asus-geforce-gtx-1650-tuf-gaming-4gb-oc-gddr6/?utm_source=Google%20Shopping&utm_campaign=google_shopping&utm_medium=cpc&utm_term=192477",
+            "shop_name": "Green Computer",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fe4624b7d75",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fe4624b7d75",
+            "shop_url": "greencomputer.pt",
+            "shop_domain": "greencomputer.pt",
+            "shop_matching_id": "greencomputer.pt",
+            "page": 1,
+            "position": 10
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072935092",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:05:22Z"
+      },
+      "content": {
+        "id": "9009479679635764104",
+        "name": "MSI GeForce RTX 3050 GAMING X 8GB GDDR6",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkysKmV1FscxoKgC1Zs3N6AMLHoPQl0OcNac12jsKmrgATHXv1YdJMBz2skaYmCg3ZBdgwA7sBSNK60bFLJ99P3IRdtPKoSfmRHqfl3vXG-RrFWIfHs4wqfQL1NI3q4f-UggnaRYI1n9psDVTxpdvoBu_LMDkqLVfi7aztK12pOGM7fhnsGRri-y6d1H-EyGCDCRR0jcdg=s512-pd-pc0x00ffffff",
+        "description": "A GeForce RTX? 3050 permite que enfrente os jogos mais recentes usando a pot\u00eancia do Ampere - a arquitetura RTX de 2a gera\u00e7\u00e3o da NVIDIA. Obtenha um desempenho incr\u00edvel com n\u00facleos Ray Tracing e n\u00facleos Tensor, novos multiprocessadores de streaming...",
+        "properties": [
+          "MSI",
+          "PCI Express",
+          "VGA",
+          "DVI",
+          "HDMI",
+          "DisplayPort",
+          "GDDR",
+          "4096 x 2160",
+          "Placa gr\u00e1fica",
+          "8 pinos"
+        ],
+        "url": "https://www.google.pt/shopping/product/9009479679635764104?hl=pt&gl=pt&sfr=compass",
+        "review_count": 49,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Fam\u00edlia de processadores gr\u00e1ficos",
+            "value": [
+              "NVIDIA"
+            ]
+          },
+          {
+            "label": "Processador gr\u00e1fico",
+            "value": [
+              "GeForce RTX 3050"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o M\u00e1xima",
+            "value": [
+              "7680 x 4320 pixels"
+            ]
+          },
+          {
+            "label": "CUDA",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Frequ\u00eancia do processador",
+            "value": [
+              "1845 MHz"
+            ]
+          },
+          {
+            "label": "Apoio a tecnologia paralela de processamento",
+            "value": [
+              "N\u00e3o suportado"
+            ]
+          },
+          {
+            "label": "CUDA cores",
+            "value": [
+              "2560"
+            ]
+          },
+          {
+            "label": "Exibi\u00e7\u00f5es m\u00e1ximas por cart\u00e3o de v\u00eddeo",
+            "value": [
+              "4"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria de placa gr\u00e1fica discreta",
+            "value": [
+              "8 GB"
+            ]
+          },
+          {
+            "label": "Tipo de mem\u00f3ria da placa gr\u00e1fica",
+            "value": [
+              "GDDR6"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria bus",
+            "value": [
+              "128 bit"
+            ]
+          },
+          {
+            "label": "Taxa de transfer\u00eancia de dados",
+            "value": [
+              "14 Gbit/s"
+            ]
+          },
+          {
+            "label": "Tipo de interface",
+            "value": [
+              "PCI Express x8 4.0"
+            ]
+          },
+          {
+            "label": "Quantidade de portas HDMI",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Quantidade de portas DisplayPort",
+            "value": [
+              "3"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o HDMI",
+            "value": [
+              "2.1"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o DisplayPort",
+            "value": [
+              "1.4a"
+            ]
+          },
+          {
+            "label": "Afinador TV integrado",
+            "value": [
+              "N\u00e3o"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o DirectX",
+            "value": [
+              "12.0"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o OpenGL",
+            "value": [
+              "4.6"
+            ]
+          },
+          {
+            "label": "Dual Link DVI",
+            "value": [
+              "N\u00e3o"
+            ]
+          },
+          {
+            "label": "HDCP",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "NVIDIA G-SYNC",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Tipo de refrigera\u00e7\u00e3o",
+            "value": [
+              "Ativo"
+            ]
+          },
+          {
+            "label": "Tecnologia de arrefecimento",
+            "value": [
+              "MSI TORX Fan 4.0"
+            ]
+          },
+          {
+            "label": "N\u00famero de vento\u00ednhas",
+            "value": [
+              "2 ventoinha(s)"
+            ]
+          },
+          {
+            "label": "Consumo de energia (t\u00edpico)",
+            "value": [
+              "130 W"
+            ]
+          },
+          {
+            "label": "Conectores de alimenta\u00e7\u00e3o suplementares",
+            "value": [
+              "1x 8-pin"
+            ]
+          },
+          {
+            "label": "Alimenta\u00e7\u00e3o",
+            "value": [
+              "550 W"
+            ]
+          },
+          {
+            "label": "Profundidade",
+            "value": [
+              "130 mm"
+            ]
+          },
+          {
+            "label": "Largura",
+            "value": [
+              "278 mm"
+            ]
+          },
+          {
+            "label": "Peso da embalagem",
+            "value": [
+              "1",
+              "54 kg"
+            ]
+          }
+        ],
+        "offer_count": 8,
+        "offers_url": "https://www.google.pt/shopping/product/9009479679635764104/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "9009479679635764104",
+            "price": "409.9",
+            "price_additional_info": [],
+            "price_with_shipping": "409.9",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.pcdiga.com/placa-grafica-msi-geforce-rtx-3050-gaming-x-8g-912-v397-430",
+            "shop_name": "PCDiga",
+            "shop_review_count": 163,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-f8542fbc9d7",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f8542fbc9d7",
+            "shop_url": "www.pcdiga.com",
+            "shop_domain": "pcdiga.com",
+            "shop_matching_id": "pcdiga.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "9009479679635764104",
+            "price": "424.99",
+            "price_additional_info": [],
+            "price_with_shipping": "427.98",
+            "shipping_costs": "2.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tradeinn.com/techinn/pt/msi-placa-grafica-rtx-3050-gaming-x-8gb-gddr6/139005520/p?utm_source=google_products&utm_medium=merchant&id_producte=16485372&country=pt",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 464,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.tradeinn.com",
+            "shop_domain": "tradeinn.com",
+            "shop_matching_id": "tradeinn.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "9009479679635764104",
+            "price": "424.9",
+            "price_additional_info": [],
+            "price_with_shipping": "424.9",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.globaldata.pt/grafica-msi-geforce-rtx-3050-gaming-x-8g-4719072935092",
+            "shop_name": "Globaldata",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-5491307ab20",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5491307ab20",
+            "shop_url": "www.globaldata.pt",
+            "shop_domain": "globaldata.pt",
+            "shop_matching_id": "globaldata.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "9009479679635764104",
+            "price": "409.0",
+            "price_additional_info": [],
+            "price_with_shipping": "409.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.novoatalho.pt/pt-PT/produto/52821/Placa-Gr%C3%A1fica-MSI-GeForce%C2%AE-RTX-3050-GAMING-X-8GB-LHR.html",
+            "shop_name": "Novo Atalho",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ba9dba739ca",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ba9dba739ca",
+            "shop_url": "www.novoatalho.pt",
+            "shop_domain": "novoatalho.pt",
+            "shop_matching_id": "novoatalho.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "9009479679635764104",
+            "price": "396.7",
+            "price_additional_info": [],
+            "price_with_shipping": "403.7",
+            "shipping_costs": "7.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/informatica-e-acessorios/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-msi-geforce-rtx-3050-nvidia-8-gb-gddr6-MRKEAN-4719072935092",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "9009479679635764104",
+            "price": "409.99",
+            "price_additional_info": [],
+            "price_with_shipping": "413.89",
+            "shipping_costs": "3.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mbit.pt/informatica/componentes/vga/msi-vga-nvidia-rtx-3050-gaming-x-8gb-ddr6?srsltid=AQP2TeM1Le2xQg-Vl6dgOcE-Ip7oSox2qgw0nus9GQRy-ERmr8oaTz84tbc",
+            "shop_name": "Mbit",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b05b7d92646",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b05b7d92646",
+            "shop_url": "www.mbit.pt",
+            "shop_domain": "mbit.pt",
+            "shop_matching_id": "mbit.pt",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "9009479679635764104",
+            "price": "430.72",
+            "price_additional_info": [],
+            "price_with_shipping": "438.22",
+            "shipping_costs": "7.5",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://greatecno.com/pt/placas-graficas/229246-msi-geforce-rtx-3050-gaming-x-8gb-gddr6-lhr-4719072935092.html?srsltid=AQP2TeOSkZQ6aC7eq8JqaL18G3zHLStkoSbAeT7G6KewDKpP8U7RenJPGic",
+            "shop_name": "GreaTecno",
+            "shop_review_count": 72,
+            "shop_review_rating": 88,
+            "shop_id": "priceapi-c7bb28ea093",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c7bb28ea093",
+            "shop_url": "greatecno.com",
+            "shop_domain": "greatecno.com",
+            "shop_matching_id": "greatecno.com",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "9009479679635764104",
+            "price": "395.0",
+            "price_additional_info": [],
+            "price_with_shipping": "395.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://ptelectronica.com/produto/placa-grafica-msi-geforce-rtx-3050-gaming-x-8gb-gddr6/?utm_source=Google%20Shopping&utm_campaign=shopping&utm_medium=cpc&utm_term=46730",
+            "shop_name": "PTelectr\u00f3nica",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8301270dc62",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8301270dc62",
+            "shop_url": "ptelectronica.com",
+            "shop_domain": "ptelectronica.com",
+            "shop_matching_id": "ptelectronica.com",
+            "page": 1,
+            "position": 8
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719331309275",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:05:24Z"
+      },
+      "content": {
+        "id": "4184081075649662734",
+        "name": "Gigabyte Geforce Rtx 3070 Ti Vision Oc 8Gb Gddr6 - Placa Gr\u00e1fica",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkw24A2DhhSDw4JIauXdyudkX7rNBrrxlcLCuo-t751GAh17QujehmueyM3vwPxcT0Ko_uMImy5t7xRYVftfqTDtUzKNMBpy8V3naYVhfywXmA_XuE4XNneEIOY7lq-MTdehem6lW7qkSlV8AwwDSQns0o1x7DDGHgSEFLreFJFyfG-tcOv88USCeHRv0VsqX0xvojSCyg=s512-pd-pc0x00ffffff",
+        "description": "A Nvidia \u00e9 o fabricante l\u00edder de placas de v\u00eddeo, sua qualidade garante uma experi\u00eancia positiva no desenvolvimento do motor gr\u00e1fico do seu computador. Al\u00e9m disso, seus processadores usam tecnologia de ponta para que voc\u00ea possa desfrutar de um pro...",
+        "properties": [
+          "GIGABYTE",
+          "PCI Express",
+          "DVI",
+          "HDMI",
+          "DisplayPort",
+          "GDDR",
+          "4096 x 2160",
+          "Placa gr\u00e1fica",
+          "8 pinos",
+          "Suporte para v\u00e1rias placas"
+        ],
+        "url": "https://www.google.pt/shopping/product/4184081075649662734?hl=pt&gl=pt&sfr=compass",
+        "review_count": 57,
+        "review_rating": 96,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Motor Gr\u00e1fico",
+            "value": [
+              "NVIDIA GeForce RTX 3070 Ti"
+            ]
+          },
+          {
+            "label": "Conex\u00e3o Padr\u00e3o",
+            "value": [
+              "PCI Express 4.0"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria",
+            "value": [
+              "8GB GDDR6X - 256 bits"
+            ]
+          },
+          {
+            "label": "Clock de Mem\u00f3ria",
+            "value": [
+              "19 Gbps"
+            ]
+          },
+          {
+            "label": "Interface",
+            "value": [
+              "2x HDMI 2.1; 2x DisplayPort 1.4a; Suporte HDCP 2.3"
+            ]
+          },
+          {
+            "label": "Base Core Clock",
+            "value": [
+              "1770 MHz"
+            ]
+          },
+          {
+            "label": "Boost Core Clock",
+            "value": [
+              "1830 MHz"
+            ]
+          },
+          {
+            "label": "CUDA Core",
+            "value": [
+              "6144"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o M\u00e1xima",
+            "value": [
+              "7680 x 4320"
+            ]
+          },
+          {
+            "label": "Dimens\u00f5es",
+            "value": [
+              "320 x 126 x 55 mm"
+            ]
+          },
+          {
+            "label": "Fonte de Alimenta\u00e7\u00e3o Recomendada",
+            "value": [
+              "750W"
+            ]
+          },
+          {
+            "label": "Nro Monitores simult\u00e2neo",
+            "value": [
+              "4"
+            ]
+          },
+          {
+            "label": "Conector(es)",
+            "value": [
+              "2x 8-pin"
+            ]
+          }
+        ],
+        "offer_count": 10,
+        "offers_url": "https://www.google.pt/shopping/product/4184081075649662734/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "4184081075649662734",
+            "price": "954.9",
+            "price_additional_info": [],
+            "price_with_shipping": "954.9",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.pcdiga.com/placa-grafica-gigabyte-geforce-rtx-3070-ti-vision-8g-gddr6x-oc-gv-n307tvision-oc-8gd",
+            "shop_name": "PCDiga",
+            "shop_review_count": 163,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-f8542fbc9d7",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f8542fbc9d7",
+            "shop_url": "www.pcdiga.com",
+            "shop_domain": "pcdiga.com",
+            "shop_matching_id": "pcdiga.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "4184081075649662734",
+            "price": "877.99",
+            "price_additional_info": [],
+            "price_with_shipping": "880.98",
+            "shipping_costs": "2.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tradeinn.com/techinn/pt/gigabyte-placa-grafica-geforce-rtx-3070-ti-vision-oc-8gb-gddr6/138726665/p?utm_source=google_products&utm_medium=merchant&id_producte=15673981&country=pt",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 464,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.tradeinn.com",
+            "shop_domain": "tradeinn.com",
+            "shop_matching_id": "tradeinn.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "4184081075649662734",
+            "price": "883.36",
+            "price_additional_info": [],
+            "price_with_shipping": "883.36",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.pccomponentes.pt/gigabyte-geforce-rtx-3070-ti-vision-oc-8gb-gddr6",
+            "shop_name": " PcComponentes PT",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9f9ce0a43ef",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9f9ce0a43ef",
+            "shop_url": "www.pccomponentes.pt",
+            "shop_domain": "pccomponentes.pt",
+            "shop_matching_id": "pccomponentes.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "4184081075649662734",
+            "price": "879.93",
+            "price_additional_info": [],
+            "price_with_shipping": "879.93",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mbit.pt/informatica/componentes/vga/gigabyte-vga-nvidia-rtx-3070-ti-vision-oc-8g-ddr6?srsltid=AQP2TeOmF36OYaUrEMB5tOHBQMcgPOEzWHe-B4IyqhKi0MED2k-V448UPyI",
+            "shop_name": "Mbit",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b05b7d92646",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b05b7d92646",
+            "shop_url": "www.mbit.pt",
+            "shop_domain": "mbit.pt",
+            "shop_matching_id": "mbit.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "4184081075649662734",
+            "price": "949.9",
+            "price_additional_info": [],
+            "price_with_shipping": "949.9",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.novoatalho.pt/pt-PT/produto/50951/Placa-Gr%C3%A1fica-Gigabyte-GeForce%C2%AE-RTX-3070-Ti-VISION-OC-8GB-LHR.html",
+            "shop_name": "Novo Atalho",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ba9dba739ca",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ba9dba739ca",
+            "shop_url": "www.novoatalho.pt",
+            "shop_domain": "novoatalho.pt",
+            "shop_matching_id": "novoatalho.pt",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "4184081075649662734",
+            "price": "964.65",
+            "price_additional_info": [],
+            "price_with_shipping": "964.65",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/informatica-e-acessorios/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-gigabyte-geforce-rtx-3070-ti-nvidia-8-gb-gddr6x-MRKEAN-4719331309275",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "4184081075649662734",
+            "price": "957.0",
+            "price_additional_info": [],
+            "price_with_shipping": "963.49",
+            "shipping_costs": "6.49",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.minfo.pt/product/b-4719331309275-gv-n307tvision-oc-8gd-tarjeta-grafica-gigabyte-rtx",
+            "shop_name": "Minfo.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-7569bd876cd",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-7569bd876cd",
+            "shop_url": "www.minfo.pt",
+            "shop_domain": "minfo.pt",
+            "shop_matching_id": "minfo.pt",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "4184081075649662734",
+            "price": "910.6",
+            "price_additional_info": [],
+            "price_with_shipping": "910.6",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://kibo.pt/index.php/tarjeta-grafica-gigabyte-rtx-3070-ti-vision-oc-8gb.html",
+            "shop_name": "KIBO.pt",
+            "shop_review_count": 490,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-bba1e197fb2",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-bba1e197fb2",
+            "shop_url": "kibo.pt",
+            "shop_domain": "kibo.pt",
+            "shop_matching_id": "kibo.pt",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "4184081075649662734",
+            "price": "1649.0",
+            "price_additional_info": [],
+            "price_with_shipping": "1688.49",
+            "shipping_costs": "39.49",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fruugo.pt/gigabyte-nvidia-geforce-rtx-3070-ti-vision-oc-placa-de-video-de-8gb/p-83202197-171686141?language=pt&ac=croud&utm_source=organic_shopping&utm_medium=organic",
+            "shop_name": "fruugo.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-e17af283ecd",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e17af283ecd",
+            "shop_url": "www.fruugo.pt",
+            "shop_domain": "fruugo.pt",
+            "shop_matching_id": "fruugo.pt",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "4184081075649662734",
+            "price": "1060.22",
+            "price_additional_info": [],
+            "price_with_shipping": "1067.72",
+            "shipping_costs": "7.5",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://greatecno.com/pt/placas-graficas/182494-gigabyte-geforce-rtx-3070-ti-vision-oc-8gb-gddr6-placa-grafica-4719331309275.html?srsltid=AQP2TeMiQM3PMXuMSM1zsb8_8qfGo9G6IvRMv_h89c-vYZGcjQTe-_Tt_Co",
+            "shop_name": "GreaTecno",
+            "shop_review_count": 72,
+            "shop_review_rating": 88,
+            "shop_id": "priceapi-c7bb28ea093",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c7bb28ea093",
+            "shop_url": "greatecno.com",
+            "shop_domain": "greatecno.com",
+            "shop_matching_id": "greatecno.com",
+            "page": 1,
+            "position": 10
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719331310691",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:05:23Z"
+      },
+      "content": {
+        "id": "15642697680483688233",
+        "name": "Placa Gr\u00e1fica Gigabyte GeForce RTX 3050 Gaming OC 8GB",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkyFbxhOasba_Dm5_alGM2xccuI8BVWF0PGyhReagNY2qWekCcSPx4gh7FVrHLyhNRmoSsHIOA48wmCMALVUai0i6RVjfWo9-yQ8lOaJBdHfwVQqao0LQHORJq-GkXtuTRJMYVZDXsyw_JPm7zq4QeF9sJtytX_awNw8xCPV-bW6dTVYjst7tG0kXT1RiunFE6HdAW7k=s512-pd-pc0x00ffffff",
+        "description": "A GeForce RTX? 3050 permite que enfrente os jogos mais recentes usando a pot\u00eancia do Ampere - a arquitetura RTX de 2a gera\u00e7\u00e3o da NVIDIA. Obtenha um desempenho incr\u00edvel com n\u00facleos Ray Tracing e n\u00facleos Tensor, novos multiprocessadores de streaming...",
+        "properties": [
+          "GIGABYTE",
+          "PCI Express",
+          "VGA",
+          "DVI",
+          "HDMI",
+          "DisplayPort",
+          "GDDR",
+          "Placa gr\u00e1fica",
+          "8 pinos",
+          "Ativo"
+        ],
+        "url": "https://www.google.pt/shopping/product/15642697680483688233?hl=pt&gl=pt&sfr=compass",
+        "review_count": 30,
+        "review_rating": 96,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Resolu\u00e7\u00e3o M\u00e1xima",
+            "value": [
+              "7680 x 4320 pixels"
+            ]
+          },
+          {
+            "label": "Tipo de interface",
+            "value": [
+              "PCI Express 4.0"
+            ]
+          },
+          {
+            "label": "Quantidade de portas HDMI",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o HDMI",
+            "value": [
+              "2.1"
+            ]
+          },
+          {
+            "label": "Quantidade de portas DisplayPort",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o DisplayPort",
+            "value": [
+              "1.4a"
+            ]
+          },
+          {
+            "label": "Afinador TV integrado",
+            "value": [
+              "N\u00e3o"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o DirectX",
+            "value": [
+              "1\u200e2 Ultimate"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o OpenGL",
+            "value": [
+              "4.6"
+            ]
+          },
+          {
+            "label": "Dual Link DVI",
+            "value": [
+              "N\u00e3o"
+            ]
+          },
+          {
+            "label": "Tipo de refrigera\u00e7\u00e3o",
+            "value": [
+              "Ativo"
+            ]
+          },
+          {
+            "label": "Tecnologia de arrefecimento",
+            "value": [
+              "GIGABYTE WINDFORCE 3X"
+            ]
+          },
+          {
+            "label": "N\u00famero de vento\u00ednhas",
+            "value": [
+              "3 ventoinha(s)"
+            ]
+          },
+          {
+            "label": "Ilumina\u00e7\u00e3o",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Cor de ilumina\u00e7\u00e3o",
+            "value": [
+              "Multi"
+            ]
+          },
+          {
+            "label": "Profundidade",
+            "value": [
+              "282 mm"
+            ]
+          },
+          {
+            "label": "Largura",
+            "value": [
+              "117 mm"
+            ]
+          }
+        ],
+        "offer_count": 10,
+        "offers_url": "https://www.google.pt/shopping/product/15642697680483688233/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "15642697680483688233",
+            "price": "429.9",
+            "price_additional_info": [],
+            "price_with_shipping": "429.9",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.pcdiga.com/placa-grafica-gigabyte-geforce-rtx-3050-gaming-oc-8g-gvn3050go8-00-10",
+            "shop_name": "PCDiga",
+            "shop_review_count": 163,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-f8542fbc9d7",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f8542fbc9d7",
+            "shop_url": "www.pcdiga.com",
+            "shop_domain": "pcdiga.com",
+            "shop_matching_id": "pcdiga.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "15642697680483688233",
+            "price": "429.9",
+            "price_additional_info": [],
+            "price_with_shipping": "429.9",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.globaldata.pt/grafica-gigabyte-geforce-rtx-3050-gaming-oc-8gb-gd6-gvn3050go8-00-10",
+            "shop_name": "Globaldata",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-5491307ab20",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5491307ab20",
+            "shop_url": "www.globaldata.pt",
+            "shop_domain": "globaldata.pt",
+            "shop_matching_id": "globaldata.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "15642697680483688233",
+            "price": "436.49",
+            "price_additional_info": [],
+            "price_with_shipping": "439.48",
+            "shipping_costs": "2.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tradeinn.com/techinn/pt/gigabyte-placa-grafica-geforce-rtx-3050-gaming-oc-8gb-gddr6/138726661/p?utm_source=google_products&utm_medium=merchant&id_producte=15673977&country=pt",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 464,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.tradeinn.com",
+            "shop_domain": "tradeinn.com",
+            "shop_matching_id": "tradeinn.com",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "15642697680483688233",
+            "price": "439.68",
+            "price_additional_info": [],
+            "price_with_shipping": "459.58",
+            "shipping_costs": "19.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/informatica-e-acessorios/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-gigabyte-rtx-3050-gaming-oc-8gb-nvidia-8-gb-ddr6-7551354",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "15642697680483688233",
+            "price": "429.9",
+            "price_additional_info": [],
+            "price_with_shipping": "429.9",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.novoatalho.pt/pt-PT/produto/52863/Placa-Gr%C3%A1fica-Gigabyte-GeForce%C2%AE-RTX-3050-GAMING-OC-8GB-LHR.html",
+            "shop_name": "Novo Atalho",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ba9dba739ca",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ba9dba739ca",
+            "shop_url": "www.novoatalho.pt",
+            "shop_domain": "novoatalho.pt",
+            "shop_matching_id": "novoatalho.pt",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "15642697680483688233",
+            "price": "479.91",
+            "price_additional_info": [],
+            "price_with_shipping": "483.9",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://dott.pt/pt/products/gigabyte-geforce-rtx-3050-gaming-oc-8g-nvidia-8-gb-gddr6-a0f9686f-e608-453f-8737-19451c7dcde9?utm_source=google-shopping&utm_medium=organic&utm_campaign=Placas%20gr%C3%A1ficas%20e%20V%C3%ADdeo%20%3E%20Componentes%20inform%C3%A1ticos%20%3E%20Inform%C3%A1tica%20e%20Eletr%C3%B3nica&utm_content=Gigabyte%20Geforce%20Rtx%203050%20Gaming%20Oc%208G%20Nvidia%208%20Gb%20Gddr6",
+            "shop_name": "Dott",
+            "shop_review_count": 123,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-5aa8ad5316e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5aa8ad5316e",
+            "shop_url": "dott.pt",
+            "shop_domain": "dott.pt",
+            "shop_matching_id": "dott.pt",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "15642697680483688233",
+            "price": "360.0",
+            "price_additional_info": [
+              "PRE\u00c7O BAIXO"
+            ],
+            "price_with_shipping": "360.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://ptelectronica.com/produto/placa-grafica-gigabyte-geforce-rtx-3050-gaming-oc-8gb-gddr6/?utm_source=Google%20Shopping&utm_campaign=shopping&utm_medium=cpc&utm_term=43950",
+            "shop_name": "PTelectr\u00f3nica",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8301270dc62",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8301270dc62",
+            "shop_url": "ptelectronica.com",
+            "shop_domain": "ptelectronica.com",
+            "shop_matching_id": "ptelectronica.com",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "15642697680483688233",
+            "price": "449.9",
+            "price_additional_info": [],
+            "price_with_shipping": "452.85",
+            "shipping_costs": "2.95",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.onbit.pt/placas-graficas/placa-grafica-gigabyte-geforce-rtx-3050-gaming-oc-8gb.html",
+            "shop_name": "Onbit.pt",
+            "shop_review_count": 254,
+            "shop_review_rating": 96,
+            "shop_id": "priceapi-fe3c8000059",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fe3c8000059",
+            "shop_url": "www.onbit.pt",
+            "shop_domain": "onbit.pt",
+            "shop_matching_id": "onbit.pt",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "15642697680483688233",
+            "price": "450.75",
+            "price_additional_info": [],
+            "price_with_shipping": "458.25",
+            "shipping_costs": "7.5",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://greatecno.com/pt/placas-graficas/227106-gigabyte-geforce-rtx-3050-8-gb-gaming-oc-lhr-4719331310691.html?srsltid=AQP2TeMcl23E6SNZ_ZM4CMImJkm7ZDlZidBEGpkasjaLD2hsC7MNqV-XwMQ",
+            "shop_name": "GreaTecno",
+            "shop_review_count": 72,
+            "shop_review_rating": 88,
+            "shop_id": "priceapi-c7bb28ea093",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c7bb28ea093",
+            "shop_url": "greatecno.com",
+            "shop_domain": "greatecno.com",
+            "shop_matching_id": "greatecno.com",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "15642697680483688233",
+            "price": "472.9",
+            "price_additional_info": [],
+            "price_with_shipping": "476.9",
+            "shipping_costs": "4.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://youget.pt/pt/placa-grafica-gigabyte-geforce-rtx-3050-gaming-oc-8gb-gddr6?srsltid=AQP2TeOA2CHMI1KxhTJk1nrmwuKqTkvJulXKQHKHHwXZt2hy6exTbLPfC9M",
+            "shop_name": "You Get",
+            "shop_review_count": 213,
+            "shop_review_rating": 96,
+            "shop_id": "priceapi-11e283f1958",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-11e283f1958",
+            "shop_url": "youget.pt",
+            "shop_domain": "youget.pt",
+            "shop_matching_id": "youget.pt",
+            "page": 1,
+            "position": 10
+          }
+        ]
+      }
+    },
+    {
+      "success": false,
+      "reason": "invalid value",
+      "source": "google-shopping",
+      "country": "pt",
+      "key": "gtin",
+      "value": "05600002000017",
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05600002000017",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05902533911042",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:05:25Z"
+      },
+      "content": {
+        "id": "12315040725600227533",
+        "name": "Kinderkraft Lite Up Carrinho De Passeio Cinzento",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkyK-72O1_d_5yUHXq_D4rYhIX3GwYpqmditN2-wDUyHBP4Tw6tGxZ-nqtiY8hgfQpVB4CK5Z7BUuCFmfAYEF7UNIB0ahYoi-Vc6IjCidoqPeBz0Ied4EBXmSUX3CpRTz-RA_qhc5uc1JHqFzUdPsYXNWSMcg7UkG_licgoFTV6DhKvDvvw9yK563Te5uiNwPVZNEM6Q-w=s512-pd-pc0x00ffffff",
+        "description": "O Carrinho Lite Up Se Destaca Pelo Conforto De Movimento E Leveza, Permitindo Um Melhor Controle Sem Perder O Conforto Para Os Pequenos. Permite Reclinar Para Momentos De Sono E Descanso. Sua Simples Dobra Torna-O Perfeito Para Sair De Casa Sem Te...",
+        "properties": [
+          "Individual",
+          "Guarda-chuva"
+        ],
+        "url": "https://www.google.pt/shopping/product/12315040725600227533?hl=pt&gl=pt&sfr=compass",
+        "review_count": 188,
+        "review_rating": 90,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 4,
+        "offers_url": "https://www.google.pt/shopping/product/12315040725600227533/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "12315040725600227533",
+            "price": "102.9",
+            "price_additional_info": [],
+            "price_with_shipping": "102.9",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.planetahuerto.pt/venda-carrinho-de-bebe-passeio-kinderkraft-lite-up-cor-cinzento_207029?srsltid=AQP2TePnilorK-Xw5pEnq6orO1ZznugaOeqbrHsIBEQocD6MRjeOSGsdgSo",
+            "shop_name": "Planeta Huerto",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4b6739d069f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4b6739d069f",
+            "shop_url": "www.planetahuerto.pt",
+            "shop_domain": "planetahuerto.pt",
+            "shop_matching_id": "planetahuerto.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "12315040725600227533",
+            "price": "130.61",
+            "price_additional_info": [],
+            "price_with_shipping": "130.61",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-individual-kinderkraft-lite-up-gray-MRKEAN-5902533911042",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "12315040725600227533",
+            "price": "120.9",
+            "price_additional_info": [],
+            "price_with_shipping": "120.9",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://farmacianovadamaia.pt/pt/carrobebe/1274-kinderkraft-lite-up-carrinho-de-passeio-cinzento-5902533911042.html?utm_source=google&utm_medium=free_merchant",
+            "shop_name": "Farm\u00e1cia Nova da Maia",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ae41cc375da",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ae41cc375da",
+            "shop_url": "farmacianovadamaia.pt",
+            "shop_domain": "farmacianovadamaia.pt",
+            "shop_matching_id": "farmacianovadamaia.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "12315040725600227533",
+            "price": "139.0",
+            "price_additional_info": [],
+            "price_with_shipping": "144.14",
+            "shipping_costs": "5.14",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp19097733/Carrinho-de-Bebe-Kinderkraft-Lite-Up-Cinzento/w-4?oref=4e2d1982-5e85-725e-5f4b-2c479c951315",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05902581656278",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:05:27Z"
+      },
+      "content": {
+        "id": "10139795042505910463",
+        "name": "Lionelo Carrinho de Beb\u00e9 Annet Concret (22 kgs)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwtRs35lO5xnpgAVThTRzOuEGym1zEhThXqSaQHeFiPskip2LR0lXLYYEu0QICzLqXz0bhPk9JiLNPfof6N_DhSLdPpjyYlGpXw2gWatIWzGH_DOd4_WzEYsviOlc6V3N5DOLSoEZ9YmnfJm7teA2fOXEZklvwe3s2BzocEA04xJZ8VOrp6TlaxJXL4cpzdi1AWibrIMQ=s512-pd-pc0x00ffffff",
+        "description": "Um dos maiores sucessos de Lionelo - carrinho de passeio Annet - agora dispon\u00edvel na extensa edi\u00e7\u00e3o do Annet Tour! O Annet Tour foi equipado com rodas de borracha sem c\u00e2mara de ar com um grande di\u00e2metro de 11 (traseiro) e 8 (dianteiro). A tecnolog...",
+        "properties": [
+          "Individual",
+          "Para terrenos irregulares"
+        ],
+        "url": "https://www.google.pt/shopping/product/10139795042505910463?hl=pt&gl=pt&sfr=compass",
+        "review_count": 259,
+        "review_rating": 92,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/10139795042505910463/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10139795042505910463",
+            "price": "162.0",
+            "price_additional_info": [],
+            "price_with_shipping": "162.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-individual-lionelo-annet-concret-22-kgs-MRKEAN-5902581656278",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "10139795042505910463",
+            "price": "160.26",
+            "price_additional_info": [],
+            "price_with_shipping": "160.26",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp19097753/Carrinho-de-Passeio-Lionelo-Annet-Concret-22-Kgs-Cinzento/w-4?oref=8c5131e6-4f67-8221-273c-08530b2102e5",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05902581656469",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2022-06-27T14:05:19Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06459846295189",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:05:20Z"
+      },
+      "content": {
+        "id": "10693558400678229390",
+        "name": "Ohpa Mars\u00fapio AY45 Azul",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwthGLpRLNVtUZCCHpQXAj7Aq-znoW8mzaSpTlML5nBMsV1MKAgsCzQPD_T1ufw7vPMzFP3z9DkPwGhe409cSelcVxAVc1xCGf83FZdCZnq-_Beb6qbWQNXI8jJIDYxh-VicoKmgznJOUD_Y0loF9xblhRPUSQ5A1QXb4gcjzvm_CDWCx4muhpXoTWEDc9oX33IjDtuy1k=s512-pd-pc0x00ffffff",
+        "description": "Descri\u00e7\u00e3o do produto:Este porta-beb\u00eas usa um cinto silencioso, silicone antideslizante e 4 estruturas de suporte para cinto, o que economiza trabalho e \u00e9 seguro. A parte inferior do cinto adota uma almofada de absor\u00e7\u00e3o de choque espessa para supor...",
+        "properties": [
+          "Frente"
+        ],
+        "url": "https://www.google.pt/shopping/product/10693558400678229390?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/10693558400678229390/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10693558400678229390",
+            "price": "38.96",
+            "price_additional_info": [],
+            "price_with_shipping": "38.96",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/marsupios-para-bebe/marsupio-ohpa-ay45-azul-MRKEAN-6459846295189",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07612367002592",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:05:21Z"
+      },
+      "content": {
+        "id": "9161471056153832968",
+        "name": "Medela Creme PureLan 100 37g",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzTBf0WFRwETpjwQZlTVHUS0ufJJCWxUoGyi-cvYTSFkQtug0Ld4-bLFEAN3cxTYCAZk5zyw2SygXD5YScREr7ehxZhAZILYbF9ptPGRCp1p_EVHXgkc1CuSjB3Hvq-B8qMUbuWZS9kNC7VLLY91QmuzmGRKINYwQxdju52ucEgQHpo3zOr9-0UuLS-0JT_7z2Ob7uD=s512-pd-pc0x00ffffff",
+        "description": "Compre online Medela Purelan 100 Nipple Care 37 gr pelo melhor pre\u00e7oUm creme especialmente projetado para evitar ou aliviar mamilos secos e sens\u00edveis, tanto na gravidez quanto na lacta\u00e7\u00e3o. \u00c9 100% natural e seguro para o seu beb\u00ea. Por que comprar M...",
+        "properties": [
+          "M\u00e3os",
+          "Para pele seca",
+          "Tubo",
+          "Creme",
+          "Sem perfume",
+          "Sem parabenos"
+        ],
+        "url": "https://www.google.pt/shopping/product/9161471056153832968?hl=pt&gl=pt&sfr=compass",
+        "review_count": 1581,
+        "review_rating": 96,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Vendido por",
+            "value": [
+              "Hello Baby"
+            ]
+          }
+        ],
+        "offer_count": 10,
+        "offers_url": "https://www.google.pt/shopping/product/9161471056153832968/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "9161471056153832968",
+            "price": "12.99",
+            "price_additional_info": [],
+            "price_with_shipping": "16.98",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://farmacianaweb.pt/medela-purelan-100-37g.html",
+            "shop_name": "Farmacianaweb",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f70798bcf90",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f70798bcf90",
+            "shop_url": "farmacianaweb.pt",
+            "shop_domain": "farmacianaweb.pt",
+            "shop_matching_id": "farmacianaweb.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "9161471056153832968",
+            "price": "11.9",
+            "price_additional_info": [],
+            "price_with_shipping": "14.89",
+            "shipping_costs": "2.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://elboticarioencasa.com/pt/cuidados-de-mamilo/853-medela-purelan-100-nipple-care-37-gr",
+            "shop_name": "El Boticario en Casa",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b0a97484500",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b0a97484500",
+            "shop_url": "elboticarioencasa.com",
+            "shop_domain": "elboticarioencasa.com",
+            "shop_matching_id": "elboticarioencasa.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "9161471056153832968",
+            "price": "12.3",
+            "price_additional_info": [],
+            "price_with_shipping": "17.2",
+            "shipping_costs": "4.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.bybebe.pt/pt/amamentacao-alimentacao/amamentacao/medela-purelan-100-creme-para-mamilos-37gr-008-0160.html",
+            "shop_name": "bybeb\u00e9",
+            "shop_review_count": 704,
+            "shop_review_rating": 98,
+            "shop_id": "priceapi-e95092fa6cd",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e95092fa6cd",
+            "shop_url": "www.bybebe.pt",
+            "shop_domain": "bybebe.pt",
+            "shop_matching_id": "bybebe.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "9161471056153832968",
+            "price": "11.95",
+            "price_additional_info": [],
+            "price_with_shipping": "11.95",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://farmaciabarata.pt/cuidados-pos-parto/purelan-100-creme-de-leite-37gr.html",
+            "shop_name": "FarmaciaBarataPT",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-45c5816896d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-45c5816896d",
+            "shop_url": "farmaciabarata.pt",
+            "shop_domain": "farmaciabarata.pt",
+            "shop_matching_id": "farmaciabarata.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "9161471056153832968",
+            "price": "15.88",
+            "price_additional_info": [],
+            "price_with_shipping": "19.38",
+            "shipping_costs": "3.5",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.farmacia4estaciones.es/pt/cremes-e-oleos/23938-purelan-100-creme-37-g.html?srsltid=AQP2TeOA8yr-3tPnnXYwCQ-O_nCNX-Ql5WCcZQkRIDUM2W1OVZXtCyGd7BQ",
+            "shop_name": " .Farmacia 4 Estaciones",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-e9f84e18e5e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e9f84e18e5e",
+            "shop_url": "www.farmacia4estaciones.es",
+            "shop_domain": "farmacia4estaciones.es",
+            "shop_matching_id": "farmacia4estaciones.es",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "9161471056153832968",
+            "price": "14.75",
+            "price_additional_info": [],
+            "price_with_shipping": "18.74",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.biuky.pt/outros/medela/p-192056?r=7612367002592",
+            "shop_name": "biuky.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ffa3f97ae41",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ffa3f97ae41",
+            "shop_url": "www.biuky.pt",
+            "shop_domain": "biuky.pt",
+            "shop_matching_id": "biuky.pt",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "9161471056153832968",
+            "price": "15.2",
+            "price_additional_info": [],
+            "price_with_shipping": "20.19",
+            "shipping_costs": "4.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.carethy.pt/fama-lia-casa/medela/p-409097?r=7612367002592",
+            "shop_name": "Carethy.pt",
+            "shop_review_count": 138,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-9250d8decb8",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9250d8decb8",
+            "shop_url": "www.carethy.pt",
+            "shop_domain": "carethy.pt",
+            "shop_matching_id": "carethy.pt",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "9161471056153832968",
+            "price": "15.95",
+            "price_additional_info": [],
+            "price_with_shipping": "21.9",
+            "shipping_costs": "5.95",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.privafarma.pt/cuidados-mamilo/medela-purelan-100-37-g-cuidado-del-pezon-2688.html",
+            "shop_name": "Privafarma",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-253676cbfcc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-253676cbfcc",
+            "shop_url": "www.privafarma.pt",
+            "shop_domain": "privafarma.pt",
+            "shop_matching_id": "privafarma.pt",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "9161471056153832968",
+            "price": "39.32",
+            "price_additional_info": [],
+            "price_with_shipping": "39.32",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/pre-mama-e-mama/amamentacao/creme-protetor-de-mamilos-medela-purelan-100-37-gr-MRKEAN-7612367002592",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "9161471056153832968",
+            "price": "17.43",
+            "price_additional_info": [],
+            "price_with_shipping": "17.43",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.boticana.es/pt/lactancia-materna/17809-purelan-100-crema-37-gr-medela.html",
+            "shop_name": "Farmacia Boticana",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3740da6f2c2",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3740da6f2c2",
+            "shop_url": "www.boticana.es",
+            "shop_domain": "boticana.es",
+            "shop_matching_id": "boticana.es",
+            "page": 1,
+            "position": 10
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08058664003471",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:05:27Z"
+      },
+      "content": {
+        "id": "12085757141488495556",
+        "name": "Chicco Tira-leite manual",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwj-m7DJKp_YPWluzsCUCt1GDEDsRSLU-eM-_QCxZvz9Owi-i-Zs0JBNzFqpyDcvXuTgXmbZc3K-01JaAqVLxPeu4YCQ1sj1tU41VHLgo9U0-AMJ2EUlVfXAv8hKVPbMkpTWDHxHzst9p0uCk0fNV4R3WyDqxXq1MM0bysZ0LNccq5sVKqEiDvWZScIsb_l-MKJyGWUdg=s512-pd-pc0x00ffffff",
+        "description": "Chicco Bomba Tira Leite Manual 0% BPA \u00e9 uma bomba para tirar o leite manualmente. Com uma camp\u00e2nula anat\u00f3mica adapta-se facilmente aos seios de uma forma ergon\u00f3mica, estimulando a sa\u00edda do leite e ajudando a prevenir o risco de ingurgitamento mam\u00e1...",
+        "properties": [
+          "Manual",
+          "Simples",
+          "Com estojo para transporte"
+        ],
+        "url": "https://www.google.pt/shopping/product/12085757141488495556?hl=pt&gl=pt&sfr=compass",
+        "review_count": 121,
+        "review_rating": 84,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Material do bico",
+            "value": [
+              "Silicone"
+            ]
+          },
+          {
+            "label": "Capacidade",
+            "value": [
+              "150 ml"
+            ]
+          }
+        ],
+        "offer_count": 20,
+        "offers_url": "https://www.google.pt/shopping/product/12085757141488495556/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "12085757141488495556",
+            "price": "34.99",
+            "price_additional_info": [],
+            "price_with_shipping": "37.98",
+            "shipping_costs": "2.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://wells.pt/bomba-tira-leite-manual-natural-feeling-5300870.html",
+            "shop_name": "Wells",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-73470c2e848",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-73470c2e848",
+            "shop_url": "wells.pt",
+            "shop_domain": "wells.pt",
+            "shop_matching_id": "wells.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "12085757141488495556",
+            "price": "31.35",
+            "price_additional_info": [],
+            "price_with_shipping": "34.54",
+            "shipping_costs": "3.19",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.aminhafarmacia.pt/pt/comprar/chicco-extrator-de-leite-manual-natural-feeling?utm_source=kelkoopt&utm_medium=cpc&utm_campaign=kelkooclick&utm_term=Chicco%2BExtrator%2BDe%2BLeite%2BManual%2BNatural%2B",
+            "shop_name": "A Minha Farmacia",
+            "shop_review_count": 679,
+            "shop_review_rating": 98,
+            "shop_id": "priceapi-d9ed2f0f434",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d9ed2f0f434",
+            "shop_url": "www.aminhafarmacia.pt",
+            "shop_domain": "aminhafarmacia.pt",
+            "shop_matching_id": "aminhafarmacia.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "12085757141488495556",
+            "price": "31.35",
+            "price_additional_info": [],
+            "price_with_shipping": "35.34",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://dott.pt/pt/products/chicco-bomba-de-extraccao-manual-939928d3-4507-4be0-b328-41af2db20aa3?utm_source=google-shopping&utm_medium=organic&utm_campaign=Bombas%20de%20leite%20%3E%20Eletrodom%C3%A9sticos%20de%20Puericultura%20%3E%20Sa%C3%BAde%20e%20Bem-Estar%20%3E%20Eletrodom%C3%A9sticos&utm_content=Chicco%2000005740000000%20Bomba%20Tira%20Leite%20150%20Ml%20Manual",
+            "shop_name": "Dott",
+            "shop_review_count": 123,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-5aa8ad5316e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5aa8ad5316e",
+            "shop_url": "dott.pt",
+            "shop_domain": "dott.pt",
+            "shop_matching_id": "dott.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "12085757141488495556",
+            "price": "34.32",
+            "price_additional_info": [],
+            "price_with_shipping": "39.02",
+            "shipping_costs": "4.7",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.parafarmaciacampoamor.com/pt/170146-chicco-tira-leite-natural-feelin-manual.html",
+            "shop_name": "Parafarmacia Campoamor",
+            "shop_review_count": 458,
+            "shop_review_rating": 98,
+            "shop_id": "priceapi-1e0fa95870f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-1e0fa95870f",
+            "shop_url": "www.parafarmaciacampoamor.com",
+            "shop_domain": "parafarmaciacampoamor.com",
+            "shop_matching_id": "parafarmaciacampoamor.com",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "12085757141488495556",
+            "price": "35.77",
+            "price_additional_info": [],
+            "price_with_shipping": "40.26",
+            "shipping_costs": "4.49",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.farmaciasdirect.com/pt/comprar/chicco-sacaleche-manual-26949/?srsltid=AQP2TeOHIjHcxkxG0bHyHVKSMa_o4svPXx4AiusAAiJpPauADAZlKyBZH78",
+            "shop_name": "Farmaciasdirect",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ec6bc2934d3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ec6bc2934d3",
+            "shop_url": "www.farmaciasdirect.com",
+            "shop_domain": "farmaciasdirect.com",
+            "shop_matching_id": "farmaciasdirect.com",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "12085757141488495556",
+            "price": "42.07",
+            "price_additional_info": [],
+            "price_with_shipping": "45.57",
+            "shipping_costs": "3.5",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/pre-mama-e-mama/bomba-tira-leite-chicco-00005740000000-MRKEAN-8058664003471",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "12085757141488495556",
+            "price": "31.44",
+            "price_additional_info": [],
+            "price_with_shipping": "31.44",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.pharma24.pt/chicco-tira-leite-manual-naturalfeeling-ref.00005740000000.html",
+            "shop_name": "Pharma 24",
+            "shop_review_count": 115,
+            "shop_review_rating": 98,
+            "shop_id": "priceapi-a9e7d78e17d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a9e7d78e17d",
+            "shop_url": "www.pharma24.pt",
+            "shop_domain": "pharma24.pt",
+            "shop_matching_id": "pharma24.pt",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "12085757141488495556",
+            "price": "35.84",
+            "price_additional_info": [],
+            "price_with_shipping": "39.74",
+            "shipping_costs": "3.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://lojadafarmacia.com/pt/artigo/ch-maa5740000000-saca-leite-manual?utm_source=google&utm_medium=free-listings",
+            "shop_name": "Loja da Farm\u00e1cia",
+            "shop_review_count": 340,
+            "shop_review_rating": 98,
+            "shop_id": "priceapi-88eac7a7a4a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-88eac7a7a4a",
+            "shop_url": "lojadafarmacia.com",
+            "shop_domain": "lojadafarmacia.com",
+            "shop_matching_id": "lojadafarmacia.com",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "12085757141488495556",
+            "price": "37.9",
+            "price_additional_info": [],
+            "price_with_shipping": "37.9",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://farmacianovadamaia.pt/pt/amamentacao/363-chicco-bomba-tira-leite-manual-naturalfeeling-8058664003471.html?utm_source=google&utm_medium=free_merchant",
+            "shop_name": "Farm\u00e1cia Nova da Maia",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ae41cc375da",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ae41cc375da",
+            "shop_url": "farmacianovadamaia.pt",
+            "shop_domain": "farmacianovadamaia.pt",
+            "shop_matching_id": "farmacianovadamaia.pt",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "12085757141488495556",
+            "price": "36.71",
+            "price_additional_info": [],
+            "price_with_shipping": "36.71",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.gamafarma.pt/chicco-natural-feeling-tira-leite-manual.html",
+            "shop_name": "Farm\u00e1cia Gama",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8502eaab563",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8502eaab563",
+            "shop_url": "www.gamafarma.pt",
+            "shop_domain": "gamafarma.pt",
+            "shop_matching_id": "gamafarma.pt",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "12085757141488495556",
+            "price": "37.44",
+            "price_additional_info": [],
+            "price_with_shipping": "37.44",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://wayfarma.com/pt/artigo/chmaa5740000000-saca-leite-manual?utm_source=google&utm_medium=free-listings&srsltid=AQP2TePQduDqkNIjDgftrsILcJnaYwqm_6djgV492-DzRdV0vPv9Hy3j7Oc",
+            "shop_name": "Wayfarma",
+            "shop_review_count": 355,
+            "shop_review_rating": 96,
+            "shop_id": "priceapi-0dd41d4c845",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0dd41d4c845",
+            "shop_url": "wayfarma.com",
+            "shop_domain": "wayfarma.com",
+            "shop_matching_id": "wayfarma.com",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "12085757141488495556",
+            "price": "37.67",
+            "price_additional_info": [],
+            "price_with_shipping": null,
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.bebe.pt/chicco-natural-feeling-bomba-de-leite-manual-1unid",
+            "shop_name": "bebe.pt",
+            "shop_review_count": 125,
+            "shop_review_rating": 92,
+            "shop_id": "priceapi-f78b79b9263",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f78b79b9263",
+            "shop_url": "www.bebe.pt",
+            "shop_domain": "bebe.pt",
+            "shop_matching_id": "bebe.pt",
+            "page": 1,
+            "position": 12
+          },
+          {
+            "id": null,
+            "product_id": "12085757141488495556",
+            "price": "38.99",
+            "price_additional_info": [
+              "PROMO\u00c7\u00c3O"
+            ],
+            "price_with_shipping": "42.49",
+            "shipping_costs": "3.5",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.cosmetis.pt/chicco-natural-feeling-bomba-de-leite-manual-1un.html?srsltid=AQP2TeOf8JFNuiHmrb1fielgAFhirMsgxmxO8qy8lpXIlcN51pTMyFe9Z2k",
+            "shop_name": "cosmetis.pt",
+            "shop_review_count": 14,
+            "shop_review_rating": 92,
+            "shop_id": "priceapi-9243f63c9d4",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9243f63c9d4",
+            "shop_url": "www.cosmetis.pt",
+            "shop_domain": "cosmetis.pt",
+            "shop_matching_id": "cosmetis.pt",
+            "page": 1,
+            "position": 13
+          },
+          {
+            "id": null,
+            "product_id": "12085757141488495556",
+            "price": "47.4",
+            "price_additional_info": [],
+            "price_with_shipping": "47.4",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp8821671/Bomba-tira-leite-Chicco-00005740000000-Transparente-Branco/w-4?oref=cbeb1e72-f702-f472-b6ac-8c88076b6350",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 14
+          },
+          {
+            "id": null,
+            "product_id": "12085757141488495556",
+            "price": "42.94",
+            "price_additional_info": [],
+            "price_with_shipping": "47.84",
+            "shipping_costs": "4.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.beautytheshop.com/pt/parafarmacia/bebes/acessorios-de-bebe/chicco-naturalfeeling-manual-soft-pump-0m-10",
+            "shop_name": "BeautyTheShop",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ccb1183920b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ccb1183920b",
+            "shop_url": "www.beautytheshop.com",
+            "shop_domain": "beautytheshop.com",
+            "shop_matching_id": "beautytheshop.com",
+            "page": 1,
+            "position": 15
+          },
+          {
+            "id": null,
+            "product_id": "12085757141488495556",
+            "price": "52.15",
+            "price_additional_info": [],
+            "price_with_shipping": "52.15",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.afarmaciaonline.pt/chicco-maa5740000000-saca-leite-manual.html",
+            "shop_name": "A Farm\u00e1cia Online",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-af17709f60f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-af17709f60f",
+            "shop_url": "www.afarmaciaonline.pt",
+            "shop_domain": "afarmaciaonline.pt",
+            "shop_matching_id": "afarmaciaonline.pt",
+            "page": 1,
+            "position": 16
+          },
+          {
+            "id": null,
+            "product_id": "12085757141488495556",
+            "price": "47.49",
+            "price_additional_info": [],
+            "price_with_shipping": "53.12",
+            "shipping_costs": "5.63",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://probebeshop.com/produto/tira-leite-manual-naturalfeeling-da-chicco/?utm_source=Google%20Shopping&utm_campaign=Probebe%20Feed%201&utm_medium=cpc&utm_term=7592",
+            "shop_name": "probebeshop.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-71378f7f412",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-71378f7f412",
+            "shop_url": "probebeshop.com",
+            "shop_domain": "probebeshop.com",
+            "shop_matching_id": "probebeshop.com",
+            "page": 1,
+            "position": 17
+          },
+          {
+            "id": null,
+            "product_id": "12085757141488495556",
+            "price": "47.75",
+            "price_additional_info": [],
+            "price_with_shipping": "47.75",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://looktocare.com/pt/artigo/chicco-natural-feeling-bomba-de-leite-manual-1un-7033738?srsltid=AQP2TeOSNWdqI6QSGBZLlCTtnD1XCbuH7pvon2vIcuoydFuxXPnVtyR2p6Q",
+            "shop_name": "Looktocare",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-38902789e8e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-38902789e8e",
+            "shop_url": "looktocare.com",
+            "shop_domain": "looktocare.com",
+            "shop_matching_id": "looktocare.com",
+            "page": 1,
+            "position": 18
+          },
+          {
+            "id": null,
+            "product_id": "12085757141488495556",
+            "price": "73.58",
+            "price_additional_info": [],
+            "price_with_shipping": "73.58",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.boticana.es/pt/accesorios-lactancia/25833-sacaleche-manual-chicco-naturalfeeling.html",
+            "shop_name": "Farmacia Boticana",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3740da6f2c2",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3740da6f2c2",
+            "shop_url": "www.boticana.es",
+            "shop_domain": "boticana.es",
+            "shop_matching_id": "boticana.es",
+            "page": 1,
+            "position": 19
+          },
+          {
+            "id": null,
+            "product_id": "12085757141488495556",
+            "price": "43.95",
+            "price_additional_info": [],
+            "price_with_shipping": "43.95",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.farmaciagoncalves.com.pt/ch.maa5740000000-saca-leite-manual.html",
+            "shop_name": "Farm\u00e1cia Gon\u00e7alves",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3427de50286",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3427de50286",
+            "shop_url": "www.farmaciagoncalves.com.pt",
+            "shop_domain": "farmaciagoncalves.com.pt",
+            "shop_matching_id": "farmaciagoncalves.com.pt",
+            "page": 1,
+            "position": 20
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08433769408015",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:05:21Z"
+      },
+      "content": {
+        "id": "3315549930188102253",
+        "name": "Airel Carrinho de Beb\u00e9 Individual Carrinho De Bicicleta Cinzento",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkz9fP0lNJNKrH32HPL03_ODy6CenZmBFp08-L9MJW1qz5mWSLgzLVth7puk9DfYLtGmmaKqJtndStsua8YssZWIjAT1KeqHx4UrrMk9SIA4Fi-B953WP3P3Ss1iFzQk25wTU1g0Q3tWqHd8febVzPNi9uri-FwfpzhWHSydyOT-1HXPQsRgkOAOTtcipL2vbRi3iJmzUBo=s512-pd-pc0x00ffffff",
+        "description": "MULTIFUNCIONAL: O nosso carrinho de beb\u00e9 pode ser utilizado como carrinho, triciclo e bicicleta. Al\u00e9m disso, pode adaptar-se \u00e0s diferentes idades do seu filho. - RESISTENTE E DUR\u00c1VEL: Fabricado com materiais de alta qualidade \u00e9 leve e o fato de se...",
+        "properties": [
+          "Individual",
+          "Para terrenos irregulares"
+        ],
+        "url": "https://www.google.pt/shopping/product/3315549930188102253?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/3315549930188102253/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "3315549930188102253",
+            "price": "95.0",
+            "price_additional_info": [],
+            "price_with_shipping": "95.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-individual-airel-carrinho-de-bicicleta-cinzento-MRKEAN-8433769408015",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "3315549930188102253",
+            "price": "95.0",
+            "price_additional_info": [],
+            "price_with_shipping": "100.14",
+            "shipping_costs": "5.14",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp21307650/Carrinho-e-Bicicleta-Infantil-Airel-Cinzento/w-4?oref=aefee82f-d7b9-d566-fcae-cbc504f2a4f5",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08435593700402",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:05:25Z"
+      },
+      "content": {
+        "id": "17546674312945654478",
+        "name": "Bqs Cadeira Auto BTG 0+123",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxfzrZx0qmDlrYT-HB66zMbjOePbBv20yDKioGQPfcatm9jEck2xXV4Vru9DY_snWOodETq-sYbLN9Rg5hdFcmw9GzIumYXKvS55wKvhmj3L9U8EE2me_tYJRTwtXj_Iy486sydzL_JoT9HaqGXMfSeQipkXeKw3fFNFj56Z2tEPI6HAwXBNE_GhHNZZiLJ0GIlLmrSGQ=s512-pd-pc0x00ffffff",
+        "description": "Cadeira auto para crian\u00e7a at\u00e9 aos 36 kg. Cinto de seguran\u00e7a com forro e regul\u00e1vel com 5 posi\u00e7\u00f5es. Sistema de prote\u00e7\u00e3o lateral. Sistema evolutivo em fun\u00e7\u00e3o da idade da crian\u00e7a. Inclin\u00e1vel. Prote\u00e7\u00e3o ombros. Capa confort\u00e1vel, amov\u00edvel e lav\u00e1vel. Grup...",
+        "properties": [
+          "Cadeira"
+        ],
+        "url": "https://www.google.pt/shopping/product/17546674312945654478?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/17546674312945654478/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "17546674312945654478",
+            "price": "99.0",
+            "price_additional_info": [],
+            "price_with_shipping": "99.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-bqs-btg-grupo-0-1-2-3-MRKEAN-8435593700402",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08710103896753",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:05:25Z"
+      },
+      "content": {
+        "id": "8391410652654888406",
+        "name": "AVENT - Intercomunicador Scd833/01",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkymY3gkgj_t27McTD5v4fUJPWWi5_wP8zWuroq04uMnLmrfY6SlwBXmvizeXzbgyVuqzixGhumOD_ODk3T0JisiWg40l2ddCgRa_owxMNv8goyP9v1saoyivX_gQsQUrNbErnmXQeyU74fcqGZ089lYOjPlvmLJZD87_ccTvjhHbflIqrf_-DpHh0XzncANeLQfCRFmoFk=s512-pd-pc0x00ffffff",
+        "description": "O Philips Avent SCD833 permite-lhe manter sempre uma liga\u00e7\u00e3o segura e privada com o seu beb\u00e9. Ou\u00e7a o beb\u00e9 com uma qualidade de som perfeita e veja-o com uma imagem n\u00edtida (LCD de 2,7\"), tanto durante o dia como durante a noite. O Philips Avent SCD...",
+        "properties": [
+          "Sinal digital",
+          "Vis\u00e3o noturna"
+        ],
+        "url": "https://www.google.pt/shopping/product/8391410652654888406?hl=pt&gl=pt&sfr=compass",
+        "review_count": 112,
+        "review_rating": 84,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/8391410652654888406/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "8391410652654888406",
+            "price": "204.58",
+            "price_additional_info": [],
+            "price_with_shipping": "204.58",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/intercomunicadores-bebe/intercomunicador-para-bebe-philips-scd833-7076500",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "8391410652654888406",
+            "price": "204.58",
+            "price_additional_info": [],
+            "price_with_shipping": "204.58",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp12055597/Monitor-de-Video-de-Bebe-Philips-AVENT-Baby-monitor-Intercomunicador-para-bebe-de-video-digital-Branco/w-4?oref=c1459ee0-54bf-af70-520f-676dd5fd2bbf",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08720286345412",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:05:20Z"
+      },
+      "content": {
+        "id": "16415228600742682303",
+        "name": "vidaXL Barra de seguran\u00e7a p/ cama infantil tecido 200x25 cm azul",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkysXjyBOg7C1HYJWORsOifoentcVhi-vbOKZ2JqA6sjEkY15UU7s8ZkMSNWgQfAQF5UDh6ulqUiy6vjc76-_zikwnUm5bdksnRzSDsQj4Yiw2AGnHz1T6-EuoFiAwiddEYil3iQpW1SnV9g2SGNfMPextJ67zy_Z7peOpbGOXILaMPGUcUvy7ovLtYvtxzWl2U2D_QT7g=s512-pd-pc0x00ffffff",
+        "description": "Esta barra de seguran\u00e7a para cama proporciona uma \u00f3tima prote\u00e7\u00e3o contra quedas e assegura sonhos agrad\u00e1veis ao seu pequeno. Feita de tecido lav\u00e1vel em poli\u00e9ster e com um leve tubo de metal, esta barra de seguran\u00e7a para cama \u00e9 robusta, dur\u00e1vel e f\u00e1...",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/16415228600742682303?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Montagem necess\u00e1ria",
+            "value": [
+              "sim"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/16415228600742682303/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "16415228600742682303",
+            "price": "37.99",
+            "price_additional_info": [],
+            "price_with_shipping": "37.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/seguranca-e-protecao-bebe/barreira-de-cama-vidaxl-infantil-azul-200x25x95-cm-MRKEAN-8720286345412",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "16415228600742682303",
+            "price": "42.99",
+            "price_additional_info": [],
+            "price_with_shipping": "42.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.vidaxl.pt/e/vidaxl-barra-de-seguranca-p-cama-infantil-tecido-200x25-cm-azul/8720286345412.html",
+            "shop_name": "vidaXL.pt",
+            "shop_review_count": 143,
+            "shop_review_rating": 86,
+            "shop_id": "priceapi-a01dd5bddff",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a01dd5bddff",
+            "shop_url": "www.vidaxl.pt",
+            "shop_domain": "vidaxl.pt",
+            "shop_matching_id": "vidaxl.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "success": false,
+      "reason": "invalid value",
+      "source": "google-shopping",
+      "country": "pt",
+      "key": "gtin",
+      "value": "09908214741251",
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "09908214741251",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      }
+    }
+  ]
+}

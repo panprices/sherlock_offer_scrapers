@@ -1,0 +1,2276 @@
+{
+  "job_id": "62b9b8f06526ee1f68896822",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 19,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00018208265220",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:46Z"
+      },
+      "content": {
+        "id": "10472462690564675250",
+        "name": "Nikon COOLPIX P1000 - Onestop Digital",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzT2OKRxsVpoYMindLA9_nZZ57C0fo1_kZ01PevI2-MRkxmgimDD6eZg6Z2jrYaerFkJaeMbautQ-BFY-qtLHTRtf0LW0uIvfxhfbgrMI4TTkQqLhBF1PnvYzfJdNz8aSf9DpvL4BPYZDEHE8Bc_XT6IA9TMVCctli_kgu8pkuUpa44kDg46cZP7Gz1HikUKyWcGrG5igk=s512-pd-pc0x00ffffff",
+        "description": "A Nikon fabrica c\u00e2meras com tecnologia de ponta e excel\u00eancia na qualidade. Seus produtos permitem explorar toda a sua criatividade, garantindo resultados de qualidade. Imagens \u00fanicas, conforto incompar\u00e1vel \u00c9 ideal para capturar momentos com grande...",
+        "properties": [
+          "CMOS",
+          "Com v\u00eddeo",
+          "Sensor compacto",
+          "Com estabiliza\u00e7\u00e3o de imagem",
+          "Flash embutido",
+          "Flash remov\u00edvel",
+          "Semiprofissional",
+          "Bluetooth",
+          "Com Wi-Fi"
+        ],
+        "url": "https://www.google.pt/shopping/product/10472462690564675250?hl=pt&gl=pt&sfr=compass",
+        "review_count": 823,
+        "review_rating": 90,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Aspect Ratio",
+            "value": [
+              "4-3"
+            ]
+          },
+          {
+            "label": "Sensor Type",
+            "value": [
+              "1/2.3\" CMOS"
+            ]
+          },
+          {
+            "label": "Image File Format",
+            "value": [
+              "JPEG",
+              "Raw"
+            ]
+          },
+          {
+            "label": "Image Stabilization",
+            "value": [
+              "Optical"
+            ]
+          },
+          {
+            "label": "Optical Zoom",
+            "value": [
+              "125x"
+            ]
+          },
+          {
+            "label": "Maximum Aperture",
+            "value": [
+              "f/2.8 to 8"
+            ]
+          },
+          {
+            "label": "Optical Design",
+            "value": [
+              "17 Elements in 12 Groups"
+            ]
+          },
+          {
+            "label": "Filter Size",
+            "value": [
+              "77 mm"
+            ]
+          },
+          {
+            "label": "ISO Sensitivity",
+            "value": [
+              "100 to 6400"
+            ]
+          },
+          {
+            "label": "Metering Method",
+            "value": [
+              "Center-Weighted Average",
+              "Matrix",
+              "Spot"
+            ]
+          },
+          {
+            "label": "Exposure Compensation",
+            "value": [
+              "-2 to +2 EV (1/3 EV Steps)"
+            ]
+          },
+          {
+            "label": "Continuous Shooting",
+            "value": [
+              "Up to 7 fps at 16 MP for up to 7 Frames (JPEG)"
+            ]
+          },
+          {
+            "label": "Interval Recording",
+            "value": [
+              "Yes"
+            ]
+          },
+          {
+            "label": "Self-Timer",
+            "value": [
+              "3/10-Second Delay"
+            ]
+          },
+          {
+            "label": "Recording Limit",
+            "value": [
+              "Up to 29 Minutes",
+              "59 Seconds"
+            ]
+          },
+          {
+            "label": "Video Encoding",
+            "value": [
+              "NTSC/PAL"
+            ]
+          },
+          {
+            "label": "Audio File Format",
+            "value": [
+              "AAC"
+            ]
+          },
+          {
+            "label": "Viewfinder Type",
+            "value": [
+              "Electronic"
+            ]
+          },
+          {
+            "label": "Viewfinder Coverage",
+            "value": [
+              "100%"
+            ]
+          },
+          {
+            "label": "Diopter Adjustment",
+            "value": [
+              "-3 to +3"
+            ]
+          },
+          {
+            "label": "Display Type",
+            "value": [
+              "Articulating LCD"
+            ]
+          },
+          {
+            "label": "Built-In Flash",
+            "value": [
+              "Yes"
+            ]
+          },
+          {
+            "label": "Flash Modes",
+            "value": [
+              "Auto"
+            ]
+          },
+          {
+            "label": "External Flash Connection",
+            "value": [
+              "Hot Shoe"
+            ]
+          },
+          {
+            "label": "Media/Memory Card Slot",
+            "value": [
+              "Single Slot- SD/SDHC/SDXC"
+            ]
+          },
+          {
+            "label": "Wireless",
+            "value": [
+              "Wi-Fi Bluetooth"
+            ]
+          },
+          {
+            "label": "GPS",
+            "value": [
+              "No"
+            ]
+          },
+          {
+            "label": "Box Dimensions (LxWxH)",
+            "value": [
+              "11.85 x 7.45 x 7.15\""
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/10472462690564675250/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10472462690564675250",
+            "price": "1217.97",
+            "price_additional_info": [],
+            "price_with_shipping": "1217.97",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "http://www.onestop-digital.com/nikon-coolpix-p1000.html?currency=EUR&sl=pt",
+            "shop_name": "Onestop Digital",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d86fbbde3d1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d86fbbde3d1",
+            "shop_url": "www.onestop-digital.com",
+            "shop_domain": "onestop-digital.com",
+            "shop_matching_id": "onestop-digital.com",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00686268624754",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:47Z"
+      },
+      "content": {
+        "id": "12069054787388401763",
+        "name": "Qplay Mala Practical Dark (Cinzento)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkznHRESat1hWSPKKoz8rWvox8VCikHj-xggXNtIyY4HjHkkR2OiiJNNKQ_7UeCMy3PRAWRaeS7j-ff9DpW3rk_daeeUABqJDBwuW6Ec14iUOYYBj-92gvBoiGYphFPoQbv5ndsj34CphtGu0z2fqG23QDiKFDrkqdSaYZVmKgzNnX1BZtAdssJFXiXQjQ-ulxR2ueHOzQ=s512-pd-pc0x00ffffff",
+        "description": "Aqui est\u00e1 o super triciclo evolutivo do ano, QPlay Nova! O triciclo infantil mais completo. Tornar-se-\u00e1 o melhor aliado para descobrir lugares inexplorados durante as suas caminhadas. Porque \u00e9 dobr\u00e1vel, estar\u00e1 sempre ao seu lado! Poupa tempo e esp...",
+        "properties": [
+          "Com guia",
+          "Dobr\u00e1vel",
+          "Cinza Escuro"
+        ],
+        "url": "https://www.google.pt/shopping/product/12069054787388401763?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/12069054787388401763/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "12069054787388401763",
+            "price": "49.99",
+            "price_additional_info": [],
+            "price_with_shipping": "67.98",
+            "shipping_costs": "17.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/malas-e-bolsas-de-passeio/mala-qplay-practical-dark-cinzento-MRKEAN-0686268624754",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00820257214810",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:40Z"
+      },
+      "content": {
+        "id": "5385677125258862552",
+        "name": "Junama Carrinho de Beb\u00e9 Diamond Fluo Trio Preto 3 em 1",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwz8nt-T29oi90msD4jZJzUr5cn5V3ndFoOaN3o_xXssL4XgN7Th2B9V2s4y3qCuiFL1KoEJcll0r_cJZ-GIskIZtAv62d6FBQLLIgukP2EzzwQmqsqrWvlkWtOyCZHhuCcFm-VNrICYQPlCi3eF66AF-JHMlKbTmWsR5XYox68EnVlR0xVY0Z3aKxdZ-6SAVf1zuJKDQ=s512-pd-pc0x00ffffff",
+        "description": null,
+        "properties": [
+          "Individual"
+        ],
+        "url": "https://www.google.pt/shopping/product/5385677125258862552?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/5385677125258862552/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "5385677125258862552",
+            "price": "1328.67",
+            "price_additional_info": [],
+            "price_with_shipping": "1328.67",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-junama-diamond-fluo-trio-preto-3-em-1-MRKEAN-0820257214810",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03507460118568",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:40Z"
+      },
+      "content": {
+        "id": "11101659490938280166",
+        "name": "Zy Safe Cadeira Auto Zippy Izzygo Plus (Grupo 2/3)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkz18qH_oktIVcaOv-RS--LrRl5fZUQEfQl67hOnQTUEVDW7DE311tsEeoAbjEBOvwGDIX5VQ2tcI03wMmJvAHPGyPQaiOZN6AzPsWPjFjDuODMqty8gexCJ6mAWlW-19o5Rd817kGiAHGkiYvAP_Ij93QKbXvlMtwmN_TZhpGGF6wwNt43ZVvRhDi3uiF0GwPnVDReNiw=s512-pd-pc0x00ffffff",
+        "description": "Cadeira acolchoada para um maior conforto da crian\u00e7a, com altura regul\u00e1vel que acompanha o seu crescimento desde os 15kg at\u00e9 aos 36kg.",
+        "properties": [
+          "Virada para frente",
+          "Cadeira",
+          "Preto"
+        ],
+        "url": "https://www.google.pt/shopping/product/11101659490938280166?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 3,
+        "offers_url": "https://www.google.pt/shopping/product/11101659490938280166/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "11101659490938280166",
+            "price": "59.99",
+            "price_additional_info": [],
+            "price_with_shipping": "63.98",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://zippyonline.com/pt/cadeira-auto-gr-2-3-izzygo-plus-zy-safe-stars-black/6699496.html?LGWCODE=6699496;114169;9295",
+            "shop_name": "ZIPPY",
+            "shop_review_count": 257,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-1603146d07a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-1603146d07a",
+            "shop_url": "zippyonline.com",
+            "shop_domain": "zippyonline.com",
+            "shop_matching_id": "zippyonline.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "11101659490938280166",
+            "price": "59.99",
+            "price_additional_info": [],
+            "price_with_shipping": "63.98",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-zy-safe-zippy-izzygo-plus-grupo-2-3-MRKEAN-3507460118568",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "11101659490938280166",
+            "price": "59.99",
+            "price_additional_info": [],
+            "price_with_shipping": "59.99",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://mo-online.com/pt/cadeira-auto-gr-2-3-izzygo-plus-zy-safe-stars-black/6699496.html?LGWCODE=6699496;115163;9295",
+            "shop_name": "MO Online",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3793fd4ef3f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3793fd4ef3f",
+            "shop_url": "mo-online.com",
+            "shop_domain": "mo-online.com",
+            "shop_matching_id": "mo-online.com",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03800151968726",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:40Z"
+      },
+      "content": {
+        "id": "15759316399574421466",
+        "name": "Lorelli Carrinho de Beb\u00e9 Trio 3 Em 1 Lora Set",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwDSIAJ1dk1VjDWYfSDElSYslvmqtYLc83zGwFXveWF-05F8JWDm0xG2jDx1SPUPjRCbaqq1kCXOrbOZ6Ae-5gp3Z4SV7FyBL0A4sGtOtUxxILGs2x_iO3fnY9OefjfonMiLYnmuykHyimEee9CeBHD9KEX6-fhPJH7xWV7_BFOhPn2EN5L8lksjazCrzZkotsujd7G7w=s512-pd-pc0x00ffffff",
+        "description": null,
+        "properties": [
+          "Individual"
+        ],
+        "url": "https://www.google.pt/shopping/product/15759316399574421466?hl=pt&gl=pt&sfr=compass",
+        "review_count": 25,
+        "review_rating": 88,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/15759316399574421466/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "15759316399574421466",
+            "price": "329.0",
+            "price_additional_info": [],
+            "price_with_shipping": "344.99",
+            "shipping_costs": "15.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-trio-lorelli-3-em-1-lora-set-MRKEAN-3800151968726",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03800151981596",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:41Z"
+      },
+      "content": {
+        "id": "3220796094027405201",
+        "name": "Lorelli Cadeira Auto Navigator (Grupo 1/2/3)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkylRZVesRTKnfsAeapp6WQHMuqTwg1Ym_Dh8PtWF0NbnZfBG-i8-lAtW8I6BKFSUtPQmn_en4L5cfyEuVE9PyJpjUsr--Es1irXJwNEYTATh6F--kp4lkcJaFB1bg6hhAObqNcjJwh0FHEU5j-lPu2_3N1Xb_i1lxMhWSsqcPN2vyqsWEYUon1hBzA_rB8Vw4psUFJwQcQ=s512-pd-pc0x00ffffff",
+        "description": "Este Lorelli Child Seat Navigator pertence ao grupo 1/2/3 e \u00e9 adequado de um ano a cerca de 12 anos (9 - 36 kg). A cadeirinha pode ser rapidamente transformada em um busto. Seu filho est\u00e1 preso no assento com o cinto de seguran\u00e7a de 5 pontos e alm...",
+        "properties": [
+          "Virada para frente",
+          "Cadeira",
+          "Preto/Cinza"
+        ],
+        "url": "https://www.google.pt/shopping/product/3220796094027405201?hl=pt&gl=pt&sfr=compass",
+        "review_count": 4,
+        "review_rating": 100,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Vendido por",
+            "value": [
+              "Babyshoppen"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/3220796094027405201/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "3220796094027405201",
+            "price": "79.99",
+            "price_additional_info": [],
+            "price_with_shipping": "95.98",
+            "shipping_costs": "15.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-lorelli-navigator-grupo-1-2-3-MRKEAN-3800151981596",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03800151994961",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:42Z"
+      },
+      "content": {
+        "id": "18225806145256955062",
+        "name": "Lorelli Carrinho de Beb\u00e9 Alba Classic Candy 3 em 1 (Rosa)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzMu4pCZuFoZPVfsQ9Tw9kwjHO7SZqV5H9Pycg3LI5cUq849RYWQW9hk9ma1V-smrLJJByUgs6MBIRjTxrrpz5QjW1lSX-DlKPs4gRrspwr6qxiw0ANCvnlrD2ZGeQ2XnWZK9INRmko8mTlwTOA5tMZkt4F740PsIsQBztcTFD3VmN28o-miTjVs_65GBOiiDkGS5wcBKo=s512-pd-pc0x00ffffff",
+        "description": "Caracter\u00edsticas: Carrinho convers\u00edvel em assento / - Tapa-p\u00e9s / - Cesto grande / - Al\u00e7a regul\u00e1vel em altura / Dimens\u00f5es do carrinho dobr\u00e1vel: 66 x 82 x 29 cm / - Almofada macia / - Cinto de seguran\u00e7a de 5 pontos / - Rodas de borracha / - Girat\u00f3ria...",
+        "properties": [
+          "Para terrenos irregulares",
+          "Individual"
+        ],
+        "url": "https://www.google.pt/shopping/product/18225806145256955062?hl=pt&gl=pt&sfr=compass",
+        "review_count": 2,
+        "review_rating": 100,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Vendido por",
+            "value": [
+              "Babyshoppen"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/18225806145256955062/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "18225806145256955062",
+            "price": "239.0",
+            "price_additional_info": [],
+            "price_with_shipping": "239.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-lorelli-alba-classic-candy-3-em-1-rosa-MRKEAN-3800151994961",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "18225806145256955062",
+            "price": "253.12",
+            "price_additional_info": [],
+            "price_with_shipping": "255.12",
+            "shipping_costs": "2.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.carrinhosbaratos.pt/lorelli-alba-classic-conversivel-trio-pram-2783_2695.html#/319-cor-rosa",
+            "shop_name": "Carrinhosbaratos.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-cc7b8a526af",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-cc7b8a526af",
+            "shop_url": "www.carrinhosbaratos.pt",
+            "shop_domain": "carrinhosbaratos.pt",
+            "shop_matching_id": "carrinhosbaratos.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04895173623349",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:45Z"
+      },
+      "content": {
+        "id": "2267881430330846287",
+        "name": "ZOTAC - Gaming Geforce Rtx 3070 Ti Trinity 8 Gb Gddr6x",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkyUwGRJLtbwW6tyroHrWcf8WDUTlNPVmzEc7SFCCjfWwC7qA_zsuIud2IziXlm9FXwDLyqcBif7HI0F1opFWDpvD6GZADkItmSG61EL5WjiHq3eyRIJo6Er6-FN8oT-cfr7PDWh0jS7OollaCrb2X4hvQ5gfi-oZSz3K-TdPicT2xQDkpTmh7Be3nm0rs-XW_11EWBy8g=s512-pd-pc0x00ffffff",
+        "description": "A Nvidia \u00e9 o fabricante l\u00edder de placas de v\u00eddeo, sua qualidade garante uma experi\u00eancia positiva no desenvolvimento do motor gr\u00e1fico do seu computador. Al\u00e9m disso, seus processadores usam tecnologia de ponta para que voc\u00ea possa desfrutar de um pro...",
+        "properties": [
+          "ZOTAC",
+          "PCI Express",
+          "HDMI",
+          "DisplayPort",
+          "GDDR",
+          "Placa gr\u00e1fica",
+          "Ativo",
+          "Suporte a Ray Tracing"
+        ],
+        "url": "https://www.google.pt/shopping/product/2267881430330846287?hl=pt&gl=pt&sfr=compass",
+        "review_count": 13,
+        "review_rating": 96,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Processador Gr\u00e1fico",
+            "value": [
+              "GeForce RTX 3070 Ti"
+            ]
+          },
+          {
+            "label": "BUS",
+            "value": [
+              "PCI Express 4.0 16x"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria de V\u00eddeo",
+            "value": [
+              "8GB GDDR6X"
+            ]
+          },
+          {
+            "label": "Velocidade",
+            "value": [
+              "Boost Clock: 1770 MHz"
+            ]
+          },
+          {
+            "label": "CUDA cores",
+            "value": [
+              "6144"
+            ]
+          },
+          {
+            "label": "Velocidade de Mem\u00f3ria",
+            "value": [
+              "19 Gbps"
+            ]
+          },
+          {
+            "label": "Interface de Mem\u00f3ria",
+            "value": [
+              "256-bit"
+            ]
+          },
+          {
+            "label": "Suporte para multi-monitor",
+            "value": [
+              "At\u00e9 4 monitores"
+            ]
+          },
+          {
+            "label": "Consumo de energia",
+            "value": [
+              "290W"
+            ]
+          },
+          {
+            "label": "Dimens\u00f5es",
+            "value": [
+              "317.6 x 117.6 x 58.8 mm"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/2267881430330846287/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "2267881430330846287",
+            "price": "769.9",
+            "price_additional_info": [],
+            "price_with_shipping": "769.9",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.pcdiga.com/placa-grafica-zotac-gaming-geforce-rtx-3070-ti-8gb-gddr6x-trinity-zt-a30710d-10p",
+            "shop_name": "PCDiga",
+            "shop_review_count": 163,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-f8542fbc9d7",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f8542fbc9d7",
+            "shop_url": "www.pcdiga.com",
+            "shop_domain": "pcdiga.com",
+            "shop_matching_id": "pcdiga.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "2267881430330846287",
+            "price": "783.01",
+            "price_additional_info": [],
+            "price_with_shipping": "790.01",
+            "shipping_costs": "7.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/informatica-e-acessorios/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-zotac-geforce-rtx-3070-ti-nvidia-8-gb-gddr6x-MRKEAN-4895173623349",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04960759905987",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:48Z"
+      },
+      "content": {
+        "id": "10428479261282774607",
+        "name": "Nikon Z6 II - Corpo",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxqjaTPImO2W8P9i8qZcOjz8mtqqAB2yCKLpHCnyCC_vORiZMNdjTbPFEC_fjK6XaOhFExT20YG-d_DJlf_hP0oS4T_C-KT2fEo1NRW5flVr6iEUQMkWZJtFlDscYb4oovMEjuyZEfKUIk36Kv6MS1PAZLaezHabANjmyomUfDTlg5pSOTES4RJiPCTkUJos9OqRhm2sIs=s512-pd-pc0x00ffffff",
+        "description": "Mais velocidade, mais versatilidade, mais desempenho, a Nikon Z 6II \u00e9 uma vers\u00e3o atualizada da c\u00e2mera sem espelho vers\u00e1til projetada para aplica\u00e7\u00f5es de foto e v\u00eddeo de ponta. Apesar da riqueza de atualiza\u00e7\u00f5es, o Z 6II mant\u00e9m seu formato familiar e...",
+        "properties": [
+          "Com v\u00eddeo",
+          "CMOS",
+          "Sensor Full Frame",
+          "Resistente \u00e0 \u00e1gua",
+          "Com estabiliza\u00e7\u00e3o de imagem",
+          "Flash remov\u00edvel",
+          "Com Wi-Fi"
+        ],
+        "url": "https://www.google.pt/shopping/product/10428479261282774607?hl=pt&gl=pt&sfr=compass",
+        "review_count": 603,
+        "review_rating": 96,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Sensor",
+            "value": [
+              "CMOS Full Frame - 35",
+              "9 x 23",
+              "9mm"
+            ]
+          },
+          {
+            "label": "Filtro de Cor",
+            "value": [
+              "Prim\u00e1ria - RGB"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o Foto",
+            "value": [
+              "24.5 MP"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o M\u00e1xima de V\u00eddeo",
+            "value": [
+              "Ultra HD 4K 2160p",
+              "29.97 fps"
+            ]
+          }
+        ],
+        "offer_count": 4,
+        "offers_url": "https://www.google.pt/shopping/product/10428479261282774607/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10428479261282774607",
+            "price": "1929.0",
+            "price_additional_info": [],
+            "price_with_shipping": "1929.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/fotografia-e-drones/maquinas-fotograficas/maquinas-mirrorless/maquina-fotografica-nikon-z6-ii-full-frame-MRKEAN-4960759905987",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "10428479261282774607",
+            "price": "2149.0",
+            "price_additional_info": [],
+            "price_with_shipping": "2149.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.digitfoto.pt/GoogleMC.php?prod=NIKONZ6MKII",
+            "shop_name": "DigitFoto.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8b836e914d0",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8b836e914d0",
+            "shop_url": "www.digitfoto.pt",
+            "shop_domain": "digitfoto.pt",
+            "shop_matching_id": "digitfoto.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "10428479261282774607",
+            "price": "1777.09",
+            "price_additional_info": [
+              "PRE\u00c7O BAIXO"
+            ],
+            "price_with_shipping": "1783.09",
+            "shipping_costs": "6.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://xikixi.pt/catalog/product/view/id/6771029/",
+            "shop_name": "Xikixi PT",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-7215342b944",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-7215342b944",
+            "shop_url": "xikixi.pt",
+            "shop_domain": "xikixi.pt",
+            "shop_matching_id": "xikixi.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "10428479261282774607",
+            "price": "2429.0",
+            "price_additional_info": [],
+            "price_with_shipping": "2432.9",
+            "shipping_costs": "3.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elcorteingles.pt/tecnologia/A38254466-camara-evil-nikon-z6-ii-corpo/?ref=001010116000299%20&feed=true",
+            "shop_name": "El Corte Ingl\u00e9s",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-59e992a5443",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-59e992a5443",
+            "shop_url": "www.elcorteingles.pt",
+            "shop_domain": "elcorteingles.pt",
+            "shop_matching_id": "elcorteingles.pt",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05902533910571",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:39Z"
+      },
+      "content": {
+        "id": "6800347405632054187",
+        "name": "KINDERKRAFT Triciclo Aston Rosa",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkw9nqHqzxHrlIGq14LgVvVcv-bd6M__4VyF-asaxbnPe-0o_fG1a3GC0XGZc1xvYT8NGT9bWBmiMSgHwno-MF07eje2a15PBiwFpNaIdDlNuhfk98kLyaoltAVxDHQ9zt_lwEXNjc8qOYUNJhejT_8mckuBqFE01zDY7D52EiFRzWxBf-owbJdKBkFcrkTiSWTZnsynFQ=s512-pd-pc0x00ffffff",
+        "description": "Thanks to the roof window made of transparent fabric, you can control the child's activities without having to stop while walking. 5-point safety harnesses and additional crotch strap keep the child in a comfortable position and protect it from fa...",
+        "properties": [
+          "Rosa"
+        ],
+        "url": "https://www.google.pt/shopping/product/6800347405632054187?hl=pt&gl=pt&sfr=compass",
+        "review_count": 397,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 7,
+        "offers_url": "https://www.google.pt/shopping/product/6800347405632054187/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "6800347405632054187",
+            "price": "104.89",
+            "price_additional_info": [],
+            "price_with_shipping": "104.89",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://farmacianovadamaia.pt/pt/bicicletas-e-triciclos-/7344-kinderkraft-aston-triciclo-rosa-5902533910571.html?utm_source=google&utm_medium=free_merchant",
+            "shop_name": "Farm\u00e1cia Nova da Maia",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ae41cc375da",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ae41cc375da",
+            "shop_url": "farmacianovadamaia.pt",
+            "shop_domain": "farmacianovadamaia.pt",
+            "shop_matching_id": "farmacianovadamaia.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "6800347405632054187",
+            "price": "149.0",
+            "price_additional_info": [],
+            "price_with_shipping": "152.99",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://zippyonline.com/pt/triciclo-aston-pink-kinderkraft-9m/6926958.html?LGWCODE=6926958;114169;9295",
+            "shop_name": "ZIPPY",
+            "shop_review_count": 257,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-1603146d07a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-1603146d07a",
+            "shop_url": "zippyonline.com",
+            "shop_domain": "zippyonline.com",
+            "shop_matching_id": "zippyonline.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "6800347405632054187",
+            "price": "100.64",
+            "price_additional_info": [],
+            "price_with_shipping": "100.64",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.planetahuerto.pt/venda-triciclo-evolutivo-aston-rosa-kinderkraft_120449?srsltid=AQP2TePZi-CoQY_JYZ-npqfsBPHixPKyW_S8QQ1iMOYaEUxzAHruapwmkz0",
+            "shop_name": "Planeta Huerto",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4b6739d069f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4b6739d069f",
+            "shop_url": "www.planetahuerto.pt",
+            "shop_domain": "planetahuerto.pt",
+            "shop_matching_id": "planetahuerto.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "6800347405632054187",
+            "price": "106.52",
+            "price_additional_info": [],
+            "price_with_shipping": "112.52",
+            "shipping_costs": "6.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://xikixi.pt/catalog/product/view/id/6791598/",
+            "shop_name": "Xikixi PT",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-7215342b944",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-7215342b944",
+            "shop_url": "xikixi.pt",
+            "shop_domain": "xikixi.pt",
+            "shop_matching_id": "xikixi.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "6800347405632054187",
+            "price": "126.65",
+            "price_additional_info": [],
+            "price_with_shipping": "126.65",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/triciclos-para-bebe/triciclo-kinderkraft-aston-pink-MRKEAN-5902533910571",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "6800347405632054187",
+            "price": "126.65",
+            "price_additional_info": [],
+            "price_with_shipping": "132.64",
+            "shipping_costs": "5.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp19097808/Triciclo-Kinderkraft-ASTON-Rosa/w-4?oref=5285fefa-c44a-61ca-3f63-6d456a04ad21",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "6800347405632054187",
+            "price": "149.0",
+            "price_additional_info": [],
+            "price_with_shipping": "149.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://minicool.pt/kinderkraft-triciclo-aston-rosa?utm_source=google&utm_medium=shopping&utm_campaign=surface",
+            "shop_name": "Minicool",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-83acedd68a7",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-83acedd68a7",
+            "shop_url": "minicool.pt",
+            "shop_domain": "minicool.pt",
+            "shop_matching_id": "minicool.pt",
+            "page": 1,
+            "position": 7
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05902581658074",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:39Z"
+      },
+      "content": {
+        "id": "3118072690406514842",
+        "name": "Lionelo Parque Infantil Sofie Turquoise Scandi",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwKRJ7l7FIdhI858XrXuU1t2YIvWSDcdHYN4I7PhTFVyC59eq7LmXPcxrzL5gTVhlDd3iqcdRQT0uXHcJNrGbXcK4dy1oPYiwQt6NO8w2ZQfL3AxMoxZ059efs5S_V3ctSTpR1WRfQIAnm52mFBS-wfCmRWvH4B-GfDJaYUSe1j8iZV3H_hUyH0puJeVt4O4wHgkqOT=s512-pd-pc0x00ffffff",
+        "description": "Parque Ber\u00e7o Com Sofie Gatera De Lionelo, Dispon\u00edvel Em Duas Cores. \u00c9 Muito Vers\u00e1til, Pode Ser Um Ber\u00e7o Para A Casa E Um Playground Que Voc\u00ea Pode Usar Em Casa, Jardim Ou Durante A Viagem, Gra\u00e7as Ao Seu Dobr\u00e1vel R\u00e1pido E F\u00e1cil. Inclui Um Saco De Tr...",
+        "properties": [
+          "Port\u00e1til"
+        ],
+        "url": "https://www.google.pt/shopping/product/3118072690406514842?hl=pt&gl=pt&sfr=compass",
+        "review_count": 80,
+        "review_rating": 98,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/3118072690406514842/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "3118072690406514842",
+            "price": "79.95",
+            "price_additional_info": [],
+            "price_with_shipping": "79.95",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/parques-para-bebe/parque-lionelo-infantil-sofie-turquoise-scandi-MRKEAN-5902581658074",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "3118072690406514842",
+            "price": "87.6",
+            "price_additional_info": [
+              "REDU\u00c7\u00c3O NO PRE\u00c7O"
+            ],
+            "price_with_shipping": "87.6",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp19054229/Parque-Infantil-Lionelo-Sofie-Turquoise-Scandi/w-4?oref=e3278ab5-fde7-6d3c-ecf5-092677c28f87",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06459845165056",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:40Z"
+      },
+      "content": {
+        "id": "1521560734613765500",
+        "name": "Intercomunicador para Beb\u00e9 OHPA VB608 (V\u00eddeo 4.3\" Branco)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzGUSpe6es9Pld4OSZGJTYcXgbWKmIB6xGwMRFCmqQz4uy55f8pXUWV-ROOu9sUnTS_RWJGDtZAQjC8T-n6ENVGVJPllG1zJpkOSRr5bFtBrC2cMUnA7ccXjukiuthhPrj79Hva43kXHFWFLje5CwsgaBrMZ8ikE4lG5jGkOBpXFIJ9cK_OxFyNxqp4R0StOEwts1ID6g=s512-pd-pc0x00ffffff",
+        "description": null,
+        "properties": [
+          "1 receptor"
+        ],
+        "url": "https://www.google.pt/shopping/product/1521560734613765500?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/1521560734613765500/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "1521560734613765500",
+            "price": "95.93",
+            "price_additional_info": [],
+            "price_with_shipping": "95.93",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/intercomunicadores-bebe/intercomunicador-para-bebe-ohpa-vb608-video-4-3-branco-MRKEAN-6459845165056",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06459846295219",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:44Z"
+      },
+      "content": {
+        "id": "4650012358511824164",
+        "name": "Ohpa Mars\u00fapio AY48 Azul",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzMEmK3xeROjqoWrTb20haZctrLWPfXEQYCrC2jufSBDWZYR3tjf-4UZ7MS21F1H8qV-3aLuWRmtEGmYYBa41lfx8ccmlQnV0fI_1iwdIupGwaD5XMp2B5fPzTQiFjF9-AKj80zLwPxFeAvdgCFEghIvsJ0ow4l7SaNTxJQ4VtY_0BuCaRTzpQ9l9txiwCs2vITmQZELw=s512-pd-pc0x00ffffff",
+        "description": "Descri\u00e7\u00e3o do produto:Use tecido de malha completa respir\u00e1vel, confort\u00e1vel e respir\u00e1vel. Com anel de seguran\u00e7a nas costas para evitar escorreg\u00f5es e proteger melhor a seguran\u00e7a do beb\u00ea. Foi projetada uma grande bolsa de armazenamento, que pode armaz...",
+        "properties": [
+          "Costas"
+        ],
+        "url": "https://www.google.pt/shopping/product/4650012358511824164?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/4650012358511824164/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "4650012358511824164",
+            "price": "38.97",
+            "price_additional_info": [],
+            "price_with_shipping": "38.97",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/marsupios-para-bebe/marsupio-ohpa-ay48-azul-MRKEAN-6459846295219",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08010898254128",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:42Z"
+      },
+      "content": {
+        "id": "17616077917361380482",
+        "name": "ASSENTO AUTO FROZEN GRUPO 2/3",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkx_B_51iZuGiLYmNRs102PP7pi6sAtwjnEMUtlvg_BAGBCpmpuSi_vJgo6OhZnIkGo-bkVWGBEAAZqxifudftjH-t16MIjB8LmX6lyw6gBT9-5Iwa-Yz6bfPZOutbFGWPPzxo2KhtJqoC5Wjre2auWrkh-OeqlpRbWJ92n5wEMN-XxspblULUzLNSfw-MMgwkoeFygkWw=s512-pd-pc0x00ffffff",
+        "description": "Assento Auto Frozen indicado dos 15kg aos 36 kg, Grupo II/III. Assento indicado para as amantes da Elsa da Anna e do Olaf, para tornar as viagens mais divertidas.",
+        "properties": [
+          "Virada para frente",
+          "Assento de eleva\u00e7\u00e3o"
+        ],
+        "url": "https://www.google.pt/shopping/product/17616077917361380482?hl=pt&gl=pt&sfr=compass",
+        "review_count": 13,
+        "review_rating": 92,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Fabricante/Marca",
+            "value": [
+              "Disney"
+            ]
+          },
+          {
+            "label": "Colora\u00e7\u00e3o",
+            "value": [
+              "Imagem"
+            ]
+          },
+          {
+            "label": "Tipo de instala\u00e7\u00e3o",
+            "value": [
+              "Cinto"
+            ]
+          },
+          {
+            "label": "Grupo de assentos elevat\u00f3rios de carro",
+            "value": [
+              "2-3 (15 - 36 kg",
+              "3",
+              "5 - 12 anos)"
+            ]
+          },
+          {
+            "label": "Tipo de bra\u00e7o de apoio",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Cobertura remov\u00edvel",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Cobertura lav\u00e1vel",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Certifica\u00e7\u00e3o",
+            "value": [
+              "ECE R44/04"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/17616077917361380482/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "17616077917361380482",
+            "price": "26.99",
+            "price_additional_info": [],
+            "price_with_shipping": "26.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-disney-grupo-2-3-MRKEAN-8010898254128",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08058664076178",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:39Z"
+      },
+      "content": {
+        "id": "8037528357881180591",
+        "name": "Chicco Trio Sprint Sandshell",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkyezawUueU6hqt2lVjsYrQLFkeWAvFpWHnsR5L6vilxHzJG8050Ip1hpUpDVbk2-H2THHw7pQwJNBLFXnS83aXAm6OqeKZjX_T5ibZ3HqvLc51jdijadVoUYWe9_O5LI2LfxsK3QiNpxm3Ie-ooIWE3fXP9fwdT25gRq7sqcUmijJvYuoYzO8oxrywcrEgJKGiwCMJ1eaM=s512-pd-pc0x00ffffff",
+        "description": "Manobr\u00e1vel e pr\u00e1tico, o carrinho \u00e9 leve e super compacto. Man\u00edpulos ergon\u00f3micos com rota\u00e7\u00e3o 360\u00b0. Alcofa homologada para transporte no autom\u00f3vel. Cadeira auto homologada para o grupo 0+, instala-se usando o cinto de seguran\u00e7a do autom\u00f3vel.",
+        "properties": [
+          "Mois\u00e9s",
+          "Individual"
+        ],
+        "url": "https://www.google.pt/shopping/product/8037528357881180591?hl=pt&gl=pt&sfr=compass",
+        "review_count": 585,
+        "review_rating": 92,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Fabricante/Marca",
+            "value": [
+              "Chicco"
+            ]
+          },
+          {
+            "label": "Largura",
+            "value": [
+              "54 cm"
+            ]
+          },
+          {
+            "label": "Idade recomendada (m\u00e1x.)",
+            "value": [
+              "36 m\u00eas (meses)"
+            ]
+          },
+          {
+            "label": "N\u00famero de bancos",
+            "value": [
+              "1 lugar(es)"
+            ]
+          },
+          {
+            "label": "Dobr\u00e1vel",
+            "value": [
+              "N\u00e3o"
+            ]
+          },
+          {
+            "label": "Dossel",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Tipo de rodas",
+            "value": [
+              "Rodas r\u00edgidas"
+            ]
+          },
+          {
+            "label": "N\u00famero de rodas da frente",
+            "value": [
+              "4"
+            ]
+          },
+          {
+            "label": "N\u00famero de rodas traseiras",
+            "value": [
+              "4"
+            ]
+          },
+          {
+            "label": "Peso m\u00e1ximo do beb\u00e9",
+            "value": [
+              "13 kg"
+            ]
+          },
+          {
+            "label": "Grupo",
+            "value": [
+              "0+ (0 - 13 kg",
+              "0 - 15 meses)"
+            ]
+          },
+          {
+            "label": "Acess\u00f3rios stroller inclu\u00edudos",
+            "value": [
+              "Capa de chuva"
+            ]
+          },
+          {
+            "label": "Largura do assento de autom\u00f3vel",
+            "value": [
+              "44 cm"
+            ]
+          },
+          {
+            "label": "Profundidade do assento de autom\u00f3vel",
+            "value": [
+              "67 cm"
+            ]
+          },
+          {
+            "label": "Altura do assento de autom\u00f3vel",
+            "value": [
+              "61 cm"
+            ]
+          },
+          {
+            "label": "Largura da alcofa",
+            "value": [
+              "45 cm"
+            ]
+          },
+          {
+            "label": "Profundidade da alcofa",
+            "value": [
+              "89 cm"
+            ]
+          },
+          {
+            "label": "Altura da alcofa",
+            "value": [
+              "65 cm"
+            ]
+          },
+          {
+            "label": "Peso da alcofa",
+            "value": [
+              "4",
+              "9 kg"
+            ]
+          },
+          {
+            "label": "Largura folded",
+            "value": [
+              "39 cm"
+            ]
+          },
+          {
+            "label": "Profundidade folded",
+            "value": [
+              "32 cm"
+            ]
+          },
+          {
+            "label": "Altura folded",
+            "value": [
+              "95 cm"
+            ]
+          },
+          {
+            "label": "Mobilidade da roda",
+            "value": [
+              "Rota\u00e7\u00e3o"
+            ]
+          },
+          {
+            "label": "Assento de beb\u00e9 para carro inclu\u00eddo",
+            "value": [
+              "Sim"
+            ]
+          }
+        ],
+        "offer_count": 4,
+        "offers_url": "https://www.google.pt/shopping/product/8037528357881180591/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "8037528357881180591",
+            "price": "399.0",
+            "price_additional_info": [],
+            "price_with_shipping": "399.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.continente.pt/produto/conjunto-de-rua-trio-sprint-sandshell-chicco-5905884.html?lgw_code=15883-5905884",
+            "shop_name": "Continente",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-e1666b2ec0a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e1666b2ec0a",
+            "shop_url": "www.continente.pt",
+            "shop_domain": "continente.pt",
+            "shop_matching_id": "continente.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "8037528357881180591",
+            "price": "399.0",
+            "price_additional_info": [],
+            "price_with_shipping": "408.99",
+            "shipping_costs": "9.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-trio-chicco-06079366430000-preto-e-branco-grupo-0-MRKEAN-8058664076178",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "8037528357881180591",
+            "price": "399.98",
+            "price_additional_info": [],
+            "price_with_shipping": "403.97",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://farmacianaweb.pt/chicco-trio-sprint-sandshell.html",
+            "shop_name": "Farmacianaweb",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f70798bcf90",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f70798bcf90",
+            "shop_url": "farmacianaweb.pt",
+            "shop_domain": "farmacianaweb.pt",
+            "shop_matching_id": "farmacianaweb.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "8037528357881180591",
+            "price": "559.0",
+            "price_additional_info": [],
+            "price_with_shipping": "559.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.laredoute.pt/ppdp/prod-350123131.aspx?dim1=1&dim2=1&lgw_code=4286-35012313100010001876022",
+            "shop_name": "La Redoute",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ee0cfb210f2",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ee0cfb210f2",
+            "shop_url": "www.laredoute.pt",
+            "shop_domain": "laredoute.pt",
+            "shop_matching_id": "laredoute.pt",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08434520044015",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:40Z"
+      },
+      "content": {
+        "id": "8816774955657090171",
+        "name": "Pekebaby Colch\u00e3o Ligeiro Elefante Azul",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkz6T0RMAtHWcFHLnKb7iUUz6xPiPXM7VZL7ZQhDWo_nh9h5R2RxbDfpEbjZT9QE7STiTAahM84GRyYqJ0O3wKzQ3qCyPYksnnqdfWym8aNzG5yNlcelFRDdHLPM7gBYohqWpCnMaJUjW5U8_vna2L2Wlxpdm1yYNFVT3taXQKv4U6gcvZ2c8OdKsybCd4zXhh2ETOBWyVU=s512-pd-pc0x00ffffff",
+        "description": null,
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/8816774955657090171?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/8816774955657090171/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "8816774955657090171",
+            "price": "17.92",
+            "price_additional_info": [],
+            "price_with_shipping": "21.91",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/acessorios-de-carrinhos-de-bebe/colchao-ligeiro-pekebaby-elefante-azul-MRKEAN-8434520044015",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08436579230098",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 2,
+        "updated_at": "2022-06-27T14:04:36Z"
+      },
+      "content": {
+        "url": "https://www.google.pt/search?tbm=shop&tbs=vw:l&q=08436579230098&hl=pt&gl=pt&sfr=compass",
+        "offers": [
+          {
+            "id": "8436579230098",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-trio-star-ibaby-3-em-1-cinzento-MRKEAN-8436579230098",
+            "name": "Carrinho de Beb\u00e9 Trio STAR IBABY 3 Em 1 Cinzento",
+            "product_properties": [],
+            "price": "299.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "299.0",
+            "currency": "EUR",
+            "tax": null,
+            "shop_name": "Worten.pt",
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "Worten.pt",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08436579230425",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:40Z"
+      },
+      "content": {
+        "id": "16388777332449742121",
+        "name": "Babify Cadeira Auto Girat\u00f3rio 360o (Grupo 0+/1/2/3)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHky1k4ujnrGFwmxYaFdkaAKusZ_I52aZwCSeIxUkPnfww87LJAJAlGAQ6MfVe3_Z43ZK-761dIBre2-6YMe7i0HJNohx1TLnxG2dfoOyvsEJZ0EerSbJctm14z3X4NuzITSyPQCoH2006LZ3v5pRwpc3FY_Ti3QMwkOVjWQlZDSDZv06sKHZhWiZO8R7-XiHKHxQmfEo4A=s512-pd-pc0x00ffffff",
+        "description": "Babify on Board \u00e9 a Cadeira Auto com e girat\u00f3ria (360o) a contra marcha para crian\u00e7as dos 0 a 36 kg (grupo 0 + 1). Norma ECE R44/04. Com reclina\u00e7\u00e3o m\u00e1xima para o seu beb\u00e9. A cadeira Babify disp\u00f5e de todos os sistemas de seguran\u00e7a. Proteja o seu be...",
+        "properties": [
+          "Virada para tr\u00e1s",
+          "Cadeira"
+        ],
+        "url": "https://www.google.pt/shopping/product/16388777332449742121?hl=pt&gl=pt&sfr=compass",
+        "review_count": 252,
+        "review_rating": 92,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/16388777332449742121/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "16388777332449742121",
+            "price": "159.95",
+            "price_additional_info": [],
+            "price_with_shipping": "159.95",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-babify-giratorio-360o-grupo-0-1-2-3-MRKEAN-8436579230425",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08436579231057",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:41Z"
+      },
+      "content": {
+        "id": "13001238368160511280",
+        "name": "Star Ibaby Cadeira Auto Protect-Fix Isofix 360o (Grupo 0+/1)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwC6xRoF2TThrSWPphD6TYD3PqZQZ7yHp7LdaloDk9bSFXwVYKJiXavyYBtL7NUfY8rD_MwbTzVtm8ODzKRVOcuVkQ1iEYQ2Em2mL4pwvzecpnxl-bI4glfLtTFaXOIM8Hcull2ShCK-qUpC7wfSHD1KdDIqzg2dHzXgQYYFF3N7Aki2ykgD6fGPOrSJ9OWVXiAWjsgnrQ=s512-pd-pc0x00ffffff",
+        "description": "O Babify Protect Fix adapta-se perfeitamente a qualquer situa\u00e7\u00e3o: este assento de carro com rota\u00e7\u00e3o de 360o cresce com a crian\u00e7a de 0 meses a 4 anos em contra-marcha ou a partir de 13 meses em dire\u00e7\u00e3o da marcha.Instala\u00e7\u00e3o e desinstala\u00e7\u00e3o simples. ...",
+        "properties": [
+          "Virada para tr\u00e1s / frente",
+          "Assentos e cadeiras",
+          "Cadeira"
+        ],
+        "url": "https://www.google.pt/shopping/product/13001238368160511280?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/13001238368160511280/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "13001238368160511280",
+            "price": "189.95",
+            "price_additional_info": [],
+            "price_with_shipping": "189.95",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-star-ibaby-protect-fix-isofix-360o-grupo-0-1-MRKEAN-8436579231057",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "success": false,
+      "reason": "invalid value",
+      "source": "google-shopping",
+      "country": "pt",
+      "key": "gtin",
+      "value": "09908214737755",
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "09908214737755",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      }
+    }
+  ]
+}

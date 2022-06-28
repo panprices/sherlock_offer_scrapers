@@ -1,0 +1,2904 @@
+{
+  "job_id": "62b9b97f3b81f326e4790f5f",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 20,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00735520286084",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:07:04Z"
+      },
+      "content": {
+        "id": "17946656896247917254",
+        "name": "Floureon Intercomunicador para Beb\u00e9 VB603 (V\u00eddeo - Alcance at\u00e9 50 m)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwwSNgm3_PBSyDcDvI6dGYKzl8U24GjKmsXYG_V3sH1-iu2ymoxFYwF2wVufe5XFbuJAO5a9DoDs-vntRUJ7mtkP4WBsnW0ClXCzt_Z_-Why9hL2Kk7tcF-DYsXqGRkGlz1VfrIMl12jwdaUtKA8XEPteHTJ9UTVvpM2SjOW4iamAqJKd7PXrd4CNzU9ufUPt-40kdj=s512-pd-pc0x00ffffff",
+        "description": "Intercomunicador V\u00eddeo com ecr\u00e3 de 3.2, vis\u00e3o nocturna, audio bidireccional, indica\u00e7\u00e3o de temperatura, reprodu\u00e7\u00e3o de musicas de embalar, alarme, e modo VOX - desliga o ecr\u00e3 automaticamente para poupar energia, voltando a ligar-se em caso de barulh...",
+        "properties": [
+          "Vis\u00e3o noturna"
+        ],
+        "url": "https://www.google.pt/shopping/product/17946656896247917254?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/17946656896247917254/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "17946656896247917254",
+            "price": "67.89",
+            "price_additional_info": [],
+            "price_with_shipping": "67.89",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/intercomunicadores-bebe/intercomunicador-para-bebe-floureon-vb603-video-alcance-ate-50-m-MRKEAN-0735520286084",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "17946656896247917254",
+            "price": "64.9",
+            "price_additional_info": [],
+            "price_with_shipping": "64.9",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp11598623/Intercomunicador-Video-Bebe-VB603/w-4?oref=877fcb4a-ce89-546e-61c3-a02bc8bf349c",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03220660315826",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:07:12Z"
+      },
+      "content": {
+        "id": "3668432202771934607",
+        "name": "Safety 1st Cadeira Auto Manga Fix (Cinzento)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxQKxDO-ydWoxWdQq5eIbSDZM7v34n-trhWjlzSMTMrjlH1fDTxwswnD5_gDicZ062gNyspWpPAlafodlgC31yBIKxGD3isgBTuFQrTiDmHfgit-fonU3u-bCVdsZIYKnGmgxPRtKoXeCJwUT5US8sU7vpnNhT_3ywRP-JiRZQW3xdkaFygsmm4FPQT6E9ROAQbJflS=s512-pd-pc0x00ffffff",
+        "description": "Assento auto (15 a 36kg) com instala\u00e7\u00e3o isofix e guia com cinto de ombro ajust\u00e1vel para um bom posicionamento diagonal ao n\u00edvel do ombro. Base acolchoada e apoio de bra\u00e7o para maior conforto. De f\u00e1cil instala\u00e7\u00e3o e remo\u00e7\u00e3o no autom\u00f3vel.",
+        "properties": [
+          "Virada para frente",
+          "Assento de eleva\u00e7\u00e3o",
+          "Cinzento"
+        ],
+        "url": "https://www.google.pt/shopping/product/3668432202771934607?hl=pt&gl=pt&sfr=compass",
+        "review_count": 30,
+        "review_rating": 96,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 3,
+        "offers_url": "https://www.google.pt/shopping/product/3668432202771934607/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "3668432202771934607",
+            "price": "69.25",
+            "price_additional_info": [],
+            "price_with_shipping": "69.25",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-safety-1st-manga-fix-cinzento-MRKEAN-3220660315826",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "3668432202771934607",
+            "price": "73.09",
+            "price_additional_info": [],
+            "price_with_shipping": "73.09",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp18704510/Cadeira-de-Bebe-sem-Costas-para-Carro-Safety-1st-Manga-Fix-Cinzento/w-4?oref=c7feae0e-7683-69ec-bc3e-8c58d52db3c4",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "3668432202771934607",
+            "price": "81.85",
+            "price_additional_info": [],
+            "price_with_shipping": "85.84",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://dott.pt/pt/products/assento-auto-manga-fix-cinza-11425e88-c7f2-4bee-bbfd-bb08985354ce?utm_source=google-shopping&utm_medium=organic&utm_campaign=Cadeiras%20auto%20%3E%20Cadeiras%20auto%20e%20Acess%C3%B3rios%20de%20viagem%20%3E%20Passeio%20e%20Viagens%20%3E%20Beb%C3%A9%20Crian%C3%A7a%20e%20Brinquedos&utm_content=Assento%20Auto%20Manga%20Fix%20Cinza",
+            "shop_name": "Dott",
+            "shop_review_count": 123,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-5aa8ad5316e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5aa8ad5316e",
+            "shop_url": "dott.pt",
+            "shop_domain": "dott.pt",
+            "shop_matching_id": "dott.pt",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03661787099563",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:07:12Z"
+      },
+      "content": {
+        "id": "15097278011028050519",
+        "name": "Badabulle Sombrinha - 6122302",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzfVPecoZrzyZ3hUT38XiEDh19c-m6JpoIYJ2KpgLllxrsFeilceKNnO8uk71FbvMPGIS_HYHrrs52NC8w5BT-3SP0ZApUswO6ZEMBphsPWXOoV-7h7XsFJO5ZXpoFKANrg_O62-S4AxajoejKCD251MAvY-Y1UN4NahOu6B_v-Wrm2q59cJR38o3YCM4OuMO8JFoJJtPw=s512-pd-pc0x00ffffff",
+        "description": "Revestimento de anti UV 50+ com fixa\u00e7\u00e3o universal para todo tipo de carrinhos. Dupla curvatura para melhor adaptar e poder tapar o beb\u00e9 dos raios de Sol.",
+        "properties": [
+          "Infantil"
+        ],
+        "url": "https://www.google.pt/shopping/product/15097278011028050519?hl=pt&gl=pt&sfr=compass",
+        "review_count": 139,
+        "review_rating": 76,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/15097278011028050519/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "15097278011028050519",
+            "price": "22.99",
+            "price_additional_info": [],
+            "price_with_shipping": "26.98",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://zippyonline.com/pt/sombrinha-badabulle/6122302.html?LGWCODE=6122302;114169;9295",
+            "shop_name": "ZIPPY",
+            "shop_review_count": 257,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-1603146d07a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-1603146d07a",
+            "shop_url": "zippyonline.com",
+            "shop_domain": "zippyonline.com",
+            "shop_matching_id": "zippyonline.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "15097278011028050519",
+            "price": "22.99",
+            "price_additional_info": [],
+            "price_with_shipping": "26.98",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/sombrinha-badabulle-MRKEAN-3661787099563",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03662362061890",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 2,
+        "updated_at": "2022-06-27T14:06:59Z"
+      },
+      "content": {
+        "url": "https://www.google.pt/search?tbm=shop&tbs=vw:l&q=03662362061890&hl=pt&gl=pt&sfr=compass",
+        "offers": [
+          {
+            "id": "3662362061890",
+            "url": "https://www.worten.pt/fotografia-e-drones/maquinas-fotograficas/maquinas-fotograficas-reflex-dslr/maquina-fotografica-nikon-d3500-dx-MRKEAN-3662362061890",
+            "name": "M\u00e1quina Fotogr\u00e1fica NIKON D3500 (DX)",
+            "product_properties": [],
+            "price": "755.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "755.0",
+            "currency": "EUR",
+            "tax": null,
+            "shop_name": "Worten.pt",
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "Worten.pt",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03801108020252",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:07:13Z"
+      },
+      "content": {
+        "id": "13207819960951929445",
+        "name": "Kikka Boo Mochila de Passeio Bege Sienna",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzkEaH-bEHDAosB7JRnfpXv10oD4yxg3fNfIfja6V6YDbKHQ64hd0mcv0FcJfya3sXX2tipdeCIsX6dQusgFsPvcxEjZ2upOKmckayCiOOMtTEprj907txF1a-CBoPgVNBYXv64M8yJrE1M4-Ux0FL4K3n8aZvTkiGHsjiUQSEFpyFCec5pAnxt3w6J96lD4vsj26gD7yQ=s512-pd-pc0x00ffffff",
+        "description": "Bolsos para fraldas e roupas e 3 departamentos de garrafas que mant\u00eam a temperatura da \u00e1gua ou do leite durante horas. Inclui tamb\u00e9m trocador.",
+        "properties": [
+          "Mochila"
+        ],
+        "url": "https://www.google.pt/shopping/product/13207819960951929445?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 3,
+        "offers_url": "https://www.google.pt/shopping/product/13207819960951929445/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "13207819960951929445",
+            "price": "34.99",
+            "price_additional_info": [],
+            "price_with_shipping": "34.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.continente.pt/produto/mochila-de-passeio-bege-sienna-kikka-boo-7237717.html?lgw_code=15883-7237717",
+            "shop_name": "Continente",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-e1666b2ec0a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e1666b2ec0a",
+            "shop_url": "www.continente.pt",
+            "shop_domain": "continente.pt",
+            "shop_matching_id": "continente.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "13207819960951929445",
+            "price": "36.49",
+            "price_additional_info": [],
+            "price_with_shipping": "36.49",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/malas-e-bolsas-de-passeio/mala-kikka-boo-bege-MRKEAN-3801108020252",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "13207819960951929445",
+            "price": "34.0",
+            "price_additional_info": [],
+            "price_with_shipping": "37.99",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://dott.pt/pt/products/mochila-de-passeio-sienna-bege-3b1a7330-7141-450e-9e09-5219b20180c2?utm_source=google-shopping&utm_medium=organic&utm_campaign=Acess%C3%B3rios%20de%20passeio%20%3E%20Passeio%20e%20Viagens%20%3E%20Beb%C3%A9%20Crian%C3%A7a%20e%20Brinquedos&utm_content=Mochila%20de%20Passeio%20Sienna%20Bege",
+            "shop_name": "Dott",
+            "shop_review_count": 123,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-5aa8ad5316e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5aa8ad5316e",
+            "shop_url": "dott.pt",
+            "shop_domain": "dott.pt",
+            "shop_matching_id": "dott.pt",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04211125602048",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:07:11Z"
+      },
+      "content": {
+        "id": "8051988383089372229",
+        "name": "Beurer Nebulizador IH55",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzHXJtLQGR1N5lZJM2l1UC8bGSS2OzYa6aUJ_OicSeMvdKoK_KpiJkRtJrynGB09MKQ2u-AxIt4cVi_eyUHzrN4Fb9iweHPTyGYlL33eFN9CJ0lK7Kvf9R5VFelu1CXvUg9ntcSxRkJA813ZJQ8CoDJ5o2w8PsB53dJYI85Bxf_TxeOu2vb4EtZ_tG6woVVCpssv1Ov0g=s512-pd-pc0x00ffffff",
+        "description": "Compre Inalador Pivotante Silencioso 1 unidade - Beurer ao melhor pre\u00e7o e receba-o em 24 horas. S\u00f3 na Naturitas. Inalador Pivotante Silencioso de Beurer trabalha com tecnologia de membrana oscilante \u00e9 ideal para o tratamento de dist\u00farbios das vias...",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/8051988383089372229?hl=pt&gl=pt&sfr=compass",
+        "review_count": 97,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Capacidade de nebuliza\u00e7\u00e3o",
+            "value": [
+              "> 0",
+              "25 ml/min"
+            ]
+          },
+          {
+            "label": "Press\u00e3o de trabalho",
+            "value": [
+              "0",
+              "25 - 0",
+              "5 bar"
+            ]
+          },
+          {
+            "label": "Desligamento autom\u00e1tico",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Dimens\u00f5es",
+            "value": [
+              "5",
+              "1 x 14",
+              "6 x 8",
+              "5 cm"
+            ]
+          }
+        ],
+        "offer_count": 6,
+        "offers_url": "https://www.google.pt/shopping/product/8051988383089372229/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "8051988383089372229",
+            "price": "89.99",
+            "price_additional_info": [],
+            "price_with_shipping": "89.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.prenatal.pt/produtos/beurer-ih-55-aerossol-com-tecnologia-de-membrana-oscilante-de-malha",
+            "shop_name": "Prenatal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3e6d325cbdc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3e6d325cbdc",
+            "shop_url": "www.prenatal.pt",
+            "shop_domain": "prenatal.pt",
+            "shop_matching_id": "prenatal.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "8051988383089372229",
+            "price": "111.99",
+            "price_additional_info": [],
+            "price_with_shipping": "114.89",
+            "shipping_costs": "2.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/nebulizadores-bebe/nebulizador-beurer-ih55-6556671",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "8051988383089372229",
+            "price": "109.99",
+            "price_additional_info": [],
+            "price_with_shipping": "109.99",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.radiopopular.pt/produto/nebulizador-beurer-ih-55",
+            "shop_name": "Radio Popular",
+            "shop_review_count": 173,
+            "shop_review_rating": 92,
+            "shop_id": "priceapi-d9878524606",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d9878524606",
+            "shop_url": "www.radiopopular.pt",
+            "shop_domain": "radiopopular.pt",
+            "shop_matching_id": "radiopopular.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "8051988383089372229",
+            "price": "109.0",
+            "price_additional_info": [],
+            "price_with_shipping": "109.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://mediamarkt.pt/products/nebulizador-inalador-aerossois-beurer-ih-55?variant=15372949946411",
+            "shop_name": "MediaMarkt Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c1ef14967cd",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c1ef14967cd",
+            "shop_url": "mediamarkt.pt",
+            "shop_domain": "mediamarkt.pt",
+            "shop_matching_id": "mediamarkt.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "8051988383089372229",
+            "price": "98.91",
+            "price_additional_info": [],
+            "price_with_shipping": "105.9",
+            "shipping_costs": "6.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/Nebulizador-Ultrassonico-Beurer-IH55/a7477286/w-4?oref=d748bda4-6e93-3e7d-a39e-2fd520b0bdc8",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "8051988383089372229",
+            "price": "100.0",
+            "price_additional_info": [],
+            "price_with_shipping": "107.99",
+            "shipping_costs": "7.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.deporvillage.pt/nebulizador-beurer-ih-55-branco",
+            "shop_name": "Deporvillage.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-81cd1c5e0fd",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-81cd1c5e0fd",
+            "shop_url": "www.deporvillage.pt",
+            "shop_domain": "deporvillage.pt",
+            "shop_matching_id": "deporvillage.pt",
+            "page": 1,
+            "position": 6
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04712900570175",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:07:08Z"
+      },
+      "content": {
+        "id": "13922190829553966017",
+        "name": "ASUS PH-GTX1050TI-4G GeForce GTX 1050 Ti 4GB GDDR5",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkx6l4dSz43YvP7Fobi09xKzcps9v9bPXkhC1zif1iOn9S_1wOUwPP8z1cBxPlxmR65gcVGuI0yxcEvM2GZOGMvf0u9iiDLGZ3zQS7sa1FFIlnLTppceFL3czCGIwAX8Q7fpoWsk5v8QV3SLibCHHoqCwwNN5TEWiSLnBcJPfbLK_3b6EMM5kxnCeZT7ghJdxxrDQSCt-w=s512-pd-pc0x00ffffff",
+        "description": "A Nvidia \u00e9 o fabricante l\u00edder de placas de v\u00eddeo, sua qualidade garante uma experi\u00eancia positiva no desenvolvimento do motor gr\u00e1fico do seu computador. Al\u00e9m disso, seus processadores usam tecnologia de ponta para que voc\u00ea possa desfrutar de um pro...",
+        "properties": [
+          "ASUS",
+          "PCI Express",
+          "DVI",
+          "HDMI",
+          "DisplayPort",
+          "GDDR5",
+          "Placa gr\u00e1fica",
+          "Ativo"
+        ],
+        "url": "https://www.google.pt/shopping/product/13922190829553966017?hl=pt&gl=pt&sfr=compass",
+        "review_count": 1186,
+        "review_rating": 92,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Motor Gr\u00e1fico (GPU)",
+            "value": [
+              "GeForce GTX 1050 Ti"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria",
+            "value": [
+              "4GB GDDR5"
+            ]
+          },
+          {
+            "label": "N\u00facleos CUDA",
+            "value": [
+              "768"
+            ]
+          }
+        ],
+        "offer_count": 8,
+        "offers_url": "https://www.google.pt/shopping/product/13922190829553966017/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "13922190829553966017",
+            "price": "189.9",
+            "price_additional_info": [],
+            "price_with_shipping": "194.3",
+            "shipping_costs": "4.4",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.novoatalho.pt/pt-PT/produto/5461/Placa-Gr%C3%A1fica-Asus-GeForce%C2%AE-GTX-1050-Ti-PHOENIX-4GB.html",
+            "shop_name": "Novo Atalho",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ba9dba739ca",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ba9dba739ca",
+            "shop_url": "www.novoatalho.pt",
+            "shop_domain": "novoatalho.pt",
+            "shop_matching_id": "novoatalho.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "13922190829553966017",
+            "price": "188.9",
+            "price_additional_info": [],
+            "price_with_shipping": "192.8",
+            "shipping_costs": "3.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mbit.pt/informatica/componentes/vga/asus-geforce-gtx1050-ti-phoenix-4gb-gddr5?srsltid=AQP2TeOiBf-NrBEqOmz2ArQMS4HN1GMzaL7qcIdL1bGNpr3Ea6u_Yux-Pqc",
+            "shop_name": "Mbit",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b05b7d92646",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b05b7d92646",
+            "shop_url": "www.mbit.pt",
+            "shop_domain": "mbit.pt",
+            "shop_matching_id": "mbit.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "13922190829553966017",
+            "price": "190.99",
+            "price_additional_info": [],
+            "price_with_shipping": "190.99",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.radiopopular.pt/produto/placa-graf-asus-ph-4g-gtx1050ti",
+            "shop_name": "Radio Popular",
+            "shop_review_count": 173,
+            "shop_review_rating": 92,
+            "shop_id": "priceapi-d9878524606",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d9878524606",
+            "shop_url": "www.radiopopular.pt",
+            "shop_domain": "radiopopular.pt",
+            "shop_matching_id": "radiopopular.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "13922190829553966017",
+            "price": "191.84",
+            "price_additional_info": [],
+            "price_with_shipping": "191.84",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.switchtechnology.pt/pt/placa-grafica-asus-geforce-gtx-1050-ti-phoenix-4gb.html",
+            "shop_name": "Switch Technology",
+            "shop_review_count": 33,
+            "shop_review_rating": 96,
+            "shop_id": "priceapi-0e83bb48fc2",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0e83bb48fc2",
+            "shop_url": "www.switchtechnology.pt",
+            "shop_domain": "switchtechnology.pt",
+            "shop_matching_id": "switchtechnology.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "13922190829553966017",
+            "price": "206.99",
+            "price_additional_info": [],
+            "price_with_shipping": "209.98",
+            "shipping_costs": "2.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tradeinn.com/techinn/pt/asus-placa-grafica-phoenix-geforce-gtx-1050-ti-4gb-gddr5/137431831/p?utm_source=google_products&utm_medium=merchant&id_producte=10134447&country=pt",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 464,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.tradeinn.com",
+            "shop_domain": "tradeinn.com",
+            "shop_matching_id": "tradeinn.com",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "13922190829553966017",
+            "price": "215.44",
+            "price_additional_info": [],
+            "price_with_shipping": "215.44",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp11762200/Placa-de-Video-ASUS-PH-GTX1050TI-4G/w-4?oref=0cb15e20-c24b-565e-ab60-0040d24a4921",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "13922190829553966017",
+            "price": "219.99",
+            "price_additional_info": [],
+            "price_with_shipping": "222.89",
+            "shipping_costs": "2.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/informatica-e-acessorios/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-asus-geforce-gtx-1050ti-phoenix-nvidia-4-gb-ddr5-5986609",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "13922190829553966017",
+            "price": "206.9",
+            "price_additional_info": [],
+            "price_with_shipping": "210.89",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://sensorvaga.com/pt/produtos/vga-asus-gtx1050ti-phoenix-oc-4gb-gddr5-dvi-hdmi-dp_",
+            "shop_name": "Sensorvaga Inform\u00e1tica",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4d8e2e2a60c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4d8e2e2a60c",
+            "shop_url": "sensorvaga.com",
+            "shop_domain": "sensorvaga.com",
+            "shop_matching_id": "sensorvaga.com",
+            "page": 1,
+            "position": 8
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719331322144",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:07:11Z"
+      },
+      "content": {
+        "id": "8899165011428007287",
+        "name": "Placa Gr\u00e1fica Gigabyte GeForce GT730 2GB GDDR5",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxxYLlqi3jAonibqtWyWpRR4rnVRBUD9y-a5E3wJGpXGiEvgPgCHpVjIsvm0fg9vS4KqU7YDm3eQyuOW5r8Mggf0eoMLw48WUE-0ICa8yCq8J94TafQBkDptPjCZ6Jb88DPqTMKVaWrn3vp2FYPBSPf-_YHy4aViPqcl5y0VW1Zqr_VuxOxE8_4y1ftEzQ4SB3lQbezaw=s512-pd-pc0x00ffffff",
+        "description": "HDMI banhado a ouro Os conectores dur\u00e1veis e de grande \u00e1rea de contato banhados a ouro foram usados para uma \u00f3tima transfer\u00eancia de sinal entre as conex\u00f5es. AORUS Interface A interface intuitiva de ponta permite ajustar as velocidades do rel\u00f3gio, ...",
+        "properties": [
+          "GIGABYTE",
+          "PCI Express",
+          "VGA",
+          "DVI",
+          "HDMI",
+          "GDDR5",
+          "4096 x 2160",
+          "Placa gr\u00e1fica",
+          "Ativo"
+        ],
+        "url": "https://www.google.pt/shopping/product/8899165011428007287?hl=pt&gl=pt&sfr=compass",
+        "review_count": 44,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Processador gr\u00e1fico",
+            "value": [
+              "GeForce GT 730"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o M\u00e1xima",
+            "value": [
+              "4096 x 2160 pixels"
+            ]
+          },
+          {
+            "label": "CUDA",
+            "value": [
+              "N\u00e3o"
+            ]
+          },
+          {
+            "label": "Fam\u00edlia de processadores gr\u00e1ficos",
+            "value": [
+              "NVIDIA"
+            ]
+          },
+          {
+            "label": "Velocidade da CPU",
+            "value": [
+              "902 MHz"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o anal\u00f3gica m\u00e1xima",
+            "value": [
+              "2048 x 1536 pixels"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o digital m\u00e1xima",
+            "value": [
+              "4096 x 2160 pixels"
+            ]
+          },
+          {
+            "label": "Exibi\u00e7\u00f5es m\u00e1ximas por cart\u00e3o de v\u00eddeo",
+            "value": [
+              "3"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria gr\u00e1fica discreta",
+            "value": [
+              "2048 MB"
+            ]
+          },
+          {
+            "label": "Tipo de mem\u00f3ria do adaptador gr\u00e1fico",
+            "value": [
+              "GDDR5-SDRAM"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria bus",
+            "value": [
+              "64 bit"
+            ]
+          },
+          {
+            "label": "Velocidade do clock",
+            "value": [
+              "5000 MHz"
+            ]
+          },
+          {
+            "label": "Bus PCI",
+            "value": [
+              "PCI Express 2.0"
+            ]
+          },
+          {
+            "label": "Quantidade de portas DVI-D",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Quantidade de portas VGA",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Quantidade de portas HDMI",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Afinador TV integrado",
+            "value": [
+              "N\u00e3o"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o DirectX",
+            "value": [
+              "11.2"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o OpenGL",
+            "value": [
+              "4.4"
+            ]
+          },
+          {
+            "label": "Full HD",
+            "value": [
+              "Y"
+            ]
+          },
+          {
+            "label": "Dual Link DVI",
+            "value": [
+              "Y"
+            ]
+          },
+          {
+            "label": "Tipo de refrigera\u00e7\u00e3o",
+            "value": [
+              "Activo"
+            ]
+          },
+          {
+            "label": "Estrutura",
+            "value": [
+              "ATX"
+            ]
+          },
+          {
+            "label": "N\u00famero de slots",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Fornecimento m\u00ednimo de energia do sistema",
+            "value": [
+              "300W"
+            ]
+          },
+          {
+            "label": "Peso do produto",
+            "value": [
+              "177g"
+            ]
+          },
+          {
+            "label": "Profundidade da Unidade",
+            "value": [
+              "12 cm"
+            ]
+          },
+          {
+            "label": "Altura da Unidade",
+            "value": [
+              "3 cm"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/8899165011428007287/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "8899165011428007287",
+            "price": "139.97",
+            "price_additional_info": [],
+            "price_with_shipping": "139.97",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/informatica-e-acessorios/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-gigabyte-geforce-gt-730-nvidia-2-gb-gddr5-MRKEAN-4719331322144",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "8899165011428007287",
+            "price": "145.98",
+            "price_additional_info": [],
+            "price_with_shipping": "145.98",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp1873525/Gigabyte-GeForce-GT-730-2GB-GDDR5/w-4?oref=9d84f382-4a85-c031-7471-047a7c2d4c5d",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05027455408064",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:07:12Z"
+      },
+      "content": {
+        "id": "12304171889424395543",
+        "name": "Clara Baby Mochila Vermelho",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxKNIFENmmGfjsJVw59VPpMy8yFEQKEIU3q265h-8z1jnR2ldgRHxmkbhzuaEPD2akvRDFzUvbhyFmNRYH4RV2AVYR4bh6cGR6cji7RWgWjrjjjdLXvXlMQ4R2PGCIHBPs84SJ51q7IECxDNWwsBUa6Fv5FVFjmKwL8_ca_kLTgetYo81CFXpQORGSa7ypD5fcPYI8O5hE=s512-pd-pc0x00ffffff",
+        "description": "Mochila. Pega na parte superior. Parte de tr\u00e1s acolchoada. 2 al\u00e7as ajust\u00e1veis. Bolso com fecho zip \u00e0 frente. Padr\u00f5es personagens e floresta. Fecho zip.",
+        "properties": [
+          "Escolar",
+          "Nylon",
+          "Vermelho"
+        ],
+        "url": "https://www.google.pt/shopping/product/12304171889424395543?hl=pt&gl=pt&sfr=compass",
+        "review_count": 938,
+        "review_rating": 90,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/12304171889424395543/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "12304171889424395543",
+            "price": "21.9",
+            "price_additional_info": [],
+            "price_with_shipping": "24.89",
+            "shipping_costs": "2.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp21671967/Mochila-para-o-Infantario-Rex-London-Capuchinho-Vermelho/w-4?oref=53a77006-ea74-c1ad-b6ec-20b06016866c",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "12304171889424395543",
+            "price": "21.9",
+            "price_additional_info": [],
+            "price_with_shipping": "25.9",
+            "shipping_costs": "4.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/malas-e-bolsas-de-passeio/mochila-clara-baby-vermelho-MRKEAN-5027455408064",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05400653008050",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:07:02Z"
+      },
+      "content": {
+        "id": "9645690109880134074",
+        "name": "Doomoo Almofada de Amamenta\u00e7\u00e3o Softy - Leaves Grey",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkyaZz73aF_XGdyTN5FEf9jG9em0JJLlcXuHfyqJJJlIXIJ46enG_ZEDzz8szWt2KLcNMT03bnhtD6ChKRNZHz7K2YLnxXFJwd2NNmBarFXo5Li2YUtFpPwiWuLgJvAY7tSaqjOjAiDusobAhjH6mC0-gjq_brQmtrt6k4ngFnVMxJZBQ6qduxmayIcxBx_vlmTu1Qb7cuc=s512-pd-pc0x00ffffff",
+        "description": "Almofada multifuncional que proporciona o bem estar da m\u00e3e e do beb\u00e9. Pode ser utilizada desde a gravidez e durante a amamenta\u00e7\u00e3o, bem como servir de apoio ao beb\u00e9. A combina\u00e7\u00e3o das micro esferas e do tecido el\u00e1stico ultra flex\u00edvel, proporciona um...",
+        "properties": [
+          "Com tampa remov\u00edvel"
+        ],
+        "url": "https://www.google.pt/shopping/product/9645690109880134074?hl=pt&gl=pt&sfr=compass",
+        "review_count": 597,
+        "review_rating": 96,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 3,
+        "offers_url": "https://www.google.pt/shopping/product/9645690109880134074/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "9645690109880134074",
+            "price": "43.64",
+            "price_additional_info": [
+              "PROMO\u00c7\u00c3O"
+            ],
+            "price_with_shipping": "48.54",
+            "shipping_costs": "4.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.bybebe.pt/pt/amamentacao-alimentacao/amamentacao/doomoo-almofada-softy-leaves-grey-s32.html",
+            "shop_name": "bybeb\u00e9",
+            "shop_review_count": 704,
+            "shop_review_rating": 98,
+            "shop_id": "priceapi-e95092fa6cd",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e95092fa6cd",
+            "shop_url": "www.bybebe.pt",
+            "shop_domain": "bybebe.pt",
+            "shop_matching_id": "bybebe.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "9645690109880134074",
+            "price": "61.85",
+            "price_additional_info": [],
+            "price_with_shipping": "65.85",
+            "shipping_costs": "4.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/pre-mama-e-mama/almofada-de-amamentacao-doomoo-softy-leaves-grey-MRKEAN-5400653008050",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "9645690109880134074",
+            "price": "58.9",
+            "price_additional_info": [],
+            "price_with_shipping": "62.9",
+            "shipping_costs": "4.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.autobrinca.com/produto/almofada-softy-doomoo-folhas-cinza/?srsltid=AQP2TeMueQZP0rdDX6YVhslI7zhl0qksXWw6FFucoRFMZNW2xgaq75TPbOU",
+            "shop_name": "Autobrinca",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-e89310ef117",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e89310ef117",
+            "shop_url": "www.autobrinca.com",
+            "shop_domain": "autobrinca.com",
+            "shop_matching_id": "autobrinca.com",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05900495890214",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:07:11Z"
+      },
+      "content": {
+        "id": "2071605033589264580",
+        "name": "Qkids Trotinete Acrobacias Ivo Dourado",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxXX1DnM96qUKPJJCMN_35PVYhArnIJJPUhCfl4W2FNSYIUQbXpUZ4xGFizafddWVhCaOY1VJjNcpIUVM5hZGNCQffxnuiwqzsE9qQ5Mfu_hUMWxrLlBDrBkYEwp1dcHCtlwQelwWv4vsplSDlSyYScplwL63nsNqPKD8UhO81aI6lMPAf_J_NTczfQt61hpx91ZNsmadg=s512-pd-pc0x00ffffff",
+        "description": "Trotinete. Estrutura de dobragem r\u00e1pida que permite ser dobrada em apenas 2 segundos. Leve e manej\u00e1vel. Plataforma grande anti-derrapante com estrutura refor\u00e7ada. Volante confort\u00e1vel Y-Shape que pode ser girado a 360o. Trav\u00e3o Flexbrake. Rodas em p...",
+        "properties": [
+          "De empurrar",
+          "Dourado"
+        ],
+        "url": "https://www.google.pt/shopping/product/2071605033589264580?hl=pt&gl=pt&sfr=compass",
+        "review_count": 1,
+        "review_rating": 80,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/2071605033589264580/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "2071605033589264580",
+            "price": "54.11",
+            "price_additional_info": [
+              "PROMO\u00c7\u00c3O"
+            ],
+            "price_with_shipping": "54.11",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/trotinete-acrobacias-qkids-ivo-dourado-MRKEAN-5900495890214",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "2071605033589264580",
+            "price": "69.99",
+            "price_additional_info": [],
+            "price_with_shipping": "69.99",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://chicmybaby.pt/product/trotinete-acrobacias-qkids-ivo-gold/?utm_source=Google%20Shopping&utm_campaign=Google%20Shopping&utm_medium=cpc&utm_term=13449",
+            "shop_name": "Chic My Baby",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-66dd0ad9d87",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-66dd0ad9d87",
+            "shop_url": "chicmybaby.pt",
+            "shop_domain": "chicmybaby.pt",
+            "shop_matching_id": "chicmybaby.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05902533905232",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:07:01Z"
+      },
+      "content": {
+        "id": "334487605180253408",
+        "name": "Kinderkraft Cadeira Auto Comfort Up",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkw5ziTDcBdmMnuL_empjhdAAQW3MDRVCLNkSCHSiBRcRIZ7dpojDjXLOuk0uMdhv_NKWPRTscCSTRDz9eCwF2E1EGSuOoomny3bTxY_9x9_s3W-3s1iPNh0naiFHrEA3--HuLyjxgWy880h03e1uS0kvHBVcz8L9VcaW0t7usaYCLppei_Nr4WOij_67ybLAvhUJ4pISw=s512-pd-pc0x00ffffff",
+        "description": "COMFORT UP da Kinderkraft \u00e9 uma cadeira auto apropriada para beb\u00e9s ou crian\u00e7as com peso entre os 9 e os 36 kg.",
+        "properties": [
+          "Virada para frente",
+          "Cadeira",
+          "Preto"
+        ],
+        "url": "https://www.google.pt/shopping/product/334487605180253408?hl=pt&gl=pt&sfr=compass",
+        "review_count": 1671,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 5,
+        "offers_url": "https://www.google.pt/shopping/product/334487605180253408/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "334487605180253408",
+            "price": "83.3",
+            "price_additional_info": [],
+            "price_with_shipping": "83.3",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-kinderkraft-comfort-up-grupo-1-2-3-MRKEAN-5902533905232",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "334487605180253408",
+            "price": "83.3",
+            "price_additional_info": [],
+            "price_with_shipping": "88.44",
+            "shipping_costs": "5.14",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp19097666/Cadeira-Auto-Kinderkraft-Comfort-Up-Preto/w-4?oref=1f6ef021-4c95-37fe-a1a4-e05a85f8cb18",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "334487605180253408",
+            "price": "82.79",
+            "price_additional_info": [],
+            "price_with_shipping": "82.79",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://farmacianovadamaia.pt/pt/cadeiras-auto/384-kinderkraft-comfort-up-cadeira-auto-preto-5902533905232.html?utm_source=google&utm_medium=free_merchant",
+            "shop_name": "Farm\u00e1cia Nova da Maia",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ae41cc375da",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ae41cc375da",
+            "shop_url": "farmacianovadamaia.pt",
+            "shop_domain": "farmacianovadamaia.pt",
+            "shop_matching_id": "farmacianovadamaia.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "334487605180253408",
+            "price": "81.31",
+            "price_additional_info": [],
+            "price_with_shipping": "81.31",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.planetahuerto.pt/venda-cadeira-de-auto-kinderkraft-comfort-up-cor-preto_207042?srsltid=AQP2TePbkBBPWUERTSQtlmQ2oBeh17CCs-q2Gcnmmc3DApWtdAaC6q45LnM",
+            "shop_name": "Planeta Huerto",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4b6739d069f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4b6739d069f",
+            "shop_url": "www.planetahuerto.pt",
+            "shop_domain": "planetahuerto.pt",
+            "shop_matching_id": "planetahuerto.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "334487605180253408",
+            "price": "97.0",
+            "price_additional_info": [],
+            "price_with_shipping": "97.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://recemmama.pt/pt/produtos/kinderkraft-comfort-up-black-comfortupblack",
+            "shop_name": "Rec\u00e9m Mam\u00e3 - Loja Infantil",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c1a1d038b78",
+            "shop_sub_id": "Loja Infantil",
+            "shop_extended_source_id": "priceapi-c1a1d038b78-Loja Infantil",
+            "shop_url": "recemmama.pt",
+            "shop_domain": "recemmama.pt",
+            "shop_matching_id": "recemmama.pt - Loja Infantil",
+            "page": 1,
+            "position": 5
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05902581656230",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:07:15Z"
+      },
+      "content": {
+        "id": "12974947618461815177",
+        "name": "Lionelo Carrinho de Beb\u00e9 Elia Oslo",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwh57PKeayHD7zBqri4wF51SYvrid7CJGECFmoOJ9R0XyYJ4aesoBl9Uw4Og4B_Wu-GkozRx8qCzbE3nAVve8eGfdDOGDvuCBUawc1NFMhidtQvaBhoJL0jhjBEKl5eK05Wnj9S9C_6VyURCiGRtj2Yc2coHemQGAhpy2--QDc-UL3CA-KRWTxIIQeAvebqJpP47pl_Aw=s512-pd-pc0x00ffffff",
+        "description": "Elia \u00e9 um carrinho de beb\u00e9 apreciado pelos pais. A estrutura de a\u00e7o garante estabilidade e resist\u00eancia a danos. O assento, o teto e a parte de tr\u00e1s do carrinho s\u00e3o feitos de tecido dur\u00e1vel, resistente \u00e0 abras\u00e3o e \u00e0s condi\u00e7\u00f5es clim\u00e1ticas. Ajuste da...",
+        "properties": [
+          "Individual",
+          "Para terrenos irregulares",
+          "Guarda-chuva",
+          "A\u00e7o"
+        ],
+        "url": "https://www.google.pt/shopping/product/12974947618461815177?hl=pt&gl=pt&sfr=compass",
+        "review_count": 153,
+        "review_rating": 90,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/12974947618461815177/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "12974947618461815177",
+            "price": "87.0",
+            "price_additional_info": [],
+            "price_with_shipping": "87.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-individual-lionelo-elia-oslo-MRKEAN-5902581656230",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "12974947618461815177",
+            "price": "92.0",
+            "price_additional_info": [],
+            "price_with_shipping": "97.14",
+            "shipping_costs": "5.14",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp19097756/Carrinho-de-Passeio-Lionelo-Elia-Oslo-Preto/w-4?oref=4d3ae8d1-0e88-c23a-7c03-198a0f127b52",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05903771702249",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:07:10Z"
+      },
+      "content": {
+        "id": "16493917462603705024",
+        "name": "Lionelo Cadeira Auto Aart (Grupo 0/1/2/3 - Bege Latte)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxigrqhB93eR0AAmbsZCLVqy2xahJbA-8bTA8TJjkkhywR-6fm6NzH0BB2OP4eRRTcHy33hM30ro52gahm8UtSZFN2t3u8KgmFpvvCAdk53_-0-4liyQuqt9XruQAJ2AXUHVk991KnvkpJ97GhKkAfeGoKDGaCSAvcim7LON4sJCiGKszPeDYV0CxuL8gW9FlSkLGb-MAk=s512-pd-pc0x00ffffff",
+        "description": "Puericultura - Passeio Cadeiras Auto, Porta-Beb\u00e9s",
+        "properties": [
+          "Virada para tr\u00e1s / frente",
+          "Assentos e cadeiras",
+          "Cadeira"
+        ],
+        "url": "https://www.google.pt/shopping/product/16493917462603705024?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/16493917462603705024/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "16493917462603705024",
+            "price": "133.0",
+            "price_additional_info": [],
+            "price_with_shipping": "133.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-lionelo-aart-grupo-0-1-2-3-bege-latte-MRKEAN-5903771702249",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07290135002014",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:07:12Z"
+      },
+      "content": {
+        "id": "11182574381897313711",
+        "name": "Benbat Almofada de Viagem Frango",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxS5HPosw6VdunX5InlPoOmubw-F1TM1ah2oCZ2aG8QyRqeSmEeNMiDMbMEo4hra3sxYaFC-ow-s2Jx1s-6Dt-qAvJf0q8-7r6X6s7oxsgSFBxdjG5d7lN5Um_0WvkaRZZh4ITUbH8ev2ZpJMHIem8VpzPiCwT61_ELN1nSEc6a7B2zYi5oqrjqAaoSo3amKMY51BXw=s512-pd-pc0x00ffffff",
+        "description": "Especialmente desenhado para ajudar na viagem dos mais pequenos. A sua forma proporcionar\u00e1 um apoio total da cabe\u00e7a, permitindo um descanso com um alto conforto e comodidade. Inclui 2 faces, uma para o inverno e outra para o ver\u00e3o, para um maior c...",
+        "properties": [
+          "Adequado para lavadora"
+        ],
+        "url": "https://www.google.pt/shopping/product/11182574381897313711?hl=pt&gl=pt&sfr=compass",
+        "review_count": 18,
+        "review_rating": 74,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 3,
+        "offers_url": "https://www.google.pt/shopping/product/11182574381897313711/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "11182574381897313711",
+            "price": "15.99",
+            "price_additional_info": [],
+            "price_with_shipping": "18.98",
+            "shipping_costs": "2.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tradeinn.com/kidinn/pt/benbat-apoio-de-cabeca-total-frango-pequen/137509743/p?utm_source=google_products&utm_medium=merchant&id_producte=10474434&country=pt",
+            "shop_name": "Kidinn.com",
+            "shop_review_count": 464,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-dd083500dd4",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-dd083500dd4",
+            "shop_url": "www.tradeinn.com",
+            "shop_domain": "tradeinn.com",
+            "shop_matching_id": "tradeinn.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "11182574381897313711",
+            "price": "23.0",
+            "price_additional_info": [],
+            "price_with_shipping": "28.14",
+            "shipping_costs": "5.14",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp19054342/Almofada-Benbat-Amigos-de-Viagem-O-1-Anos-Pollito/w-4?oref=c0dcf3b0-ad9d-c52e-80a1-344128aa5d53",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "11182574381897313711",
+            "price": "21.49",
+            "price_additional_info": [],
+            "price_with_shipping": "21.49",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/acessorios-de-carrinhos-de-bebe/almofada-de-viagem-benbat-frango-MRKEAN-7290135002014",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07423652335369",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:07:10Z"
+      },
+      "content": {
+        "id": "15954425605444697110",
+        "name": "MyToyz Luxury Baby Buggy 3 em 1",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxlcUMNwSjAMdo3n72C84ezBsAcmBOAjzdnYsqNOBGeXSKzxJo1WeoYKw81wqo6-y9jCphEGTSR6Fwn7pBFfeXN_2lnP2qKj1qxLjLFt90LEVqvfXgAYuoYgn8-k9zMg8MsH89a9MZw-Q_d_LFIECeldYAJ_TjlgO54fywyETqRIJKgiaSJJ7F6Jz4cg6AyRTwnxv_hxQ=s512-pd-pc0x00ffffff",
+        "description": "#!! #a descri\u00e7\u00e3o do produto Uma das acess\u00f3rios mais importantes para cada (novo) pai \u00e9 um bom carrinho de beb\u00ea. Com esse carrinho...",
+        "properties": [
+          "Individual"
+        ],
+        "url": "https://www.google.pt/shopping/product/15954425605444697110?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Vendido por",
+            "value": [
+              "Hollands Express Trading"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/15954425605444697110/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "15954425605444697110",
+            "price": "339.95",
+            "price_additional_info": [],
+            "price_with_shipping": "339.95",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-trio-hollands-express-luxe-baby-buggy-preto-30-kg-105x81x62-cm-MRKEAN-7423652335369",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08033737555743",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 2,
+        "updated_at": "2022-06-27T14:07:08Z"
+      },
+      "content": {
+        "url": "https://www.google.pt/search?tbm=shop&tbs=vw:l&q=08033737555743&hl=pt&gl=pt&sfr=compass",
+        "offers": [
+          {
+            "id": "8033737555743",
+            "url": "https://www.worten.pt/fotografia-e-drones/maquinas-fotograficas/maquinas-fotograficas-reflex-dslr/kit-maquina-fotografica-reflex-nikon-d3300-af-p-dx-18-55-vr-af-s-dx-55-200-vr-ii-24-2-mp-sensor-aps-c-iso-100-a-25600-MRKEAN-8033737555743",
+            "name": "Kit M\u00e1quina Fotogr\u00e1fica Reflex NIKON D3300 + AF-P DX 18-55 VR + AF-S DX 55-200 VR II (24.2 MP - Sensor: APS-C - ISO: 100 a 25600)",
+            "product_properties": [],
+            "price": "587.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "587.0",
+            "currency": "EUR",
+            "tax": null,
+            "shop_name": "Worten.pt",
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "Worten.pt",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08424568023875",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:07:03Z"
+      },
+      "content": {
+        "id": "9315064620814605040",
+        "name": "Saro Maxi Espelho de Seguran\u00e7a 360o",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzhHWjUQ_123uhwkZUICG39sA12gRi3IbvrvnMQTLm0dF4MH89-F7ovl9M-a_givZM1pmoo0bV0Tx9_hoeUH_ZuRGwY32z6PollwsrUf-bjppaZdNElMdVZGFMy9UBN8N7nvIUwkmIRpewUu4BDv0wOCMW4zv_gz1kXk4JZw3lwarKZXbxlp9gY51d0p-dMUmaZMH6iug=s512-pd-pc0x00ffffff",
+        "description": "Saro Espelho de Seguran\u00e7a Maxi para Carro: Gra\u00e7as ao seu grande tamanho e ao seu ajuste preciso \u00e9 uma forma simples de manter o seu beb\u00e9 vigiado enquanto anda de carro, evitando curvas perigosas e manobras estranhas, e reduzindo assim o risco de a...",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/9315064620814605040?hl=pt&gl=pt&sfr=compass",
+        "review_count": 27,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 8,
+        "offers_url": "https://www.google.pt/shopping/product/9315064620814605040/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "9315064620814605040",
+            "price": "19.9",
+            "price_additional_info": [],
+            "price_with_shipping": "23.8",
+            "shipping_costs": "3.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://sitiodobebe.com/produto/viagem/acessorios-automovel/espelhos-auto/saro-espelho-de-seguranca-maxi-360/",
+            "shop_name": "Sitio do Bebe",
+            "shop_review_count": 300,
+            "shop_review_rating": 96,
+            "shop_id": "priceapi-cfd70a752f2",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-cfd70a752f2",
+            "shop_url": "sitiodobebe.com",
+            "shop_domain": "sitiodobebe.com",
+            "shop_matching_id": "sitiodobebe.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "9315064620814605040",
+            "price": "18.49",
+            "price_additional_info": [],
+            "price_with_shipping": "21.48",
+            "shipping_costs": "2.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tradeinn.com/kidinn/pt/saro-360--safety-mirror/137725502/p?utm_source=google_products&utm_medium=merchant&id_producte=11540257&country=pt",
+            "shop_name": "Kidinn.com",
+            "shop_review_count": 464,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-dd083500dd4",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-dd083500dd4",
+            "shop_url": "www.tradeinn.com",
+            "shop_domain": "tradeinn.com",
+            "shop_matching_id": "tradeinn.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "9315064620814605040",
+            "price": "19.99",
+            "price_additional_info": [],
+            "price_with_shipping": "19.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://farmacianovadamaia.pt/pt/cadeiras-auto/8620-saro-espelho-de-seguranca-maxi-para-carro-8424568023875.html?utm_source=google&utm_medium=free_merchant",
+            "shop_name": "Farm\u00e1cia Nova da Maia",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ae41cc375da",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ae41cc375da",
+            "shop_url": "farmacianovadamaia.pt",
+            "shop_domain": "farmacianovadamaia.pt",
+            "shop_matching_id": "farmacianovadamaia.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "9315064620814605040",
+            "price": "17.5",
+            "price_additional_info": [],
+            "price_with_shipping": "23.4",
+            "shipping_costs": "5.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.puericulturamartinez.pt/espelho-de-seguranca-maxi-360o-b2a/?otcountry=PT",
+            "shop_name": "puericulturamartinez.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d1df848068d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d1df848068d",
+            "shop_url": "www.puericulturamartinez.pt",
+            "shop_domain": "puericulturamartinez.pt",
+            "shop_matching_id": "puericulturamartinez.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "9315064620814605040",
+            "price": "19.13",
+            "price_additional_info": [],
+            "price_with_shipping": "21.93",
+            "shipping_costs": "2.8",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://lojazero.com/saro-espelho-de-seguranca-para-automovel-360-61719.html",
+            "shop_name": "lojazero.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-e85f1171784",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e85f1171784",
+            "shop_url": "lojazero.com",
+            "shop_domain": "lojazero.com",
+            "shop_matching_id": "lojazero.com",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "9315064620814605040",
+            "price": "20.7",
+            "price_additional_info": [],
+            "price_with_shipping": "24.69",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://farmacianaweb.pt/saro-maxi-espelho-de-seguranca-360.html",
+            "shop_name": "Farmacianaweb",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f70798bcf90",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f70798bcf90",
+            "shop_url": "farmacianaweb.pt",
+            "shop_domain": "farmacianaweb.pt",
+            "shop_matching_id": "farmacianaweb.pt",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "9315064620814605040",
+            "price": "20.9",
+            "price_additional_info": [],
+            "price_with_shipping": "26.04",
+            "shipping_costs": "5.14",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp19054688/Espelho-de-Seguranca-360%C2%BA-Saro-Maxi/w-4?oref=beefe2ff-128a-91be-5f5d-4edf8ba5337c",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "9315064620814605040",
+            "price": "23.99",
+            "price_additional_info": [],
+            "price_with_shipping": "23.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/espelho-retrovisor-saro-mirror-maxi-MRKEAN-8424568023875",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 8
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08431016035038",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:07:10Z"
+      },
+      "content": {
+        "id": "5112434868332463180",
+        "name": "Kit M\u00e1quina Fotogr\u00e1fica NIKON D3500 + AF-P 18-55VR (DX)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxFW65Su7K5KYjVmFg_yEl1u4R2Oof8l531Cfqxzg49O5Slq41wdgYRnLH2Q3FFZvCPyJPxxePiaWAfMLUnnQPSHZ5uSEM7wsBicM4DOXCfVJce3coRinaynuy3tpGsw9_jVp2xGPdfGCdlpEnpToScbXUrFz95oOtEPA5fNc-DlhrPha5M0pYGWBEZ0tAy8HisQx-TIg=s512-pd-pc0x00ffffff",
+        "description": "Desde os dias importantes aos dias comuns experimente a alegria da fotografia real. A compacta D3500 combina uma constru\u00e7\u00e3o de qualidade premium com um desempenho extraordin\u00e1rio. O funcionamento sem esfor\u00e7o permite capturar com extrema facilidade ...",
+        "properties": [
+          "Com v\u00eddeo",
+          "CMOS",
+          "Sensor compacto",
+          "Flash embutido",
+          "Flash remov\u00edvel",
+          "Com Wi-Fi"
+        ],
+        "url": "https://www.google.pt/shopping/product/5112434868332463180?hl=pt&gl=pt&sfr=compass",
+        "review_count": 3690,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Abertura do diafragma",
+            "value": [
+              "f/3.5-5.6G VR"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o de v\u00eddeo",
+            "value": [
+              "Full HD 1080p"
+            ]
+          },
+          {
+            "label": "Wireless",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o fotogr\u00e1fica",
+            "value": [
+              "24 MP"
+            ]
+          },
+          {
+            "label": "Liga\u00e7\u00f5es",
+            "value": [
+              "USB 2.0; Mini HDMI"
+            ]
+          },
+          {
+            "label": "Tipo de bateria",
+            "value": [
+              "I\u00f5es de l\u00edtio"
+            ]
+          },
+          {
+            "label": "Obturador e exposi\u00e7\u00e3o manual",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Correc\u00e7\u00e3o de exposi\u00e7\u00e3o \u00e0 luz",
+            "value": [
+              "\u00b15 (incrementos de 1/3 EV)"
+            ]
+          },
+          {
+            "label": "Disparos cont\u00ednuos",
+            "value": [
+              "5.0 fps"
+            ]
+          },
+          {
+            "label": "Tipo de sensor",
+            "value": [
+              "CMOS"
+            ]
+          },
+          {
+            "label": "Dimens\u00e3o do sensor",
+            "value": [
+              "AF-P DX"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o do sensor",
+            "value": [
+              "25 MP"
+            ]
+          },
+          {
+            "label": "Diagonal do ecr\u00e3 (pol.)",
+            "value": [
+              "3",
+              "00"
+            ]
+          },
+          {
+            "label": "Conector de flash externo",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Flash incorporado",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Alcance m\u00e1ximo do flash",
+            "value": [
+              "7.00 m"
+            ]
+          },
+          {
+            "label": "Acess\u00f3rios Inclu\u00eddos",
+            "value": [
+              "Estojo + eBook"
+            ]
+          },
+          {
+            "label": "Di\u00e2metro do filtro",
+            "value": [
+              "55.0 mm"
+            ]
+          },
+          {
+            "label": "Dist\u00e2ncia de focagem m\u00ednima",
+            "value": [
+              "0.25 m"
+            ]
+          },
+          {
+            "label": "Dist\u00e2ncia Focal",
+            "value": [
+              "18\u201355 mm"
+            ]
+          },
+          {
+            "label": "Tipo de armazenamento",
+            "value": [
+              "SD/SDHC/SDXC"
+            ]
+          },
+          {
+            "label": "Interface da lente (mount)",
+            "value": [
+              "Nikon F"
+            ]
+          },
+          {
+            "label": "Objectiva intermut\u00e1vel",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Dimens\u00f5es (LxAxP)",
+            "value": [
+              "124 x 97 x 70 mm"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o / Frames por segundo",
+            "value": [
+              "1920 x 1080 / 60 fps"
+            ]
+          },
+          {
+            "label": "Velocidade m\u00e1xima do obturador",
+            "value": [
+              "1/4000 s"
+            ]
+          },
+          {
+            "label": "Velocidade m\u00ednima do obturador",
+            "value": [
+              "30 s"
+            ]
+          },
+          {
+            "label": "Tipo de visor (Viewfinder)",
+            "value": [
+              "\u00d3tico"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/5112434868332463180/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "5112434868332463180",
+            "price": "593.46",
+            "price_additional_info": [],
+            "price_with_shipping": "593.46",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/fotografia-e-drones/maquinas-fotograficas/maquinas-fotograficas-reflex-dslr/kit-maquina-fotografica-nikon-d3500-af-p-18-55vr-dx-6902889",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08710103896791",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:07:02Z"
+      },
+      "content": {
+        "id": "6636965985508749064",
+        "name": "Philips Intercomunicador Digital AVENT SCD843/01 (Branco - C\u00e2mara)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwKq5X-JvWbe2LXHlIobIu8Rc8pkgcQ207NnzRC8kQ5x_w8TOObRs9IU03nMbFymXJIMLsXCLpmkDPxUzPHmsk88ufxEXn4Lz0dWWfLM05Xt0ngj2hCTZDdyKOLNHkWb_NPX1CwVteGnNugS4uJe0EnXPA-ay58QVxt4IvZvDlUn8ty3uBQHfFTu2LYgmc33EQGQaW3LZw=s512-pd-pc0x00ffffff",
+        "description": "Philips Avent Intercomunicador Digital com C\u00e2mera \u00e9 um intercomunicador que ajuda a vigiar o beb\u00e9 para uma tranquilidade total. Com todas as fun\u00e7\u00f5es essenciais de um intercomunicador. Garante uma liga\u00e7\u00e3o privada e segura com tecnologia FHSS para u...",
+        "properties": [
+          "Com talk back",
+          "Compat\u00edvel com smartphone",
+          "Vibra\u00e7\u00e3o",
+          "Sinal digital",
+          "Vis\u00e3o noturna"
+        ],
+        "url": "https://www.google.pt/shopping/product/6636965985508749064?hl=pt&gl=pt&sfr=compass",
+        "review_count": 501,
+        "review_rating": 80,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 9,
+        "offers_url": "https://www.google.pt/shopping/product/6636965985508749064/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "6636965985508749064",
+            "price": "197.39",
+            "price_additional_info": [],
+            "price_with_shipping": "197.39",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/intercomunicadores-bebe/intercomunicador-digital-philips-avent-scd843-01-branco-camara-7076499",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "6636965985508749064",
+            "price": "239.99",
+            "price_additional_info": [],
+            "price_with_shipping": "244.98",
+            "shipping_costs": "4.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.espacomamas.pt/para-o-bebe/seguranca-e-conforto/intercomunicadores/philips-avent-intercomunicador-com-camara",
+            "shop_name": "Espa\u00e7o Mam\u00e3s",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-7f61ac4c502",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-7f61ac4c502",
+            "shop_url": "www.espacomamas.pt",
+            "shop_domain": "espacomamas.pt",
+            "shop_matching_id": "espacomamas.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "6636965985508749064",
+            "price": "228.95",
+            "price_additional_info": [],
+            "price_with_shipping": "228.95",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://farmacianovadamaia.pt/pt/intercomunicadores/10066-philips-avent-baby-intercomunicador-c-camara-scd843-8710103896791.html?utm_source=google&utm_medium=free_merchant",
+            "shop_name": "Farm\u00e1cia Nova da Maia",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ae41cc375da",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ae41cc375da",
+            "shop_url": "farmacianovadamaia.pt",
+            "shop_domain": "farmacianovadamaia.pt",
+            "shop_matching_id": "farmacianovadamaia.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "6636965985508749064",
+            "price": "209.1",
+            "price_additional_info": [],
+            "price_with_shipping": "209.1",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.idivia.com/pt/produto/philips-avent-intercomunicador-digital-com-camera/?wcpbc-manual-country=PT",
+            "shop_name": "idivia",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-970e7c6e179",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-970e7c6e179",
+            "shop_url": "www.idivia.com",
+            "shop_domain": "idivia.com",
+            "shop_matching_id": "idivia.com",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "6636965985508749064",
+            "price": "239.99",
+            "price_additional_info": [],
+            "price_with_shipping": "239.99",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://myminimoon.com/intercomunicadores/1173-intercomunicador-com-camara-843-philips-avent-8710103896791",
+            "shop_name": "My Mini Moon",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d2681381e02",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d2681381e02",
+            "shop_url": "myminimoon.com",
+            "shop_domain": "myminimoon.com",
+            "shop_matching_id": "myminimoon.com",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "6636965985508749064",
+            "price": "250.28",
+            "price_additional_info": [],
+            "price_with_shipping": "250.28",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.bebe.pt/philips-avent-intercomunicador-digital-com-camera-843-1unid",
+            "shop_name": "bebe.pt",
+            "shop_review_count": 125,
+            "shop_review_rating": 92,
+            "shop_id": "priceapi-f78b79b9263",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f78b79b9263",
+            "shop_url": "www.bebe.pt",
+            "shop_domain": "bebe.pt",
+            "shop_matching_id": "bebe.pt",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "6636965985508749064",
+            "price": "298.14",
+            "price_additional_info": [],
+            "price_with_shipping": "298.14",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp12055595/Monitor-de-video-de-bebe-Philips-AVENT-Baby-monitor-Intercomunicador-para-bebe-de-video-digital-Branco/w-4?oref=ff4e5921-877c-4325-2b68-85b00835e5ad",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "6636965985508749064",
+            "price": "325.73",
+            "price_additional_info": [],
+            "price_with_shipping": "325.73",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://skin.pt/philips-avent-intercomunicador-digital-com-camera-843-1unid",
+            "shop_name": "skin.pt",
+            "shop_review_count": 216,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-f6294a3bae3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f6294a3bae3",
+            "shop_url": "skin.pt",
+            "shop_domain": "skin.pt",
+            "shop_matching_id": "skin.pt",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "6636965985508749064",
+            "price": "279.82",
+            "price_additional_info": [],
+            "price_with_shipping": "283.72",
+            "shipping_costs": "3.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.farmaciadarrabida.pt/aparelhos/758-avent-philips-intercom-dig-c-camera-scd843-8710103896791.html",
+            "shop_name": "farmaciadarrabida.com",
+            "shop_review_count": 70,
+            "shop_review_rating": 96,
+            "shop_id": "priceapi-d15794d163f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d15794d163f",
+            "shop_url": "www.farmaciadarrabida.pt",
+            "shop_domain": "farmaciadarrabida.pt",
+            "shop_matching_id": "farmaciadarrabida.pt",
+            "page": 1,
+            "position": 9
+          }
+        ]
+      }
+    }
+  ]
+}

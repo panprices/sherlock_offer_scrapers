@@ -1,0 +1,1198 @@
+{
+  "job_id": "62b9b7263b81f326e4790f0d",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 20,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00192223009851",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 0,
+        "updated_at": "2022-06-27T13:54:31Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00820257214995",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 0,
+        "updated_at": "2022-06-27T13:54:31Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00843342179740",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 0,
+        "updated_at": "2022-06-27T13:54:30Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03220660314010",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 1,
+        "updated_at": "2022-06-27T13:56:57Z"
+      },
+      "content": {
+        "id": "6071293980204458300",
+        "name": "Safety 1st Road FIX, Pixel Black Svart",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkw0pHBxDnU0V2D1ljWZ_u0_g-iYO8QIx1NUBcekMK5p8fuB9nWQW0e57kT0rou2VK7bcv_JNSKjlA2ZnxRp6ADBWYNBUz6CbktCLLy3yEW8GJBYf-TrQykBItC2syy3gFrbjbzmCGkjF-00DGfL5Hm0AJeWsRHIYZ37SlsHvrTw_IaWRbqDNCaGurfAFkbO1-7Edu7mig=s512-pd-pc0x00ffffff",
+        "description": "Road Fix \u00e4r en s\u00e4ker och l\u00e4ttanv\u00e4nd b\u00e4ltesstol. Road Fix \u00e4r utrustad med ISOFIX-kontakter f\u00f6r en passform med ett klick, vilket s\u00e4kerst\u00e4ller en stabil och solid installation i bilen. Dess sidoskydd och slagabsorptionshuvudst\u00f6d g\u00f6r det m\u00f6jligt f\u00f6r ...",
+        "properties": [
+          "Fram\u00e5t",
+          "B\u00e4ltesstol",
+          "Pixel Black"
+        ],
+        "url": "https://www.google.se/shopping/product/6071293980204458300?hl=sv&gl=se&sfr=compass",
+        "review_count": 50,
+        "review_rating": 92,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produktens m\u00e5tt",
+            "value": [
+              "37 x 43 x 66 cm; 6.05 Kilogram"
+            ]
+          },
+          {
+            "label": "Modell\u00e5r",
+            "value": [
+              "2020"
+            ]
+          },
+          {
+            "label": "Modellnamn",
+            "value": [
+              "Safety 1st Road Fix Group 2/3 ISOFIX bilstol"
+            ]
+          },
+          {
+            "label": "Rekommendation f\u00f6r minsta vikt",
+            "value": [
+              "15 Kilogram"
+            ]
+          },
+          {
+            "label": "Tillverkarens f\u00f6reslagna maximala vikt",
+            "value": [
+              "36 Kilogram"
+            ]
+          },
+          {
+            "label": "Typ av material",
+            "value": [
+              "Plast"
+            ]
+          },
+          {
+            "label": "Ytterligare produktfunktioner",
+            "value": [
+              "Nackst\u00f6d f\u00f6r EPS"
+            ]
+          },
+          {
+            "label": "Antal artiklar",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Stil",
+            "value": [
+              "RoadFix med ISOFIX"
+            ]
+          },
+          {
+            "label": "Batterier kr\u00e4vs",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Artikelm\u00e5tt LxBxH",
+            "value": [
+              "37 x 43 x 66 centimeter"
+            ]
+          },
+          {
+            "label": "Artikelns vikt",
+            "value": [
+              "6.05 Kilogram"
+            ]
+          },
+          {
+            "label": "Rekommendation f\u00f6r maximal vikt",
+            "value": [
+              "36 Kilogram"
+            ]
+          }
+        ],
+        "offer_count": 4,
+        "offers_url": "https://www.google.se/shopping/product/6071293980204458300/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "6071293980204458300",
+            "price": "907.0",
+            "price_additional_info": [],
+            "price_with_shipping": "907.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.babymarkt.se/product/A297309?a=b&pred=SERPA,SERPB,SERPC,SERPD,SERPE,SERPWEA,SERPWEB,SERP001,SERP004,&c=p_aw,p2aw,p3aw,p4aw,p5aw,prwea,prweb,p_akt_pla1,&rp&os&fdcampaign=feed/se/14449/googleshoppingint/A297309",
+            "shop_name": "babymarkt.se",
+            "shop_review_count": 307,
+            "shop_review_rating": 96,
+            "shop_id": "priceapi-949538f4087",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-949538f4087",
+            "shop_url": "www.babymarkt.se",
+            "shop_domain": "babymarkt.se",
+            "shop_matching_id": "babymarkt.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "6071293980204458300",
+            "price": "917.0",
+            "price_additional_info": [],
+            "price_with_shipping": "986.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.jollyroom.se/bilstolar/baltesstolar/isofix/safety-1st-road-fix-pixel-black",
+            "shop_name": "Jollyroom.se",
+            "shop_review_count": 793,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-6f2986498a2",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-6f2986498a2",
+            "shop_url": "www.jollyroom.se",
+            "shop_domain": "jollyroom.se",
+            "shop_matching_id": "jollyroom.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "6071293980204458300",
+            "price": "1008.0",
+            "price_additional_info": [],
+            "price_with_shipping": "1008.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.pixizoo.se/safety-1st-roadfix-bilbarnstol-pixel-black",
+            "shop_name": "Pixizoo.se",
+            "shop_review_count": 31,
+            "shop_review_rating": 98,
+            "shop_id": "priceapi-effca767799",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-effca767799",
+            "shop_url": "www.pixizoo.se",
+            "shop_domain": "pixizoo.se",
+            "shop_matching_id": "pixizoo.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "6071293980204458300",
+            "price": "1099.0",
+            "price_additional_info": [],
+            "price_with_shipping": "1198.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://plusshop.se/safety-1st-vag-fixera-bilsate-svart?gsnp",
+            "shop_name": "Plusshop SE",
+            "shop_review_count": 793,
+            "shop_review_rating": 80,
+            "shop_id": "priceapi-a873f67f618",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a873f67f618",
+            "shop_url": "plusshop.se",
+            "shop_domain": "plusshop.se",
+            "shop_matching_id": "plusshop.se",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03507460090666",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 0,
+        "updated_at": "2022-06-27T13:54:33Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03800151979616",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 0,
+        "updated_at": "2022-06-27T13:54:28Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03800151994923",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 0,
+        "updated_at": "2022-06-27T13:54:31Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04211125602369",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 1,
+        "updated_at": "2022-06-27T13:57:02Z"
+      },
+      "content": {
+        "id": "11002879836549171503",
+        "name": "Beurer Compressed Air Inhaler IH18",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzGHUtWaR5_gCZ2lgT22w2HrVpPYkpkzinggBH5MSWWzM4BCTTznEMVMV-9BX2jodrhOq-xAd_2pMOf9uXAUbguT--gIqwVYpOUN93l75qKA62IsUA2jWZggkcYmoXHpC1cVPC385VVAHiN2FXoTKmarZTYNzP66PeM2_MTSz-tpriNSrTfX7phrQmtAcc82Ek4ZqRHeIU=s512-pd-pc0x00ffffff",
+        "description": "This powerful Beurer inhaler is operated with modern compressor compressed air technology. The device is a first choice for the treatment of the upper and lower respiratory tract and convinces with its high proportion of respirable particles. The ...",
+        "properties": null,
+        "url": "https://www.google.se/shopping/product/11002879836549171503?hl=sv&gl=se&sfr=compass",
+        "review_count": 36,
+        "review_rating": 82,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.se/shopping/product/11002879836549171503/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "11002879836549171503",
+            "price": "554.0",
+            "price_additional_info": [],
+            "price_with_shipping": "713.0",
+            "shipping_costs": "159.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.biuky.se/others/beurer/p-237221?r=4211125602369",
+            "shop_name": "Biuky.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-29ec3288e47",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-29ec3288e47",
+            "shop_url": "www.biuky.se",
+            "shop_domain": "biuky.se",
+            "shop_matching_id": "biuky.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "11002879836549171503",
+            "price": "571.0",
+            "price_additional_info": [],
+            "price_with_shipping": "730.0",
+            "shipping_costs": "159.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.carethy.se/health-amp-beauty/beurer/p-498652?r=4211125602369",
+            "shop_name": "Carethy.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c57abae6804",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c57abae6804",
+            "shop_url": "www.carethy.se",
+            "shop_domain": "carethy.se",
+            "shop_matching_id": "carethy.se",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05012909002943",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 1,
+        "updated_at": "2022-06-27T13:56:58Z"
+      },
+      "content": {
+        "id": "53705464026603458",
+        "name": "AVENT Niplette",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxO_1omEsZt7DKOHtEkDBpvijn6OXkIkmKD9X6oI8BpjWTP1Nd_6DT18NDhFZZZpZbRekFVRBy2cthJfp92j448t0v6An5Y-EKuTjggD4v4lre8A-uzOz7caAXPiBq3yWq5_fN34EUXzWUjU-S7YySVYyFJrlsgzUPk08JdsogJfgZp8lBOZ34j5UPnazLU-YpmsAXsjr0=s512-pd-pc0x00ffffff",
+        "description": "The Niplette helps mothers with flat or inverted nipples to breastfeed. This unique and revolutionary instrument provides a simple, non-surgical and long-lasting solution. Inverted or non-protractile nipples affect up to 10% of women, cause psycho...",
+        "properties": null,
+        "url": "https://www.google.se/shopping/product/53705464026603458?hl=sv&gl=se&sfr=compass",
+        "review_count": 125,
+        "review_rating": 88,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 3,
+        "offers_url": "https://www.google.se/shopping/product/53705464026603458/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "53705464026603458",
+            "price": "329.73",
+            "price_additional_info": [
+              "REA"
+            ],
+            "price_with_shipping": "495.18",
+            "shipping_costs": "165.45",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://gaprastore.com/product/philips-avent-scf152-01-niplette-with-2-breast-pads/",
+            "shop_name": "Gaprastore",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f8eb0df1f1d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f8eb0df1f1d",
+            "shop_url": "gaprastore.com",
+            "shop_domain": "gaprastore.com",
+            "shop_matching_id": "gaprastore.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "53705464026603458",
+            "price": "354.92",
+            "price_additional_info": [
+              "REA"
+            ],
+            "price_with_shipping": "488.35",
+            "shipping_costs": "133.43",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://beautydeal2u.com/shop/uncategorized/philips-avent-scf152-01-niplette-with-2-breast-pads/",
+            "shop_name": "Beautydeal2u",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-37a27f6ff38",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-37a27f6ff38",
+            "shop_url": "beautydeal2u.com",
+            "shop_domain": "beautydeal2u.com",
+            "shop_matching_id": "beautydeal2u.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "53705464026603458",
+            "price": "367.41",
+            "price_additional_info": [
+              "REA"
+            ],
+            "price_with_shipping": "500.84",
+            "shipping_costs": "133.43",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://perfumedeal24.com/product/philips-avent-scf152-01-niplette-with-2-breast-pads/",
+            "shop_name": "Perfumedeal24",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-5f59d1734dc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5f59d1734dc",
+            "shop_url": "perfumedeal24.com",
+            "shop_domain": "perfumedeal24.com",
+            "shop_matching_id": "perfumedeal24.com",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05055374710081",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 1,
+        "updated_at": "2022-06-27T13:57:00Z"
+      },
+      "content": {
+        "id": "12614730884055427800",
+        "name": "Motorola Babymonitor VM481 Video",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzI3UG14nXxiXw4XvQd-h7m2s-fvomkHafIpz10i3Op08i0hZNm9041LkfwszgM6rgIPNKbCPmGtGsGFawcaFYpywfGsgwxEbHxaeXemThQwXobvDK12xzv69_XgjCok3ulyOWiP3eA0e8i4H5kGkFnrbS7eA6nH-NmWkXNrUVCYpVn9XlTDGj7aZKVFFy9vBivvIWgGQ=s512-pd-pc0x00ffffff",
+        "description": "Motorola Baby Monitor VM481 Video \u00e4r en babyvakt med 2,4 GHz FHSS digital teknik. Signalen \u00e4r s\u00e4ker och du kan vara s\u00e4ker p\u00e5 att ingen avlyssnar. Med en 2,0-tums LCD-sk\u00e4rm i fullf\u00e4rg med extern zoom och infrar\u00f6tt m\u00f6rkerseende s\u00e5 att du kan \u00f6vervak...",
+        "properties": [
+          "Kommunikationsfunktion",
+          "Digital signal",
+          "2,4 GHz",
+          "Nattsikt"
+        ],
+        "url": "https://www.google.se/shopping/product/12614730884055427800?hl=sv&gl=se&sfr=compass",
+        "review_count": 5,
+        "review_rating": 96,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "M\u00e4rke",
+            "value": [
+              "Motorola"
+            ]
+          },
+          {
+            "label": "S\u00e4ljs av",
+            "value": [
+              "Denys Politov"
+            ]
+          }
+        ],
+        "offer_count": 7,
+        "offers_url": "https://www.google.se/shopping/product/12614730884055427800/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "12614730884055427800",
+            "price": "1199.0",
+            "price_additional_info": [],
+            "price_with_shipping": "1199.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.babyworld.se/sv/varumarken/motorola/motorola-babymonitor-vm481-video-vit",
+            "shop_name": "BabyWorld.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8f46a1faaba",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8f46a1faaba",
+            "shop_url": "www.babyworld.se",
+            "shop_domain": "babyworld.se",
+            "shop_matching_id": "babyworld.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "12614730884055427800",
+            "price": "1199.0",
+            "price_additional_info": [],
+            "price_with_shipping": "1199.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://mymall.se/motorola-baby-monitor-vm481-video-1103-760311-tura",
+            "shop_name": "mymall.se",
+            "shop_review_count": 263,
+            "shop_review_rating": 86,
+            "shop_id": "priceapi-f6c20cec448",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f6c20cec448",
+            "shop_url": "mymall.se",
+            "shop_domain": "mymall.se",
+            "shop_matching_id": "mymall.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "12614730884055427800",
+            "price": "1199.0",
+            "price_additional_info": [],
+            "price_with_shipping": "1199.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.teknikproffset.se/shop?funk=visa_artikel&artnr=C04485",
+            "shop_name": "Teknikproffset.se",
+            "shop_review_count": 157,
+            "shop_review_rating": 84,
+            "shop_id": "priceapi-b1c12f7fe91",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b1c12f7fe91",
+            "shop_url": "www.teknikproffset.se",
+            "shop_domain": "teknikproffset.se",
+            "shop_matching_id": "teknikproffset.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "12614730884055427800",
+            "price": "1199.0",
+            "price_additional_info": [],
+            "price_with_shipping": "1199.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.jollyroom.se/babyprodukter/barnsakerhet/babyvakter/motorola-vm481-video-babyvakt",
+            "shop_name": "Jollyroom.se",
+            "shop_review_count": 793,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-6f2986498a2",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-6f2986498a2",
+            "shop_url": "www.jollyroom.se",
+            "shop_domain": "jollyroom.se",
+            "shop_matching_id": "jollyroom.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "12614730884055427800",
+            "price": "1199.0",
+            "price_additional_info": [],
+            "price_with_shipping": "1248.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/barn-baby/motorola-babymonitor-vm481-video-p88332952",
+            "shop_name": "cdon.se",
+            "shop_review_count": 521,
+            "shop_review_rating": 82,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "12614730884055427800",
+            "price": "1595.0",
+            "price_additional_info": [],
+            "price_with_shipping": "1595.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/personvard-halsa-skonhet/babyprodukter/babyvakt/motorola-vm481-video-babymonitor-760311/401530",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "12614730884055427800",
+            "price": "1981.0",
+            "price_additional_info": [],
+            "price_with_shipping": "1981.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://inf.se/barn/85233-babymonitor-vm481-video-5055374710081.html",
+            "shop_name": "inf.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-86164cf026b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-86164cf026b",
+            "shop_url": "inf.se",
+            "shop_domain": "inf.se",
+            "shop_matching_id": "inf.se",
+            "page": 1,
+            "position": 7
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05603968044632",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 0,
+        "updated_at": "2022-06-27T13:54:32Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08010898250984",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 0,
+        "updated_at": "2022-06-27T13:54:31Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08058664076000",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 1,
+        "updated_at": "2022-06-27T13:56:58Z"
+      },
+      "content": {
+        "id": "12023626644148867146",
+        "name": "Chicco Bilbarnstol Junior Key42 X 48 Cm Polyester Svart/vit",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxLd-no9WvKjPcGpan_PC_GHYmWhx_HAEv7m-q_6BVpH14fEo8qcVfRFTXP2oNg8aq4Gcr59TPYxlxDYI8ihJAAFPm4qPzmU6iK3Asi9WUlJ4lG_YXa6rCPg8mzJqsgeZao_OP_V9cKn72m3XsHh7QxDlswmlhogM9lGfxw8OVwDSVyLz6ihQwc6uF9kwst3TU0zMdo=s512-pd-pc0x00ffffff",
+        "description": "Key 2\u20133 \u00e4r den bekv\u00e4ma och justerbara bilstolen f\u00f6r l\u00e5nga resor! Den \u00e4r godk\u00e4nd f\u00f6r grupperna 2 och 3 enligt standarden ECE R 44/04 och avsedd f\u00f6r transport av barn fr\u00e5n 15 till 36 kg kroppsvikt (ca ca ca ca 3 till 12 \u00e5r). H\u00f6jden och bredden \u00e4r ju...",
+        "properties": [
+          "Fram\u00e5t",
+          "B\u00e4ltesstol",
+          "Svart/Vit"
+        ],
+        "url": "https://www.google.se/shopping/product/12023626644148867146?hl=sv&gl=se&sfr=compass",
+        "review_count": 11,
+        "review_rating": 84,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/12023626644148867146/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "12023626644148867146",
+            "price": "1967.0",
+            "price_additional_info": [],
+            "price_with_shipping": "1967.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/barn-baby/chicco-key-2-3-black-night-bilbarnstol-3-punkts-15-36-kg-svart-p96070324",
+            "shop_name": "cdon.se",
+            "shop_review_count": 521,
+            "shop_review_rating": 82,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08433605344361",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 0,
+        "updated_at": "2022-06-27T13:54:30Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08434852134248",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 0,
+        "updated_at": "2022-06-27T13:54:31Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08436579230418",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 0,
+        "updated_at": "2022-06-27T13:54:30Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08436579231217",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 0,
+        "updated_at": "2022-06-27T13:54:29Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08595114405954",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 0,
+        "updated_at": "2022-06-27T13:54:30Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08595114416417",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 0,
+        "updated_at": "2022-06-27T13:54:28Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08710103867685",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 1,
+        "updated_at": "2022-06-27T13:57:00Z"
+      },
+      "content": {
+        "id": "4897190862889652425",
+        "name": "Philips absorberande skivor dag 30 St",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkz_RY74AW4gVCZB6vxwVgZWDQJuNfDu6VNbQMOBlfbbKR0Jjd1XSxBjUOPBNW_IlqOc7glOFOGhKPQr9AKP768IJR10ENyfjviyQZxeEzfjxcIMkfZJ2ffBpo_NZ0rlCLthAQPWbAB2n7zaBpFhqhoE0OOQPaqt5yf7VqHS8_RA2L4MLu33nuupU6oz46F9DK8Pe0UirA=s512-pd-pc0x00ffffff",
+        "description": "Amningskuporna f\u00f6r eng\u00e5ngsbruk fr\u00e5n Philips Avent hj\u00e4lper dig p\u00e5 amningsresan. Med vaxkakem\u00f6nster, ultratunn absorberande k\u00e4rna och l\u00e4ckages\u00e4ker design som andas k\u00e4nner du dig torr och bekv\u00e4m b\u00e5de p\u00e5 dagen och natten.",
+        "properties": null,
+        "url": "https://www.google.se/shopping/product/4897190862889652425?hl=sv&gl=se&sfr=compass",
+        "review_count": 2686,
+        "review_rating": 90,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "M\u00e4rke",
+            "value": [
+              "Philips Avent"
+            ]
+          },
+          {
+            "label": "S\u00e4ljs av",
+            "value": [
+              "Amcore Balance"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/4897190862889652425/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "4897190862889652425",
+            "price": "102.47",
+            "price_additional_info": [],
+            "price_with_shipping": "297.62",
+            "shipping_costs": "195.15",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.promofarma.com/en/philips-avent-copas-absorbentes-ul-60uds/p-597767?country_code=SE",
+            "shop_name": "PromoFarma.com - SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9e2e6806626",
+            "shop_sub_id": "SE",
+            "shop_extended_source_id": "priceapi-9e2e6806626-SE",
+            "shop_url": "www.promofarma.com",
+            "shop_domain": "promofarma.com",
+            "shop_matching_id": "promofarma.com - SE",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    }
+  ]
+}

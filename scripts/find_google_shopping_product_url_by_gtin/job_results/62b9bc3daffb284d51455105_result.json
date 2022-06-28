@@ -1,0 +1,2939 @@
+{
+  "job_id": "62b9bc3daffb284d51455105",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 20,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00018208937424",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:18:49Z"
+      },
+      "content": {
+        "id": "14985719728298410901",
+        "name": "Nikon D610 Corpo",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwVgqSBSGNGJis8v5gR81EdcGruiYgnPHLyh_Kobf2GHLwh7qUqYClczLpAiOu2ddC8oxJAxudg4waCmBF73PNyQI8izJt7MY4pXmw8hfelRJK_ZUKS6b5MA3Uut-OzLVH7GPHUCvlfHpHrbYsDIgrHpPciuwKzs4zcmNJHCB2W-Xl4Y6hjAk69A5f9U9rEjgyZVQTSjA=s512-pd-pc0x00ffffff",
+        "description": "Experimente o verdadeiro poder da fotografia de imagem completa com a D610. Equipada com tecnologia profissional Nikon, esta poderosa D-SLR produz o tipo de qualidade de imagem que s\u00f3 o formato FX pode oferecer. O sensor de formato FX com 24,3 meg...",
+        "properties": [
+          "CMOS",
+          "Com v\u00eddeo",
+          "Sensor Full Frame",
+          "Resistente \u00e0 \u00e1gua",
+          "Flash embutido",
+          "Flash remov\u00edvel",
+          "Com estabiliza\u00e7\u00e3o de imagem"
+        ],
+        "url": "https://www.google.pt/shopping/product/14985719728298410901?hl=pt&gl=pt&sfr=compass",
+        "review_count": 650,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Resolu\u00e7\u00e3o de v\u00eddeo",
+            "value": [
+              "Full HD 1080p"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o fotogr\u00e1fica",
+            "value": [
+              "24 MP"
+            ]
+          },
+          {
+            "label": "Obturador e exposi\u00e7\u00e3o manual",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Correc\u00e7\u00e3o de exposi\u00e7\u00e3o \u00e0 luz",
+            "value": [
+              "\u00b15 (incrementos de 1/3 EV",
+              "1/2 EV",
+              "2/3 EV",
+              "1 EV)"
+            ]
+          },
+          {
+            "label": "Disparos cont\u00ednuos",
+            "value": [
+              "6.0 fps"
+            ]
+          },
+          {
+            "label": "Diagonal do ecr\u00e3 (pol.)",
+            "value": [
+              "3",
+              "20"
+            ]
+          },
+          {
+            "label": "Interface da lente (mount)",
+            "value": [
+              "Nikon F"
+            ]
+          },
+          {
+            "label": "Objectiva intermut\u00e1vel",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Dimens\u00f5es (LxAxP)",
+            "value": [
+              "141 x 113 x 82 mm"
+            ]
+          },
+          {
+            "label": "Flash incorporado",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Dimens\u00e3o do sensor",
+            "value": [
+              "Full frame"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o do sensor",
+            "value": [
+              "25 MP"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o / Frames por segundo",
+            "value": [
+              "1920 x 1080 / 30 fps"
+            ]
+          },
+          {
+            "label": "Velocidade m\u00e1xima do obturador",
+            "value": [
+              "1/4000 s"
+            ]
+          },
+          {
+            "label": "Velocidade m\u00ednima do obturador",
+            "value": [
+              "30 s"
+            ]
+          },
+          {
+            "label": "Tipo de visor (Viewfinder)",
+            "value": [
+              "\u00d3tico"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/14985719728298410901/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "14985719728298410901",
+            "price": "550.0",
+            "price_additional_info": [],
+            "price_with_shipping": "550.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.backmarket.pt/pt-pt/p/nikon-d610-reflex-24-preto/2f69c6da-8713-468e-a743-3e03fc3f3326?shopping=gmc&srsltid=AQP2TeODa6d0rJlu53JJLhHB2BgWV0wS_j9sT80fIcfQkEtnr4Ss3fCVqXU#?l=12",
+            "shop_name": "Back Market",
+            "shop_review_count": 274,
+            "shop_review_rating": 96,
+            "shop_id": "priceapi-76de42c76ef",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-76de42c76ef",
+            "shop_url": "www.backmarket.pt",
+            "shop_domain": "backmarket.pt",
+            "shop_matching_id": "backmarket.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "14985719728298410901",
+            "price": "1394.88",
+            "price_additional_info": [],
+            "price_with_shipping": "1394.88",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/fotografia-e-drones/maquinas-fotograficas/maquinas-fotograficas-reflex-dslr/maquina-fotografica-reflex-nikon-d610-full-frame-5310251",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00185211000619",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2022-06-27T14:18:42Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00715821493497",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:18:47Z"
+      },
+      "content": {
+        "id": "10148378783338051721",
+        "name": "Tavalax Bolas para Parques Multicolorido (7 cm)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzi74ExsASAmYKNiKtvfSq7zG8uKOyfkJXRYtHWIAFYn6BC9zZi1f1M99ilvB5eb9fdZ2d9L5gcA6AENWLVPz-Lk7adcsHKU2ZVzd2ffc3eHTJhyvjYgLjMPrkEvOv-9_wAEZPv9LpEhZd71wJg0PiUTG5Lv1G7PBNbbTpf3C4ztiOixPYD_ivNoXWx6uj3FhlRBfq-=s512-pd-pc0x00ffffff",
+        "description": null,
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/10148378783338051721?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/10148378783338051721/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10148378783338051721",
+            "price": "29.0",
+            "price_additional_info": [],
+            "price_with_shipping": "29.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/parques-para-bebe/bolas-para-parques-tavalax-multicolorido-7-cm-MRKEAN-0715821493497",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03661276008762",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:18:46Z"
+      },
+      "content": {
+        "id": "5565936531931301327",
+        "name": "Babymoov Saco Maternal Baby Chic",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzcl0C2Z51QTwSHBjIcsS2PVLrCcN-xqspI-98-9roZGjdO0vMZgSprktH4McnbAQ7PUGNc9lLB7_rorJs5MfcAkXoX6dolxl-8SsFgjHjnJOj0qpiKiVUenv1y-RypiGzVxYxzO0srTOj2ZObjZZ52NhK06-5otEW8sMJMqraZeEronKss4WB6p6_v25a-d8XpFSc5Evo=s512-pd-pc0x00ffffff",
+        "description": "Beb\u00e9s e Crian\u00e7as Sacos para Fraldas Babymoov Saco Maternal Baby Chic Handy para a sua ampla abertura, o saco Baby Style pode ser usado com apenas uma m\u00e3o. Tamb\u00e9m \u00e9 muito completo com seus m\u00faltiplos acess\u00f3rios e bolsos. Uma bolsa feminina ideal par...",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/5565936531931301327?hl=pt&gl=pt&sfr=compass",
+        "review_count": 1715,
+        "review_rating": 92,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Vendido por",
+            "value": [
+              "Hello Baby"
+            ]
+          }
+        ],
+        "offer_count": 5,
+        "offers_url": "https://www.google.pt/shopping/product/5565936531931301327/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "5565936531931301327",
+            "price": "35.19",
+            "price_additional_info": [
+              "PRE\u00c7O BAIXO"
+            ],
+            "price_with_shipping": "38.18",
+            "shipping_costs": "2.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.atida.com/pt-pt/babymoov-bolso-maternal-baby-style-chic",
+            "shop_name": "Atida Mifarma",
+            "shop_review_count": 187,
+            "shop_review_rating": 96,
+            "shop_id": "priceapi-fe334dd5a22",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fe334dd5a22",
+            "shop_url": "www.atida.com",
+            "shop_domain": "atida.com",
+            "shop_matching_id": "atida.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "5565936531931301327",
+            "price": "64.97",
+            "price_additional_info": [],
+            "price_with_shipping": "64.97",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp9418412/Bolsa-para-fraldas-BabyMoov-90034892/w-4?oref=b7ed07f0-6cf9-ee07-80d7-000b9adf71be",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "5565936531931301327",
+            "price": "69.99",
+            "price_additional_info": [],
+            "price_with_shipping": "69.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.laredoute.pt/ppdp/prod-324342116.aspx?dim1=1&dim2=1&lgw_code=4286-32434211600010001876022",
+            "shop_name": "La Redoute",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ee0cfb210f2",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ee0cfb210f2",
+            "shop_url": "www.laredoute.pt",
+            "shop_domain": "laredoute.pt",
+            "shop_matching_id": "laredoute.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "5565936531931301327",
+            "price": "70.76",
+            "price_additional_info": [],
+            "price_with_shipping": "70.76",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/malas-e-bolsas-de-passeio/mala-com-trocador-babymoov-white-pink-MRKEAN-3661276008762",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "5565936531931301327",
+            "price": "70.52",
+            "price_additional_info": [],
+            "price_with_shipping": "74.51",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://dott.pt/pt/products/babymoov-90034892-bolsa-para-fraldas-bege-bordo-cinzento-velo-pvc-poliester-cad6edbc-8c99-41e9-b87e-ab7d9e1009da?utm_source=google-shopping&utm_medium=organic&utm_campaign=Bolsas%20para%20fraldas%20%3E%20Fraldas%20%3E%20Fraldas%20e%20Produtos%20de%20Higiene%20infantil%20%3E%20Sa%C3%BAde%20e%20Beleza&utm_content=Babymoov%2090034892%20Bolsa%20para%20Fraldas%20Bege%20Bord%C3%B4%20Cinzento%20Velo%20Pvc%20Poli%C3%A9ster",
+            "shop_name": "Dott",
+            "shop_review_count": 123,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-5aa8ad5316e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5aa8ad5316e",
+            "shop_url": "dott.pt",
+            "shop_domain": "dott.pt",
+            "shop_matching_id": "dott.pt",
+            "page": 1,
+            "position": 5
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03800151979579",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:18:47Z"
+      },
+      "content": {
+        "id": "7065526800492725321",
+        "name": "Lorelli Carrinho de Beb\u00e9 Trio 3 Em 1 Lora Set Cinzento",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzAr0vpzNVslOx6SKYNydrM6ILrmzdA-OZdCJq_MHJbRw-k-oMJVsIhfvu1af_0pYY-HmUwJI-tfWeqe6tNnmWlNQLvLyMo7AlOd3z2thQ2F_uvpRo7c9UIJdQkw9K0ZwqClKmloUX6pw94Ya2iyyBg-VKSqTZdyJ3S0agNVsIIWI83YbCq6APmBIx9LGqBFjSB6QGC0dU=s512-pd-pc0x00ffffff",
+        "description": null,
+        "properties": [
+          "Individual"
+        ],
+        "url": "https://www.google.pt/shopping/product/7065526800492725321?hl=pt&gl=pt&sfr=compass",
+        "review_count": 25,
+        "review_rating": 88,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/7065526800492725321/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "7065526800492725321",
+            "price": "329.0",
+            "price_additional_info": [],
+            "price_with_shipping": "344.99",
+            "shipping_costs": "15.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-trio-lorelli-3-em-1-lora-set-cinzento-MRKEAN-3800151979579",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03800931042325",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:18:47Z"
+      },
+      "content": {
+        "id": "166588608572561764",
+        "name": "Chipolino Carrinho de G\u00e9meos Maxi Mix Bege (0+ meses)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxTabapOVihCFH0aldoIVlXgv9GdS9ERnKt5GnNHAfvgYQmf1btcg7fMyHBgjDosY902IO4m-TnDKVvx3bTvvUQJK2bxVmEJEI3UCIOKoNEPVz31yOnTzZ6PS-rELZbQplgfyUP4fj5bQM_D_UbfbBhHY4fNnOBEooDGDimvtYbfNLyGvQEnfQhQs2NYGoPWRARmxFrTw=s512-pd-pc0x00ffffff",
+        "description": "Silla gemelar, desde beb\u00e9s reci\u00e9n nacidos hasta un peso m\u00e1ximo de 15 kilos cada uno. - Tiene chasis ligero y cierra de forma f\u00e1cil y compacta. - Los respaldos son ajustables en varias posiciones, igual que los reposapi\u00e9s, para dar una gran comodid...",
+        "properties": [
+          "Duplo"
+        ],
+        "url": "https://www.google.pt/shopping/product/166588608572561764?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Vendido por",
+            "value": [
+              "Babyshoppen"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/166588608572561764/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "166588608572561764",
+            "price": "198.1",
+            "price_additional_info": [],
+            "price_with_shipping": "198.1",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-gemeos-chipolino-maxi-mix-bege-0-meses-MRKEAN-3800931042325",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "166588608572561764",
+            "price": "192.12",
+            "price_additional_info": [],
+            "price_with_shipping": "194.12",
+            "shipping_costs": "2.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.carrinhosbaratos.pt/carrinho-de-bebe-robusto-com-saco-de-fraldas-maxi-mix-latte-by-chipolino-2318.html",
+            "shop_name": "Carrinhosbaratos.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-cc7b8a526af",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-cc7b8a526af",
+            "shop_url": "www.carrinhosbaratos.pt",
+            "shop_domain": "carrinhosbaratos.pt",
+            "shop_matching_id": "carrinhosbaratos.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04008600315056",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:18:47Z"
+      },
+      "content": {
+        "id": "3715917266305542943",
+        "name": "Nuk Chupetas Coala / Tigre 18-36m",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxQ5c5ZqSkpDitlPpcVfK9-RQo6WebVn0fX5Vwz7H_KjZpHZa8Hbjryi9dsaf4VkzV9qc4-MB6xSgFkz2tMgOgdq0sR5r9NLQtf1k6PsS1fkvVgRkoP35r2dmlTRGUzJw6PHIGYxHBbufDR6f0RE91xeZKMP0OVOnnaprKBpOLAwL2kHl933nL920FusajAct_Ef0Yn6Q=s512-pd-pc0x00ffffff",
+        "description": "Beb\u00e9s > Acess\u00f3rios para beb\u00e9 > Chupetas",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/3715917266305542943?hl=pt&gl=pt&sfr=compass",
+        "review_count": 46,
+        "review_rating": 96,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/3715917266305542943/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "3715917266305542943",
+            "price": "16.88",
+            "price_additional_info": [],
+            "price_with_shipping": "16.88",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/chupetas/chupetas-nuk-coala-tigre-18-36m-MRKEAN-4008600315056",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719331309541",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:18:46Z"
+      },
+      "content": {
+        "id": "4141285326749248391",
+        "name": "Placa Gr\u00e1fica Gigabyte Aorus Geforce Rtx 3060 Ti Elite 8gb Gddr6",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzMBNBoPPTzrJaXmhPwMd-NcUUUGCkCIApaKmR6wN4K2kClpVl1aH85vt5KHk_7427WHHueC3Cx6S-cnyeXQRFkC3wkh01NV-bl33lO2OYhQg0aDx0hfswvoeT8lUge1IeTDq99Z5mGse1vVcfp5td-44Tth_jBLVKgi21QxB0FgGcEo_0glBRFI9nCrJah0rhQJAAKxEk=s512-pd-pc0x00ffffff",
+        "description": "Gr\u00e1fica Gigabyte GeForce RTX 3060 Ti com LHR 8GB de mem\u00f3ria VRAM GDDR6 Velocidade de Mem\u00f3ria de 14000 MHz CUDA cores 4864 Unidades Limitado a uma unidade por cliente. Independentemente do modelo.",
+        "properties": [
+          "GIGABYTE",
+          "PCI Express",
+          "VGA",
+          "DVI",
+          "HDMI",
+          "DisplayPort",
+          "GDDR",
+          "Placa gr\u00e1fica",
+          "8 pinos",
+          "Suporte para v\u00e1rias placas"
+        ],
+        "url": "https://www.google.pt/shopping/product/4141285326749248391?hl=pt&gl=pt&sfr=compass",
+        "review_count": 179,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Motor Gr\u00e1fico",
+            "value": [
+              "NVIDIA GeForce RTX 3060 Ti"
+            ]
+          },
+          {
+            "label": "Conex\u00e3o Padr\u00e3o",
+            "value": [
+              "PCI Express 4.0"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria",
+            "value": [
+              "8GB GDDR6 - 256 bits"
+            ]
+          },
+          {
+            "label": "Clock de Mem\u00f3ria",
+            "value": [
+              "14 Gbps"
+            ]
+          },
+          {
+            "label": "Interface",
+            "value": [
+              "2x HDMI 2.1; 2x DisplayPort 1.4a; Suporte HDCP 2.3"
+            ]
+          },
+          {
+            "label": "Base Core Clock",
+            "value": [
+              "1665 MHz"
+            ]
+          },
+          {
+            "label": "Boost Core Clock",
+            "value": [
+              "1785 MHz"
+            ]
+          },
+          {
+            "label": "CUDA Core",
+            "value": [
+              "4864"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o M\u00e1xima",
+            "value": [
+              "7680 x 4320"
+            ]
+          },
+          {
+            "label": "Dimens\u00f5es",
+            "value": [
+              "296 x 117 x 56 mm"
+            ]
+          },
+          {
+            "label": "Fonte de Alimenta\u00e7\u00e3o Recomendada",
+            "value": [
+              "650W"
+            ]
+          },
+          {
+            "label": "Nro Monitores simult\u00e2neo",
+            "value": [
+              "4"
+            ]
+          },
+          {
+            "label": "Conector(es)",
+            "value": [
+              "1x 8-pin; 1x 6-pin"
+            ]
+          }
+        ],
+        "offer_count": 10,
+        "offers_url": "https://www.google.pt/shopping/product/4141285326749248391/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "4141285326749248391",
+            "price": "719.89",
+            "price_additional_info": [],
+            "price_with_shipping": "719.89",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.globaldata.pt/grafica-gigabyte-geforce-rtx-3060-ti-aorus-elite-rev2-lhr-8gb-gd6-gvn306tae-00-2",
+            "shop_name": "Globaldata",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-5491307ab20",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5491307ab20",
+            "shop_url": "www.globaldata.pt",
+            "shop_domain": "globaldata.pt",
+            "shop_matching_id": "globaldata.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "4141285326749248391",
+            "price": "779.9",
+            "price_additional_info": [],
+            "price_with_shipping": "779.9",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.pcdiga.com/placa-grafica-gigabyte-aorus-geforce-rtx-3060-ti-elite-8gb-gddr6-rev-2-0-lhr-gv-n306taorus-e-8gd-rev-2-0-",
+            "shop_name": "PCDiga",
+            "shop_review_count": 163,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-f8542fbc9d7",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f8542fbc9d7",
+            "shop_url": "www.pcdiga.com",
+            "shop_domain": "pcdiga.com",
+            "shop_matching_id": "pcdiga.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "4141285326749248391",
+            "price": "562.55",
+            "price_additional_info": [
+              "PRE\u00c7O BAIXO"
+            ],
+            "price_with_shipping": "570.05",
+            "shipping_costs": "7.5",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://greatecno.com/pt/placas-graficas/184631-gigabyte-geforce-rtx-3060-ti-8gb-aorus-elite-2-0-lhr-4719331309541.html?srsltid=AQP2TeOzYzdowdeWhSTSMnojq_qEmT6znmq_lEQCckqAg_eosbecpyObcJc",
+            "shop_name": "GreaTecno",
+            "shop_review_count": 72,
+            "shop_review_rating": 88,
+            "shop_id": "priceapi-c7bb28ea093",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c7bb28ea093",
+            "shop_url": "greatecno.com",
+            "shop_domain": "greatecno.com",
+            "shop_matching_id": "greatecno.com",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "4141285326749248391",
+            "price": "758.9",
+            "price_additional_info": [],
+            "price_with_shipping": "762.9",
+            "shipping_costs": "4.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/informatica-e-acessorios/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-gigabyte-geforce-rtx-3060-ti-nvidia-8-gb-gddr6-MRKEAN-4719331309541",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "4141285326749248391",
+            "price": "769.9",
+            "price_additional_info": [],
+            "price_with_shipping": "769.9",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.novoatalho.pt/pt-PT/produto/50364/Placa-Gr%C3%A1fica-Gigabyte-GeForce%C2%AE-RTX-3060-Ti-AORUS-ELITE-8GB-LHR-Rev2-0.html",
+            "shop_name": "Novo Atalho",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ba9dba739ca",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ba9dba739ca",
+            "shop_url": "www.novoatalho.pt",
+            "shop_domain": "novoatalho.pt",
+            "shop_matching_id": "novoatalho.pt",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "4141285326749248391",
+            "price": "689.9",
+            "price_additional_info": [
+              "PRE\u00c7O BAIXO"
+            ],
+            "price_with_shipping": "693.9",
+            "shipping_costs": "4.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://youget.pt/pt/placa-grafica-gigabyte-aorus-geforce-rtx-3060-ti-elite-8gb-gddr6-rev-20-lhr?srsltid=AQP2TeNozLoq6WYwM1M_W2H_lFFyD08lmyN2vsQhUhd7k7725q7qXrlbZ5c",
+            "shop_name": "You Get",
+            "shop_review_count": 213,
+            "shop_review_rating": 96,
+            "shop_id": "priceapi-11e283f1958",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-11e283f1958",
+            "shop_url": "youget.pt",
+            "shop_domain": "youget.pt",
+            "shop_matching_id": "youget.pt",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "4141285326749248391",
+            "price": "806.99",
+            "price_additional_info": [],
+            "price_with_shipping": "809.98",
+            "shipping_costs": "2.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tradeinn.com/techinn/pt/gigabyte-placa-grafica-rtx-3060ti-aorus-elite-lhr-8gb-gddr6/138298909/p?utm_source=google_products&utm_medium=merchant&id_producte=13953055&country=pt",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 464,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.tradeinn.com",
+            "shop_domain": "tradeinn.com",
+            "shop_matching_id": "tradeinn.com",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "4141285326749248391",
+            "price": "799.99",
+            "price_additional_info": [],
+            "price_with_shipping": "799.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mbit.pt/informatica/componentes/vga/gigabyte-aorus-geforce-rtx-3060-ti-elite-8g-nvidia-8-gb-gddr?srsltid=AQP2TePIUOxy08rMtgW5qsw6WY8I5mh45791MOBY0xlfMaCkpLP4HuesUjI",
+            "shop_name": "Mbit",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b05b7d92646",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b05b7d92646",
+            "shop_url": "www.mbit.pt",
+            "shop_domain": "mbit.pt",
+            "shop_matching_id": "mbit.pt",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "4141285326749248391",
+            "price": "863.56",
+            "price_additional_info": [],
+            "price_with_shipping": "867.55",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://dott.pt/pt/products/gigabyte-placa-grafica-rtx-3060ti-aorus-elite-lhr-8gb-gddr6-952b33d5-db66-4a66-b912-5d8a94e453ec?utm_source=google-shopping&utm_medium=organic&utm_campaign=Placas%20gr%C3%A1ficas%20e%20V%C3%ADdeo%20%3E%20Componentes%20inform%C3%A1ticos%20%3E%20Inform%C3%A1tica%20e%20Eletr%C3%B3nica&utm_content=Gigabyte%20Aorus%20Geforce%20Rtx%203060%20Ti%20Elite%208G%20Nvidia%208%20Gb%20Gddr6",
+            "shop_name": "Dott",
+            "shop_review_count": 123,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-5aa8ad5316e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5aa8ad5316e",
+            "shop_url": "dott.pt",
+            "shop_domain": "dott.pt",
+            "shop_matching_id": "dott.pt",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "4141285326749248391",
+            "price": "803.26",
+            "price_additional_info": [],
+            "price_with_shipping": "809.75",
+            "shipping_costs": "6.49",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.minfo.pt/product/b-4719331309541-gv-n306taorus-e-8gd-gigabyte-aorus-geforce-rtx-3060",
+            "shop_name": "Minfo.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-7569bd876cd",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-7569bd876cd",
+            "shop_url": "www.minfo.pt",
+            "shop_domain": "minfo.pt",
+            "shop_matching_id": "minfo.pt",
+            "page": 1,
+            "position": 10
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05902581652850",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:18:47Z"
+      },
+      "content": {
+        "id": "16591001782182132029",
+        "name": "Lionelo Cadeira Auto Lars Candy Pink 2/3",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwH0ysYW7kqGdRvV2Mlfezf1q_LAmRJQ1xm7RIfVK1knyq7Qby--i3ZsIrjXjI7OStS9rMeVJ37Z0ajuwdChiQ1GuD9PlD4NOk4M2p8NcYDTHk5X42OW8QGUo5WePHxt_tk5oBKuwtvSk6-LJWlOOwXPV0quXFPJ3NR4WdRVE3am6jbszjPnsE8aWYx0fgUEOtIpiLac98=s512-pd-pc0x00ffffff",
+        "description": "Lars \u00e9 uma cadeira auto para crian\u00e7a, segura e f\u00e1cil de instalar. O apoio de cabe\u00e7a amplo e aprofundado aumenta significativamente a seguran\u00e7a do passageiro pequeno. Os pain\u00e9is especiais absorvem a for\u00e7a do impacto durante um impacto lateral ou tr...",
+        "properties": [
+          "Virada para frente",
+          "Cadeira",
+          "Rosa"
+        ],
+        "url": "https://www.google.pt/shopping/product/16591001782182132029?hl=pt&gl=pt&sfr=compass",
+        "review_count": 3,
+        "review_rating": 80,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/16591001782182132029/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "16591001782182132029",
+            "price": "63.5",
+            "price_additional_info": [],
+            "price_with_shipping": "63.5",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-lionelo-lars-candy-pink-grupo-2-3-MRKEAN-5902581652850",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "16591001782182132029",
+            "price": "64.99",
+            "price_additional_info": [],
+            "price_with_shipping": "70.13",
+            "shipping_costs": "5.14",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp19054182/Cadeira-Auto-Lionelo-Lars-Candy-Rosa-15-36-Kg/w-4?oref=41d588c8-35c8-0d41-9947-ccbbecc6211b",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05903771702225",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:18:46Z"
+      },
+      "content": {
+        "id": "7371844347059769951",
+        "name": "Zopa Cadeira Auto Lionelo Preto Carbon (Vermelho)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkyYibelCQc3guPjBhE2xt5XuJx9pVs13hcs4SbZq206uyDLrn6Caa0WycZRndvE7Qt0TEkiHD0srz6R2EjZvxQk8YEcWwErWm9ERTOawmky74xBpi2m-elGm5ekLgGFBbDX5eJbu9_rAZAoTbVZuH2F16xazxjzr_U5hJRaBCDmz4PmnksQiwN83D3yLQ1WsYym_MZY=s512-pd-pc0x00ffffff",
+        "description": "Puericultura - Passeio Cadeiras Auto, Porta-Beb\u00e9s",
+        "properties": [
+          "Virada para tr\u00e1s / frente",
+          "Assentos e cadeiras",
+          "Cadeira"
+        ],
+        "url": "https://www.google.pt/shopping/product/7371844347059769951?hl=pt&gl=pt&sfr=compass",
+        "review_count": 1,
+        "review_rating": 100,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/7371844347059769951/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "7371844347059769951",
+            "price": "133.0",
+            "price_additional_info": [],
+            "price_with_shipping": "133.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-zopa-lionelo-preto-carbon-vermelho-MRKEAN-5903771702225",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "7371844347059769951",
+            "price": "133.0",
+            "price_additional_info": [],
+            "price_with_shipping": "138.14",
+            "shipping_costs": "5.14",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp21920638/Cadeira-Auto-Lionelo-Grupo-0-1-2-3-Aart-Black-Carbon-Red/w-4?oref=afc3ba77-e6d4-80e6-1771-6fc56e3a2375",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05908214734399",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:18:46Z"
+      },
+      "content": {
+        "id": "5077429273229582432",
+        "name": "Colibro Mochila de Martenidade Pop Onyx",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxQNk8feD5ONcpMIgKM-DipkQYl6epl3lrUEL8wjbMWR1hFDkodH5nS8WptLJsJaQSpcUZPlDa7-wQRPLn_lVDmzq7t7jpHWsvUjoPCi6qcSE7W5Dx-MNcclcIGdBEJy9O1UVy8Z8wio7HRIcCy0Fows5p2DP7fYO5cMhG7Sn0Inn8i0LP5doIbgE6m6N-jNWxVMmD6Ww=s512-pd-pc0x00ffffff",
+        "description": "A mochila de carrinho de beb\u00e9 POP da COLIBRO \u00e9 a bolsa perfeita para mam\u00e3, que pode ser utilizada em todos os tipos de carrinhos de beb\u00e9, tanto para caminhadas quanto para utiliza\u00e7\u00f5es multifuncionais. A bolsa \u00e9 feita de tecido ekolen, f\u00e1cil de lim...",
+        "properties": [
+          "Couro",
+          "Onyx"
+        ],
+        "url": "https://www.google.pt/shopping/product/5077429273229582432?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/5077429273229582432/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "5077429273229582432",
+            "price": "42.5",
+            "price_additional_info": [],
+            "price_with_shipping": "47.64",
+            "shipping_costs": "5.14",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp19056588/Mochila-Colibro-Pop-Onyx/w-4?oref=de3e73d6-0adc-2db9-e88c-7e875905880e",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "5077429273229582432",
+            "price": "47.0",
+            "price_additional_info": [],
+            "price_with_shipping": "47.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/malas-e-bolsas-de-passeio/mochila-de-martenidade-colibro-pop-onyx-MRKEAN-5908214734399",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05949105001213",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:18:47Z"
+      },
+      "content": {
+        "id": "15893317246264340520",
+        "name": "Cocolle Carrinho de Beb\u00e9 Duo Oppa (Bege)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkymkykhWB4ei14Edy-_Gf0MsleJGxteMQZgZ8jrsDoTE3TFqEREF0Xds34gRn5KeaOWXt5VVoobgsiSIZ8cLT2XYoQ7QP9X2jubVkwt9oO8KtlK9FR7mJtWCJzIstTZJKtkJigtCMzUE-cWUv3qbalJcaR6mZMco15DJqAWXMXNAYrE2r_j0P4xQ7VxBXG-aV21s4efqnQ=s512-pd-pc0x00ffffff",
+        "description": "Coccolle Oppa Stroller \u00e9 um carrinho espa\u00e7oso e multifuncional, projetado por alta tecnologia, composto por uma unidade desportiva de assento transform\u00e1vel, ideal para caminhadas desde o primeiro dia de nascimento Os passeios s\u00e3o saud\u00e1veis para os...",
+        "properties": [
+          "Duplo",
+          "Para terrenos irregulares"
+        ],
+        "url": "https://www.google.pt/shopping/product/15893317246264340520?hl=pt&gl=pt&sfr=compass",
+        "review_count": 5,
+        "review_rating": 92,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/15893317246264340520/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "15893317246264340520",
+            "price": "189.0",
+            "price_additional_info": [],
+            "price_with_shipping": "189.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-duo-cocolle-oppa-bege-MRKEAN-5949105001213",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "15893317246264340520",
+            "price": "197.0",
+            "price_additional_info": [],
+            "price_with_shipping": "202.14",
+            "shipping_costs": "5.14",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp21861283/Sistema-de-Viagem-2-em-1-Coccolle-Oppa-Beige/w-4?oref=4979a3d5-e5c0-7c33-9015-6704a11b6586",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08058664106844",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:18:48Z"
+      },
+      "content": {
+        "id": "14148971550090658070",
+        "name": "Chicco Cadeira Auto Cosmos Jet Black",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxiPIsJi1-XWZAAAWjhE6o5pkdqUvx_ZOcXbV6nnSLemhPL3CjTY3TmiXG8LxCmmKFssLVfy8Ft65BxczENE1qc2gQx1kvs84Ggstli5URKDe2QXqhBG43kn0HDkFRnvm18ojRkP2FYJLJmSJpdU81sPmM36ywlzl4JUs8qym8yEd3U_mdUVUldNh-PppTmDL1Qta6E=s512-pd-pc0x00ffffff",
+        "description": "A Cadeira Auto Chicco Cosmos Jet Black est\u00e1 homologada para o Gr. 0+/1 (0-18 kg) de acordo com a norma ECE R44/04. \u00c9 uma cadeira que acompanha os mais pequenos \u00e0 medida que crescem, desde o nascimento at\u00e9 aos 4 anos. A forma arredondada e ergon\u00f3mi...",
+        "properties": [
+          "Virada para tr\u00e1s",
+          "Cadeira",
+          "Qtd. 51"
+        ],
+        "url": "https://www.google.pt/shopping/product/14148971550090658070?hl=pt&gl=pt&sfr=compass",
+        "review_count": 69,
+        "review_rating": 90,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Fabricante/Marca",
+            "value": [
+              "Chicco"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/14148971550090658070/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "14148971550090658070",
+            "price": "112.63",
+            "price_additional_info": [],
+            "price_with_shipping": "112.63",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-chicco-jet-black-MRKEAN-8058664106844",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08424568023950",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:18:46Z"
+      },
+      "content": {
+        "id": "3935771538377852328",
+        "name": "SARO Organizador Para Carro",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzYBC_DenQWbwGRiTpLjcu-tOFQiutmDVdqu6b4w9a4iAGV8W0wZwtGpRFRZ7n28NE4bjlkTOLwr44hNM_ZxLhHwgKF9uCHvgdRco4KE7dpeTUA3N9MOfiZZb-MELvue5WikJ3jO1nvRTKtQyKe36VUJKOA4AUobHa1slC4pnYEEZulYjIEdrrzbSPmWqVXhSh_8s87Hg=s512-pd-pc0x00ffffff",
+        "description": "O organizador para o carro Saro \u00e9 adequado para qualquer carro. Super \u00fatil. Tudo ordenado em 5 compartimentos. 2 cabides com velcro. F\u00e1cil coloca\u00e7\u00e3o. Adequado para qualquer carro.",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/3935771538377852328?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 6,
+        "offers_url": "https://www.google.pt/shopping/product/3935771538377852328/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "3935771538377852328",
+            "price": "18.49",
+            "price_additional_info": [],
+            "price_with_shipping": "21.48",
+            "shipping_costs": "2.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tradeinn.com/kidinn/pt/saro-organizador-automatico/137725504/p?utm_source=google_products&utm_medium=merchant&id_producte=11540259&country=pt",
+            "shop_name": "Kidinn.com",
+            "shop_review_count": 464,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-dd083500dd4",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-dd083500dd4",
+            "shop_url": "www.tradeinn.com",
+            "shop_domain": "tradeinn.com",
+            "shop_matching_id": "tradeinn.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "3935771538377852328",
+            "price": "29.99",
+            "price_additional_info": [],
+            "price_with_shipping": "33.98",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://zippyonline.com/pt/organizador-para-automovel-saro/6812668.html?LGWCODE=6812668;114169;9295",
+            "shop_name": "ZIPPY",
+            "shop_review_count": 257,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-1603146d07a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-1603146d07a",
+            "shop_url": "zippyonline.com",
+            "shop_domain": "zippyonline.com",
+            "shop_matching_id": "zippyonline.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "3935771538377852328",
+            "price": "17.87",
+            "price_additional_info": [],
+            "price_with_shipping": "20.67",
+            "shipping_costs": "2.8",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://lojazero.com/saro-organizador-de-brinquedos-para-automovel-50759.html",
+            "shop_name": "lojazero.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-e85f1171784",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e85f1171784",
+            "shop_url": "lojazero.com",
+            "shop_domain": "lojazero.com",
+            "shop_matching_id": "lojazero.com",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "3935771538377852328",
+            "price": "21.1",
+            "price_additional_info": [],
+            "price_with_shipping": "21.1",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp19055158/Organizador-para-Carro-Saro/w-4?oref=6d89608c-2cf4-b808-541d-bb9b1f479ee5",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "3935771538377852328",
+            "price": "22.3",
+            "price_additional_info": [],
+            "price_with_shipping": "26.29",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://farmacianaweb.pt/saro-organizador-para-carro.html",
+            "shop_name": "Farmacianaweb",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f70798bcf90",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f70798bcf90",
+            "shop_url": "farmacianaweb.pt",
+            "shop_domain": "farmacianaweb.pt",
+            "shop_matching_id": "farmacianaweb.pt",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "3935771538377852328",
+            "price": "23.99",
+            "price_additional_info": [],
+            "price_with_shipping": "23.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/organizador-para-automovel-saro-MRKEAN-8424568023950",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 6
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08435428720193",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:18:48Z"
+      },
+      "content": {
+        "id": "5399139687262538785",
+        "name": "Homcom Triciclo Preto (74x49x55cm)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzdeMgPHTtjAWI9ety9w3fGODNjUhZ8uEOE59lE0K9GNRU1PoYL0o5q6cXgXivrT74G7EVZjypzGxiJailOEy4CvpQrdOh4A18kjFG7JmKGDIVwd7P96ejzNYMO2DtchGu2kokR1EBGApesUsjKVQy01aIC-DlVvLIP5KLL21KgSm0WLrPCaPIWSsfz9Ho_-gL7y7f8ZQ=s512-pd-pc0x00ffffff",
+        "description": "Apresentamos-lhe este modelo de Triciclo para crian\u00e7as multi-equipado com guarda-lamas na roda da frente, rodinhas de seguran\u00e7a, para evitar que as crian\u00e7as caiam, e uma campainha. \u00c9 muito est\u00e1vel e seguro, al\u00e9m de ser \u00fatil, pois permite que os se...",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/5399139687262538785?hl=pt&gl=pt&sfr=compass",
+        "review_count": 26,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "SIN",
+            "value": [
+              "153PV9AJJ3000"
+            ]
+          }
+        ],
+        "offer_count": 8,
+        "offers_url": "https://www.google.pt/shopping/product/5399139687262538785/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "5399139687262538785",
+            "price": "44.99",
+            "price_additional_info": [],
+            "price_with_shipping": "44.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.aosom.pt/item/homcom-triciclo-para-criancas-aima-de-18-meses-com-campainha-rodas-de-seguranca-74-x-49-x-55-cm-preto~370-024BK.html?utm_source=google&utm_medium=cpc&utm_campaign=google_shopping",
+            "shop_name": "Aosom Portugal",
+            "shop_review_count": 166,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-59e6560ba9a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-59e6560ba9a",
+            "shop_url": "www.aosom.pt",
+            "shop_domain": "aosom.pt",
+            "shop_matching_id": "aosom.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "5399139687262538785",
+            "price": "44.9",
+            "price_additional_info": [],
+            "price_with_shipping": "47.9",
+            "shipping_costs": "3.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.toysrus.pt/Homcom-Triciclo-Preto-HomCom/p/K1031313",
+            "shop_name": "ToysRus Portugal",
+            "shop_review_count": 646,
+            "shop_review_rating": 88,
+            "shop_id": "priceapi-dbd3c3b79b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-dbd3c3b79b1",
+            "shop_url": "www.toysrus.pt",
+            "shop_domain": "toysrus.pt",
+            "shop_matching_id": "toysrus.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "5399139687262538785",
+            "price": "44.49",
+            "price_additional_info": [],
+            "price_with_shipping": "44.49",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/triciclos-para-bebe/triciclo-homcom-preto-74x49x55cm-MRKEAN-8435428720193",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "5399139687262538785",
+            "price": "44.72",
+            "price_additional_info": [],
+            "price_with_shipping": "44.72",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://habitium.pt/bicicletas/triciclo-para-criancas-preto-homcom.html?land=&dfw_tracker=89522-410632",
+            "shop_name": "Habitium.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-98d9b8568be",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-98d9b8568be",
+            "shop_url": "habitium.pt",
+            "shop_domain": "habitium.pt",
+            "shop_matching_id": "habitium.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "5399139687262538785",
+            "price": "45.31",
+            "price_additional_info": [],
+            "price_with_shipping": "45.31",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.planetahuerto.pt/venda-triciclo-para-criancas-acima-de-18-meses-com-campainha-rodas-de-seguranca-74x49x55-cm-preto-homcom_212600?srsltid=AQP2TeNzhUM-1MYJUT4qWFkAZ_QdX7CKa8b28ZctXv_drKguc-7R3fFm1Sk",
+            "shop_name": "Planeta Huerto",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4b6739d069f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4b6739d069f",
+            "shop_url": "www.planetahuerto.pt",
+            "shop_domain": "planetahuerto.pt",
+            "shop_matching_id": "planetahuerto.pt",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "5399139687262538785",
+            "price": "44.99",
+            "price_additional_info": [],
+            "price_with_shipping": "44.99",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.bigstore.pt/compra/triciclo-para-criancas-a-partir-dos-18-meses%E2%80%93-cor-preto%E2%80%93-ferro-7535",
+            "shop_name": "Bigstore.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d21c4bd6356",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d21c4bd6356",
+            "shop_url": "www.bigstore.pt",
+            "shop_domain": "bigstore.pt",
+            "shop_matching_id": "bigstore.pt",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "5399139687262538785",
+            "price": "47.99",
+            "price_additional_info": [],
+            "price_with_shipping": "47.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp17998462/Triciclo-HomCom-18-Meses-Ferro-Plastico-e-Tela-74x49x55-cm-Preto/w-4?oref=f0498443-8614-ad15-c485-962c99be8a95",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "5399139687262538785",
+            "price": "50.3",
+            "price_additional_info": [],
+            "price_with_shipping": "54.29",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://dott.pt/pt/products/triciclo-para-criancas-a-partir-dos-18-meses-cor-preto-ferro-plastico-e-tela-74-x-49-x-55-cm-aa080950-b0fb-4ef5-8b26-5382d2a3836e?utm_source=google-shopping&utm_medium=organic&utm_campaign=Ar%20livre%20e%20Praia%20%3E%20Brinquedos%20%3E%20Beb%C3%A9%20Crian%C3%A7a%20e%20Brinquedos&utm_content=Triciclo%20para%20Crian%C3%A7as%2074x49x55%20cm%20Preto",
+            "shop_name": "Dott",
+            "shop_review_count": 123,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-5aa8ad5316e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5aa8ad5316e",
+            "shop_url": "dott.pt",
+            "shop_domain": "dott.pt",
+            "shop_matching_id": "dott.pt",
+            "page": 1,
+            "position": 8
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08436579231040",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:18:46Z"
+      },
+      "content": {
+        "id": "9993580189438628830",
+        "name": "Star Ibaby Cadeira Auto Safe-Fix 2 em 1",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwXAlSQniUm-gG9cW_ZZ515XFH3pszUw_XsR4IUT_reTZbgsdntohH44n2ZAy9CfAv8KBmo1X7F1A7l5yG4Zrv5hjKpsHJxLRB015wFMfFQzhOTY7co9x6froQLt9AAHWfjTsCeGmxYwrFDb5lWoINT_QNh_58py-Oip37q-kr85MGqUI8XFZj4k0KVN48XtLCDAfBqdQ=s512-pd-pc0x00ffffff",
+        "description": "Cadeira de Auto Babify SafeFix, adapta-se perfeitamente a qualquer situa\u00e7\u00e3o: esta cadeira de auto 2 em 1 cresce com a crian\u00e7a, dos 9 meses at\u00e9 aos 12 anos de idade. Para crian\u00e7as acima de 18 kg, pode transformar-se facilmente num assento do Grupo ...",
+        "properties": [
+          "Virada para frente",
+          "Cadeira"
+        ],
+        "url": "https://www.google.pt/shopping/product/9993580189438628830?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/9993580189438628830/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "9993580189438628830",
+            "price": "89.95",
+            "price_additional_info": [],
+            "price_with_shipping": "89.95",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-star-ibaby-safe-fix-2-em-1-grupo-1-2-3-MRKEAN-8436579231040",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08436579231231",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:18:46Z"
+      },
+      "content": {
+        "id": "10887642486552496965",
+        "name": "Babify Cadeira Auto Sps + Isofix Convers\u00edvel para Elevador (Grupo 2/3)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwHsJwvgtK99UOya_N7mFiShZp8SlsAUioaNx88SQxMRQBWVpC0_Mnca7RFAf935J2nAkl1Cuc69pVWFEfVMonI2G0oFq6G2t-nopu-0k_C-OzKX0dqfV0Ef1IsMHrzGmAnPv_hrsZewo3Bx7m7zyvLR_87bYdrW4NJTYb3pQAPjmvEVzuUjHlrrjGUgZusbiH8Hho-qDo=s512-pd-pc0x00ffffff",
+        "description": "Babify Urban Fix \u00e9 a cadeira auto Isofix que ir\u00e1 acompanhar o seu filho dos 3 aos 12 anos de idade. Ajusta-se ao crescimento da crian\u00e7a de 15 a 36 kg. Tem o Isofix e agora no novo modelo tamb\u00e9m inclui o sistema de protec\u00e7\u00e3o lateral SPS.Ancoragens ...",
+        "properties": [
+          "Virada para frente",
+          "Assento de eleva\u00e7\u00e3o"
+        ],
+        "url": "https://www.google.pt/shopping/product/10887642486552496965?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/10887642486552496965/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10887642486552496965",
+            "price": "72.95",
+            "price_additional_info": [],
+            "price_with_shipping": "72.95",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-babify-sps-isofix-conversivel-para-elevador-grupo-2-3-MRKEAN-8436579231231",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08436579231675",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:18:47Z"
+      },
+      "content": {
+        "id": "3755076415645673163",
+        "name": "Babify Cadeira Auto Hybrid Preta (Grupo 1/2/3)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkyTZrVHMjBttfoJJ2lnmEshFtS1kOQmQXZbNizX_EDEc48jePwL4VjufPIm4QTw3chtdsFKbzRhCHT3QfjylZBK6wI9aXNPDmoS5ZJGGDWaMD9yZUoWSlfT2GDtRHAgqPyol6negiQeISforIlEZd64awSj1GMOu99-q4X8F2AjHpmM5rI0ysb-APYDmmoXtkxZbhM2Xg=s512-pd-pc0x00ffffff",
+        "description": null,
+        "properties": [
+          "Virada para frente",
+          "Cadeira"
+        ],
+        "url": "https://www.google.pt/shopping/product/3755076415645673163?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/3755076415645673163/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "3755076415645673163",
+            "price": "132.97",
+            "price_additional_info": [],
+            "price_with_shipping": "132.97",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-babify-hybrid-preta-grupo-1-2-3-MRKEAN-8436579231675",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08710103901754",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:18:47Z"
+      },
+      "content": {
+        "id": "17160493135552812638",
+        "name": "Philips Avent 2 Chupetas Ultra Air Night 0-6M SCF376/12",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHky9Jcj5rxzn7BWrfuisMXHexrtnc82f1SJY_w_iew5CsBG3kX4ADvSt1N9bGWsxv6P5i-KvxIOrxg8sibZzZYk_u9Dh_KovNwJ7-d-BdXTquzq3MKg40dTX5STClCA8xT56mw7Fe8MZjj6UvkPB4Xn_i20m2T4u2I985TYMNW7kfKp-vQLKpMT1gpx2BaUWxmVkJuWrEQM=s512-pd-pc0x00ffffff",
+        "description": "Philips Avent Ultra Air Night Chupeta \u00e9 uma chupeta leve com a tetina em silicone suave, orif\u00edcios de ventila\u00e7\u00e3o extra grandes e f\u00e1cil de encontrar de noite, para beb\u00eas dos 0 aos 6 meses. Tetina fisiol\u00f3gica, ortodontica e colaps\u00e1vel, que se adapta...",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/17160493135552812638?hl=pt&gl=pt&sfr=compass",
+        "review_count": 6217,
+        "review_rating": 92,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Forma da tetina",
+            "value": [
+              "Ortodontia"
+            ]
+          },
+          {
+            "label": "Material do bico",
+            "value": [
+              "Silicone"
+            ]
+          },
+          {
+            "label": "G\u00e9nero recomendado",
+            "value": [
+              "Menino/Menina"
+            ]
+          },
+          {
+            "label": "Idade recomendada (m\u00e1x.)",
+            "value": [
+              "6 m\u00eas (meses)"
+            ]
+          },
+          {
+            "label": "Sem Bisphenol A (BPA)",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Sistema com anel de seguran\u00e7a",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Ferro com design ergon\u00f3mico",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Quantidade por conjunto",
+            "value": [
+              "2 pe\u00e7a(s)"
+            ]
+          },
+          {
+            "label": "Pode ser lavado na m\u00e1quina de lavar loi\u00e7a",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "F\u00e1cil de limpar",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "F\u00e1cil de esterilizar",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Furos de ventila\u00e7\u00e3o",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Mala de transporte",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Esterilizador",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Pode ser esterilizado",
+            "value": [
+              "Sim"
+            ]
+          }
+        ],
+        "offer_count": 20,
+        "offers_url": "https://www.google.pt/shopping/product/17160493135552812638/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "17160493135552812638",
+            "price": "7.99",
+            "price_additional_info": [],
+            "price_with_shipping": "7.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.vertbaudet.pt/lote-de-2-chupetas-de-noite-ultra-air-1-idade-da-philips-avent-azul-medio-liso-com-motivo.htm?ProductId=703230377&FiltreCouleur=6410",
+            "shop_name": "Vertbaudet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-66f42df3c63",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-66f42df3c63",
+            "shop_url": "www.vertbaudet.pt",
+            "shop_domain": "vertbaudet.pt",
+            "shop_matching_id": "vertbaudet.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "17160493135552812638",
+            "price": "5.49",
+            "price_additional_info": [],
+            "price_with_shipping": "8.48",
+            "shipping_costs": "2.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tradeinn.com/kidinn/pt/philips-avent-ultra-air-pacifier-x2/137606360/p?utm_source=google_products&utm_medium=merchant&id_producte=10934424&country=pt",
+            "shop_name": "Kidinn.com",
+            "shop_review_count": 464,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-dd083500dd4",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-dd083500dd4",
+            "shop_url": "www.tradeinn.com",
+            "shop_domain": "tradeinn.com",
+            "shop_matching_id": "tradeinn.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "17160493135552812638",
+            "price": "6.45",
+            "price_additional_info": [],
+            "price_with_shipping": "9.95",
+            "shipping_costs": "3.5",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.farmacia4estaciones.es/pt/chupetas/1028179-avent-manequim-nocturno-0-6m-ultra-air-scf376-12.html?srsltid=AQP2TeNPdJOOPimacCwRLBbOB4Y6peN9QG17_qocwbU-mmmkFSU1m2A6gkA",
+            "shop_name": " .Farmacia 4 Estaciones",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-e9f84e18e5e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e9f84e18e5e",
+            "shop_url": "www.farmacia4estaciones.es",
+            "shop_domain": "farmacia4estaciones.es",
+            "shop_matching_id": "farmacia4estaciones.es",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "17160493135552812638",
+            "price": "7.36",
+            "price_additional_info": [
+              "PROMO\u00c7\u00c3O"
+            ],
+            "price_with_shipping": "10.56",
+            "shipping_costs": "3.2",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://pt.lordelo.com/produtos/6370650/",
+            "shop_name": "Pt.Lordelo",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-e051d2aa5e5",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e051d2aa5e5",
+            "shop_url": "pt.lordelo.com",
+            "shop_domain": "lordelo.com",
+            "shop_matching_id": "lordelo.com",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "17160493135552812638",
+            "price": "7.0",
+            "price_additional_info": [],
+            "price_with_shipping": "11.9",
+            "shipping_costs": "4.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.sanareva.pt/avent-chupeta-ultra-aerada-noite-estrelada-rosa-e-urso-violeta-azul-0-6m-lote-de-2.html?___store=pt_pt&srsltid=AQP2TeNJDAJAV3X49S_QC6TaEhTP2LhFdKE6WueJ8eDuyLcZ8CPKo_xRXfQ",
+            "shop_name": "Sanareva.pt",
+            "shop_review_count": 365,
+            "shop_review_rating": 88,
+            "shop_id": "priceapi-12266887058",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12266887058",
+            "shop_url": "www.sanareva.pt",
+            "shop_domain": "sanareva.pt",
+            "shop_matching_id": "sanareva.pt",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "17160493135552812638",
+            "price": "6.8",
+            "price_additional_info": [],
+            "price_with_shipping": "9.79",
+            "shipping_costs": "2.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.nutritienda.com/pt/avent/chupetas-noturnas-ultra-air-silicone-0-6m-rosa-2-uds/286070",
+            "shop_name": ".Nutritienda",
+            "shop_review_count": 242,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-ae7ca76771b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ae7ca76771b",
+            "shop_url": "www.nutritienda.com",
+            "shop_domain": "nutritienda.com",
+            "shop_matching_id": "nutritienda.com",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "17160493135552812638",
+            "price": "6.95",
+            "price_additional_info": [],
+            "price_with_shipping": "6.95",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://farmaciabarata.pt/chupetas/avent-chupete-noite-hora-0-6-m-2-uds.html",
+            "shop_name": "FarmaciaBarataPT",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-45c5816896d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-45c5816896d",
+            "shop_url": "farmaciabarata.pt",
+            "shop_domain": "farmaciabarata.pt",
+            "shop_matching_id": "farmaciabarata.pt",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "17160493135552812638",
+            "price": "8.79",
+            "price_additional_info": [
+              "PROMO\u00c7\u00c3O"
+            ],
+            "price_with_shipping": "12.69",
+            "shipping_costs": "3.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elcorteingles.pt/bebes/A33295401-chupeta-ultra-air-noturnos-ligeira-0-6-m-roxarosa/?ref=001006821103238%20&feed=true",
+            "shop_name": "El Corte Ingl\u00e9s",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-59e992a5443",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-59e992a5443",
+            "shop_url": "www.elcorteingles.pt",
+            "shop_domain": "elcorteingles.pt",
+            "shop_matching_id": "elcorteingles.pt",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "17160493135552812638",
+            "price": "8.99",
+            "price_additional_info": [],
+            "price_with_shipping": "8.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/chupetas/conjunto-2-chupetas-philips-avent-0-6m-ultra-air-night-time-menina-MRKEAN-8710103901754",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "17160493135552812638",
+            "price": "8.99",
+            "price_additional_info": [
+              "REDU\u00c7\u00c3O NO PRE\u00c7O"
+            ],
+            "price_with_shipping": "8.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://farmacianovadamaia.pt/pt/chupetas/8659-philips-avent-chupeta-ultra-air-menina-night-0-6-meses-2unid-8710103901754.html?utm_source=google&utm_medium=free_merchant",
+            "shop_name": "Farm\u00e1cia Nova da Maia",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ae41cc375da",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ae41cc375da",
+            "shop_url": "farmacianovadamaia.pt",
+            "shop_domain": "farmacianovadamaia.pt",
+            "shop_matching_id": "farmacianovadamaia.pt",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "17160493135552812638",
+            "price": "9.34",
+            "price_additional_info": [],
+            "price_with_shipping": "12.74",
+            "shipping_costs": "3.4",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.go-farma.com/pt/bebe-e-mama/philips-avent/2-chupetas-ultra-air-girl-0-6m_p5838.html",
+            "shop_name": "GO-farma",
+            "shop_review_count": 194,
+            "shop_review_rating": 98,
+            "shop_id": "priceapi-b0da50acf3c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b0da50acf3c",
+            "shop_url": "www.go-farma.com",
+            "shop_domain": "go-farma.com",
+            "shop_matching_id": "go-farma.com",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "17160493135552812638",
+            "price": "11.8",
+            "price_additional_info": [
+              "REDU\u00c7\u00c3O NO PRE\u00c7O"
+            ],
+            "price_with_shipping": "11.8",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp18336892/Chupeta-Philips-AVENT-Chupeta-ultra-air-com-botao-que-brilha-no-escuro/w-4?oref=750cc7dc-d4e4-48b7-54c0-007bf66faa7f",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 12
+          },
+          {
+            "id": null,
+            "product_id": "17160493135552812638",
+            "price": "11.49",
+            "price_additional_info": [],
+            "price_with_shipping": "16.48",
+            "shipping_costs": "4.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.prenatal.pt/produtos/chupeta-ultra-air-night-0-6m-feminino-2pcs-avent",
+            "shop_name": "Prenatal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3e6d325cbdc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3e6d325cbdc",
+            "shop_url": "www.prenatal.pt",
+            "shop_domain": "prenatal.pt",
+            "shop_matching_id": "prenatal.pt",
+            "page": 1,
+            "position": 13
+          },
+          {
+            "id": null,
+            "product_id": "17160493135552812638",
+            "price": "12.99",
+            "price_additional_info": [],
+            "price_with_shipping": "16.98",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://zippyonline.com/pt/chupeta-ultra-air-0-6m-silicone-philips-avent-2-un./7042604.html?LGWCODE=7042604;114169;9295",
+            "shop_name": "ZIPPY",
+            "shop_review_count": 257,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-1603146d07a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-1603146d07a",
+            "shop_url": "zippyonline.com",
+            "shop_domain": "zippyonline.com",
+            "shop_matching_id": "zippyonline.com",
+            "page": 1,
+            "position": 14
+          },
+          {
+            "id": null,
+            "product_id": "17160493135552812638",
+            "price": "13.04",
+            "price_additional_info": [],
+            "price_with_shipping": "16.03",
+            "shipping_costs": "2.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://nutribio.pt/loja/chupete-nocturno-0-6meses-rosa-2ud-scf37612/",
+            "shop_name": "Nutribio",
+            "shop_review_count": 234,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-fd40e2449c9",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fd40e2449c9",
+            "shop_url": "nutribio.pt",
+            "shop_domain": "nutribio.pt",
+            "shop_matching_id": "nutribio.pt",
+            "page": 1,
+            "position": 15
+          },
+          {
+            "id": null,
+            "product_id": "17160493135552812638",
+            "price": "9.4",
+            "price_additional_info": [],
+            "price_with_shipping": "13.3",
+            "shipping_costs": "3.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://lojadafarmacia.com/pt/artigo/philips-avent-chup-sl-ult0-6m-nt-girlx2?utm_source=google&utm_medium=free-listings",
+            "shop_name": "Loja da Farm\u00e1cia",
+            "shop_review_count": 340,
+            "shop_review_rating": 98,
+            "shop_id": "priceapi-88eac7a7a4a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-88eac7a7a4a",
+            "shop_url": "lojadafarmacia.com",
+            "shop_domain": "lojadafarmacia.com",
+            "shop_matching_id": "lojadafarmacia.com",
+            "page": 1,
+            "position": 16
+          },
+          {
+            "id": null,
+            "product_id": "17160493135552812638",
+            "price": "7.11",
+            "price_additional_info": [],
+            "price_with_shipping": "10.96",
+            "shipping_costs": "3.85",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.docmorris.pt/pt/pacifier-avent-night-0-6m-scf376-12/p-347200?country_code=PT",
+            "shop_name": "DocMorris",
+            "shop_review_count": 136,
+            "shop_review_rating": 92,
+            "shop_id": "priceapi-a7520ef8759",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a7520ef8759",
+            "shop_url": "www.docmorris.pt",
+            "shop_domain": "docmorris.pt",
+            "shop_matching_id": "docmorris.pt",
+            "page": 1,
+            "position": 17
+          },
+          {
+            "id": null,
+            "product_id": "17160493135552812638",
+            "price": "9.54",
+            "price_additional_info": [],
+            "price_with_shipping": "13.23",
+            "shipping_costs": "3.69",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://farmaciavirtual.pt/produto/philips-avent-chupeta-ultra-air-silicone-0-6m-girl/",
+            "shop_name": "Farm\u00e1cia Virtual",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-7c98c908055",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-7c98c908055",
+            "shop_url": "farmaciavirtual.pt",
+            "shop_domain": "farmaciavirtual.pt",
+            "shop_matching_id": "farmaciavirtual.pt",
+            "page": 1,
+            "position": 18
+          },
+          {
+            "id": null,
+            "product_id": "17160493135552812638",
+            "price": "11.6",
+            "price_additional_info": [],
+            "price_with_shipping": "16.5",
+            "shipping_costs": "4.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.bybebe.pt/pt/amamentacao-alimentacao/chupetas/philips-avent-2-chupetas-ultra-air-0-6m-scf37612.html",
+            "shop_name": "bybeb\u00e9",
+            "shop_review_count": 704,
+            "shop_review_rating": 98,
+            "shop_id": "priceapi-e95092fa6cd",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e95092fa6cd",
+            "shop_url": "www.bybebe.pt",
+            "shop_domain": "bybebe.pt",
+            "shop_matching_id": "bybebe.pt",
+            "page": 1,
+            "position": 19
+          },
+          {
+            "id": null,
+            "product_id": "17160493135552812638",
+            "price": "11.56",
+            "price_additional_info": [],
+            "price_with_shipping": "15.46",
+            "shipping_costs": "3.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.farmaciadarrabida.pt/chupetas/7810-avent-philips-chup-sl-ult0-6m-nt-girlx2-8710103901754.html",
+            "shop_name": "farmaciadarrabida.com",
+            "shop_review_count": 70,
+            "shop_review_rating": 96,
+            "shop_id": "priceapi-d15794d163f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d15794d163f",
+            "shop_url": "www.farmaciadarrabida.pt",
+            "shop_domain": "farmaciadarrabida.pt",
+            "shop_matching_id": "farmaciadarrabida.pt",
+            "page": 1,
+            "position": 20
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08720286345443",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:18:47Z"
+      },
+      "content": {
+        "id": "2527544835165055421",
+        "name": "vidaXL Barra segur. p/ cama infantil tecido 120x25cm cinza-acastanhado",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzpte-wQDWCDGje79OaMMkjlwHUqukijM8_Rgy_Ljg-ZCgmeyKD8XA5ADNbipZDNWMsLvssly-boCDZxTo1dr3JfTvgYh6CVDGVGucBGGzRQjCEAFktStzeGLzUWBo5w3147U8RLxdn4po6asZavH8SS6FZDqoKz3bCokpkvZY-euVmNECNZyV8R6bIumU2ALQYyQji_HA=s512-pd-pc0x00ffffff",
+        "description": "Esta barra de seguran\u00e7a para cama proporciona uma \u00f3tima prote\u00e7\u00e3o contra quedas e assegura sonhos agrad\u00e1veis ao seu pequeno. Feita de tecido lav\u00e1vel em poli\u00e9ster e com um leve tubo de metal, esta barra de seguran\u00e7a para cama \u00e9 robusta, dur\u00e1vel e f\u00e1...",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/2527544835165055421?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Montagem necess\u00e1ria",
+            "value": [
+              "sim"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/2527544835165055421/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "2527544835165055421",
+            "price": "29.99",
+            "price_additional_info": [],
+            "price_with_shipping": "29.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/seguranca-e-protecao-bebe/barreira-de-cama-vidaxl-infantil-cinzento-120x25x95-cm-MRKEAN-8720286345443",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "2527544835165055421",
+            "price": "32.99",
+            "price_additional_info": [],
+            "price_with_shipping": "32.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.vidaxl.pt/e/vidaxl-barra-segur-p-cama-infantil-tecido-120x25cm-cinza-acastanhado/8720286345443.html",
+            "shop_name": "vidaXL.pt",
+            "shop_review_count": 143,
+            "shop_review_rating": 86,
+            "shop_id": "priceapi-a01dd5bddff",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a01dd5bddff",
+            "shop_url": "www.vidaxl.pt",
+            "shop_domain": "vidaxl.pt",
+            "shop_matching_id": "vidaxl.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    }
+  ]
+}

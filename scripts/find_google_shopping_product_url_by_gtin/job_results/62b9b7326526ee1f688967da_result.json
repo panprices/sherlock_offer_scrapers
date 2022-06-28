@@ -1,0 +1,3892 @@
+{
+  "job_id": "62b9b7326526ee1f688967da",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 19,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00018208015436",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T13:57:18Z"
+      },
+      "content": {
+        "id": "4538895767109394513",
+        "name": "Nikon D750 Digital SLR Camera Body",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzQ6hQ-I7_c4hm7dwBdYgcqZJaXnC8Oo1RmcTT2iYO-87RvWkjpiMZB0AEmRbCnqPF4KPRhw1skAZLibFvl38wXLq0OFFCd56hPI_l71C3Ee_3TYNi6sID8nLRnYP-EGlwVmVOokvpRyCY2Afcl_ie89EI91geEU9FhBjuzjpODxoxpf4X1BX0jHctwo4vvsRwTHfini3A=s512-pd-pc0x00ffffff",
+        "description": "Free your vision with the fast, versatile, and agile D750. In a world where anything is possible, this full-frame 24.3-megapixel powerhouse gives you the freedom to dare. Packed with professional imaging technology, and streamlined for compactness...",
+        "properties": [
+          "CMOS",
+          "Med video",
+          "Fullformatssensor",
+          "V\u00e4dert\u00e4tad",
+          "Inbyggd blixt",
+          "L\u00f6stagbar blixt",
+          "Med Wi-fi"
+        ],
+        "url": "https://www.google.se/shopping/product/4538895767109394513?hl=sv&gl=se&sfr=compass",
+        "review_count": 2569,
+        "review_rating": 96,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Lens Mount",
+            "value": [
+              "Nikon F"
+            ]
+          },
+          {
+            "label": "Sensor Type",
+            "value": [
+              "35.9 x 24 mm (Full-Frame) CMOS"
+            ]
+          },
+          {
+            "label": "Mirror Lock-Up",
+            "value": [
+              "Yes"
+            ]
+          },
+          {
+            "label": "Capture Type",
+            "value": [
+              "Stills & Video"
+            ]
+          },
+          {
+            "label": "Shutter Type",
+            "value": [
+              "Electronic Shutter"
+            ]
+          },
+          {
+            "label": "Bulb/Time Mode",
+            "value": [
+              "Bulb Mode",
+              "Time Mode"
+            ]
+          },
+          {
+            "label": "Exposure Compensation",
+            "value": [
+              "-5 to +5 EV (1/3",
+              "1/2 EV Steps)"
+            ]
+          },
+          {
+            "label": "Metering Range",
+            "value": [
+              "0 to 20 EV"
+            ]
+          },
+          {
+            "label": "Continuous Shooting",
+            "value": [
+              "Up to 6.5 fps"
+            ]
+          },
+          {
+            "label": "Interval Recording",
+            "value": [
+              "Yes"
+            ]
+          },
+          {
+            "label": "Self-Timer",
+            "value": [
+              "2/5/10/20-Second Delay"
+            ]
+          },
+          {
+            "label": "Image Sizes",
+            "value": [
+              "3-2 JPEG 3936 x 2624 2944 x 1968 1968 x 1312"
+            ]
+          },
+          {
+            "label": "Aspect Ratio",
+            "value": [
+              "3-2"
+            ]
+          },
+          {
+            "label": "Image File Format",
+            "value": [
+              "JPEG",
+              "Raw"
+            ]
+          },
+          {
+            "label": "Bit Depth",
+            "value": [
+              "14-Bit"
+            ]
+          },
+          {
+            "label": "Video System",
+            "value": [
+              "NTSC/PAL"
+            ]
+          },
+          {
+            "label": "Built-In Microphone Type",
+            "value": [
+              "Stereo"
+            ]
+          },
+          {
+            "label": "Audio Recording",
+            "value": [
+              "LPCM Audio"
+            ]
+          },
+          {
+            "label": "Media/Memory Card Slot",
+            "value": [
+              "Dual Slot- SD/SDHC/SDXC (UHS-I)"
+            ]
+          },
+          {
+            "label": "Video I/O",
+            "value": [
+              "1 x Mini-HDMI Output"
+            ]
+          },
+          {
+            "label": "Other I/O",
+            "value": [
+              "1 x USB Mini-B 8-Pin (USB 2.0) Output"
+            ]
+          },
+          {
+            "label": "Wireless",
+            "value": [
+              "Wi-Fi"
+            ]
+          },
+          {
+            "label": "Resolution",
+            "value": [
+              "1",
+              "229",
+              "000 Dot"
+            ]
+          },
+          {
+            "label": "Display Type",
+            "value": [
+              "Tilting LCD"
+            ]
+          },
+          {
+            "label": "Secondary Display",
+            "value": [
+              "Top- Status Display"
+            ]
+          },
+          {
+            "label": "Eye Point",
+            "value": [
+              "21 mm"
+            ]
+          },
+          {
+            "label": "Magnification",
+            "value": [
+              "Approx. 0.7x"
+            ]
+          },
+          {
+            "label": "Diopter Adjustment",
+            "value": [
+              "-3 to +1"
+            ]
+          },
+          {
+            "label": "Focus Type",
+            "value": [
+              "Auto and Manual Focus"
+            ]
+          },
+          {
+            "label": "Autofocus Points",
+            "value": [
+              "Phase Detection- 51 (15 Cross-Type)"
+            ]
+          },
+          {
+            "label": "Autofocus Sensitivity",
+            "value": [
+              "-3 to +19 EV"
+            ]
+          },
+          {
+            "label": "Built-In Flash",
+            "value": [
+              "Yes"
+            ]
+          },
+          {
+            "label": "Guide Number",
+            "value": [
+              "39' / 11.89 m at ISO 100"
+            ]
+          },
+          {
+            "label": "Maximum Sync Speed",
+            "value": [
+              "1/200 Second"
+            ]
+          },
+          {
+            "label": "Flash Compensation",
+            "value": [
+              "-3 to +1 EV (1/3",
+              "1/2",
+              "1 EV Steps)"
+            ]
+          },
+          {
+            "label": "Dedicated Flash System",
+            "value": [
+              "iTTL"
+            ]
+          },
+          {
+            "label": "External Flash Connection",
+            "value": [
+              "Hot Shoe"
+            ]
+          },
+          {
+            "label": "Operating Temperature",
+            "value": [
+              "32 to 104\u00b0F / 0 to 40\u00b0C"
+            ]
+          },
+          {
+            "label": "Tripod Mounting Thread",
+            "value": [
+              "1 x 1/4\"-20 Female (Bottom)"
+            ]
+          },
+          {
+            "label": "Accessory Mount",
+            "value": [
+              "1 x Hot Shoe Mount"
+            ]
+          },
+          {
+            "label": "Material of Construction",
+            "value": [
+              "Magnesium Alloy"
+            ]
+          },
+          {
+            "label": "Dimensions (W x H x D)",
+            "value": [
+              "5.5 x 4.4 x 3.1\" / 140.5 x 113 x 78 mm"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/4538895767109394513/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "4538895767109394513",
+            "price": "17121.53",
+            "price_additional_info": [],
+            "price_with_shipping": "17121.53",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://camix.co.uk/product/nikon-d750/?attribute_pa_lens-kit-option=body-only&utm_source=Google%20Shopping&utm_campaign=Shopping&utm_term=3505",
+            "shop_name": "Camix",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-cd757b41c27",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-cd757b41c27",
+            "shop_url": "camix.co.uk",
+            "shop_domain": "camix.co.uk",
+            "shop_matching_id": "camix.co.uk",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00091803093542",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2022-06-27T13:57:14Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04712900927290",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T13:57:15Z"
+      },
+      "content": {
+        "id": "1481148240725224523",
+        "name": "ASUS GeForce GTX 1050 Ti 4GB CERBERUS OC",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkx8uLSpWOStjL_Zm1p80J9t8g-aEnD1HbIfwqFOtb0iUlFIDXHajlT-xWr4cuVsQPWlUn0sCp9D-T31HH_1YnX2wEGfSyKHvVqOYYBXf_KNN_bLCEwLGh890jFBq4TtFxuKfOJ4omGkzBxwJe2-K574wwdHqyCICyOAwVqcWFOnS9aoAqaUh5HEsr6Px6aZbI0RW7ALVtA=s512-pd-pc0x00ffffff",
+        "description": "Nvidia GeForce GTX 1050 Ti \u00e4r ett spelgrafikkort med alla finesser fr\u00e5n Pascal-arkitekturen med ett nedskalat pris samt extremt l\u00e5g str\u00f6mf\u00f6rbrukning. Kortet passar bra att anv\u00e4nda f\u00f6r att t.ex. uppgradera en \u00e4ldre dator eller vill bygga en ny med ...",
+        "properties": [
+          "ASUS",
+          "PCI Express",
+          "DVI",
+          "HDMI",
+          "DisplayPort",
+          "GDDR5",
+          "Svart",
+          "Grafikkort",
+          "Tv\u00e5 plats",
+          "6 stift"
+        ],
+        "url": "https://www.google.se/shopping/product/1481148240725224523?hl=sv&gl=se&sfr=compass",
+        "review_count": 283,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Batterier",
+            "value": [
+              "1 Litiumjon Batterier kr\u00e4vs."
+            ]
+          },
+          {
+            "label": "Produkten har slutat tillverkas",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Produktens m\u00e5tt",
+            "value": [
+              "11.5 x 20.3 x 3.8 cm; 720 Gram"
+            ]
+          },
+          {
+            "label": "Modellnamn",
+            "value": [
+              "CERBERUS-GTX1050TI-O4G"
+            ]
+          },
+          {
+            "label": "Grafisk hj\u00e4lpprocessor",
+            "value": [
+              "NVIDIA GeForce GTX 1050 Ti"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt f\u00f6r video",
+            "value": [
+              "DVI"
+            ]
+          },
+          {
+            "label": "Tillverkare av grafikprocessorer",
+            "value": [
+              "ASUS"
+            ]
+          },
+          {
+            "label": "Typ av grafik-RAM",
+            "value": [
+              "DDR5 SDRAM"
+            ]
+          },
+          {
+            "label": "Storlek p\u00e5 grafikminne",
+            "value": [
+              "4 GB"
+            ]
+          },
+          {
+            "label": "Minnets klockhastighet",
+            "value": [
+              "1455 MHz"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt f\u00f6r grafikkort",
+            "value": [
+              "PCI-E"
+            ]
+          },
+          {
+            "label": "Delnummer",
+            "value": [
+              "90YV0A74-M0NA00"
+            ]
+          },
+          {
+            "label": "RAM",
+            "value": [
+              "4 GB"
+            ]
+          },
+          {
+            "label": "Minneslagringskapacitet",
+            "value": [
+              "4096 MB"
+            ]
+          },
+          {
+            "label": "Ram Memory Installed Size",
+            "value": [
+              "4096 MB"
+            ]
+          },
+          {
+            "label": "H\u00e5rddiskstorlek",
+            "value": [
+              "256 GB"
+            ]
+          },
+          {
+            "label": "Maskinvarugr\u00e4nssnitt",
+            "value": [
+              "PCI Express x4"
+            ]
+          },
+          {
+            "label": "Beskrivning av grafikkort",
+            "value": [
+              "Nvidia geforce gtx"
+            ]
+          },
+          {
+            "label": "Ram-storlek f\u00f6r grafikkort",
+            "value": [
+              "4 GB"
+            ]
+          },
+          {
+            "label": "Typ av grafisk RAM",
+            "value": [
+              "DDR5 SDRAM"
+            ]
+          },
+          {
+            "label": "Grafik coprocessor",
+            "value": [
+              "NVIDIA GeForce GTX 1050 Ti"
+            ]
+          },
+          {
+            "label": "Montering av maskinvara",
+            "value": [
+              "Asus Cerberus-GTX1050TI-O4G spelgrafikkort"
+            ]
+          },
+          {
+            "label": "Antal artiklar",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "F\u00e4rgsk\u00e4rm",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Video Output Interface",
+            "value": [
+              "DVI"
+            ]
+          },
+          {
+            "label": "Watt",
+            "value": [
+              "75 watt"
+            ]
+          },
+          {
+            "label": "Batterier inkluderade",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Batterier kr\u00e4vs",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "GSM frequencies",
+            "value": [
+              "820 MHz"
+            ]
+          },
+          {
+            "label": "Typ av anslutning",
+            "value": [
+              "DVI",
+              "HDMI"
+            ]
+          },
+          {
+            "label": "Har autofokus",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Inkluderar uppladdningsbara batterier",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Supports Bluetooth Technology",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Har programmerbara knappar",
+            "value": [
+              "Nej"
+            ]
+          }
+        ],
+        "offer_count": 8,
+        "offers_url": "https://www.google.se/shopping/product/1481148240725224523/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "1481148240725224523",
+            "price": "2090.0",
+            "price_additional_info": [
+              "L\u00c5GT PRIS"
+            ],
+            "price_with_shipping": "2090.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.webhallen.com/se/product/283178-ASUS-Geforce-GTX-1050-TI-4GB-OC?channable=00c0c76964003238333137380f",
+            "shop_name": "Webhallen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-82f3e802042",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-82f3e802042",
+            "shop_url": "www.webhallen.com",
+            "shop_domain": "webhallen.com",
+            "shop_matching_id": "webhallen.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "1481148240725224523",
+            "price": "2190.0",
+            "price_additional_info": [],
+            "price_with_shipping": "2190.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Grafikkort/ASUS-GeForce-GTX-1050-Ti-Cerberus-OC-4GB-GDDR5-RAM-Grafikkort/2644480?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "1481148240725224523",
+            "price": "2214.0",
+            "price_additional_info": [],
+            "price_with_shipping": "2263.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/asus-geforce-gtx-1050-ti/cat-p/c/p10007148",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "1481148240725224523",
+            "price": "2422.0",
+            "price_additional_info": [],
+            "price_with_shipping": "2422.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/4154030/asus-cerberus-gtx1050ti-o4g-oc-edition-grafikkort-gf-gtx-1050-ti-4-gb-gddr5-pcie-3-0-dvi-hdmi-displayport",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "1481148240725224523",
+            "price": "2603.0",
+            "price_additional_info": [],
+            "price_with_shipping": "2603.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/asus-cereberus-geforce-gtx-1050-ti-grafikkort-4-gb-oc-p93895634",
+            "shop_name": "cdon.se",
+            "shop_review_count": 521,
+            "shop_review_rating": 82,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "1481148240725224523",
+            "price": "2502.0",
+            "price_additional_info": [],
+            "price_with_shipping": "2502.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/asus-cerberus-gtx1050ti-o4g-gddr5",
+            "shop_name": "Electronordic",
+            "shop_review_count": 45,
+            "shop_review_rating": 92,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "1481148240725224523",
+            "price": "3089.0",
+            "price_additional_info": [],
+            "price_with_shipping": "3138.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://homezon.se/data-spel/gaming-grafikkort-asus-itgpe50600-4-gb-gddr5-1480-mhz.html",
+            "shop_name": "homezon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8b75a8e11f8",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8b75a8e11f8",
+            "shop_url": "homezon.se",
+            "shop_domain": "homezon.se",
+            "shop_matching_id": "homezon.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "1481148240725224523",
+            "price": "3459.99",
+            "price_additional_info": [],
+            "price_with_shipping": "3459.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://shopbetter.se/shop/product/gaming-graphics-card-asus-90yv0a74-m0na00-4-gb-gddr5-1480-mhz_63480?cvt=GMC&srsltid=AQP2TeM8x6qrbmqbIlgpiSnW0Vu0BGzLWhUH8CuCM6DVcfCLDx1LJ13zCHM",
+            "shop_name": "Shopbetter.se",
+            "shop_review_count": 94,
+            "shop_review_rating": 76,
+            "shop_id": "priceapi-4420f3e3978",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4420f3e3978",
+            "shop_url": "shopbetter.se",
+            "shop_domain": "shopbetter.se",
+            "shop_matching_id": "shopbetter.se",
+            "page": 1,
+            "position": 8
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072681043",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T13:57:13Z"
+      },
+      "content": {
+        "id": "2807201421292099487",
+        "name": "MSI GeForce GTX 1660 SUPER GAMING X 6GB",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzbpyAgqi1bCEXiygXq3pqZ9UVo81W-5KcDpxxwdflQWyIu3TqCeOQoxnYSsPAnwhn4N-C17pQUVwAXZ29UFxubyxfEhLCiTVIw0MxSNXiCFthhqXmU6Xv5ptq601YrM6SKLWAmTA0_G0htosTZ4BL8c0F3Voiu-6dFyBwfue5lotDQwzDx8FcgiX3-kjjflkzBFGLM9E8=s512-pd-pc0x00ffffff",
+        "description": "Turing Shaders Turing-skuggtekniken kan erbjuda dagens spel otroliga prestandaf\u00f6rb\u00e4ttringar med samtidig k\u00f6rning av flyttal och heltal, adaptiv skuggteknik och en ny enhetlig minnesarkitektur med tv\u00e5 g\u00e5nger st\u00f6rre cacheminne \u00e4n sin f\u00f6reg\u00e5ngare. F\u00e5...",
+        "properties": [
+          "MSI",
+          "PCI Express",
+          "VGA",
+          "DVI",
+          "HDMI",
+          "DisplayPort",
+          "GDDR6",
+          "Grafikkort",
+          "Tv\u00e5 plats",
+          "8 stift"
+        ],
+        "url": "https://www.google.se/shopping/product/2807201421292099487?hl=sv&gl=se&sfr=compass",
+        "review_count": 751,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Grafikprocessorfamilj",
+            "value": [
+              "NVIDIA"
+            ]
+          },
+          {
+            "label": "Grafikprocessor",
+            "value": [
+              "GeForce GTX 1660 SUPER"
+            ]
+          },
+          {
+            "label": "Maximal uppl\u00f6sning",
+            "value": [
+              "7680 x 4320 pixlar"
+            ]
+          },
+          {
+            "label": "CUDA",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "St\u00f6d f\u00f6r parallellprocessteknik",
+            "value": [
+              "St\u00f6ds inte"
+            ]
+          },
+          {
+            "label": "CUDA-k\u00e4rnor",
+            "value": [
+              "1408"
+            ]
+          },
+          {
+            "label": "Klockhastighet vid processor-boost",
+            "value": [
+              "1830 MHz"
+            ]
+          },
+          {
+            "label": "Max antal sk\u00e4rmar per grafikkort",
+            "value": [
+              "4"
+            ]
+          },
+          {
+            "label": "Minneskapacitet, diskret grafikkort",
+            "value": [
+              "6 GB"
+            ]
+          },
+          {
+            "label": "Grafikkortets minnestyp",
+            "value": [
+              "GDDR6"
+            ]
+          },
+          {
+            "label": "Minneskapacitet",
+            "value": [
+              "192 bit"
+            ]
+          },
+          {
+            "label": "Data\u00f6verf\u00f6ringshastighet",
+            "value": [
+              "14 Gbit/s"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnittstyp",
+            "value": [
+              "PCI Express x16 3.0"
+            ]
+          },
+          {
+            "label": "Antal HDMI-portar",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Antal Displayportar",
+            "value": [
+              "3"
+            ]
+          },
+          {
+            "label": "HDMI-version",
+            "value": [
+              "2.0b"
+            ]
+          },
+          {
+            "label": "DisplayPort-version",
+            "value": [
+              "1.4"
+            ]
+          },
+          {
+            "label": "Inbyggd TV mottagare",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "DirectX-version",
+            "value": [
+              "12.0"
+            ]
+          },
+          {
+            "label": "OpenGL-version",
+            "value": [
+              "4.5"
+            ]
+          },
+          {
+            "label": "Dual Link-DVI",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "HDCP",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "NVIDIA GameWorks VR",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "NVIDIA G-SYNC",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "NVIDIA Ansel",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "AMD FreeSync",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Kylning typ",
+            "value": [
+              "Aktiv"
+            ]
+          },
+          {
+            "label": "Antal fl\u00e4ktar",
+            "value": [
+              "2 fl\u00e4kt/-ar"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "Full-Height/Full-Length (FH/FL)"
+            ]
+          },
+          {
+            "label": "F\u00e4stets h\u00f6jd",
+            "value": [
+              "Full-Height (FH)"
+            ]
+          },
+          {
+            "label": "Belysning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Belysningsf\u00e4rg",
+            "value": [
+              "Bl\u00e5",
+              "Gr\u00f6n",
+              "R\u00f6d"
+            ]
+          },
+          {
+            "label": "Produktens f\u00e4rg",
+            "value": [
+              "Svart",
+              "Gr\u00e5"
+            ]
+          },
+          {
+            "label": "L\u00e4gsta systemstr\u00f6mf\u00f6rs\u00f6rjning",
+            "value": [
+              "450 W"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning (vanlig)",
+            "value": [
+              "125 W"
+            ]
+          },
+          {
+            "label": "Kompletterande str\u00f6mkontakter",
+            "value": [
+              "1x 8-pin"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "862 g"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "127 mm"
+            ]
+          },
+          {
+            "label": "Vikt inkl. f\u00f6rpackning",
+            "value": [
+              "1",
+              "46 kg"
+            ]
+          },
+          {
+            "label": "F\u00f6rpackningstyp",
+            "value": [
+              "L\u00e5da"
+            ]
+          }
+        ],
+        "offer_count": 7,
+        "offers_url": "https://www.google.se/shopping/product/2807201421292099487/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "2807201421292099487",
+            "price": "3990.0",
+            "price_additional_info": [],
+            "price_with_shipping": "3990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/datorkomponenter/grafikkort/nvidia/msi-geforce-gtx1660-super-gaming-x/1017702.8989/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "2807201421292099487",
+            "price": "3759.0",
+            "price_additional_info": [],
+            "price_with_shipping": "3759.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.webhallen.com/se/product/309462-MSI-GeForce-GTX-1660-Super-Gaming-X-6GB?channable=00c0c769640033303934363282",
+            "shop_name": "Webhallen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-82f3e802042",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-82f3e802042",
+            "shop_url": "www.webhallen.com",
+            "shop_domain": "webhallen.com",
+            "shop_matching_id": "webhallen.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "2807201421292099487",
+            "price": "3828.0",
+            "price_additional_info": [],
+            "price_with_shipping": "3828.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Grafikkort/MSI-GeForce-GTX-1660-SUPER-GAMING-X-6GB-GDDR6-SDRAM-Grafikkort/2804504?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "2807201421292099487",
+            "price": "3745.0",
+            "price_additional_info": [],
+            "price_with_shipping": "3745.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/6099316/msi-geforce-gtx-1660-super-gaming-x-grafikkort-gf-gtx-1660-super-6-gb-gddr6-pcie-3-0-x16-hdmi-3-x-displayport",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "2807201421292099487",
+            "price": "3790.0",
+            "price_additional_info": [],
+            "price_with_shipping": "3790.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inet.se/produkt/5410558/msi-geforce-gtx-1660-super-6gb-gaming-x",
+            "shop_name": "Inet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fad01df70fc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fad01df70fc",
+            "shop_url": "www.inet.se",
+            "shop_domain": "inet.se",
+            "shop_matching_id": "inet.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "2807201421292099487",
+            "price": "3819.0",
+            "price_additional_info": [
+              "S\u00c4NKT PRIS"
+            ],
+            "price_with_shipping": "3819.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/msi-geforce-gtx-1660-super-gaming-x-grafikkort-gf-gtx-1660-super-6-gb-gddr6-pcie-3-0-x16-hdmi-3-x-displayport-p50148247",
+            "shop_name": "cdon.se",
+            "shop_review_count": 521,
+            "shop_review_rating": 82,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "2807201421292099487",
+            "price": "3925.0",
+            "price_additional_info": [],
+            "price_with_shipping": "4024.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/417/161587/sort/1/filter/0_0_0_0/GeForce-GTX-1660-Super-Gaming-X-6GB-GDDR6-192bit-V375-282R-grafikkort.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 7
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072681852",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T13:57:17Z"
+      },
+      "content": {
+        "id": "15422983464812688690",
+        "name": "MSI GeForce GTX 1660 SUPER 6GB VENTUS XS OC - Grafikkort",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkyWCB2w-EmWjtu7YlA3o8WX0jE6nlyRkfsk9CYsBbU3yMEKz7R3xz4eDo_9f2uzkwv3WmtZnsSlASMOQwdCJRqImlcTsBRhWQqt0sNh1qABB0WoGH4enRx5KSNXDGTqZ1vxH8NuEla7ipQeMhVUT6mFoJLATw_NsKZot9jptfQTAqUweLJSgepf2J5eQWhTOaSEfjgpZg=s512-pd-pc0x00ffffff",
+        "description": "\u00d6verklockat grafikkort. GeForce GTX 1660 SUPER \u00e4r upp till 20% snabbare \u00e4n vanliga GTX 1660 och upp till 1,5 g\u00e5nger snabbare \u00e4n den tidigare generationens GTX 1060 6GB. Genom den prisbel\u00f6nta NVIDIA Turing-arkitekturen och det supersnabba GDDR6-min...",
+        "properties": [
+          "MSI",
+          "PCI Express",
+          "VGA",
+          "DVI",
+          "HDMI",
+          "DisplayPort",
+          "GDDR6",
+          "Grafikkort",
+          "Tv\u00e5 plats",
+          "8 stift"
+        ],
+        "url": "https://www.google.se/shopping/product/15422983464812688690?hl=sv&gl=se&sfr=compass",
+        "review_count": 172,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "GPU-tillverkare",
+            "value": [
+              "Nvidia"
+            ]
+          },
+          {
+            "label": "Turbofrekvens",
+            "value": [
+              "1 815 MHz"
+            ]
+          },
+          {
+            "label": "Minne",
+            "value": [
+              "6 GB"
+            ]
+          },
+          {
+            "label": "Hastighet",
+            "value": [
+              "14 000 MHz"
+            ]
+          },
+          {
+            "label": "Bussbredd",
+            "value": [
+              "192 bitar"
+            ]
+          },
+          {
+            "label": "HDMI-utg\u00e5ng",
+            "value": [
+              "Ja",
+              "(1st",
+              "2.0b)"
+            ]
+          },
+          {
+            "label": "DisplayPort-utg\u00e5ng",
+            "value": [
+              "Ja",
+              "(3st",
+              "1.4)"
+            ]
+          },
+          {
+            "label": "Max. antal sk\u00e4rmar",
+            "value": [
+              "4 st"
+            ]
+          },
+          {
+            "label": "Rek. watt (dator)",
+            "value": [
+              "450 W"
+            ]
+          },
+          {
+            "label": "Str\u00f6manslutning",
+            "value": [
+              "1 st 8-pin"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning",
+            "value": [
+              "125 W"
+            ]
+          },
+          {
+            "label": "L\u00e4ngd",
+            "value": [
+              "204 mm"
+            ]
+          },
+          {
+            "label": "Expansionsplatser",
+            "value": [
+              "2 st"
+            ]
+          },
+          {
+            "label": "SLI",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "VR-Ready",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "DirectX",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "NVIDIA GeForce Experience",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt",
+            "value": [
+              "PCI Express 3.0",
+              "16x"
+            ]
+          },
+          {
+            "label": "Garanti",
+            "value": [
+              "3 \u00e5r"
+            ]
+          },
+          {
+            "label": "Paketbredd",
+            "value": [
+              "26.8 cm"
+            ]
+          },
+          {
+            "label": "Paketh\u00f6jd",
+            "value": [
+              "8.3 cm"
+            ]
+          },
+          {
+            "label": "Paketl\u00e4ngd",
+            "value": [
+              "34.7 cm"
+            ]
+          },
+          {
+            "label": "Paketvikt",
+            "value": [
+              "1.02 kg"
+            ]
+          },
+          {
+            "label": "Tillverkarens ArtNr",
+            "value": [
+              "GeForce GTX 1660 SUPER VENTUS XS OC"
+            ]
+          },
+          {
+            "label": "Upplagd",
+            "value": [
+              "2019-10-29 14:00"
+            ]
+          }
+        ],
+        "offer_count": 7,
+        "offers_url": "https://www.google.se/shopping/product/15422983464812688690/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "15422983464812688690",
+            "price": "3633.49",
+            "price_additional_info": [],
+            "price_with_shipping": "3740.48",
+            "shipping_costs": "106.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tradeinn.com/techinn/sv/msi-grafikkort-geforce-gtx-1660-super-ventus-xs-6gb-gddr6/137432103/p?utm_source=google_products&utm_medium=merchant&id_producte=10134744&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 409,
+            "shop_review_rating": 88,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.tradeinn.com",
+            "shop_domain": "tradeinn.com",
+            "shop_matching_id": "tradeinn.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "15422983464812688690",
+            "price": "3588.0",
+            "price_additional_info": [],
+            "price_with_shipping": "3588.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/msi-geforce-gtx-1660-super-ventus-xs-oc-grafikkort-gf-gtx-1660-super-6-gb-gddr6-pcie-3-0-x16-hdmi-3-x-displayport-p50437832",
+            "shop_name": "cdon.se",
+            "shop_review_count": 521,
+            "shop_review_rating": 82,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "15422983464812688690",
+            "price": "4000.0",
+            "price_additional_info": [],
+            "price_with_shipping": "4000.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/msi-gtx-1660-super-ventus-xs-oc-gddr6",
+            "shop_name": "Electronordic",
+            "shop_review_count": 45,
+            "shop_review_rating": 92,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "15422983464812688690",
+            "price": "3590.0",
+            "price_additional_info": [],
+            "price_with_shipping": "3590.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/datorkomponenter/grafikkort/nvidia/msi-geforce-gtx-1660-super-ventus-xs-oc/1016811.8989/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "15422983464812688690",
+            "price": "3588.0",
+            "price_additional_info": [],
+            "price_with_shipping": "3588.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/5867248/msi-geforce-gtx-1660-super-ventus-xs-oc-grafikkort-gf-gtx-1660-super-6-gb-gddr6-pcie-3-0-x16-hdmi-3-x-displayport",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "15422983464812688690",
+            "price": "3599.0",
+            "price_additional_info": [],
+            "price_with_shipping": "3599.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inet.se/produkt/5410522/msi-geforce-gtx-1660-super-6gb-ventus-xs-oc",
+            "shop_name": "Inet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fad01df70fc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fad01df70fc",
+            "shop_url": "www.inet.se",
+            "shop_domain": "inet.se",
+            "shop_matching_id": "inet.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "15422983464812688690",
+            "price": "3560.0",
+            "price_additional_info": [],
+            "price_with_shipping": "3659.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/417/161184/sort/1/filter/0_0_0_0/GTX-1660-SUPER-VENTUS-XS-OC-grafikkort.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 7
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072796327",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T13:57:20Z"
+      },
+      "content": {
+        "id": "6156775075873092315",
+        "name": "MSI GEFORCE RTX 3060 GAMING X 12 GB GRAFIKKORT",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwtJNHJpLnC4CIa284YHjZe5pNyq0wY5F_bMPb2OJ-CcVGbLvjKGy45LIl0h0g0W-q97q4XxGaYlAz8XSoLIuDFJ1NcBM6-DtMj77h2HAseVRp3DLIqKzNFpi6ZF5d-B7x3JPO9bHr5oBoMruiLXorJ4oQoElsA1Vyjb9xzhilo2xIzqTpnQsuQw9NjKikHXyPjJEnXtTU=s512-pd-pc0x00ffffff",
+        "description": "P\u00e5 grund av brist p\u00e5 grafikkort s\u00e5 kommer vi tillsvidare endast till\u00e5ta varje kund att k\u00f6pa ett grafikkort fr\u00e5n v\u00e5rt RTX 3000-sortiment. Ber\u00e4knade leveransdatum \u00e4r prelimin\u00e4ra och kan komma att justeras.",
+        "properties": [
+          "MSI",
+          "PCI Express",
+          "VGA",
+          "DVI",
+          "HDMI",
+          "DisplayPort",
+          "GDDR6",
+          "Grafikkort",
+          "8 stift",
+          "Aktiv"
+        ],
+        "url": "https://www.google.se/shopping/product/6156775075873092315?hl=sv&gl=se&sfr=compass",
+        "review_count": 221,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Grafikprocessorfamilj",
+            "value": [
+              "NVIDIA"
+            ]
+          },
+          {
+            "label": "Grafikprocessor",
+            "value": [
+              "GeForce RTX 3060"
+            ]
+          },
+          {
+            "label": "Maximal uppl\u00f6sning",
+            "value": [
+              "7680 x 4320 pixlar"
+            ]
+          },
+          {
+            "label": "CUDA",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "St\u00f6d f\u00f6r parallellprocessteknik",
+            "value": [
+              "St\u00f6ds inte"
+            ]
+          },
+          {
+            "label": "CUDA-k\u00e4rnor",
+            "value": [
+              "3584"
+            ]
+          },
+          {
+            "label": "Klockhastighet vid processor-boost",
+            "value": [
+              "1837 MHz"
+            ]
+          },
+          {
+            "label": "Max antal sk\u00e4rmar per grafikkort",
+            "value": [
+              "4"
+            ]
+          },
+          {
+            "label": "Minneskapacitet, diskret grafikkort",
+            "value": [
+              "12 GB"
+            ]
+          },
+          {
+            "label": "Grafikkortets minnestyp",
+            "value": [
+              "GDDR6"
+            ]
+          },
+          {
+            "label": "Minneskapacitet",
+            "value": [
+              "192 bit"
+            ]
+          },
+          {
+            "label": "Data\u00f6verf\u00f6ringshastighet",
+            "value": [
+              "15 Gbit/s"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnittstyp",
+            "value": [
+              "PCI Express 4.0"
+            ]
+          },
+          {
+            "label": "Antal HDMI-portar",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Antal Displayportar",
+            "value": [
+              "3"
+            ]
+          },
+          {
+            "label": "HDMI-version",
+            "value": [
+              "2.1"
+            ]
+          },
+          {
+            "label": "DisplayPort-version",
+            "value": [
+              "1.4a"
+            ]
+          },
+          {
+            "label": "Inbyggd TV mottagare",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "DirectX-version",
+            "value": [
+              "12.0"
+            ]
+          },
+          {
+            "label": "OpenGL-version",
+            "value": [
+              "4.6"
+            ]
+          },
+          {
+            "label": "Dual Link-DVI",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Klar f\u00f6r virtuell verklighet (VR)",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "HDCP",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "NVIDIA G-SYNC",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Kylning typ",
+            "value": [
+              "Aktiv"
+            ]
+          },
+          {
+            "label": "Nedkylningsteknik",
+            "value": [
+              "MSI TORX Fan 4.0"
+            ]
+          },
+          {
+            "label": "Antal fl\u00e4ktar",
+            "value": [
+              "2 fl\u00e4kt/-ar"
+            ]
+          },
+          {
+            "label": "Belysning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Belysningsf\u00e4rg",
+            "value": [
+              "Multi"
+            ]
+          },
+          {
+            "label": "Produktens f\u00e4rg",
+            "value": [
+              "Svart"
+            ]
+          },
+          {
+            "label": "L\u00e4gsta systemstr\u00f6mf\u00f6rs\u00f6rjning",
+            "value": [
+              "550 W"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning (vanlig)",
+            "value": [
+              "170 W"
+            ]
+          },
+          {
+            "label": "Kompletterande str\u00f6mkontakter",
+            "value": [
+              "1x 6-pin",
+              "1x 8-pin"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "996 g"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "276 mm"
+            ]
+          },
+          {
+            "label": "Bruksanvisning",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Vikt inkl. f\u00f6rpackning",
+            "value": [
+              "1",
+              "57 kg"
+            ]
+          },
+          {
+            "label": "F\u00f6rpackningstyp",
+            "value": [
+              "L\u00e5da"
+            ]
+          }
+        ],
+        "offer_count": 9,
+        "offers_url": "https://www.google.se/shopping/product/6156775075873092315/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "6156775075873092315",
+            "price": "5890.0",
+            "price_additional_info": [],
+            "price_with_shipping": "5890.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/datorkomponenter/grafikkort/nvidia/msi-geforce-rtx-3060-gaming-x-12g/1016939.8989/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "6156775075873092315",
+            "price": "5899.0",
+            "price_additional_info": [],
+            "price_with_shipping": "5899.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inet.se/produkt/5412096/msi-geforce-rtx-3060-12gb-gaming-x",
+            "shop_name": "Inet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fad01df70fc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fad01df70fc",
+            "shop_url": "www.inet.se",
+            "shop_domain": "inet.se",
+            "shop_matching_id": "inet.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "6156775075873092315",
+            "price": "6150.49",
+            "price_additional_info": [],
+            "price_with_shipping": "6260.48",
+            "shipping_costs": "109.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tradeinn.com/techinn/sv/msi-grafikkort-nvidia-rtx-3060-gaming-x-12gb-gddr6/138779484/p?utm_source=google_products&utm_medium=merchant&id_producte=15849116&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 409,
+            "shop_review_rating": 88,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.tradeinn.com",
+            "shop_domain": "tradeinn.com",
+            "shop_matching_id": "tradeinn.com",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "6156775075873092315",
+            "price": "5821.0",
+            "price_additional_info": [],
+            "price_with_shipping": "5821.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Grafikkort/MSI-GeForce-RTX-3060-GAMING-X-LHR-12GB-GDDR6-SDRAM-Grafikkort/2918923?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "6156775075873092315",
+            "price": "5890.0",
+            "price_additional_info": [],
+            "price_with_shipping": "5890.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplettforetag.se/product/1179438/datorkomponenter/grafikkort/pci-express/msi-geforce-rtx-3060-gaming-x",
+            "shop_name": "Komplett F\u00f6retag",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9edf77b141d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9edf77b141d",
+            "shop_url": "www.komplettforetag.se",
+            "shop_domain": "komplettforetag.se",
+            "shop_matching_id": "komplettforetag.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "6156775075873092315",
+            "price": "5890.0",
+            "price_additional_info": [],
+            "price_with_shipping": "5890.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1179438/datorutrustning/datorkomponenter/grafikkort/msi-geforce-rtx-3060-gaming-x?channable=0094536964003131373934333880",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "6156775075873092315",
+            "price": "5859.0",
+            "price_additional_info": [],
+            "price_with_shipping": "5859.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/msi-nvidiar-geforcer-rtx-3060-ventus-2x-12g-oc-grafikkort-gf-rtx-3060-12-gb-gddr6-pcie-4-0-hdmi-3-x-displayport-lhr-p67730309",
+            "shop_name": "cdon.se",
+            "shop_review_count": 521,
+            "shop_review_rating": 82,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "6156775075873092315",
+            "price": "5997.0",
+            "price_additional_info": [],
+            "price_with_shipping": "6096.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/417/165952/sort/1/filter/0_0_0_0/GeForce-RTX-3060-Gaming-X-12GB-GDDR6-192bit-grafikkort.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "6156775075873092315",
+            "price": "6177.0",
+            "price_additional_info": [],
+            "price_with_shipping": "6177.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/msi-geforce-rtx-3060-gaming-x-12g-gddr6",
+            "shop_name": "Electronordic",
+            "shop_review_count": 45,
+            "shop_review_rating": 92,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 9
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072939953",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T13:57:16Z"
+      },
+      "content": {
+        "id": "3095300465968157281",
+        "name": "MSI GeForce RTX 3050 VENTUS 2X 8G OC - Grafikkort",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkx6hy90PXghJ09ZMkaPl3rmu4M14WfNqoEff4mgFuivNCRwDTUzDSf1D5FLcunOUPvlFRUxBWxfRJlTk-xJX0JUxIOxOSXzL3nrM2rwy3X3v6rJCx-cbX5qgaQH6-yExor7JoTvHxXHOeEWcLv6zAzlj_SLGMAlrTR2LLqUx-Y2k7H_WCTEIT2TuYnSOko5hvnh07mc0g=s512-pd-pc0x00ffffff",
+        "description": "MSI GeForce RTX 3050 Ventus 2X 8G OC \u00e4r utrustad med en kraftfull grafikprocessor och snabbt GDDR6-grafikminne. Denna modell erbjuder h\u00f6gre klockfrekvenser fr\u00e5n fabrik f\u00f6r \u00f6kad prestanda. Dessutom st\u00f6der Ampere generationens GPU:er ray tracing och...",
+        "properties": [
+          "MSI",
+          "PCI Express",
+          "VGA",
+          "DVI",
+          "HDMI",
+          "DisplayPort",
+          "GDDR6",
+          "Grafikkort",
+          "8 stift",
+          "St\u00f6d f\u00f6r flera kort"
+        ],
+        "url": "https://www.google.se/shopping/product/3095300465968157281?hl=sv&gl=se&sfr=compass",
+        "review_count": 16,
+        "review_rating": 88,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Grafikprocessorfamilj",
+            "value": [
+              "NVIDIA"
+            ]
+          },
+          {
+            "label": "Grafikprocessor",
+            "value": [
+              "GeForce RTX 3050"
+            ]
+          },
+          {
+            "label": "Maximal uppl\u00f6sning",
+            "value": [
+              "7680 x 4320 pixlar"
+            ]
+          },
+          {
+            "label": "CUDA",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Processorfrekvens",
+            "value": [
+              "1807 MHz"
+            ]
+          },
+          {
+            "label": "St\u00f6d f\u00f6r parallellprocessteknik",
+            "value": [
+              "St\u00f6ds inte"
+            ]
+          },
+          {
+            "label": "CUDA-k\u00e4rnor",
+            "value": [
+              "2560"
+            ]
+          },
+          {
+            "label": "Max antal sk\u00e4rmar per grafikkort",
+            "value": [
+              "4"
+            ]
+          },
+          {
+            "label": "Minneskapacitet, diskret grafikkort",
+            "value": [
+              "8 GB"
+            ]
+          },
+          {
+            "label": "Grafikkortets minnestyp",
+            "value": [
+              "GDDR6"
+            ]
+          },
+          {
+            "label": "Minneskapacitet",
+            "value": [
+              "128 bit"
+            ]
+          },
+          {
+            "label": "Data\u00f6verf\u00f6ringshastighet",
+            "value": [
+              "14 Gbit/s"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnittstyp",
+            "value": [
+              "PCI Express x8 4.0"
+            ]
+          },
+          {
+            "label": "Antal HDMI-portar",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Antal Displayportar",
+            "value": [
+              "3"
+            ]
+          },
+          {
+            "label": "HDMI-version",
+            "value": [
+              "2.1"
+            ]
+          },
+          {
+            "label": "DisplayPort-version",
+            "value": [
+              "1.4a"
+            ]
+          },
+          {
+            "label": "Inbyggd TV mottagare",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "DirectX-version",
+            "value": [
+              "12.0"
+            ]
+          },
+          {
+            "label": "OpenGL-version",
+            "value": [
+              "4.6"
+            ]
+          },
+          {
+            "label": "Dual Link-DVI",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "HDCP",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "NVIDIA G-SYNC",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Kylning typ",
+            "value": [
+              "Aktiv"
+            ]
+          },
+          {
+            "label": "Nedkylningsteknik",
+            "value": [
+              "MSI TORX Fan 3.0"
+            ]
+          },
+          {
+            "label": "Antal fl\u00e4ktar",
+            "value": [
+              "2 fl\u00e4kt/-ar"
+            ]
+          },
+          {
+            "label": "Produktens f\u00e4rg",
+            "value": [
+              "Svart"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning (vanlig)",
+            "value": [
+              "130 W"
+            ]
+          },
+          {
+            "label": "Kompletterande str\u00f6mkontakter",
+            "value": [
+              "1x 8-pin"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rs\u00f6rjning",
+            "value": [
+              "550 W"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "661 g"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "124 mm"
+            ]
+          },
+          {
+            "label": "Vikt inkl. f\u00f6rpackning",
+            "value": [
+              "1",
+              "07 kg"
+            ]
+          }
+        ],
+        "offer_count": 9,
+        "offers_url": "https://www.google.se/shopping/product/3095300465968157281/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "3095300465968157281",
+            "price": "3990.0",
+            "price_additional_info": [],
+            "price_with_shipping": "3990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/datorkomponenter/grafikkort/nvidia/msi-geforce-rtx-3050-ventus-2x-8g-oc/1024732.8989/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "3095300465968157281",
+            "price": "4068.0",
+            "price_additional_info": [],
+            "price_with_shipping": "4068.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/8090146/msi-geforce-rtx-3050-ventus-2x-8g-oc-grafikkort-gf-rtx-3050-8-gb-gddr6-pcie-4-0-x8-hdmi-3-x-displayport",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "3095300465968157281",
+            "price": "4209.0",
+            "price_additional_info": [],
+            "price_with_shipping": "4209.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Grafikkort/MSI-GeForce-RTX-3050-VENTUS-2X-OC-8GB-GDDR6-SDRAM-Grafikkort/3029579?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "3095300465968157281",
+            "price": "4499.0",
+            "price_additional_info": [],
+            "price_with_shipping": "4499.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1205852/datorutrustning/datorkomponenter/grafikkort/msi-geforce-rtx-3050-ventus-2x-oc?channable=00945369640031323035383532a3",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "3095300465968157281",
+            "price": "4108.0",
+            "price_additional_info": [],
+            "price_with_shipping": "4108.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/msi-geforce-rtx-3050-ventus-2x-8g-oc-grafikkort-gf-rtx-3050-8-gb-gddr6-pcie-4-0-x8-hdmi-3-x-displayport-p102627962",
+            "shop_name": "cdon.se",
+            "shop_review_count": 521,
+            "shop_review_rating": 82,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "3095300465968157281",
+            "price": "4499.0",
+            "price_additional_info": [],
+            "price_with_shipping": "4499.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplettforetag.se/product/1205852/datorkomponenter/grafikkort/pci-express/msi-geforce-rtx-3050-ventus-2x-oc",
+            "shop_name": "Komplett F\u00f6retag",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9edf77b141d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9edf77b141d",
+            "shop_url": "www.komplettforetag.se",
+            "shop_domain": "komplettforetag.se",
+            "shop_matching_id": "komplettforetag.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "3095300465968157281",
+            "price": "6490.0",
+            "price_additional_info": [
+              "S\u00c4NKT PRIS"
+            ],
+            "price_with_shipping": "6908.99",
+            "shipping_costs": "418.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fruugo.se/msi-nvidia-geforce-rtx-3050-ventus-2x-8g-oc-grafikkort/p-72944053-146704719?language=sv&ac=croud&utm_source=organic_shopping&utm_medium=organic",
+            "shop_name": "fruugo.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fdf04e0f8d5",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fdf04e0f8d5",
+            "shop_url": "www.fruugo.se",
+            "shop_domain": "fruugo.se",
+            "shop_matching_id": "fruugo.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "3095300465968157281",
+            "price": "6139.0",
+            "price_additional_info": [],
+            "price_with_shipping": "6188.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://homezon.se/grafikkort/grafikkort-msi-v397-418r.html",
+            "shop_name": "homezon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8b75a8e11f8",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8b75a8e11f8",
+            "shop_url": "homezon.se",
+            "shop_domain": "homezon.se",
+            "shop_matching_id": "homezon.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "3095300465968157281",
+            "price": "6889.99",
+            "price_additional_info": [],
+            "price_with_shipping": "6889.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://shopbetter.se/shop/product/graphics-card-msi-v397-418r_349331?cvt=GMC&srsltid=AQP2TeN5G3DkL8DFjUvvlrnXJiBL3LaRFDASRwyj87FgzTYmZrfCZ3kNlL8",
+            "shop_name": "Shopbetter.se",
+            "shop_review_count": 94,
+            "shop_review_rating": 76,
+            "shop_id": "priceapi-4420f3e3978",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4420f3e3978",
+            "shop_url": "shopbetter.se",
+            "shop_domain": "shopbetter.se",
+            "shop_matching_id": "shopbetter.se",
+            "page": 1,
+            "position": 9
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719331308407",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T13:57:22Z"
+      },
+      "content": {
+        "id": "17726797259175398674",
+        "name": "Gigabyte Radeon RX 6900 XT GAMING OC 16 GB GDDR6",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwQNFeqBpYhUvKTjsUvL0z62hI5FxfeBA7PpRUTYZ3lZP0IGtjg5RFGOxq7iAqYHUujXcpRjqPGGBEzhsmA1kdMeapm0tRD9S7FOubdo5m8WKqYToLJWMs8CjscDjYX1xdma_uwWbCQ5eFmD4c87lVk4QQNreQsagWpIm8n9y4ue2B7DHjTHNqsOs4UpGoteQPXazIBe5g=s512-pd-pc0x00ffffff",
+        "description": "L\u00e4gg order f\u00f6r att hamna i k\u00f6n. Vi kommer leverera ut produkterna i tur och ordning. Ber\u00e4knad leveranstid kommer uppdateras s\u00e5 fort vi har mer information fr\u00e5n tillverkaren.",
+        "properties": [
+          "GIGABYTE",
+          "PCI Express",
+          "VGA",
+          "DVI",
+          "HDMI",
+          "DisplayPort",
+          "GDDR3",
+          "2048 x 1536",
+          "Grafikkort",
+          "8 stift"
+        ],
+        "url": "https://www.google.se/shopping/product/17726797259175398674?hl=sv&gl=se&sfr=compass",
+        "review_count": 40,
+        "review_rating": 86,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Batterier",
+            "value": [
+              "1 A Batterier kr\u00e4vs."
+            ]
+          },
+          {
+            "label": "Produktens m\u00e5tt",
+            "value": [
+              "28.6 x 11.8 x 5.8 cm; 1.2 Kilogram"
+            ]
+          },
+          {
+            "label": "Ursprungsland",
+            "value": [
+              "Kina"
+            ]
+          },
+          {
+            "label": "Modellnamn",
+            "value": [
+              "Gigabyte"
+            ]
+          },
+          {
+            "label": "Grafisk hj\u00e4lpprocessor",
+            "value": [
+              "Radeon RX 6900 XT"
+            ]
+          },
+          {
+            "label": "Tillverkare av grafikprocessorer",
+            "value": [
+              "GIGABYTE"
+            ]
+          },
+          {
+            "label": "Typ av grafik-RAM",
+            "value": [
+              "GDDR6"
+            ]
+          },
+          {
+            "label": "Storlek p\u00e5 grafikminne",
+            "value": [
+              "16 GB"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt f\u00f6r grafikkort",
+            "value": [
+              "PCI-Express x16"
+            ]
+          },
+          {
+            "label": "Beskrivning av grafikkort",
+            "value": [
+              "Dedicated"
+            ]
+          },
+          {
+            "label": "Delnummer",
+            "value": [
+              "GV-R69XTGAMING OC-16GD"
+            ]
+          },
+          {
+            "label": "Maskinvarugr\u00e4nssnitt",
+            "value": [
+              "PCI Express x16"
+            ]
+          },
+          {
+            "label": "Ram-storlek f\u00f6r grafikkort",
+            "value": [
+              "16 GB"
+            ]
+          },
+          {
+            "label": "Typ av grafisk RAM",
+            "value": [
+              "GDDR6"
+            ]
+          },
+          {
+            "label": "Grafik coprocessor",
+            "value": [
+              "Radeon RX 6900 XT"
+            ]
+          },
+          {
+            "label": "Montering av maskinvara",
+            "value": [
+              "Pick v\u00e4nster",
+              "Grafikminne"
+            ]
+          },
+          {
+            "label": "Antal artiklar",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning",
+            "value": [
+              "1080p Full HD"
+            ]
+          },
+          {
+            "label": "Sp\u00e4nning",
+            "value": [
+              "12 Sp\u00e4nning"
+            ]
+          },
+          {
+            "label": "Watt",
+            "value": [
+              "50"
+            ]
+          },
+          {
+            "label": "Batterier inkluderade",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Batterier kr\u00e4vs",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Batteriets cellkomposition",
+            "value": [
+              "Litiumjon"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "Kompakt"
+            ]
+          },
+          {
+            "label": "Contains Liquid Contents",
+            "value": [
+              "Nej"
+            ]
+          }
+        ],
+        "offer_count": 7,
+        "offers_url": "https://www.google.se/shopping/product/17726797259175398674/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "17726797259175398674",
+            "price": "9990.0",
+            "price_additional_info": [
+              "L\u00c5GT PRIS"
+            ],
+            "price_with_shipping": "9990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Grafikkort/GIGABYTE-Radeon-RX-6900-XT-GAMING-OC-16GB-GDDR6-SDRAM-Grafikkort/2916553?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "17726797259175398674",
+            "price": "11997.0",
+            "price_additional_info": [],
+            "price_with_shipping": "11997.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7037162/gigabyte-radeon-rx-6900-xt-gaming-oc-16g-grafikkort-radeon-rx-6900-xt-16-gb-gddr6-pcie-4-0-x16-2-x-hdmi-2-x-displayport",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "17726797259175398674",
+            "price": "12229.0",
+            "price_additional_info": [],
+            "price_with_shipping": "12229.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/gigabyte-radeon-rx-6900-xt-gaming-oc-16g-grafikkort-radeon-rx-6900-xt-16-gb-gddr6-pcie-4-0-x16-2-x-hdmi-2-x-displayport-p60657876",
+            "shop_name": "cdon.se",
+            "shop_review_count": 521,
+            "shop_review_rating": 82,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "17726797259175398674",
+            "price": "11785.0",
+            "price_additional_info": [],
+            "price_with_shipping": "11884.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/417/154081/sort/1/filter/0_0_0_0/Radeon-RX-6900-XT-Gaming-OC-16GB-GDDR6-256bit-grafikkort.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "17726797259175398674",
+            "price": "19007.99",
+            "price_additional_info": [],
+            "price_with_shipping": "19194.98",
+            "shipping_costs": "186.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tradeinn.com/techinn/sv/gigabyte-grafikkort-amd-radeon-rx-6900-xt-gaming-oc-16gb-gddr6/138646029/p?utm_source=google_products&utm_medium=merchant&id_producte=15306991&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 409,
+            "shop_review_rating": 88,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.tradeinn.com",
+            "shop_domain": "tradeinn.com",
+            "shop_matching_id": "tradeinn.com",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "17726797259175398674",
+            "price": "17849.0",
+            "price_additional_info": [],
+            "price_with_shipping": "17849.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplettforetag.se/product/1181395/datorkomponenter/grafikkort/pci-express/gigabyte-radeon-rx-6900-xt-gaming-oc",
+            "shop_name": "Komplett F\u00f6retag",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9edf77b141d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9edf77b141d",
+            "shop_url": "www.komplettforetag.se",
+            "shop_domain": "komplettforetag.se",
+            "shop_matching_id": "komplettforetag.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "17726797259175398674",
+            "price": "34890.0",
+            "price_additional_info": [],
+            "price_with_shipping": "34890.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fruugo.se/gigabyte-aorus-rx-6900-xt-gaming-oc-grafikkort-16-gb/p-73877310-148459760?language=sv&ac=croud&utm_source=organic_shopping&utm_medium=organic",
+            "shop_name": "fruugo.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fdf04e0f8d5",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fdf04e0f8d5",
+            "shop_url": "www.fruugo.se",
+            "shop_domain": "fruugo.se",
+            "shop_matching_id": "fruugo.se",
+            "page": 1,
+            "position": 7
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04960759150110",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T13:57:15Z"
+      },
+      "content": {
+        "id": "13703199228145879771",
+        "name": "Nikon Z7 Camera with 24-70mm Lens and Mount Adapter",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzrVgSQT9FQ0nr7Vf3sRNNe_R9dwyYJlV_gbMs-5vK8kuVINGkpsQN0s7zGFJ46E1bwRm4WYuZ4z7F9McK2yeyBvnEDneOEvr-CnR5agL514gAX6NoFo-METUoXuIShNwYd0N6HoExKrOPBUt-OdVPKZRv4Mw-knnOD-qx3PkV7ukJ5r5_xb5DflEQctzLFHc2SSqdnQA=s512-pd-pc0x00ffffff",
+        "description": "Combining the advantages of a lightweight mirrorless design, a revolutionary new full frame lens mount and matched lenses, a Nikon designed 45.7MP image sensor and seamless integration with Nikon\u2018s DSLR system (including the Nikkor lenses you love...",
+        "properties": [
+          "Med video",
+          "CMOS",
+          "Fullformatssensor",
+          "V\u00e4dert\u00e4tad",
+          "Med bildstabilisator",
+          "Inbyggd blixt",
+          "L\u00f6stagbar blixt",
+          "Bl\u00e5tand",
+          "Med Wi-fi"
+        ],
+        "url": "https://www.google.se/shopping/product/13703199228145879771?hl=sv&gl=se&sfr=compass",
+        "review_count": 379,
+        "review_rating": 96,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Resolution",
+            "value": [
+              "45.7MP"
+            ]
+          },
+          {
+            "label": "Storage media",
+            "value": [
+              "XQD"
+            ]
+          },
+          {
+            "label": "Shutter speed",
+            "value": [
+              "1/8000 to 30s",
+              "x200"
+            ]
+          },
+          {
+            "label": "Continuous shooting",
+            "value": [
+              "9fps (extended)"
+            ]
+          },
+          {
+            "label": "ISO range",
+            "value": [
+              "64-25",
+              "600"
+            ]
+          },
+          {
+            "label": "Rear display",
+            "value": [
+              "Tilting",
+              "touch operational",
+              "3.2\"",
+              "2100K dot"
+            ]
+          },
+          {
+            "label": "Battery life",
+            "value": [
+              "330 shots"
+            ]
+          },
+          {
+            "label": "Focal range",
+            "value": [
+              "24-70mm"
+            ]
+          },
+          {
+            "label": "Compatibility",
+            "value": [
+              "Nikon Z mount"
+            ]
+          },
+          {
+            "label": "Maximum aperture",
+            "value": [
+              "F/4"
+            ]
+          },
+          {
+            "label": "Lens construction",
+            "value": [
+              "14 elements / 11 groups"
+            ]
+          },
+          {
+            "label": "Minimum focus distance",
+            "value": [
+              "0.3m (across the focal range)"
+            ]
+          },
+          {
+            "label": "Maximum reproduction ratio",
+            "value": [
+              "0.3x"
+            ]
+          },
+          {
+            "label": "Filter thread",
+            "value": [
+              "72mm"
+            ]
+          },
+          {
+            "label": "Aperture blades",
+            "value": [
+              "7 (rounded)"
+            ]
+          },
+          {
+            "label": "Aspect Ratio",
+            "value": [
+              "1:1",
+              "5:4",
+              "3:2",
+              "16:9"
+            ]
+          },
+          {
+            "label": "Autofocus Points",
+            "value": [
+              "493"
+            ]
+          },
+          {
+            "label": "Battery Model",
+            "value": [
+              "EN-EL15b lithium-ion battery & charger"
+            ]
+          },
+          {
+            "label": "Exposure Compensation",
+            "value": [
+              "\u00b15 (at 1/3 EV",
+              "1/2 EV steps)"
+            ]
+          },
+          {
+            "label": "File Formats",
+            "value": [
+              "RAW",
+              "JPEG (Fine",
+              "normal",
+              "basic)"
+            ]
+          },
+          {
+            "label": "Flash Type",
+            "value": [
+              "External flash"
+            ]
+          },
+          {
+            "label": "Frames Per Second",
+            "value": [
+              "9"
+            ]
+          },
+          {
+            "label": "Image Processor",
+            "value": [
+              "EXPEED 6"
+            ]
+          },
+          {
+            "label": "ISO Minimum",
+            "value": [
+              "64"
+            ]
+          },
+          {
+            "label": "Megapixels",
+            "value": [
+              "45.7"
+            ]
+          },
+          {
+            "label": "Memory Card Format",
+            "value": [
+              "XQD"
+            ]
+          },
+          {
+            "label": "Screen Resolution (Pixels)",
+            "value": [
+              "2100k-dot"
+            ]
+          },
+          {
+            "label": "Screen Size (Inches)",
+            "value": [
+              "3.2"
+            ]
+          },
+          {
+            "label": "Sensor Format",
+            "value": [
+              "Full Frame"
+            ]
+          },
+          {
+            "label": "Sensor Size",
+            "value": [
+              "35.9 x 23.9 mm"
+            ]
+          },
+          {
+            "label": "Sensor Type",
+            "value": [
+              "CMOS"
+            ]
+          },
+          {
+            "label": "Shutter Speed, Maximum",
+            "value": [
+              "1/8000"
+            ]
+          },
+          {
+            "label": "Shutter Speed, Minimum",
+            "value": [
+              "30"
+            ]
+          },
+          {
+            "label": "View Finder Coverage",
+            "value": [
+              "100%"
+            ]
+          },
+          {
+            "label": "Viewfinder",
+            "value": [
+              "Quad-VGA",
+              "approx. 3690k-dot EVF"
+            ]
+          },
+          {
+            "label": "HD Movie Mode",
+            "value": [
+              "4K UHD/30p Full HD/120p (DX)"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/13703199228145879771/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "13703199228145879771",
+            "price": "32696.68",
+            "price_additional_info": [],
+            "price_with_shipping": "32696.68",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://camix.co.uk/product/nikon-z7-24-70mm-ftz-mount/?utm_source=Google%20Shopping&utm_campaign=Shopping&utm_term=2800",
+            "shop_name": "Camix",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-cd757b41c27",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-cd757b41c27",
+            "shop_url": "camix.co.uk",
+            "shop_domain": "camix.co.uk",
+            "shop_matching_id": "camix.co.uk",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05038278000793",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2022-06-27T13:57:08Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05056080608761",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2022-06-27T13:57:13Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05902533910663",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T13:57:15Z"
+      },
+      "content": {
+        "id": "13618084384617941855",
+        "name": "Kinderkraft Tricycle Aston Turquoise",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwcNUN6Zui3Ay3Hg5TGYfELmxnSAqhFm2gRkC-H_r80vH2NdP1OaYubsJWSXkJ4kEvqXAmrR8GRrpxwzQYLtORMreg5NeU-0A0feVnEtls47VV89d1JshfwfL3NADbixlAwiGkoZv19AQ8yR3fyOlczYjaWrYYY5hrshksKd_xY7ViIntgHDXbLkpkqBPiMJpKvNYi8Hlk=s512-pd-pc0x00ffffff",
+        "description": "Kinderkraft Aston Baby Push Tricycle / Trike - Turqouise. nn--Suitable from 9 months to 5 yearsn--Rotating seat unit u2013 Parent or world facingn--Height adjustable parent control handlen--Free wheel u2013 Child can pedal while adult has full con...",
+        "properties": [
+          "Med handtag",
+          "Hopf\u00e4llbar",
+          "Turquoise"
+        ],
+        "url": "https://www.google.se/shopping/product/13618084384617941855?hl=sv&gl=se&sfr=compass",
+        "review_count": 397,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/13618084384617941855/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "13618084384617941855",
+            "price": "1053.44",
+            "price_additional_info": [],
+            "price_with_shipping": "1266.93",
+            "shipping_costs": "213.49",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.babyhuys.com/en/catalog/product/view/id/1745762",
+            "shop_name": "Babyhuys",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b42a6dac1fd",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b42a6dac1fd",
+            "shop_url": "www.babyhuys.com",
+            "shop_domain": "babyhuys.com",
+            "shop_matching_id": "babyhuys.com",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05902581652485",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2022-06-27T13:57:11Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05902581658456",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T13:57:17Z"
+      },
+      "content": {
+        "id": "15265838657442939727",
+        "name": "lionelo Bilbarnstol Levi One Candy Pink",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkx1mpL7JFWFYxPsFPxBoOCi57ECTMVdpvmn73YhhwKsnOwCvmsoePNLW692QQwiy7jQxc0crWrwK2RBdEObkkFY45JUBMENoBUn94LGMbLyI0DrPec-KMAOQxg3w6W7xrc_gc970eTPYhzDBWRzvMna1_6XSY6Om-Mgn9AG9M6WUrVLCuQ1lgt5fTZ3ciVpvzo8Jj8nohk=s512-pd-pc0x00ffffff",
+        "description": "Levi One to nowa edycja popularnego fotelika Levi! Ulepszona ods\u0142ona zosta\u0142a wyposa\u017cona w jeszcze wi\u0119cej rozwi\u0105za\u0144, kt\u00f3re \u0142\u0105cz\u0105 bezpiecze\u0144stwo z komfortem dziecka podczas jazdy. Monta\u017c fotelika za pomoc\u0105 samochodowych pas\u00f3w bezpiecze\u0144stwa jest bar...",
+        "properties": [
+          "Fram\u00e5t",
+          "Candy Pink"
+        ],
+        "url": "https://www.google.se/shopping/product/15265838657442939727?hl=sv&gl=se&sfr=compass",
+        "review_count": 164,
+        "review_rating": 96,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produktens m\u00e5tt",
+            "value": [
+              "48 x 47 x 68 cm; 4.5 Kilogram"
+            ]
+          },
+          {
+            "label": "Rekommendation f\u00f6r minsta vikt",
+            "value": [
+              "9 Kilogram"
+            ]
+          },
+          {
+            "label": "Tillverkarens f\u00f6reslagna maximala vikt",
+            "value": [
+              "36 Kilogram"
+            ]
+          },
+          {
+            "label": "Rekommendation f\u00f6r maximal h\u00f6jd",
+            "value": [
+              "120 Centimeter"
+            ]
+          },
+          {
+            "label": "Typ av material",
+            "value": [
+              "Tyg"
+            ]
+          },
+          {
+            "label": "Antal artiklar",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Batterier kr\u00e4vs",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Typ av installation",
+            "value": [
+              "S\u00e4kerhetsb\u00e4lte"
+            ]
+          },
+          {
+            "label": "Artikelm\u00e5tt LxBxH",
+            "value": [
+              "48 x 47 x 68 centimeter"
+            ]
+          },
+          {
+            "label": "Artikelns vikt",
+            "value": [
+              "4.5 Kilogram"
+            ]
+          },
+          {
+            "label": "Rekommendation f\u00f6r maximal vikt",
+            "value": [
+              "36 Kilogram"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/15265838657442939727/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "15265838657442939727",
+            "price": "898.0",
+            "price_additional_info": [],
+            "price_with_shipping": "898.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.babymarkt.se/product/A297707?a=b&pred=SERPA,SERPB,SERPC,SERPD,SERPE,SERPWEA,SERPWEB,SERP004,&c=p_aw,p2aw,p3aw,p4aw,p5aw,prwea,prweb,p_akt_pla1,&rp&os&fdcampaign=feed/se/14449/googleshoppingint/A297707",
+            "shop_name": "babymarkt.se",
+            "shop_review_count": 307,
+            "shop_review_rating": 96,
+            "shop_id": "priceapi-949538f4087",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-949538f4087",
+            "shop_url": "www.babymarkt.se",
+            "shop_domain": "babymarkt.se",
+            "shop_matching_id": "babymarkt.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05903771700672",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2022-06-27T13:57:14Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06459846283544",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2022-06-27T13:57:09Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08033224601090",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T13:57:17Z"
+      },
+      "content": {
+        "id": "17880944879613314156",
+        "name": "Laica Nebulizer A Pistons Ne2003 White",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzB02eJYauc9RnGl0TesCzm_-yUhpQtpWcMGMtAXtoQyAHzbzY92z6dLilNl5mxB2ANV2Q0xvYoxD6yg_vd5gNECkwJcOuxWyYll3u8j4DcLFOe4K2Q8SPsOIKqJ_BSt1TQJVI9pkqNAlmIbppv2zFlO80bZW7cHVQIzUx7sTmOqWhoY7oYIW-qF1q4yIhqLCNyza1KE9s=s512-pd-pc0x00ffffff",
+        "description": "Inhaler - compressor, nebulizer output of 0,4ml/min, child mask included, masks in package: 2 piece(s) The Lacia NE2003 is a highly-reliable and practical compressor inhaler, suitable for the treatment of upper and lower respiratory tract diseases...",
+        "properties": null,
+        "url": "https://www.google.se/shopping/product/17880944879613314156?hl=sv&gl=se&sfr=compass",
+        "review_count": 14,
+        "review_rating": 90,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/17880944879613314156/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "17880944879613314156",
+            "price": "440.52",
+            "price_additional_info": [],
+            "price_with_shipping": "635.33",
+            "shipping_costs": "194.81",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.promofarma.com/en/laica-nebulizer-a-pistons-ne2003-white/p-204832?country_code=SE",
+            "shop_name": "PromoFarma.com - SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9e2e6806626",
+            "shop_sub_id": "SE",
+            "shop_extended_source_id": "priceapi-9e2e6806626-SE",
+            "shop_url": "www.promofarma.com",
+            "shop_domain": "promofarma.com",
+            "shop_matching_id": "promofarma.com - SE",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08710103671664",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T13:57:19Z"
+      },
+      "content": {
+        "id": "1885353592182360459",
+        "name": "Philips Containers for Breast Milk 5 Units and Lids 180 ml",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwjHZBC_LjQu4Wwbhj83ruWGRC4IHrxawI2Ayv9oX_ium-dmBJ6LQmhX2sIPPftJz8MjYnVan3K_ux69WAVydt3LYd32Ign9Um-Scz6-GNCJR-iST1t6zhBdCD07VzZx3NbeOSFtDfimxSWrDxgRFeSVBCtx-HHIYKNMpMMxKwOxDELS_EeXwnIA1sj40M1vNQvvTe4=s512-pd-pc0x00ffffff",
+        "description": "To store and transport hermetically. Create a security seal for secure storage and transport. To easily know the dates and content. Fridge and freezer organized. Compatible with Philips Avent breast pumps with Classic, Classic + and Natural teats....",
+        "properties": null,
+        "url": "https://www.google.se/shopping/product/1885353592182360459?hl=sv&gl=se&sfr=compass",
+        "review_count": 2064,
+        "review_rating": 92,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.se/shopping/product/1885353592182360459/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "1885353592182360459",
+            "price": "68.99",
+            "price_additional_info": [],
+            "price_with_shipping": "155.98",
+            "shipping_costs": "86.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tradeinn.com/kidinn/en/philips-avent-5-containers-for-breast-milk-180ml-5-caps/137606310/p?utm_source=google_products&utm_medium=merchant&id_producte=10934364&country=se",
+            "shop_name": "Kidinn.com",
+            "shop_review_count": 409,
+            "shop_review_rating": 88,
+            "shop_id": "priceapi-dd083500dd4",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-dd083500dd4",
+            "shop_url": "www.tradeinn.com",
+            "shop_domain": "tradeinn.com",
+            "shop_matching_id": "tradeinn.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "1885353592182360459",
+            "price": "75.47",
+            "price_additional_info": [],
+            "price_with_shipping": "270.28",
+            "shipping_costs": "194.81",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.promofarma.com/en/avent-containers-for-breast-milk-5-x-180ml-plus-5-lids/p-58219?country_code=SE",
+            "shop_name": "PromoFarma.com - SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9e2e6806626",
+            "shop_sub_id": "SE",
+            "shop_extended_source_id": "priceapi-9e2e6806626-SE",
+            "shop_url": "www.promofarma.com",
+            "shop_domain": "promofarma.com",
+            "shop_matching_id": "promofarma.com - SE",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08712930109709",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2022-06-27T13:57:13Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "success": false,
+      "reason": "invalid value",
+      "source": "google-shopping",
+      "country": "se",
+      "key": "gtin",
+      "value": "09908214741734",
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "09908214741734",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3264 @@
+{
+  "job_id": "62b9b9e7affb284d514550a3",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 19,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00018208016181",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:08:49Z"
+      },
+      "content": {
+        "id": "6585374974788316523",
+        "name": "Nikon D780 C\u00e2mera - Onestop Digital",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkyGTUiEaFKiGpAe1ZybYae-shS8nYMKvx1edEzqjgm0oKD5Hu9NHJWLeekW4AIjyAA2H6nrhpaGb4yfT3SUnKLeYLuxJluM1wPK-mpTdKhj_-clhrRZQAWuPw5wZ4umjl4lAQPN7rxuw4H66bwcCZYvu-vj4TIZZrGIs6qH_oigRh7bR5QYEIvH9Zxj9LnQp69u1T2fAQ=s512-pd-pc0x00ffffff",
+        "description": "Combinando uma abordagem de imagem contempor\u00e2nea com forma e fun\u00e7\u00e3o tradicionais, a Nikon D780\u00e9 uma DSLR vers\u00e1til que se destaca em aplica\u00e7\u00f5es de fotografia e v\u00eddeo. Apresentando um sensor CMOS de quadro completo de 24,5 MP, s\u00e3o poss\u00edveis fotos de...",
+        "properties": [
+          "CMOS",
+          "Com v\u00eddeo",
+          "Sensor Full Frame",
+          "Flash remov\u00edvel",
+          "Bluetooth",
+          "Com Wi-Fi"
+        ],
+        "url": "https://www.google.pt/shopping/product/6585374974788316523?hl=pt&gl=pt&sfr=compass",
+        "review_count": 293,
+        "review_rating": 96,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/6585374974788316523/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "6585374974788316523",
+            "price": "1917.59",
+            "price_additional_info": [],
+            "price_with_shipping": "1917.59",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/fotografia-e-drones/maquinas-fotograficas/maquinas-fotograficas-reflex-dslr/maquina-fotografica-nikon-d780-full-frame-MRKEAN-0018208016181",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "6585374974788316523",
+            "price": "1884.83",
+            "price_additional_info": [],
+            "price_with_shipping": "1884.83",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "http://www.onestop-digital.com/nikon-d780-camera-body.html?currency=EUR&sl=pt",
+            "shop_name": "Onestop Digital",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d86fbbde3d1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d86fbbde3d1",
+            "shop_url": "www.onestop-digital.com",
+            "shop_domain": "onestop-digital.com",
+            "shop_matching_id": "onestop-digital.com",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00743724394054",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:08:46Z"
+      },
+      "content": {
+        "id": "8078618773651401859",
+        "name": "Noma Port\u00e3o de Seguran\u00e7a com 3 Pain\u00e9is Modular Metal Branco 94054",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwkb5pNwNGL-FPbQjxfQHdDdeP9Uxvi-yJXtyZTICE6uQdzfx-Pr6N9MHRPKCEO04K9UWG2ZI675dmnLnRV6YHGeFN0WCIkOamprmpLmPf_Hgmy2P596V-53LJp71P2pJoMhF8NTjGSMsGQGhMoL56fwTSZzANySHb9BzTUwOUsapbuUsmpRne7e_j9vmK0Ov23BktYAA=s512-pd-pc0x00ffffff",
+        "description": "O port\u00e3o de seguran\u00e7a com 3 pain\u00e9is Modular, da Noma, \u00e9 um port\u00e3o de seguran\u00e7a para beb\u00e9s, que mant\u00e9m os seus filhos afastados de lugares perigosos tais como lareiras, janelas ou tomadas el\u00e9tricas. Os port\u00f5es modulares s\u00e3o f\u00e1ceis de instalar e aju...",
+        "properties": [
+          "Abre/fecha"
+        ],
+        "url": "https://www.google.pt/shopping/product/8078618773651401859?hl=pt&gl=pt&sfr=compass",
+        "review_count": 43,
+        "review_rating": 92,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Dimens\u00f5es",
+            "value": [
+              "75",
+              "7 x 9",
+              "5 x 66",
+              "5 cm (C x L x A)"
+            ]
+          }
+        ],
+        "offer_count": 3,
+        "offers_url": "https://www.google.pt/shopping/product/8078618773651401859/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "8078618773651401859",
+            "price": "117.97",
+            "price_additional_info": [],
+            "price_with_shipping": "121.96",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://dott.pt/pt/products/noma-portao-de-seguranca-com-3-paineis-modular-metal-branco-94054-d41e74d3-346e-44c5-baf4-2e12131ffb65?utm_source=google-shopping&utm_medium=organic&utm_campaign=Protetores%20e%20barreiras%20%3E%20Seguran%C3%A7a%20crian%C3%A7a%20e%20beb%C3%A9%20%3E%20Beb%C3%A9%20Crian%C3%A7a%20e%20Brinquedos&utm_content=Noma%20Port%C3%A3o%20de%20Seguran%C3%A7a%20com%203%20Pain%C3%A9is%20Modular%20Metal%20Branco%2094054",
+            "shop_name": "Dott",
+            "shop_review_count": 123,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-5aa8ad5316e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5aa8ad5316e",
+            "shop_url": "dott.pt",
+            "shop_domain": "dott.pt",
+            "shop_matching_id": "dott.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "8078618773651401859",
+            "price": "134.99",
+            "price_additional_info": [],
+            "price_with_shipping": "134.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/seguranca-e-protecao-bebe/porta-de-seguranca-com-3-paineis-noma-modular-MRKEAN-0743724394054",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "8078618773651401859",
+            "price": "144.63",
+            "price_additional_info": [],
+            "price_with_shipping": "144.63",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp9800409/Porta-de-seguranca-para-bebe-Carrefour-0743724394054-Branco/w-4?oref=a5f035e7-47c5-976c-7a5f-bf9318b388e3",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00889349743447",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:08:48Z"
+      },
+      "content": {
+        "id": "8354164477846522400",
+        "name": "Asus Placa Gr\u00e1fica GeForce GT 1030 (NVIDIA - 2 GB GDDR5)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzLEIrBE7kU37D5tUB8274MGE8DykMje0ekCVrQuHZfxwi5ozLXj7sbRz55Uo-M_I-pe241J4ZqRhQLFlWYu8EMDRz5eT--WA4sFi-cvpNZP5cqEwnC5vBYmblSOWPDahJpkThdVhlkXwPCsIXQYuiirL57byAMVQmw_usl1LBnzUQ-HmvMX68Q_u30YJ9MGjEJl4fn884=s512-pd-pc0x00ffffff",
+        "description": "A Nvidia \u00e9 o fabricante l\u00edder de placas de v\u00eddeo, sua qualidade garante uma experi\u00eancia positiva no desenvolvimento do motor gr\u00e1fico do seu computador. Al\u00e9m disso, seus processadores usam tecnologia de ponta para que voc\u00ea possa desfrutar de um pro...",
+        "properties": [
+          "ASUS",
+          "PCI Express",
+          "DVI",
+          "HDMI",
+          "GDDR5",
+          "1920 x 1200",
+          "Preto, Azul, A\u00e7o Inoxid\u00e1vel",
+          "Placa gr\u00e1fica",
+          "Ativo"
+        ],
+        "url": "https://www.google.pt/shopping/product/8354164477846522400?hl=pt&gl=pt&sfr=compass",
+        "review_count": 125,
+        "review_rating": 92,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Fam\u00edlia de processadores gr\u00e1ficos",
+            "value": [
+              "NVIDIA"
+            ]
+          },
+          {
+            "label": "Processador gr\u00e1fico",
+            "value": [
+              "GeForce GT 1030"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o M\u00e1xima",
+            "value": [
+              "1920 x 1200 pixels"
+            ]
+          },
+          {
+            "label": "CUDA",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "CUDA cores",
+            "value": [
+              "384"
+            ]
+          },
+          {
+            "label": "Frequ\u00eancia do processador",
+            "value": [
+              "1252 MHz"
+            ]
+          },
+          {
+            "label": "Velocidade do processador com boost",
+            "value": [
+              "1506 MHz"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria de placa gr\u00e1fica discreta",
+            "value": [
+              "2 GB"
+            ]
+          },
+          {
+            "label": "Tipo de mem\u00f3ria da placa gr\u00e1fica",
+            "value": [
+              "GDDR5"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria bus",
+            "value": [
+              "64 bit"
+            ]
+          },
+          {
+            "label": "Velocidade do clock de mem\u00f3ria",
+            "value": [
+              "6008 MHz"
+            ]
+          },
+          {
+            "label": "Tipo de interface",
+            "value": [
+              "PCI Express 3.0"
+            ]
+          },
+          {
+            "label": "Quantidade de portas HDMI",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Quantidade de portas DVI-D",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Afinador TV integrado",
+            "value": [
+              "N\u00e3o"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o DirectX",
+            "value": [
+              "12.0"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o OpenGL",
+            "value": [
+              "4.5"
+            ]
+          },
+          {
+            "label": "HDCP",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Full HD",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Tipo de refrigera\u00e7\u00e3o",
+            "value": [
+              "Ativo"
+            ]
+          },
+          {
+            "label": "N\u00famero de vento\u00ednhas",
+            "value": [
+              "1 ventoinha(s)"
+            ]
+          },
+          {
+            "label": "N\u00famero de slots",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Largura",
+            "value": [
+              "184 mm"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/8354164477846522400/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "8354164477846522400",
+            "price": "120.76",
+            "price_additional_info": [],
+            "price_with_shipping": "124.66",
+            "shipping_costs": "3.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/informatica-e-acessorios/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-asus-geforce-gt-1030-nvidia-2-gb-gddr5-MRKEAN-0889349743447",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03800931042332",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:08:49Z"
+      },
+      "content": {
+        "id": "13300993952779610571",
+        "name": "Chipolino Carrinho de Beb\u00e9 Maxi Mix Cinzento e Rosa/Azul (0+ meses)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkyTrGK-4XvzR7fbCA2HYGOQjn7vuhNdOjANxD__C5yWWyFFoG-LGgLgB1BOxuQAoYvXDVxEK0dNjfMCaxiOt4ol3jYUl3MZPePzdpbXlln499_oGjR44vZuCss_1NcDxrL6XBP8tPi0FgZ-IaOfYCkqoMix4u9dTrUvC-EV6mV9AvT7bzf3O0IKud8R5Z-iuq9v1FZy5w=s512-pd-pc0x00ffffff",
+        "description": "Silla gemelar, desde beb\u00e9s reci\u00e9n nacidos hasta un peso m\u00e1ximo de 15 kilos cada uno. - Tiene chasis ligero y cierra de forma f\u00e1cil y compacta. - Los respaldos son ajustables en varias posiciones, igual que los reposapi\u00e9s, para dar una gran comodid...",
+        "properties": [
+          "Duplo"
+        ],
+        "url": "https://www.google.pt/shopping/product/13300993952779610571?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Vendido por",
+            "value": [
+              "Babyshoppen"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/13300993952779610571/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "13300993952779610571",
+            "price": "198.1",
+            "price_additional_info": [],
+            "price_with_shipping": "198.1",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-chipolino-maxi-mix-cinzento-e-rosa-azul-0-meses-MRKEAN-3800931042332",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04007923153413",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:08:45Z"
+      },
+      "content": {
+        "id": "15676627589859310391",
+        "name": "Carrinho de beb\u00e9 Hauck SHOPPER TRIOSET Cinzento",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkz5DsoR__5-sDUnOb9FEPs409yJeqbjPqqglpfTtbC6FtUEpej7BLYPP--blasREaztKg6-2O-qyVFj3XMI_k1aJxop6Uf58Qlh7CNDMtxPb2ovW0swZY7Lky8bepvLOMV2I0bsAas3rhNKAx5pI-B5HuAx9boUXHIh3L_N7HO2EAwJ8s2zc5bL7ElYxgfNhXDC3ET_Ug=s512-pd-pc0x00ffffff",
+        "description": "Este \u00e9 um produto de dimens\u00f5es especiais, por isso, tem entrega obrigat\u00f3ria ao domic\u00edlio e pode ter um prazo mais alargado de prepara\u00e7\u00e3o. Os produtos de dimens\u00f5es especiais t\u00eam entrega exclusiva em Portugal Continental. Por favor, consulte as noss...",
+        "properties": [
+          "Mois\u00e9s",
+          "Individual"
+        ],
+        "url": "https://www.google.pt/shopping/product/15676627589859310391?hl=pt&gl=pt&sfr=compass",
+        "review_count": 25,
+        "review_rating": 90,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Largura",
+            "value": [
+              "52 cm"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/15676627589859310391/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "15676627589859310391",
+            "price": "285.06",
+            "price_additional_info": [],
+            "price_with_shipping": "285.06",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/hauck-shopper-trioset-carrinho-de-bebe-com-sistema-de-viagem-1-lugares-preto-cinzento-MRKEAN-4007923153413",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "15676627589859310391",
+            "price": "305.93",
+            "price_additional_info": [],
+            "price_with_shipping": "305.93",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp20398523/Carrinho-de-bebe-Hauck-SHOPPER-TRIOSET-Cinzento/w-4?oref=230e27f5-c3af-0658-2c61-ea092c395314",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04007923513040",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:08:51Z"
+      },
+      "content": {
+        "id": "12003675587737174578",
+        "name": "Carrinho de Beb\u00e9 Hauck Freerider Shop n Drive Cinzento",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwg0kJ9ehqGeyCgQK39SWYb5LBgihyA2mvYOmBThuWrtmtloVS2UzfAl2K4wul6w9B7meDZGO_6xZGBTL9-_iJ4Qb7zXnRrg2hBFmzNcEQTyy0GxH4h-atZPNILlEchMS8yoIx6JFq9kUwq1Gd9OVgAhjZi9Ve5vn96zaHN8fxduGWwiUNdiCY2RTxhiYTjQ66y8GyYdA=s512-pd-pc0x00ffffff",
+        "description": "FREERIDER multifuncional silla de paseo doble tandem ideal para dos hermanos de diferentes edades. - Podremos usar la silla de paseo de forma \u00fanica o acoplar el segundo asiento de forma r\u00e1pida y f\u00e1cil. - El manillar cerrado parental es ajustable e...",
+        "properties": [
+          "Duplo",
+          "Para terrenos irregulares",
+          "Tandem"
+        ],
+        "url": "https://www.google.pt/shopping/product/12003675587737174578?hl=pt&gl=pt&sfr=compass",
+        "review_count": 315,
+        "review_rating": 88,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Largura",
+            "value": [
+              "126 cm"
+            ]
+          }
+        ],
+        "offer_count": 4,
+        "offers_url": "https://www.google.pt/shopping/product/12003675587737174578/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "12003675587737174578",
+            "price": "292.99",
+            "price_additional_info": [],
+            "price_with_shipping": "292.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-trio-hauck-freerider-shop-n-drive-preto-e-cinzento-MRKEAN-4007923513040",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "12003675587737174578",
+            "price": "305.33",
+            "price_additional_info": [],
+            "price_with_shipping": "305.33",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp1214493/Carrinho-de-Bebe-Hauck-Freerider-Shop-n-Drive-Cinzento/w-4?oref=b9c112ef-f936-ca59-5e22-a8bd7a8c1331",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "12003675587737174578",
+            "price": "401.18",
+            "price_additional_info": [],
+            "price_with_shipping": "405.17",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://dott.pt/pt/products/hauck-freerider-shop-n-drive-carrinho-de-bebe-com-sistema-de-viagem-2-lugares-preto-cinzento-db5816fe-3447-4708-9f7c-a8d62f2c0def?utm_source=google-shopping&utm_medium=organic&utm_campaign=Carrinhos%20alcofa%20%3E%20Carrinhos%20%3E%20Passeio%20e%20Viagens%20%3E%20Beb%C3%A9%20Crian%C3%A7a%20e%20Brinquedos&utm_content=Hauck%20Freerider%20Shop%20N%20Drive%20Carrinho%20de%20Beb%C3%A9%20com%20Sistema%20de%20Viagem%202%20Lugares%20Preto%20Cinzento",
+            "shop_name": "Dott",
+            "shop_review_count": 123,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-5aa8ad5316e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5aa8ad5316e",
+            "shop_url": "dott.pt",
+            "shop_domain": "dott.pt",
+            "shop_matching_id": "dott.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "12003675587737174578",
+            "price": "303.94",
+            "price_additional_info": [],
+            "price_with_shipping": "305.94",
+            "shipping_costs": "2.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.carrinhosbaratos.pt/buggy-duplo-tandem-freerider-sh12-preto-por-freerider-sh12-hauck-3355.html",
+            "shop_name": "Carrinhosbaratos.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-cc7b8a526af",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-cc7b8a526af",
+            "shop_url": "www.carrinhosbaratos.pt",
+            "shop_domain": "carrinhosbaratos.pt",
+            "shop_matching_id": "carrinhosbaratos.pt",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04015588541056",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:08:47Z"
+      },
+      "content": {
+        "id": "943413842818895815",
+        "name": "Medisana Nebulizador Ultrass\u00f3nico USC (Branco)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxQ2qimhcDNjTs2b88Gbb91fHAXxEUxyggbd9Hy5c0bGBF9xtNKhx186Wy1oq0r9AluYkQnQuuJfXUY8Ovg46UwM7OHyozE6jnci3J-teuyDjnTGKaynh21bETZoKMDQptLWiNInRpKw4QGgWVNfPbTXdIW_ECtBBYBrY9hDZqY5Rq1iIoTmSlMVaEt4k8Mqdeh9QDS3Fg=s512-pd-pc0x00ffffff",
+        "description": "Aproveite a atomiza\u00e7\u00e3o e a respira\u00e7\u00e3o saud\u00e1vel com o nebulizador ultrass\u00f3nico USC da Medisana! Este nebulizador de baixo ru\u00eddo trabalha com uma elevada efici\u00eancia atrav\u00e9s de uma inovadora nebuliza\u00e7\u00e3o por micro-membrana com got\u00edculas ultrafinas, pa...",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/943413842818895815?hl=pt&gl=pt&sfr=compass",
+        "review_count": 29,
+        "review_rating": 84,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Vendedor",
+            "value": [
+              "vidaXL"
+            ]
+          },
+          {
+            "label": "Dimens\u00f5es",
+            "value": [
+              "14",
+              "2 x 7",
+              "5 x 7",
+              "5 cm"
+            ]
+          }
+        ],
+        "offer_count": 5,
+        "offers_url": "https://www.google.pt/shopping/product/943413842818895815/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "943413842818895815",
+            "price": "69.02",
+            "price_additional_info": [],
+            "price_with_shipping": "69.02",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/nebulizadores-bebe/nebulizador-medisana-ultrassonico-usc-branco-MRKEAN-4015588541056",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "943413842818895815",
+            "price": "72.41",
+            "price_additional_info": [],
+            "price_with_shipping": "72.41",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp11221877/Medisana-54105-inalador/w-4?oref=c16de6a9-81fa-2a70-d2b2-1fcd0fa0eea3",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "943413842818895815",
+            "price": "60.32",
+            "price_additional_info": [],
+            "price_with_shipping": "60.32",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://precodireto.com/nebulizadores/47200-medisana-nebulizador-ultrassonico-usc-branco-4015588541056.html",
+            "shop_name": "PrecoDireto",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-49cd35fcab7",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-49cd35fcab7",
+            "shop_url": "precodireto.com",
+            "shop_domain": "precodireto.com",
+            "shop_matching_id": "precodireto.com",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "943413842818895815",
+            "price": "66.83",
+            "price_additional_info": [],
+            "price_with_shipping": "75.33",
+            "shipping_costs": "8.5",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "http://allzora.pt/medisana-nebulizador-ultrassonico-usc-branco",
+            "shop_name": "allzora.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-38b969c09b7",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-38b969c09b7",
+            "shop_url": "allzora.pt",
+            "shop_domain": "allzora.pt",
+            "shop_matching_id": "allzora.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "943413842818895815",
+            "price": "103.84",
+            "price_additional_info": [],
+            "price_with_shipping": "103.84",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.ricardoevaz.com/artigos/nebulizador-ultrassonico-usc-branco-medisana-163467?srsltid=AQP2TeMTW7O_1JkcRK2jzvFxy4Z6lLTonjM7sj0Q7KkvGLVb7BJcU2UZIxQ",
+            "shop_name": "Riva Office Supplies",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-1ff35f77cb4",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-1ff35f77cb4",
+            "shop_url": "www.ricardoevaz.com",
+            "shop_domain": "ricardoevaz.com",
+            "shop_matching_id": "ricardoevaz.com",
+            "page": 1,
+            "position": 5
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072493912",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:08:48Z"
+      },
+      "content": {
+        "id": "1295095516027441529",
+        "name": "MSI GeForce GTX 1050 Ti 4GT LP 4 GB GDDR5",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzpboYMGozJ_GiwiJZdrVnAoip2SpKyQB-zoKUXVQu1wjZROi9HQ8XXbH_BoGAoMTMjyrqgAvaNQ_4yITTEt5ABiIlMrw0O8hJ9qJovuIcB-dseVWKzxrc0aJUerATAysgEEL1SHQjlrYfyZ3KoSzemh_cbybWaX3stNUZ256zkQRRMo7MRtY7XWMdHjeeI-IZsccRiFg=s512-pd-pc0x00ffffff",
+        "description": "Conte com a potente GeForce GTX 1050ti. Agora, voc\u00ea pode transformar seu PC em uma verdadeira plataforma de games, com a tecnologia da NVIDIA Pascal, a mais avan\u00e7ada arquitetura de placa de v\u00eddeo j\u00e1 criada. Ela vem com as tecnologias inovadoras NV...",
+        "properties": [
+          "MSI",
+          "PCI Express",
+          "VGA",
+          "DVI",
+          "HDMI",
+          "DisplayPort",
+          "GDDR5",
+          "4096 x 2160",
+          "Placa gr\u00e1fica",
+          "Ativo"
+        ],
+        "url": "https://www.google.pt/shopping/product/1295095516027441529?hl=pt&gl=pt&sfr=compass",
+        "review_count": 1414,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Fam\u00edlia de processadores gr\u00e1ficos",
+            "value": [
+              "NVIDIA"
+            ]
+          },
+          {
+            "label": "Processador gr\u00e1fico",
+            "value": [
+              "GeForce GTX 1050 Ti"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o M\u00e1xima",
+            "value": [
+              "7680 x 4320 pixels"
+            ]
+          },
+          {
+            "label": "CUDA",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Frequ\u00eancia do processador",
+            "value": [
+              "1290 MHz"
+            ]
+          },
+          {
+            "label": "CUDA cores",
+            "value": [
+              "768"
+            ]
+          },
+          {
+            "label": "Velocidade do processador com boost",
+            "value": [
+              "1392 MHz"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o digital m\u00e1xima",
+            "value": [
+              "7680 x 4320 pixels"
+            ]
+          },
+          {
+            "label": "Exibi\u00e7\u00f5es m\u00e1ximas por cart\u00e3o de v\u00eddeo",
+            "value": [
+              "3"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria de placa gr\u00e1fica discreta",
+            "value": [
+              "4 GB"
+            ]
+          },
+          {
+            "label": "Tipo de mem\u00f3ria da placa gr\u00e1fica",
+            "value": [
+              "GDDR5"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria bus",
+            "value": [
+              "128 bit"
+            ]
+          },
+          {
+            "label": "Velocidade do clock de mem\u00f3ria",
+            "value": [
+              "7008 MHz"
+            ]
+          },
+          {
+            "label": "Tipo de interface",
+            "value": [
+              "PCI Express x16 3.0"
+            ]
+          },
+          {
+            "label": "Quantidade de portas HDMI",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Quantidade de portas DVI-D",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Quantidade de portas DisplayPort",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o HDMI",
+            "value": [
+              "2.0"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o DisplayPort",
+            "value": [
+              "1.4"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o DirectX",
+            "value": [
+              "12.0"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o OpenGL",
+            "value": [
+              "4.5"
+            ]
+          },
+          {
+            "label": "Dual Link DVI",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "HDCP",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "NVIDIA G-SYNC",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Full HD",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Tipo de refrigera\u00e7\u00e3o",
+            "value": [
+              "Ativo"
+            ]
+          },
+          {
+            "label": "N\u00famero de slots",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Fornecimento m\u00ednimo de energia do sistema",
+            "value": [
+              "300 W"
+            ]
+          },
+          {
+            "label": "Consumo de energia (t\u00edpico)",
+            "value": [
+              "75 W"
+            ]
+          },
+          {
+            "label": "Profundidade",
+            "value": [
+              "182 mm"
+            ]
+          },
+          {
+            "label": "Largura",
+            "value": [
+              "69 mm"
+            ]
+          },
+          {
+            "label": "Peso da embalagem",
+            "value": [
+              "486 g"
+            ]
+          }
+        ],
+        "offer_count": 11,
+        "offers_url": "https://www.google.pt/shopping/product/1295095516027441529/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "1295095516027441529",
+            "price": "201.99",
+            "price_additional_info": [
+              "PROMO\u00c7\u00c3O"
+            ],
+            "price_with_shipping": "204.98",
+            "shipping_costs": "2.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tradeinn.com/techinn/pt/msi-placa-grafica-geforce-gtx-1050-ti-4gb-gddr5/137432046/p?utm_source=google_products&utm_medium=merchant&id_producte=10134685&country=pt",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 464,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.tradeinn.com",
+            "shop_domain": "tradeinn.com",
+            "shop_matching_id": "tradeinn.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "1295095516027441529",
+            "price": "202.27",
+            "price_additional_info": [],
+            "price_with_shipping": "202.27",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.pccomponentes.pt/msi-geforce-gtx-1050ti-4gt-low-profile-4gb-gddr5",
+            "shop_name": " PcComponentes PT",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9f9ce0a43ef",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9f9ce0a43ef",
+            "shop_url": "www.pccomponentes.pt",
+            "shop_domain": "pccomponentes.pt",
+            "shop_matching_id": "pccomponentes.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "1295095516027441529",
+            "price": "199.9",
+            "price_additional_info": [],
+            "price_with_shipping": "204.3",
+            "shipping_costs": "4.4",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.novoatalho.pt/pt-PT/produto/5478/Placa-Gr%C3%A1fica-MSI-GeForce%C2%AE-GTX-1050-Ti-4GT-LP.html",
+            "shop_name": "Novo Atalho",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ba9dba739ca",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ba9dba739ca",
+            "shop_url": "www.novoatalho.pt",
+            "shop_domain": "novoatalho.pt",
+            "shop_matching_id": "novoatalho.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "1295095516027441529",
+            "price": "194.99",
+            "price_additional_info": [],
+            "price_with_shipping": "198.89",
+            "shipping_costs": "3.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mbit.pt/informatica/componentes/vga/msi-gtx-1050-ti-4gt-lp-ddr5-pci-e?srsltid=AQP2TeMsd7enGn7qJabzqcSxzOPlXCsIwlk-U0NfR6T9V5yWhiJyBqOnyr8",
+            "shop_name": "Mbit",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b05b7d92646",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b05b7d92646",
+            "shop_url": "www.mbit.pt",
+            "shop_domain": "mbit.pt",
+            "shop_matching_id": "mbit.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "1295095516027441529",
+            "price": "199.26",
+            "price_additional_info": [],
+            "price_with_shipping": "199.26",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://kibo.pt/index.php/tarjeta-grafica-msi-gtx-1050-ti-4gt-lp-gddr5.html",
+            "shop_name": "KIBO.pt",
+            "shop_review_count": 490,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-bba1e197fb2",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-bba1e197fb2",
+            "shop_url": "kibo.pt",
+            "shop_domain": "kibo.pt",
+            "shop_matching_id": "kibo.pt",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "1295095516027441529",
+            "price": "217.95",
+            "price_additional_info": [],
+            "price_with_shipping": "217.95",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/informatica-e-acessorios/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-msi-geforce-gtx-1050ti-nvidia-4-gb-ddr5-6179727",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "1295095516027441529",
+            "price": "210.68",
+            "price_additional_info": [],
+            "price_with_shipping": "218.18",
+            "shipping_costs": "7.5",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://greatecno.com/pt/placas-graficas/107444-cart-o-grafico-msi-geforce-gt-1050-ti-4gt-lp-1290-1392-mhz-4-gb-gddr5-hdmi-dvi-d-displayport-perfil-baixo-compativel-4719072493912.html?srsltid=AQP2TePd4FjXezUaMXplxC4v-YXmHGuce8toPirukSp02UF4dJCzq0_hevQ",
+            "shop_name": "GreaTecno",
+            "shop_review_count": 72,
+            "shop_review_rating": 88,
+            "shop_id": "priceapi-c7bb28ea093",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c7bb28ea093",
+            "shop_url": "greatecno.com",
+            "shop_domain": "greatecno.com",
+            "shop_matching_id": "greatecno.com",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "1295095516027441529",
+            "price": "210.98",
+            "price_additional_info": [],
+            "price_with_shipping": "227.51",
+            "shipping_costs": "16.53",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://monimega.com/sun/pt/placas-graficas/55060-msi-gtx-1050-ti-4gt-lp-nvidia-geforce-gtx-1050-ti-4-gb-gddr5-4719072493912.html",
+            "shop_name": "Monimega Shop",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2ea96b4e584",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2ea96b4e584",
+            "shop_url": "monimega.com",
+            "shop_domain": "monimega.com",
+            "shop_matching_id": "monimega.com",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "1295095516027441529",
+            "price": "219.1",
+            "price_additional_info": [],
+            "price_with_shipping": "224.42",
+            "shipping_costs": "5.32",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://lookandbuy-europe-spain.shop/pt/gaming-placas-graficas/196459-placa-grafica-msi-vga-nvidia-gtx-1050-ti-4gt-lp-4-gb-gddr5-4719072493912.html",
+            "shop_name": "Look & Buy - Webshops",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-10482ffff6c",
+            "shop_sub_id": "Webshops",
+            "shop_extended_source_id": "priceapi-10482ffff6c-Webshops",
+            "shop_url": "lookandbuy-europe-spain.shop",
+            "shop_domain": "lookandbuy-europe-spain.shop",
+            "shop_matching_id": "lookandbuy-europe-spain.shop - Webshops",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "1295095516027441529",
+            "price": "219.4",
+            "price_additional_info": [],
+            "price_with_shipping": "223.4",
+            "shipping_costs": "4.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://kedak.online/pt/placa-grafica-msi-vga-nvidia-gtx-1050-ti-4gt-lp-4-gb-gddr5-4719072493912-101056.html",
+            "shop_name": "kedak.online",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b7c3e468deb",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b7c3e468deb",
+            "shop_url": "kedak.online",
+            "shop_domain": "kedak.online",
+            "shop_matching_id": "kedak.online",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "1295095516027441529",
+            "price": "226.42",
+            "price_additional_info": [],
+            "price_with_shipping": "231.82",
+            "shipping_costs": "5.4",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://myinformatica.pt/loja/gaming-componentes-placas-graficas/tarjeta-grafica-msi-gtx-1050-ti-4gt-lp/?utm_source=Google+Shopping&utm_medium=cpc&utm_campaign=Google",
+            "shop_name": "myInform\u00e1tica",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-6e84c09d36a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-6e84c09d36a",
+            "shop_url": "myinformatica.pt",
+            "shop_domain": "myinformatica.pt",
+            "shop_matching_id": "myinformatica.pt",
+            "page": 1,
+            "position": 11
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04895106290662",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:08:51Z"
+      },
+      "content": {
+        "id": "11097538475843549602",
+        "name": "Sapphire Pulse Radeon Rx 6600 Amd 8 Gb Gddr6",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzi0uJo-a3qdQkqKrWyp5y7zCc_hGJhC_ItCLEcEv_RQpU6WfRTxA2zb5lM6kVyq5-34CB3J7S8C79cgnTIe7jYo_eU81PqkC4x8D534J_xFewb1xLLOu1wthxuI5jEyzMcRyhmwfDzkyVDtRK1ei-S4pnYoBJOy7X-U3pkEx96_TZg9uqBvTzfWxsqg6b77ctQGA5VMGQ=s512-pd-pc0x00ffffff",
+        "description": "Gr\u00e1fica recondicionada, com caixa original. Pode conter marcas de uso. Nada que impe\u00e7a a sua utiliza\u00e7\u00e3o. 8GB de mem\u00f3ria VRAM GDDR6 Stream Processors 1792 Limitado a uma unidade por cliente. Independentemente do modelo.",
+        "properties": [
+          "Sapphire",
+          "PCI Express",
+          "HDMI",
+          "DisplayPort",
+          "GDDR"
+        ],
+        "url": "https://www.google.pt/shopping/product/11097538475843549602?hl=pt&gl=pt&sfr=compass",
+        "review_count": 95,
+        "review_rating": 90,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Processador Gr\u00e1fico",
+            "value": [
+              "Radeon RX 6600"
+            ]
+          },
+          {
+            "label": "BUS",
+            "value": [
+              "PCI-Express 4.0 x 8"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria de V\u00eddeo",
+            "value": [
+              "8GB GDDR6"
+            ]
+          },
+          {
+            "label": "Stream Processors",
+            "value": [
+              "1792"
+            ]
+          },
+          {
+            "label": "Interface de Mem\u00f3ria",
+            "value": [
+              "128 bit"
+            ]
+          },
+          {
+            "label": "Suporte para multi-monitor",
+            "value": [
+              "At\u00e9 4 monitores"
+            ]
+          },
+          {
+            "label": "Interface",
+            "value": [
+              "3 x DisplayPort (v1.4) com DSC; 1 x HDMI"
+            ]
+          },
+          {
+            "label": "Dimens\u00f5es",
+            "value": [
+              "193 x 120.05 x 40.05 mm"
+            ]
+          }
+        ],
+        "offer_count": 6,
+        "offers_url": "https://www.google.pt/shopping/product/11097538475843549602/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "11097538475843549602",
+            "price": "320.1",
+            "price_additional_info": [
+              "PRE\u00c7O BAIXO"
+            ],
+            "price_with_shipping": "320.1",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.pccomponentes.pt/sapphire-pulse-amd-radeon-rx-6600-8gb-gddr6",
+            "shop_name": " PcComponentes PT",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9f9ce0a43ef",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9f9ce0a43ef",
+            "shop_url": "www.pccomponentes.pt",
+            "shop_domain": "pccomponentes.pt",
+            "shop_matching_id": "pccomponentes.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "11097538475843549602",
+            "price": "399.9",
+            "price_additional_info": [],
+            "price_with_shipping": "399.9",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.pcdiga.com/placa-grafica-sapphire-pulse-radeon-rx-6600-8gb-gddr6-11310-01-20g",
+            "shop_name": "PCDiga",
+            "shop_review_count": 163,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-f8542fbc9d7",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f8542fbc9d7",
+            "shop_url": "www.pcdiga.com",
+            "shop_domain": "pcdiga.com",
+            "shop_matching_id": "pcdiga.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "11097538475843549602",
+            "price": "389.9",
+            "price_additional_info": [],
+            "price_with_shipping": "389.9",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.globaldata.pt/b-grade-grafica-sapphire-radeon-rx-6600-pulse-8gb-gd6-11310-01-20g-op",
+            "shop_name": "Globaldata",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-5491307ab20",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5491307ab20",
+            "shop_url": "www.globaldata.pt",
+            "shop_domain": "globaldata.pt",
+            "shop_matching_id": "globaldata.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "11097538475843549602",
+            "price": "393.81",
+            "price_additional_info": [],
+            "price_with_shipping": "401.31",
+            "shipping_costs": "7.5",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://greatecno.com/pt/placas-graficas/205268-sapphire-pulse-amd-radeon-rx-6600-8gb-gddr6-4895106290662.html?srsltid=AQP2TeN7vfMr_OY7hvcBAz3Wnc4HIu3RBvdJRZEHjxGmI5cFFeIaJZ7VgWQ",
+            "shop_name": "GreaTecno",
+            "shop_review_count": 72,
+            "shop_review_rating": 88,
+            "shop_id": "priceapi-c7bb28ea093",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c7bb28ea093",
+            "shop_url": "greatecno.com",
+            "shop_domain": "greatecno.com",
+            "shop_matching_id": "greatecno.com",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "11097538475843549602",
+            "price": "415.61",
+            "price_additional_info": [],
+            "price_with_shipping": "415.61",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/informatica-e-acessorios/componentes/placas-graficas/placas-graficas-amd/placa-grafica-sapphire-radeon-rx-6600-amd-8-gb-gddr6-MRKEAN-4895106290662",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "11097538475843549602",
+            "price": "449.9",
+            "price_additional_info": [
+              "PROMO\u00c7\u00c3O"
+            ],
+            "price_with_shipping": "453.9",
+            "shipping_costs": "4.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://youget.pt/pt/placa-grafica-sapphire-pulse-radeon-rx-6600-8gb-gddr6?srsltid=AQP2TeM7JrcrtdHJAzUpAWVBTFg5Y1da2hxOzmaQJ7NwfrZ_ZxlQ7w6xsek",
+            "shop_name": "You Get",
+            "shop_review_count": 213,
+            "shop_review_rating": 96,
+            "shop_id": "priceapi-11e283f1958",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-11e283f1958",
+            "shop_url": "youget.pt",
+            "shop_domain": "youget.pt",
+            "shop_matching_id": "youget.pt",
+            "page": 1,
+            "position": 6
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05900495864017",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:08:47Z"
+      },
+      "content": {
+        "id": "6551095977448272829",
+        "name": "Triciclo 5 Em 1 Invidia Preto E Azul-marinho - Momi",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkyLs1J6wLx6R15xV5KHlAooQeFl3HDoqsfWnS76FDBDGs_bgeE8llNKXoM9OlTckpR2xvLNELnwlEF4USZQgs8sb-8cMyo6DsAKiFOJqlIMm4pwsDVD0zReZJRitOlalQWL_PRjguHxm87AUi5C3EwbAmPvasB7Qk3KaweRlWu2DUo6gnanAWHNw-eCYuKE-BgjSCAp=s512-pd-pc0x00ffffff",
+        "description": "Pode substituir o carrinho cl\u00e1ssico ou uma bicicleta. Estrutura duradoura. Assento largo com posi\u00e7\u00e3o semi horizontal. Encosto e prote\u00e7\u00e3o regul\u00e1vel. Assento regul\u00e1vel e girat\u00f3rio a 360o. Cinto de seguran\u00e7a com 5 posi\u00e7\u00f5es. Prote\u00e7\u00e3o amov\u00edvel. Pneus a...",
+        "properties": [
+          "Com guia",
+          "Dobr\u00e1vel",
+          "Azul"
+        ],
+        "url": "https://www.google.pt/shopping/product/6551095977448272829?hl=pt&gl=pt&sfr=compass",
+        "review_count": 1,
+        "review_rating": 100,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/6551095977448272829/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "6551095977448272829",
+            "price": "159.99",
+            "price_additional_info": [],
+            "price_with_shipping": "159.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/triciclo-evolutivo-momi-invidia-flow-MRKEAN-5900495864017",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05901435408889",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:08:47Z"
+      },
+      "content": {
+        "id": "8185814907088164407",
+        "name": "Baby Ono Term\u00f3metro de Banho Koala",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkw_nGUFvebbc4ujHC0RYxlj208jt91fj1nW-ErvIr77c2ucIb7iN9Oucn9c5bgmqHS1jI0chvoY7LI1UU7855HgYM42mcJi_lfg6Sig0H92Zh2N1AkeEutOHNSQiRcYeIS3XBojwm6qI9USHCN95rfpSGBOTMcb-fHOcSWfzFXS-4exZJbHljlNSyuFRDqUvm75scHbvQ=s512-pd-pc0x00ffffff",
+        "description": "O term\u00f3metro do banho ajudar\u00e1 com seguran\u00e7a e confiabilidade a atingir e manter a temperatura certa para o banho do seu beb\u00e9. Uma escala grande e leg\u00edvel facilita a leitura da temperatura. Gra\u00e7as \u00e0 sua constru\u00e7\u00e3o leve, o term\u00f4metro flutua na super...",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/8185814907088164407?hl=pt&gl=pt&sfr=compass",
+        "review_count": 12,
+        "review_rating": 84,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "MRW",
+            "value": [
+              "quarta-feira 11/05/2022"
+            ]
+          },
+          {
+            "label": "Recolher na loja",
+            "value": [
+              "quarta-feira 11/05/2022"
+            ]
+          }
+        ],
+        "offer_count": 3,
+        "offers_url": "https://www.google.pt/shopping/product/8185814907088164407/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "8185814907088164407",
+            "price": "2.6",
+            "price_additional_info": [],
+            "price_with_shipping": "8.55",
+            "shipping_costs": "5.95",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.notino.pt/babyono/thermometer-termometro-para-banho/p-16103745/",
+            "shop_name": "Notino.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0565aa8c267",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0565aa8c267",
+            "shop_url": "www.notino.pt",
+            "shop_domain": "notino.pt",
+            "shop_matching_id": "notino.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "8185814907088164407",
+            "price": "6.0",
+            "price_additional_info": [],
+            "price_with_shipping": "11.14",
+            "shipping_costs": "5.14",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp19054030/Termometro-de-Banho-Baby-Ono-Koala/w-4?oref=bffb2cbb-98a7-bbd3-75f2-b8ad301463a4",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "8185814907088164407",
+            "price": "6.5",
+            "price_additional_info": [],
+            "price_with_shipping": "6.5",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/termometros-bebe/termometro-de-banho-baby-ono-koala-MRKEAN-5901435408889",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05902533912483",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:08:46Z"
+      },
+      "content": {
+        "id": "10267324065995439075",
+        "name": "Kinderkraft - Ber\u00e7o Sofi",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzlKLxadUQ8FYam95rk339UYBJx15J_FHN9HjbhUw1fu_3VNgWxdRy-7Q-rRvwsPqQEoNdBiC43JRrBgCZJz50hC3ZGEGXAFHAXOowPKGZJydKrLQQOjZQHIingF0LaM0EcASbZ0LoIafMEoMzMIJJzwwKRbK8hHeU6hbu3lyIEUR4Y0r0g2cWJioN7NUTZdRpLvjr-6x0=s512-pd-pc0x00ffffff",
+        "description": "Kinderkraft Ber\u00e7o modelo Sofi, \u00e9 um funcional ber\u00e7o para casa e para viagem. Este pr\u00e1tico ber\u00e7o possui 4 fun\u00e7\u00f5es em 1: ber\u00e7o, ber\u00e7o de baloi\u00e7o, parque e ber\u00e7o de viagem. Gra\u00e7as \u00e0 op\u00e7\u00e3o de colocar o colch\u00e3o em 2 n\u00edveis, ele pode ser usado por crian...",
+        "properties": [
+          "Port\u00e1til"
+        ],
+        "url": "https://www.google.pt/shopping/product/10267324065995439075?hl=pt&gl=pt&sfr=compass",
+        "review_count": 200,
+        "review_rating": 96,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 4,
+        "offers_url": "https://www.google.pt/shopping/product/10267324065995439075/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10267324065995439075",
+            "price": "149.0",
+            "price_additional_info": [],
+            "price_with_shipping": "149.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/parques-para-bebe/parque-kinderkraft-bebe-sofi-gray-cinzento-MRKEAN-5902533912483",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "10267324065995439075",
+            "price": "149.0",
+            "price_additional_info": [],
+            "price_with_shipping": "149.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://alananitanana.com/pt/bercos-e-textil/3464-berco-sofi-4-en-1-kinderkraft-.html?srsltid=AQP2TePOGJ4CPfkatVH2KWITbyA0tjHVgREhxMS-nRmeroXIGOsgki3LX4s",
+            "shop_name": "Alananitanana",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fd65decdfeb",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fd65decdfeb",
+            "shop_url": "alananitanana.com",
+            "shop_domain": "alananitanana.com",
+            "shop_matching_id": "alananitanana.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "10267324065995439075",
+            "price": "181.45",
+            "price_additional_info": [],
+            "price_with_shipping": "181.45",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp19097631/Berco-e-Parque-de-Bebe-Kinderkraft-Sofi-Cinzento/w-4?oref=73bea588-5773-37a4-5cc8-60dc455db1ad",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "10267324065995439075",
+            "price": "175.0",
+            "price_additional_info": [],
+            "price_with_shipping": "175.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://farmacianovadamaia.pt/pt/quarto-do-bebe/4192-kinderkraft-sofi-berco-cinzento-5902533912483.html?utm_source=google&utm_medium=free_merchant",
+            "shop_name": "Farm\u00e1cia Nova da Maia",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ae41cc375da",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ae41cc375da",
+            "shop_url": "farmacianovadamaia.pt",
+            "shop_domain": "farmacianovadamaia.pt",
+            "shop_matching_id": "farmacianovadamaia.pt",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06459846283537",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:08:45Z"
+      },
+      "content": {
+        "id": "7437357151685107179",
+        "name": "Ohpa Mars\u00fapio YB050 Cinzento Claro (Idade M\u00ednima: 1 M\u00eas - 50 x 50 x 0.1 cm)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzK4ukillORR1buoWH4Zu5AsKN_6NaQSAZ70gT_G1v3SuI7syUUqipGzhJw0N3Sv4a6cRvYwMmqJ7Kdrw0dbrEcTOGbunpJkYe6S0TJf_Oe71wgkevWhJkZnTZ3OCOfAW3_H8Vyn5Fm5_8jUZpo5CibuIpRnecRd5J2bAe_Uq4c2vgudcb3Bu7_De8jOm1RcDDlDAWAzck=s512-pd-pc0x00ffffff",
+        "description": "O envolt\u00f3rio de beb\u00ea de algod\u00e3o pode ajudar a fornecer a maneira mais natural de dormir do beb\u00ea. Al\u00e9m disso, \u00e9 um envolt\u00f3rio de beb\u00ea de amamenta\u00e7\u00e3o perfeito para amamentar de forma oculta e conveniente. Seguro, aconchegante e macio, perfeitamente ...",
+        "properties": [
+          "Com arma\u00e7\u00e3o",
+          "Cinzento Claro"
+        ],
+        "url": "https://www.google.pt/shopping/product/7437357151685107179?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/7437357151685107179/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "7437357151685107179",
+            "price": "32.93",
+            "price_additional_info": [],
+            "price_with_shipping": "32.93",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/marsupios-para-bebe/marsupio-ohpa-yb050-cinzento-claro-idade-minima-1-mes-50-x-50-x-0-1-cm-MRKEAN-6459846283537",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "success": false,
+      "reason": "invalid value",
+      "source": "google-shopping",
+      "country": "pt",
+      "key": "gtin",
+      "value": "06902601794494",
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06902601794494",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08013240200057",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:08:44Z"
+      },
+      "content": {
+        "id": "14426335510128538609",
+        "name": "Laica Nebulizador NE2012 a Pist\u00e3o",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkyw4jEJXBm0UJC23dc3plPaFRXl1eb3MlY4Nq_39lA1pqlMwF3iIKTgxr8PyFqT2T1WaMVVsxfVjorGuPY_fJcfBJDaGtBbaC0r7Is4tpClRaI_tcZAsWLPa8gwbS9vNdTdAPpXJNuu4ff8aeGAF_duu_X3uXsmL_bjVG24Ref60C-xMrjrua0fpTEKvgR5vWOXBl-EPw=s512-pd-pc0x00ffffff",
+        "description": "O nebulizador de pist\u00e3o NE2012 LAICA para terapia com aerossol permite uma nebuliza\u00e7\u00e3o r\u00e1pida e muito fina. \u00c9 equipado com um pr\u00e1tico compartimento de acess\u00f3rios, que permite que os componentes do dispositivo sejam armazenados de maneira higi\u00eanica...",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/14426335510128538609?hl=pt&gl=pt&sfr=compass",
+        "review_count": 2,
+        "review_rating": 100,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/14426335510128538609/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "14426335510128538609",
+            "price": "49.78",
+            "price_additional_info": [],
+            "price_with_shipping": "49.78",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/nebulizadores-bebe/nebulizador-laica-ne2012-a-pistao-MRKEAN-8013240200057",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "14426335510128538609",
+            "price": "89.97",
+            "price_additional_info": [],
+            "price_with_shipping": "89.97",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp10697838/Inalador-de-vapor-Laica-NE2012W-Branco/w-4?oref=47aa0940-395f-5a79-19fd-c913e5815339",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08058664082506",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:08:50Z"
+      },
+      "content": {
+        "id": "6112277735961157884",
+        "name": "Chupeta Silicone Chicco Physio Comfort Boy 0-6M",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzqvs06CisUze8xlu_9fXHqHCv0U3Eamy1pYd4eOcHhWE6URYfcWRaXPWNJDxEMN_kKR6-eRQrslK3IFLoR23o_kWR91fb2n-UwpA3868vnFrFaAMrKGcl833_4cYK0hC2Hj4YAo-wVMO-t53gHJVAu-fd80fkqvqtY_4YfgEjGSGgUxnl4-sEj-mTYORls5IBOpliuCcQ=s512-pd-pc0x00ffffff",
+        "description": "Chupeta, confort\u00e1vel para o beb\u00e9, que estimula o desenvolvimento dos m\u00fasculos faciais e da l\u00edngua, indicada para beb\u00e9s a partir dos 6 meses de idade. Chicco Physio Comfort Chupeta apresenta uma forma ergon\u00f3mica, assegurando o m\u00e1ximo espa\u00e7o para o ...",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/6112277735961157884?hl=pt&gl=pt&sfr=compass",
+        "review_count": 117,
+        "review_rating": 90,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 20,
+        "offers_url": "https://www.google.pt/shopping/product/6112277735961157884/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "6112277735961157884",
+            "price": "7.0",
+            "price_additional_info": [],
+            "price_with_shipping": "12.95",
+            "shipping_costs": "5.95",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.notino.pt/chicco/physio-comfort-dots-raccoon-chupeta-0-6m-boy/p-16083837/",
+            "shop_name": "Notino.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0565aa8c267",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0565aa8c267",
+            "shop_url": "www.notino.pt",
+            "shop_domain": "notino.pt",
+            "shop_matching_id": "notino.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "6112277735961157884",
+            "price": "6.36",
+            "price_additional_info": [],
+            "price_with_shipping": "10.85",
+            "shipping_costs": "4.49",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.farmaciasdirect.com/pt/comprar/chicco-2-chupetes-silicona-physio-comfort-nino-0-6-meses-2-unidades-10558/?srsltid=AQP2TeP70-nuYsxa7hqWeanSsdxcwa5u553PmXdbgVlNkE0BZ4T7TfgIHow",
+            "shop_name": "Farmaciasdirect",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ec6bc2934d3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ec6bc2934d3",
+            "shop_url": "www.farmaciasdirect.com",
+            "shop_domain": "farmaciasdirect.com",
+            "shop_matching_id": "farmaciasdirect.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "6112277735961157884",
+            "price": "5.99",
+            "price_additional_info": [],
+            "price_with_shipping": null,
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://easyfarma.pt/products/chicco-physio-comfort-azul-bege-6-12-16m-x-2-unid?variant=42498189951199&currency=EUR&utm_source=google&utm_medium=cpc&utm_campaign=google+shopping",
+            "shop_name": "Easyfarma.pt",
+            "shop_review_count": 654,
+            "shop_review_rating": 98,
+            "shop_id": "priceapi-bff8c83b99e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-bff8c83b99e",
+            "shop_url": "easyfarma.pt",
+            "shop_domain": "easyfarma.pt",
+            "shop_matching_id": "easyfarma.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "6112277735961157884",
+            "price": "6.6",
+            "price_additional_info": [],
+            "price_with_shipping": "9.59",
+            "shipping_costs": "2.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://elboticarioencasa.com/pt/chupetas-e-clipes/9786-chicco-silicone-physio-comfort-child-0-6-meses",
+            "shop_name": "El Boticario en Casa",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b0a97484500",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b0a97484500",
+            "shop_url": "elboticarioencasa.com",
+            "shop_domain": "elboticarioencasa.com",
+            "shop_matching_id": "elboticarioencasa.com",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "6112277735961157884",
+            "price": "6.76",
+            "price_additional_info": [],
+            "price_with_shipping": "10.71",
+            "shipping_costs": "3.95",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/chupetas/chupeta-chicco-chu74931210000-menino-0-6-m-MRKEAN-8058664082506",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "6112277735961157884",
+            "price": "9.99",
+            "price_additional_info": [],
+            "price_with_shipping": "13.98",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://zippyonline.com/pt/chupeta-physio-confort-silicone-0-6m-chicco-2un./6594887.html?LGWCODE=6594887;114169;9295",
+            "shop_name": "ZIPPY",
+            "shop_review_count": 257,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-1603146d07a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-1603146d07a",
+            "shop_url": "zippyonline.com",
+            "shop_domain": "zippyonline.com",
+            "shop_matching_id": "zippyonline.com",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "6112277735961157884",
+            "price": "5.17",
+            "price_additional_info": [],
+            "price_with_shipping": "9.07",
+            "shipping_costs": "3.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://lojadafarmacia.com/pt/artigo/ch.chu74931210000-physio-comf-boy-0-6m?utm_source=google&utm_medium=free-listings",
+            "shop_name": "Loja da Farm\u00e1cia",
+            "shop_review_count": 340,
+            "shop_review_rating": 98,
+            "shop_id": "priceapi-88eac7a7a4a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-88eac7a7a4a",
+            "shop_url": "lojadafarmacia.com",
+            "shop_domain": "lojadafarmacia.com",
+            "shop_matching_id": "lojadafarmacia.com",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "6112277735961157884",
+            "price": "7.02",
+            "price_additional_info": [],
+            "price_with_shipping": "7.02",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.gamafarma.pt/chicco-physio-comfort-chupeta-silicone-boy-0-6m.html",
+            "shop_name": "Farm\u00e1cia Gama",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8502eaab563",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8502eaab563",
+            "shop_url": "www.gamafarma.pt",
+            "shop_domain": "gamafarma.pt",
+            "shop_matching_id": "gamafarma.pt",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "6112277735961157884",
+            "price": "7.14",
+            "price_additional_info": [],
+            "price_with_shipping": "11.14",
+            "shipping_costs": "4.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://farmacia365.pt/products/chicco-physio-comfort-boy-0-6m-2-unidades_6046680",
+            "shop_name": "Farm\u00e1cia365.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9d9f864f538",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9d9f864f538",
+            "shop_url": "farmacia365.pt",
+            "shop_domain": "farmacia365.pt",
+            "shop_matching_id": "farmacia365.pt",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "6112277735961157884",
+            "price": "7.48",
+            "price_additional_info": [
+              "PROMO\u00c7\u00c3O"
+            ],
+            "price_with_shipping": "10.38",
+            "shipping_costs": "2.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.planetahuerto.pt/venda-chupeta-physio-comfort-silicone-0-6m-2-ud-sortido_216081/271824?srsltid=AQP2TeNlh2zRpUM1TmYKUVosvqse-v2RM88D_lgwgvCTTXBDrq0RF4avNXM",
+            "shop_name": "Planeta Huerto",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4b6739d069f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4b6739d069f",
+            "shop_url": "www.planetahuerto.pt",
+            "shop_domain": "planetahuerto.pt",
+            "shop_matching_id": "planetahuerto.pt",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "6112277735961157884",
+            "price": "7.61",
+            "price_additional_info": [],
+            "price_with_shipping": "7.61",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.pharma24.pt/ch.chu74931210000-physio-comf-boy-0-6m-x2.html",
+            "shop_name": "Pharma 24",
+            "shop_review_count": 115,
+            "shop_review_rating": 98,
+            "shop_id": "priceapi-a9e7d78e17d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a9e7d78e17d",
+            "shop_url": "www.pharma24.pt",
+            "shop_domain": "pharma24.pt",
+            "shop_matching_id": "pharma24.pt",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "6112277735961157884",
+            "price": "7.74",
+            "price_additional_info": [],
+            "price_with_shipping": "11.43",
+            "shipping_costs": "3.69",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://farmaciavirtual.pt/produto/chicco-physio-comfort-chupeta-silicone-boy-0-6m/",
+            "shop_name": "Farm\u00e1cia Virtual",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-7c98c908055",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-7c98c908055",
+            "shop_url": "farmaciavirtual.pt",
+            "shop_domain": "farmaciavirtual.pt",
+            "shop_matching_id": "farmaciavirtual.pt",
+            "page": 1,
+            "position": 12
+          },
+          {
+            "id": null,
+            "product_id": "6112277735961157884",
+            "price": "10.1",
+            "price_additional_info": [],
+            "price_with_shipping": "13.3",
+            "shipping_costs": "3.2",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://pt.lordelo.com/produtos/6046680/",
+            "shop_name": "Pt.Lordelo",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-e051d2aa5e5",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e051d2aa5e5",
+            "shop_url": "pt.lordelo.com",
+            "shop_domain": "lordelo.com",
+            "shop_matching_id": "lordelo.com",
+            "page": 1,
+            "position": 13
+          },
+          {
+            "id": null,
+            "product_id": "6112277735961157884",
+            "price": "10.5",
+            "price_additional_info": [],
+            "price_with_shipping": "14.49",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://looktocare.com/pt/artigo/chicco-physio-comfort-chupeta-silicone-boy-0-6m-2un-6046680?srsltid=AQP2TeOeDBjzVir7O5El-9OD-5xfrXDGn-k2sqCK0FO9pYmG6lLFg14sQKQ",
+            "shop_name": "Looktocare",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-38902789e8e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-38902789e8e",
+            "shop_url": "looktocare.com",
+            "shop_domain": "looktocare.com",
+            "shop_matching_id": "looktocare.com",
+            "page": 1,
+            "position": 14
+          },
+          {
+            "id": null,
+            "product_id": "6112277735961157884",
+            "price": "9.99",
+            "price_additional_info": [],
+            "price_with_shipping": "13.89",
+            "shipping_costs": "3.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.farmaciadarrabida.pt/chupetas/8077-chicco-physio-comf-boy-0-6m-8058664082506.html",
+            "shop_name": "farmaciadarrabida.com",
+            "shop_review_count": 70,
+            "shop_review_rating": 96,
+            "shop_id": "priceapi-d15794d163f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d15794d163f",
+            "shop_url": "www.farmaciadarrabida.pt",
+            "shop_domain": "farmaciadarrabida.pt",
+            "shop_matching_id": "farmaciadarrabida.pt",
+            "page": 1,
+            "position": 15
+          },
+          {
+            "id": null,
+            "product_id": "6112277735961157884",
+            "price": "8.47",
+            "price_additional_info": [],
+            "price_with_shipping": "11.97",
+            "shipping_costs": "3.5",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.cosmetis.pt/chicco-physio-comfort-chupeta-silicone-boy-0-6m-2un.html?srsltid=AQP2TeM6knuuY8X9t8kk6aNeKj_9fkTbr9F0t-8ngrzPrmgrrfsipv9zm3Y",
+            "shop_name": "cosmetis.pt",
+            "shop_review_count": 14,
+            "shop_review_rating": 92,
+            "shop_id": "priceapi-9243f63c9d4",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9243f63c9d4",
+            "shop_url": "www.cosmetis.pt",
+            "shop_domain": "cosmetis.pt",
+            "shop_matching_id": "cosmetis.pt",
+            "page": 1,
+            "position": 16
+          },
+          {
+            "id": null,
+            "product_id": "6112277735961157884",
+            "price": "9.3",
+            "price_additional_info": [],
+            "price_with_shipping": "13.29",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.farmaciass.pt/chicco-chupeta-physio-comfort-boy-0-6m-x2-ch.chu74931210000.html",
+            "shop_name": "FarmaciaSS.pt",
+            "shop_review_count": 344,
+            "shop_review_rating": 98,
+            "shop_id": "priceapi-39a07cf044b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-39a07cf044b",
+            "shop_url": "www.farmaciass.pt",
+            "shop_domain": "farmaciass.pt",
+            "shop_matching_id": "farmaciass.pt",
+            "page": 1,
+            "position": 17
+          },
+          {
+            "id": null,
+            "product_id": "6112277735961157884",
+            "price": "9.99",
+            "price_additional_info": [],
+            "price_with_shipping": "13.89",
+            "shipping_costs": "3.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://sitiodobebe.com/produto/puericultura/bem-estar/chupetas-e-acessorios/chupetas-0-6-m/chicco-chupeta-comfort-0-6m-ursinho-e-guaxinim-2-unidades/",
+            "shop_name": "Sitio do Bebe",
+            "shop_review_count": 300,
+            "shop_review_rating": 96,
+            "shop_id": "priceapi-cfd70a752f2",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-cfd70a752f2",
+            "shop_url": "sitiodobebe.com",
+            "shop_domain": "sitiodobebe.com",
+            "shop_matching_id": "sitiodobebe.com",
+            "page": 1,
+            "position": 18
+          },
+          {
+            "id": null,
+            "product_id": "6112277735961157884",
+            "price": "9.95",
+            "price_additional_info": [],
+            "price_with_shipping": "9.95",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.pharmeestore.com/pt/crianca/chupetas/chicco-chupeta-physioforma-comfort-silicone-0-6-meses-azul-2-chupetas_p19451.html",
+            "shop_name": "Pharmee",
+            "shop_review_count": 156,
+            "shop_review_rating": 100,
+            "shop_id": "priceapi-efb2482184b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-efb2482184b",
+            "shop_url": "www.pharmeestore.com",
+            "shop_domain": "pharmeestore.com",
+            "shop_matching_id": "pharmeestore.com",
+            "page": 1,
+            "position": 19
+          },
+          {
+            "id": null,
+            "product_id": "6112277735961157884",
+            "price": "9.13",
+            "price_additional_info": [
+              "REDU\u00c7\u00c3O NO PRE\u00c7O"
+            ],
+            "price_with_shipping": null,
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.bebe.pt/chicco-physio-comfort-chupeta-silicone-boy-0-6m-2unid",
+            "shop_name": "bebe.pt",
+            "shop_review_count": 125,
+            "shop_review_rating": 92,
+            "shop_id": "priceapi-f78b79b9263",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f78b79b9263",
+            "shop_url": "www.bebe.pt",
+            "shop_domain": "bebe.pt",
+            "shop_matching_id": "bebe.pt",
+            "page": 1,
+            "position": 20
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08058664108893",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:08:45Z"
+      },
+      "content": {
+        "id": "9162863746600754391",
+        "name": "Ber\u00e7o Next2Me Magic Chicco",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkx3G1g_4OiJi610-DhvrifHvU-JWmUS1P4O3wdxFTOIxy4pRlMt2eoyca_czbb3dteb3vK-_F9-OIrm9xneWb0r2DEeEjLbP_YSDWxPI_hINUEo1Kg5xfHg7cpgOE5U7GL82jgGfh7dKBJdt4ZfICE9RJ9h0iPL2yFPiJ6jbBM1fIqvP3cnHyx1a88ynEzS6ALviHCryA=s512-pd-pc0x00ffffff",
+        "description": "Chicco Next2Me Magic Ber\u00e7o \u00e9 um ber\u00e7o para fixar junto \u00e0 cama dos pais, dos 0 aos 6 meses de idade, at\u00e9 um peso m\u00e1ximo de 9 kg. Regul\u00e1vel em altura em 11 posi\u00e7\u00f5es para se adaptar corretamente a diferentes camas, permite que durante a noite o beb\u00e9 ...",
+        "properties": [
+          "Viagem",
+          "At\u00e9 6 meses"
+        ],
+        "url": "https://www.google.pt/shopping/product/9162863746600754391?hl=pt&gl=pt&sfr=compass",
+        "review_count": 418,
+        "review_rating": 90,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/9162863746600754391/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "9162863746600754391",
+            "price": "223.0",
+            "price_additional_info": [],
+            "price_with_shipping": "223.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/mobiliario-e-decoracao/bercos-e-colchoes/berco-co-sleeping-chicco-9833-1-MRKEAN-8058664108893",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "9162863746600754391",
+            "price": "269.99",
+            "price_additional_info": [],
+            "price_with_shipping": "273.98",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://farmacianaweb.pt/chicco-next2me-magic-cool-grey-berco.html",
+            "shop_name": "Farmacianaweb",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f70798bcf90",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f70798bcf90",
+            "shop_url": "farmacianaweb.pt",
+            "shop_domain": "farmacianaweb.pt",
+            "shop_matching_id": "farmacianaweb.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08058664123629",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:08:48Z"
+      },
+      "content": {
+        "id": "5429422700980056507",
+        "name": "Chicco Carrinho de Beb\u00e9 OhLal\u00e0 2 2020",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzvIDmijAsf9QNkXRDRnGDOwt2AiOk58QQL6wqMTgTkeaqpvFRrg2MGyIb1-_1glQ5yTnsZlhJ7MUfMVCDnOePDDZHrx6vI1M-QoOMK0kidLVFg8AHPKRiP0TvPMq2iis926P5WSCLvgWBZyF3j7iry0LSbex1cC89YCgIJLa0pOxOrw2mXbySHQhguSkCHz0kQsG7bD9Q=s512-pd-pc0x00ffffff",
+        "description": "Chicco - Carrinho de Passeio Ohlal\u00e1 2 Ultra leve Dino Derby Chicco, o carrinho de passeio mais leve de Chicco com s\u00f3 3,8 kg de peso. Um carrinho t\u00e3o leve que poder\u00e1s levant\u00e1-lo com s\u00f3 um dedo! Com um design chamativo de formas modernas, \u00e9 o aliado...",
+        "properties": [
+          "Individual"
+        ],
+        "url": "https://www.google.pt/shopping/product/5429422700980056507?hl=pt&gl=pt&sfr=compass",
+        "review_count": 51,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/5429422700980056507/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "5429422700980056507",
+            "price": "144.9",
+            "price_additional_info": [],
+            "price_with_shipping": "150.53",
+            "shipping_costs": "5.63",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://probebeshop.com/produto/carrinho-ohlala2-dino-da-chicco/?utm_source=Google%20Shopping&utm_campaign=Probebe%20Feed%201&utm_medium=cpc&utm_term=7796",
+            "shop_name": "probebeshop.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-71378f7f412",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-71378f7f412",
+            "shop_url": "probebeshop.com",
+            "shop_domain": "probebeshop.com",
+            "shop_matching_id": "probebeshop.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "5429422700980056507",
+            "price": "228.56",
+            "price_additional_info": [],
+            "price_with_shipping": "228.56",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-individual-chicco-ohlala-2-2020-MRKEAN-8058664123629",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08712930158172",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:08:46Z"
+      },
+      "content": {
+        "id": "115410515911926823",
+        "name": "Maxi-Cosi Cadeira-Auto Emerald Authentic Graphite",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkytduajUPptOL3MOQx_kKHrxyqBEa37Ajx-gqSA9Wyg1Z4FlWxl6hXx_7VbMXvYiU1AMahvcZ9EtZ0bo7MjDS0ZtuQsTqwH5QxoJnf9AdqW_8tXo5ptwk7e18_QA2f6BuerXlmgrI3uBLfYsVrUBwA7cpYzw1Me-UsnTipOSn94WdO54g-Ni6u5StQ5-W4VLJTDectipj0=s512-pd-pc0x00ffffff",
+        "description": "Esta cadeira \u00e9 adequada desde o nascimento at\u00e9 aproximadamente aos 7 anos de idade da crian\u00e7a. O arn\u00eas acompanha o crescimento do seu filho e \u00e9 compat\u00edvel com todos os autom\u00f3veis, uma vez que pode ser instalada com sistema ISOFIX ou sistema de cin...",
+        "properties": [
+          "Virada para tr\u00e1s / frente",
+          "Assentos e cadeiras",
+          "Cadeira",
+          "Graphite"
+        ],
+        "url": "https://www.google.pt/shopping/product/115410515911926823?hl=pt&gl=pt&sfr=compass",
+        "review_count": 260,
+        "review_rating": 92,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Qualidade",
+            "value": [
+              "Pre\u00e7o"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/115410515911926823/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "115410515911926823",
+            "price": "279.99",
+            "price_additional_info": [],
+            "price_with_shipping": "279.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-maxi-cosi-i-size-emerald-authentic-graphite-grupo-0-1-2-7473868",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "115410515911926823",
+            "price": "399.99",
+            "price_additional_info": [],
+            "price_with_shipping": "399.99",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://myminimoon.com/grupo-0-1-2/3369-maxi-cosi-emerald-authentic-graphite-8712930158172",
+            "shop_name": "My Mini Moon",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d2681381e02",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d2681381e02",
+            "shop_url": "myminimoon.com",
+            "shop_domain": "myminimoon.com",
+            "shop_matching_id": "myminimoon.com",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08712930177050",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:08:51Z"
+      },
+      "content": {
+        "id": "6440433349572976915",
+        "name": "Maxi-Cosi - Cadeira Auto - Mica Pro Eco i-Size - Authentic Black",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkygbaj4v1NKM9BsVFWKg0_WhWKynWZ2jhRjW68oBDaM9zKFU_5VUTaVEqRkmwViW5FxGiMiiShZ1l-uXblvDAapp5XyX_x04laJmT53zzXMxBMIez8D2-6IQQ9Vkf93eOXdVlf5EhF0ubeOlJlqHY3s9097zgnWqAAQtO9HLXVW_qEKallD8jril-XxG7i0L2-_ehjrXg=s512-pd-pc0x00ffffff",
+        "description": "Maxi-Cosi Mica Pro Eco i-Size - Silla de auto giratoria Isofix con pata de apoyo i-Size 0-48 meses 0-18 kg cor Preto Aut\u00eantico. Cuidados 360 para hoje e amanh\u00e3.",
+        "properties": [
+          "Virada para tr\u00e1s / frente",
+          "Assentos e cadeiras",
+          "Cadeira",
+          "Preto"
+        ],
+        "url": "https://www.google.pt/shopping/product/6440433349572976915?hl=pt&gl=pt&sfr=compass",
+        "review_count": 93,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 5,
+        "offers_url": "https://www.google.pt/shopping/product/6440433349572976915/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "6440433349572976915",
+            "price": "327.99",
+            "price_additional_info": [
+              "PROMO\u00c7\u00c3O"
+            ],
+            "price_with_shipping": "347.99",
+            "shipping_costs": "20.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elcorteingles.pt/bebes/A42921199-cadeira-de-automovel-mica-pro-eco-i-size-giratoria-isofix-authentic-black-grupo-01/?ref=001005322461558%20&feed=true",
+            "shop_name": "El Corte Ingl\u00e9s",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-59e992a5443",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-59e992a5443",
+            "shop_url": "www.elcorteingles.pt",
+            "shop_domain": "elcorteingles.pt",
+            "shop_matching_id": "elcorteingles.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "6440433349572976915",
+            "price": "327.99",
+            "price_additional_info": [
+              "PROMO\u00c7\u00c3O"
+            ],
+            "price_with_shipping": "327.99",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://myminimoon.com/grupo-0-1/4811-maxi-cosi-mica-pro-eco-authentic-black-8712930177050",
+            "shop_name": "My Mini Moon",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d2681381e02",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d2681381e02",
+            "shop_url": "myminimoon.com",
+            "shop_domain": "myminimoon.com",
+            "shop_matching_id": "myminimoon.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "6440433349572976915",
+            "price": "399.9",
+            "price_additional_info": [],
+            "price_with_shipping": "399.9",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-maxicosi-mica-pro-i-size-preto-MRKEAN-8712930177050",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "6440433349572976915",
+            "price": "327.99",
+            "price_additional_info": [
+              "PROMO\u00c7\u00c3O"
+            ],
+            "price_with_shipping": "327.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.bybebe.pt/pt/seguranca-auto/nascimento-4-anos/maxi-cosi-cadeira-auto-mica-pro-eco-i-size-authentic-black.html",
+            "shop_name": "bybeb\u00e9",
+            "shop_review_count": 704,
+            "shop_review_rating": 98,
+            "shop_id": "priceapi-e95092fa6cd",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e95092fa6cd",
+            "shop_url": "www.bybebe.pt",
+            "shop_domain": "bybebe.pt",
+            "shop_matching_id": "bybebe.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "6440433349572976915",
+            "price": "409.99",
+            "price_additional_info": [],
+            "price_with_shipping": "409.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://sitiodobebe.com/produto/viagem/cadeiras-automovel/i-size-dos-0-meses-ate-4-anos/maxicosi-cadeira-auto-mica-pro-eco-i-size-authentic-black/",
+            "shop_name": "Sitio do Bebe",
+            "shop_review_count": 300,
+            "shop_review_rating": 96,
+            "shop_id": "priceapi-cfd70a752f2",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-cfd70a752f2",
+            "shop_url": "sitiodobebe.com",
+            "shop_domain": "sitiodobebe.com",
+            "shop_matching_id": "sitiodobebe.com",
+            "page": 1,
+            "position": 5
+          }
+        ]
+      }
+    }
+  ]
+}
