@@ -34,7 +34,7 @@ def get_header_authority(country: str) -> str:
     return f"www.pricerunner.{country.lower()}"
 
 
-def _make_request(url, session):
+def make_request(url, session):
     response = session.get(url)
 
     # Check if we wasn't able to acces the content because Pricerunner blocker our IP

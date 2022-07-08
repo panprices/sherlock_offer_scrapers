@@ -1,8 +1,6 @@
-from itertools import count
-
 from sherlock_offer_scrapers.helpers.offers import Offer
 from . import common
-from .common import BASE_URL, _make_request, pause_execution_random, create_session
+from .common import BASE_URL, make_request, pause_execution_random, create_session
 
 
 DELAY_BETWEEN_REQUESTS_RANGE_SECONDS = [2, 5]
@@ -12,14 +10,14 @@ def get_offers(product_page_url: str, country: str) -> list[Offer]:
     # Logic: Fetch the offers page (html), then wait a bit and fetch the data API
     # using the same session to disguise as a real user.
     session = create_session(country)
-    _make_request(product_page_url, session)
+    make_request(product_page_url, session)
 
     # wait a little bit between requests
     pause_execution_random(*DELAY_BETWEEN_REQUESTS_RANGE_SECONDS)
 
     # # fetch the offer data
     offer_url = _get_offer_api_url(product_page_url, country)
-    response = _make_request(offer_url, session)
+    response = make_request(offer_url, session)
     # when the link is incorrect, pricerunner api actually return 204, not 404
     if response.status_code == 204 or response.status_code >= 400:
         print(f"status code: {response.status_code} when requesting to {offer_url}")

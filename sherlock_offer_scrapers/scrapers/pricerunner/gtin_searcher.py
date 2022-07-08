@@ -1,5 +1,3 @@
-import random
-import time
 from typing import Optional
 
 from . import common
@@ -16,18 +14,18 @@ def gtin_to_product_url(gtin: str, country: str) -> Optional[str]:
     session = common.create_session(country)
 
     url = common.BASE_URL[country]
-    common._make_request(url, session)
+    common.make_request(url, session)
 
     # wait a little bit, normal human don't type that fast
     common.pause_execution_random(min_sec=2, max_sec=5)
 
     # fetch the search API
     url = _get_query_url(gtin, country)
-    res = common._make_request(url, session)
+    res = common.make_request(url, session)
     # Check if the target resource is no longer available
     if res.status_code == 410:
         return None
-    query_result = common._make_request(url, session).json()
+    query_result = common.make_request(url, session).json()
     url_path = _parse_query_results(query_result)
 
     if not url_path:

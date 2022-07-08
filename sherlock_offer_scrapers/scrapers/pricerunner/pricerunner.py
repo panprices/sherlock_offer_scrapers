@@ -1,8 +1,6 @@
 from typing import Optional
 
-import requests
 
-from sherlock_offer_scrapers import helpers
 from sherlock_offer_scrapers.helpers.offers import Offer
 from . import gtin_searcher, offer_scraper
 
