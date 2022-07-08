@@ -5,7 +5,7 @@ from typing import Optional
 from . import common
 
 
-def query_products(gtin: str, country: str) -> Optional[str]:
+def gtin_to_product_url(gtin: str, country: str) -> Optional[str]:
     """Find the product's url_path on pricerunner.
 
     Example return: /pl/110-5286908/Datormoess/Logitech-MX-Anywhere-3-priser
@@ -28,7 +28,13 @@ def query_products(gtin: str, country: str) -> Optional[str]:
     if res.status_code == 410:
         return None
     query_result = common._make_request(url, session).json()
-    return _parse_query_results(query_result)
+    url_path = _parse_query_results(query_result)
+
+    if not url_path:
+        return None
+
+    full_url = _get_offers_html_url(url_path, country)
+    return full_url
 
 
 def _get_query_url(gtin: str, country: str):
@@ -44,3 +50,7 @@ def _parse_query_results(result) -> Optional[str]:
         return None
     product = products[0]
     return product["url"]
+
+
+def _get_offers_html_url(url_path: str, country: str) -> str:
+    return f"https://www.pricerunner.{country.lower()}" + url_path
