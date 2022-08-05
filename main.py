@@ -1,7 +1,7 @@
 import json
 import asyncio
 import base64
-from typing import Literal, Optional, TypedDict
+from typing import Literal, Optional, TypedDict, Any
 
 import structlog
 
@@ -27,7 +27,7 @@ class Payload(TypedDict):
     offer_fetch_complete: bool
     offer_urls: dict[str, str]
     user_country: str
-    triggered_by: dict[str, any]
+    triggered_by: dict[str, Any]
 
 
 OfferSourceType = Literal[
