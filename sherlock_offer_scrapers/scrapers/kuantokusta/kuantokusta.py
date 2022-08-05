@@ -1,14 +1,14 @@
-from ctypes import Union
-from typing import Tuple, Dict
-
-from bs4 import BeautifulSoup, Tag
-import structlog
-import re
 import json
+import re
+import urllib
+from typing import Dict
 
-from sherlock_offer_scrapers import helpers
-from sherlock_offer_scrapers.helpers.utils import gtin_to_ean
+import requests
+import structlog
+from bs4 import BeautifulSoup, Tag
+
 from sherlock_offer_scrapers.helpers.offers import Offer
+from sherlock_offer_scrapers.helpers.utils import gtin_to_ean
 
 logger = structlog.get_logger()
 root_url = 'https://www.kuantokusta.pt'
@@ -18,15 +18,29 @@ def scrape(gtin: str) -> list[Offer]:
     return fetch_offers(gtin)
 
 
+def scrapfly_request(url: str) -> requests.Response:
+    scrapfly_url = (
+        f"https://api.scrapfly.io/scrape"
+        "?key=9a8e8b7f96624616bb67b4129bdacd2b"
+        f"&url={urllib.parse.quote(url)}"
+        "&tags=player%2Cproject%3Adefault"
+        "&country=pt"
+        "&asp=true"
+    )
+
+    return requests.get(scrapfly_url)
+
+
 def fetch_offers(gtin: str) -> list[Offer]:
     ean = gtin_to_ean(gtin)
     url = f'{root_url}/search?q={ean}'
-    response = helpers.requests.get(url, proxy_country='SE')
-    if response.status_code >= 300:
-        logger.warn("We've probably been blocked")
+    response = scrapfly_request(url)
+    response_object = json.loads(response.text)
+    if response.status_code >= 400 or response_object['result']['error']:
+        logger.warn(f"Received error code from Scrapfly API: {response.status_code}", payload=response_object)
         return []
 
-    soup = BeautifulSoup(response.text, "html.parser")
+    soup = BeautifulSoup(response_object['result']['content'], "html.parser")
     return fetch_offers_from_search_page(soup)
 
 
@@ -39,8 +53,12 @@ def fetch_offers_from_search_page(soup: BeautifulSoup) -> list[Offer]:
     if product_page_url == f'{root_url}#':
         return [parse_results_page_with_unique_retailer(soup)]
 
-    response = helpers.requests.get(product_page_url, proxy_country='SE')
-    soup = BeautifulSoup(response.text, "html.parser")
+    response = scrapfly_request(product_page_url)
+    response_object = json.loads(response.text)
+    if response.status_code >= 400 or response_object['result']['error']:
+        logger.warn(f"Received error code from Scrapfly API: {response.status_code}", payload=response_object)
+        return []
+    soup = BeautifulSoup(response_object['result']['content'], "html.parser")
 
     return parse_product_page(soup)
 
