@@ -27,6 +27,7 @@ class Payload(TypedDict):
     offer_fetch_complete: bool
     offer_urls: dict[str, str]
     user_country: str
+    triggered_by: dict[str, any]
 
 
 OfferSourceType = Literal[
@@ -38,6 +39,8 @@ OfferSourceType = Literal[
     "guenstiger",
     "ebay",
     "ceneo",
+    "google_shopping",
+    "kuantokusta",
 ]
 
 
@@ -77,12 +80,27 @@ def sherlock_gs_offers(event, context):
 
 
 def sherlock_kuantokusta(event, context):
-    payload: Payload = json.loads(base64.b64decode(event['data']))
-    _sherlock_scrape('kuantokusta', payload)
+    payload: Payload = json.loads(base64.b64decode(event["data"]))
+    if (
+        "source" not in payload["triggered_by"]
+        or payload["triggered_by"]["source"] != "b2b_job"
+    ):
+        return  # ignore kuanto kusta for non b2b to avoid burning scrapfly credits
+
+    _sherlock_scrape("kuantokusta", payload)
 
 
 def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
     gtin = payload["gtin"]
+
+    if (
+        "source" in payload["triggered_by"]
+        and payload["triggered_by"]["source"] == "b2b_job"
+        and "requested_sources" in payload["triggered_by"]
+        and payload["triggered_by"]["requested_sources"]
+        and offer_source not in ["requested_sources"]
+    ):
+        return
 
     logger.info(
         "offer-scraping-started",
@@ -124,7 +142,7 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
                     ],
                 )
             )
-        elif offer_source == 'kuantokusta':
+        elif offer_source == "kuantokusta":
             offers = kuantokusta.scrape(gtin)
         else:
             raise Exception(f"Offer source {offer_source} not supported.")
