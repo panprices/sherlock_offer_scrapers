@@ -100,6 +100,11 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
         and payload["triggered_by"]["requested_sources"]
         and offer_source not in ["requested_sources"]
     ):
+        logger.info(
+            "Skipping execution, because the source is not listed in requested list: ",
+            payload=payload,
+            offer_source=offer_source,
+        )
         return
 
     logger.info(
