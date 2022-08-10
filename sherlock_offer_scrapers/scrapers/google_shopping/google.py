@@ -86,8 +86,6 @@ def find_product_id(gtin: str) -> Optional[str]:
         proxy_country="SE",
     ).text
     soup = BeautifulSoup(html, features="html.parser")
-    with open("test.html", "w") as f:
-        f.write(html)
 
     all_a_tags = soup.select("a.Lq5OHe")
     # Only consider links to google shopping products. Ignore links directly to seller websites.
