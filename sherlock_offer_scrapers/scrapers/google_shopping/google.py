@@ -1,7 +1,7 @@
 import functools
 import asyncio
 import pydash.arrays
-from typing import List, Optional, Tuple
+from typing import Dict, List, Optional, Tuple
 
 from bs4 import BeautifulSoup
 import structlog
@@ -48,12 +48,20 @@ async def scrape(
 ) -> Tuple[List[helpers.offers.Offer], List[Tuple[Exception, str]]]:
     if not cached_offers_urls or "google_shopping" not in cached_offers_urls:
         print("No google shopping url provided")
-        return [], []
+        google_product_id = find_product_id(gtin)
+        helpers.offers.publish_new_offer_urls(
+            gtin, {"google_shopping": google_product_id}
+        )
 
-    google_product_id = cached_offers_urls["google_shopping"]
+        if google_product_id is None:
+            print(f"No product found for gtin {gtin}")
+            return [], []
+    else:
+        google_product_id = cached_offers_urls["google_shopping"]
+
     all_searches = []
     for country in countries:
-        coro = fetch_offers_from_google_product_id(google_product_id, gtin, country)
+        coro = fetch_offers_from_google_product_id(google_product_id, gtin, country)  # type: ignore
         all_searches.append(coro)
 
     offer_results = await asyncio.gather(*all_searches)
@@ -66,6 +74,39 @@ async def scrape(
             exceptions.append((exception, country))
 
     return all_offers, exceptions
+
+
+def find_product_id(gtin: str) -> Optional[str]:
+    """Find product_id of a google shopping product based on GTIN."""
+    url = f"https://www.google.com/search?q={gtin}&hl=en&tbm=shop"
+    html = helpers.requests.get(
+        url,
+        headers={"User-Agent": user_agents.choose_random()},
+        cookies={"CONSENT": "YES+cb.20210329-17-p2.en+FX+900"},
+        proxy_country="SE",
+    ).text
+    soup = BeautifulSoup(html, features="html.parser")
+
+    all_a_tags = soup.select("a.Lq5OHe")
+    # Only consider links to google shopping products. Ignore links directly to seller websites.
+    product_a_tags = [a for a in all_a_tags if "/shopping/product" in a["href"]]
+    possible_product_ids = set(
+        a["href"].split("?")[0].split("/")[3]
+        for a in product_a_tags
+        # /shopping/product/2336121681419728525?q=05400653007411&hl=en&... -> 2336121681419728525
+    )
+    if len(possible_product_ids) == 0:
+        return None
+    if len(possible_product_ids) > 1:
+        logger.warning(
+            "Multiple google shopping product ids found",
+            gtin=gtin,
+            product_ids=list(possible_product_ids),
+        )
+        return None
+
+    product_id = possible_product_ids.pop()
+    return product_id
 
 
 async def fetch_offers_from_google_product_id(

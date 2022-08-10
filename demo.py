@@ -30,7 +30,12 @@ def demo_sherlock_pricerunner():
         "product_token": "test_gAAAAAAAAAAAsMFK1hehjtyl8OSy9z19N9wvdLUdZdZlh0BWDUgGGc08fkgYGqeXaQn1JegqyzvYRJKhMGix6cIKlNUjHqI2sQ==",
         "triggered_from_client": True,
         "user_country": "SE",
-        "triggered_by": {"source": "client"},
+        "triggered_by": {
+            "source": "b2b_job",
+            "job_id": "UupuDUjLXoHbAKjHsrtH",
+            "task_id": "hyAnhCIoQQyt0qWl5W3S",
+            "offer_search_id": "JGUl2cEn2pU77PevQBYx",
+        },
     }
 
     event = {"data": base64.b64encode(json.dumps(message).encode())}
@@ -122,10 +127,10 @@ def demo_sherlock_gs_offers():
     message = {
         "created_at": 1622804976212,
         "product_id": 11031881,
-        "gtin": "00711719827399",
+        "gtin": "00194252708286",
         "offer_fetch_complete": False,
         "offer_urls": {
-            "google_shopping": "5346533728443139525",
+            # "google_shopping": "5346533728443139525",
         },
         "product_token": "test_gAAAAAAAAAAAsMFK1hehjtyl8OSy9z19N9wvdLUdZdZlh0BWDUgGGc08fkgYGqeXaQn1JegqyzvYRJKhMGix6cIKlNUjHqI2sQ==",
         "triggered_from_client": True,
@@ -176,7 +181,14 @@ if __name__ == "__main__":
     # Define the arguments
     parser.add_argument(
         "scraper",
-        choices=["prisjakt", "pricerunner", "kelkoo", "idealo", "google_shopping", "kuantokusta"],
+        choices=[
+            "prisjakt",
+            "pricerunner",
+            "kelkoo",
+            "idealo",
+            "google_shopping",
+            "kuantokusta",
+        ],
         help="run a scraper",
     )
 
