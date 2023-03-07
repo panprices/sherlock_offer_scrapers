@@ -13,14 +13,17 @@ from . import user_agents, parser
 logger = structlog.get_logger()
 
 """
+!DEPRECATED: Only need to use gl={country} now, no need for UULE.
+
 Using UULE parameter to access the offer page in different countries.
 Read about UULE here: https://valentin.app/uule.html
 
-https://www.google.ch/search?q=restaurant&hl=en&gl=CH&ie=utf-8&oe=utf-8&pws=0&uule=a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MjUwMDE3MjQ0OTAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjQ2OTQ3OTczOQpsb25naXR1ZGVfZTc6NzQ0NzQ0NjgKfQpyYWRpdXM6OTMwMDA%3D
+https://www.google.ch/search?q=restaurant&hl=en&gl=SE&ie=utf-8&oe=utf-8&pws=0&uule=a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MjUwMDE3MjQ0OTAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjQ2OTQ3OTczOQpsb25naXR1ZGVfZTc6NzQ0NzQ0NjgKfQpyYWRpdXM6OTMwMDA%3D
 
 """
 uule_of_country = {
     "SE": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTU5MTUyMTI0OTAzNDAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjU5MzI0ODk0NSwKbG9uZ2l0dWRlX2U3OjE4MDcwNjQ0MAp9CnJhZGl1czo5MzAwMAogICAgICAgICAg",  # Sweden
+    "NO": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTU5MTUyMTI0OTAzNDAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjU5OTEwMDY4NiwKbG9uZ2l0dWRlX2U3OjEwNzQyMDk2Mgp9CnJhZGl1czo5MzAwMAo%3D",  # Norway
     "NL": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTU5MTUyMTI0OTAzNDAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OiA1MjM0MjQ5NDAKbG9uZ2l0dWRlX2U3OiA0ODUzMjk5Mgp9CnJhZGl1czo5MzAwMAogICAgICAgICAg",  # Netherlands
     "AT": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTU5MTUyMTI0OTAzNDAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjQ4MjA5NDI2NSwKbG9uZ2l0dWRlX2U3OjE2MzU5NTQ4NAp9CnJhZGl1czo5MzAwMAogICAgICAgICAg",  # Austria
     "PL": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTU5MTUyMTI0OTAzNDAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjUyMjAwNDYzMwpsb25naXR1ZGVfZTc6MjA5MzM4OTgxCn0KcmFkaXVzOjkzMDAwCiAgICAgICAgICA%3D",  # Poland
@@ -78,7 +81,9 @@ async def scrape(
 
 def find_product_id(gtin: str) -> Optional[str]:
     """Find product_id of a google shopping product based on GTIN."""
-    url = f"https://www.google.com/search?q={gtin}&hl=en&tbm=shop"
+    # TODO: Parameterize this
+    COUNTRY_TO_SEARCH_ON = "se"
+    url = f"https://www.google.com/search?q={gtin}&gl={COUNTRY_TO_SEARCH_ON}&hl=en&tbm=shop"
     html = helpers.requests.get(
         url,
         headers={"User-Agent": user_agents.choose_random()},
@@ -118,7 +123,7 @@ async def fetch_offers_from_google_product_id(
         proxy_country = "DE"  # always use DE proxy
         url = (
             f"https://www.google.com/shopping/product/{google_pid}/offers"
-            + f"?hl=en&gl={country}&uule={uule_of_country[country]}"
+            + f"?hl=en&gl={country}"
         )
 
         loop = asyncio.get_event_loop()
