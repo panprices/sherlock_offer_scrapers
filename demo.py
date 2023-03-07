@@ -127,7 +127,7 @@ def demo_sherlock_gs_offers():
     message = {
         "created_at": 1622804976212,
         "product_id": 11031881,
-        "gtin": "00194252708286",
+        "gtin": "04004025087578",
         "offer_fetch_complete": False,
         "offer_urls": {
             # "google_shopping": "5346533728443139525",

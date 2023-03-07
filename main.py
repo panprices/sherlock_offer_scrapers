@@ -133,7 +133,19 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
                     gtin,
                     cached_offer_urls,
                     countries=[
-                        "SE"
+                        "SE",
+                        "NO",
+                        "NL",
+                        "PL",
+                        "BE",
+                        "IE",
+                        "PT",
+                        "CZ",
+                        "CH",
+                        # "GR",
+                        # "SK",
+                        # "RO",
+                        # "HU",
                     ],
                 )
             )
