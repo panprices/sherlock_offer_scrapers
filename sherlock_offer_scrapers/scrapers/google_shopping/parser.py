@@ -217,7 +217,7 @@ def _extract_price_and_currency(
         )
         raise Exception(f"Cannot convert currency: {currency}")
 
-    logger.msg(
+    logger.debug(
         "parsing price and currency",
         input_price_text=price_text,
         input_price_text_normalized=price_text_normalized,

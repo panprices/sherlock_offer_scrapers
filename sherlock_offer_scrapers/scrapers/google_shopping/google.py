@@ -12,36 +12,36 @@ from . import user_agents, parser
 
 logger = structlog.get_logger()
 
-"""
-!DEPRECATED: Only need to use gl={country} now, no need for UULE.
 
-Using UULE parameter to access the offer page in different countries.
-Read about UULE here: https://valentin.app/uule.html
+# !DEPRECATED: We don't need to use UULE anymore for google shopping,
+# only need to use gl={country} now.
 
-https://www.google.ch/search?q=restaurant&hl=en&gl=SE&ie=utf-8&oe=utf-8&pws=0&uule=a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MjUwMDE3MjQ0OTAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjQ2OTQ3OTczOQpsb25naXR1ZGVfZTc6NzQ0NzQ0NjgKfQpyYWRpdXM6OTMwMDA%3D
+# Using UULE parameter to access the offer page in different countries.
+# Read about UULE here: https://valentin.app/uule.html
 
-"""
-uule_of_country = {
-    "SE": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTU5MTUyMTI0OTAzNDAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjU5MzI0ODk0NSwKbG9uZ2l0dWRlX2U3OjE4MDcwNjQ0MAp9CnJhZGl1czo5MzAwMAogICAgICAgICAg",  # Sweden
-    "NO": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTU5MTUyMTI0OTAzNDAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjU5OTEwMDY4NiwKbG9uZ2l0dWRlX2U3OjEwNzQyMDk2Mgp9CnJhZGl1czo5MzAwMAo%3D",  # Norway
-    "NL": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTU5MTUyMTI0OTAzNDAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OiA1MjM0MjQ5NDAKbG9uZ2l0dWRlX2U3OiA0ODUzMjk5Mgp9CnJhZGl1czo5MzAwMAogICAgICAgICAg",  # Netherlands
-    "AT": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTU5MTUyMTI0OTAzNDAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjQ4MjA5NDI2NSwKbG9uZ2l0dWRlX2U3OjE2MzU5NTQ4NAp9CnJhZGl1czo5MzAwMAogICAgICAgICAg",  # Austria
-    "PL": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTU5MTUyMTI0OTAzNDAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjUyMjAwNDYzMwpsb25naXR1ZGVfZTc6MjA5MzM4OTgxCn0KcmFkaXVzOjkzMDAwCiAgICAgICAgICA%3D",  # Poland
-    "BE": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MjQ5OTQxNjA0MzAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjUwODUwMzM5Ngpsb25naXR1ZGVfZTc6NDM1MTcxMDMKfQpyYWRpdXM6OTMwMDA%3D",  # Belgium
-    "IE": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MjQ5OTY1NDY4MzAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjUzMzQ5ODA1Mwpsb25naXR1ZGVfZTc6LTYyNjAzMDk3Cn0KcmFkaXVzOjkzMDAw",  # Ireland
-    "PT": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MjQ5OTg1NTMwNTAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjM4NzIyMjUyNApsb25naXR1ZGVfZTc6LTkxMzkzMzY2Cn0KcmFkaXVzOjkzMDAw",  # Portugal
-    "EE": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MjQ5OTkyMjk1NTAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjU5NDM2OTYwNwpsb25naXR1ZGVfZTc6MjQ3NTM1NzQ3Cn0KcmFkaXVzOjkzMDAw",  # Estonia
-    "LT": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MjQ5OTk3MjIzOTAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjU0Njg3MTU1NQpsb25naXR1ZGVfZTc6MjUyNzk2NTE0Cn0KcmFkaXVzOjkzMDAw",  # Lithuania
-    "LV": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MjUwMDAxNDE3OTAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjU2OTQ5NjQ4Nwpsb25naXR1ZGVfZTc6MjQxMDUxODY1Cn0KcmFkaXVzOjkzMDAw",  # Latvia
-    "CZ": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MjUwMDExNDk5NzAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjUwMDc1NTM4MQpsb25naXR1ZGVfZTc6MTQ0Mzc4MDA1Cn0KcmFkaXVzOjkzMDAw",  # Czech Republic
-    "CH": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MjUwMDE3MjQ0OTAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjQ2OTQ3OTczOQpsb25naXR1ZGVfZTc6NzQ0NzQ0NjgKfQpyYWRpdXM6OTMwMDA%3D",  # Switzerland
-    "GR": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MzAzNjAzNDQ3NTAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjM3OTgzODA5Ngpsb25naXR1ZGVfZTc6MjM3Mjc1Mzg4Cn0KcmFkaXVzOjkzMDAw",  # Greece
-    "SK": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MzAzNjA4NTI5NzAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjQ4MTQ4NTk2NApsb25naXR1ZGVfZTc6MTcxMDc3NDc3Cn0KcmFkaXVzOjkzMDAw",  # Slovakia
-    "RO": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0NDQxOTQ4MDcxMTAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjQ0NDI2NzY3NApsb25naXR1ZGVfZTc6MjYxMDI1Mzg0Cn0KcmFkaXVzOjkzMDAw",  # Romania
-    "HU": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0NDQxOTUzODkxMDAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjQ3NDk3OTEyMApsb25naXR1ZGVfZTc6MTkwNDAyMzUwCn0KcmFkaXVzOjkzMDAw",  # Hungary
-    "TR": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0NDQxOTU3OTEyMDAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjM5OTMzMzYzNQpsb25naXR1ZGVfZTc6MzI4NTk3NDE5Cn0KcmFkaXVzOjkzMDAw",  # Turkey
-    "RU": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0NDQxOTYwNjUzMTAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjU1NzU1ODI2MApsb25naXR1ZGVfZTc6Mzc2MTcyOTk5Cn0KcmFkaXVzOjkzMDAw",  # Russia
-}
+# https://www.google.ch/search?q=restaurant&hl=en&gl=SE&ie=utf-8&oe=utf-8&pws=0&uule=a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MjUwMDE3MjQ0OTAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjQ2OTQ3OTczOQpsb25naXR1ZGVfZTc6NzQ0NzQ0NjgKfQpyYWRpdXM6OTMwMDA%3D
+#
+# uule_of_country = {
+#     "SE": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTU5MTUyMTI0OTAzNDAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjU5MzI0ODk0NSwKbG9uZ2l0dWRlX2U3OjE4MDcwNjQ0MAp9CnJhZGl1czo5MzAwMAogICAgICAgICAg",  # Sweden
+#     "NO": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTU5MTUyMTI0OTAzNDAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjU5OTEwMDY4NiwKbG9uZ2l0dWRlX2U3OjEwNzQyMDk2Mgp9CnJhZGl1czo5MzAwMAo%3D",  # Norway
+#     "NL": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTU5MTUyMTI0OTAzNDAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OiA1MjM0MjQ5NDAKbG9uZ2l0dWRlX2U3OiA0ODUzMjk5Mgp9CnJhZGl1czo5MzAwMAogICAgICAgICAg",  # Netherlands
+#     "AT": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTU5MTUyMTI0OTAzNDAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjQ4MjA5NDI2NSwKbG9uZ2l0dWRlX2U3OjE2MzU5NTQ4NAp9CnJhZGl1czo5MzAwMAogICAgICAgICAg",  # Austria
+#     "PL": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTU5MTUyMTI0OTAzNDAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjUyMjAwNDYzMwpsb25naXR1ZGVfZTc6MjA5MzM4OTgxCn0KcmFkaXVzOjkzMDAwCiAgICAgICAgICA%3D",  # Poland
+#     "BE": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MjQ5OTQxNjA0MzAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjUwODUwMzM5Ngpsb25naXR1ZGVfZTc6NDM1MTcxMDMKfQpyYWRpdXM6OTMwMDA%3D",  # Belgium
+#     "IE": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MjQ5OTY1NDY4MzAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjUzMzQ5ODA1Mwpsb25naXR1ZGVfZTc6LTYyNjAzMDk3Cn0KcmFkaXVzOjkzMDAw",  # Ireland
+#     "PT": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MjQ5OTg1NTMwNTAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjM4NzIyMjUyNApsb25naXR1ZGVfZTc6LTkxMzkzMzY2Cn0KcmFkaXVzOjkzMDAw",  # Portugal
+#     "EE": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MjQ5OTkyMjk1NTAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjU5NDM2OTYwNwpsb25naXR1ZGVfZTc6MjQ3NTM1NzQ3Cn0KcmFkaXVzOjkzMDAw",  # Estonia
+#     "LT": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MjQ5OTk3MjIzOTAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjU0Njg3MTU1NQpsb25naXR1ZGVfZTc6MjUyNzk2NTE0Cn0KcmFkaXVzOjkzMDAw",  # Lithuania
+#     "LV": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MjUwMDAxNDE3OTAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjU2OTQ5NjQ4Nwpsb25naXR1ZGVfZTc6MjQxMDUxODY1Cn0KcmFkaXVzOjkzMDAw",  # Latvia
+#     "CZ": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MjUwMDExNDk5NzAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjUwMDc1NTM4MQpsb25naXR1ZGVfZTc6MTQ0Mzc4MDA1Cn0KcmFkaXVzOjkzMDAw",  # Czech Republic
+#     "CH": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MjUwMDE3MjQ0OTAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjQ2OTQ3OTczOQpsb25naXR1ZGVfZTc6NzQ0NzQ0NjgKfQpyYWRpdXM6OTMwMDA%3D",  # Switzerland
+#     "GR": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MzAzNjAzNDQ3NTAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjM3OTgzODA5Ngpsb25naXR1ZGVfZTc6MjM3Mjc1Mzg4Cn0KcmFkaXVzOjkzMDAw",  # Greece
+#     "SK": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MzAzNjA4NTI5NzAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjQ4MTQ4NTk2NApsb25naXR1ZGVfZTc6MTcxMDc3NDc3Cn0KcmFkaXVzOjkzMDAw",  # Slovakia
+#     "RO": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0NDQxOTQ4MDcxMTAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjQ0NDI2NzY3NApsb25naXR1ZGVfZTc6MjYxMDI1Mzg0Cn0KcmFkaXVzOjkzMDAw",  # Romania
+#     "HU": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0NDQxOTUzODkxMDAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjQ3NDk3OTEyMApsb25naXR1ZGVfZTc6MTkwNDAyMzUwCn0KcmFkaXVzOjkzMDAw",  # Hungary
+#     "TR": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0NDQxOTU3OTEyMDAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjM5OTMzMzYzNQpsb25naXR1ZGVfZTc6MzI4NTk3NDE5Cn0KcmFkaXVzOjkzMDAw",  # Turkey
+#     "RU": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0NDQxOTYwNjUzMTAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjU1NzU1ODI2MApsb25naXR1ZGVfZTc6Mzc2MTcyOTk5Cn0KcmFkaXVzOjkzMDAw",  # Russia
+# }
 
 
 async def scrape(
@@ -50,14 +50,14 @@ async def scrape(
     countries=["SE"],
 ) -> Tuple[List[helpers.offers.Offer], List[Tuple[Exception, str]]]:
     if not cached_offers_urls or "google_shopping" not in cached_offers_urls:
-        print("No google shopping url provided")
+        logger.info("No google shopping url provided - searching by gtin")
         google_product_id = find_product_id(gtin)
         helpers.offers.publish_new_offer_urls(
             gtin, {"google_shopping": google_product_id}
         )
 
         if google_product_id is None:
-            print(f"No product found for gtin {gtin}")
+            logger.warning(f"No product found for gtin {gtin}")
             return [], []
     else:
         google_product_id = cached_offers_urls["google_shopping"]
@@ -111,6 +111,13 @@ def find_product_id(gtin: str) -> Optional[str]:
         return None
 
     product_id = possible_product_ids.pop()
+    logger.info(
+        "found google shopping product",
+        gtin=gtin,
+        product_id=product_id,
+        url="https://www.google.com/shopping/product/15221812987591860759",
+    )
+
     return product_id
 
 
