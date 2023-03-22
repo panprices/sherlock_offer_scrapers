@@ -115,7 +115,7 @@ def find_product_id(gtin: str) -> Optional[str]:
         "found google shopping product",
         gtin=gtin,
         product_id=product_id,
-        url="https://www.google.com/shopping/product/15221812987591860759",
+        url=f"https://www.google.com/shopping/product/{product_id}",
     )
 
     return product_id
