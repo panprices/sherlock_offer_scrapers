@@ -62,7 +62,9 @@ def parser_offer_page(soup, country) -> list[Offer]:
     offers: list[Offer] = []
     for row in rows:
         if page_variant == 0:
-            price_divs = row.select(".drzWO")
+            # price_divs = row.select(".drzWO")  # this is price total price
+            # 2023-04-25: We switched to item price (without shipping) for our b2b usecase
+            price_divs = row.select(".g9WBQb.fObmGc")
         elif page_variant == 1:
             price_divs = row.select("div.DX0ugf div.xwW5Ce div.DX0ugf span.Lhpu7d")
 
@@ -216,14 +218,5 @@ def _extract_price_and_currency(
             output_currency=currency,
         )
         raise Exception(f"Cannot convert currency: {currency}")
-
-    logger.debug(
-        "parsing price and currency",
-        input_price_text=price_text,
-        input_price_text_normalized=price_text_normalized,
-        country=country,
-        output_amount=amount,
-        output_currency=currency,
-    )
 
     return amount, currency

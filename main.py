@@ -176,4 +176,9 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
         logger.exception("exception", exc_info=ex)
         raise ex
     finally:
+        # for offer in offers:
+        #     logger.debug(
+        #         "offer-found",
+        #         **offer,
+        #     )
         helpers.offers.publish_offers(payload, offers, offer_source)
