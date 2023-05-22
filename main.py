@@ -28,6 +28,7 @@ class Payload(TypedDict):
     offer_urls: dict[str, str]
     user_country: str
     triggered_by: dict[str, Any]
+    target_countries: Optional[list[str]]
 
 
 OfferSourceType = Literal[
@@ -128,31 +129,42 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
         elif offer_source == "idealo":
             offers = idealo.scrape(gtin, cached_offer_urls)
         elif offer_source == "google_shopping":
+            default_countries = [
+                "SE",
+                "FI",
+                "NO",
+                "DK",
+                "DE",
+                "UK",
+                "NL",
+                "PL",
+                "CZ",
+                "FR",
+                # "IT",
+                # "BE",
+                # "IE",
+                # "PT",
+                # "CH",
+                # "GR",
+                # "SK",
+                # "RO",
+                # "HU",
+            ]
+
+            if (
+                "triggered_by" in payload
+                and "target_countries" in payload["triggered_by"]
+                and payload["triggered_by"]["target_countries"]
+            ):
+                countries = payload["triggered_by"]["target_countries"]
+            else:
+                countries = default_countries
+
             offers, exceptions = asyncio.run(
                 google_shopping.scrape(
                     gtin,
                     cached_offer_urls,
-                    countries=[
-                        "SE",
-                        "FI",
-                        "NO",
-                        "DK",
-                        "DE",
-                        "UK",
-                        "NL",
-                        "PL",
-                        "CZ",
-                        "FR",
-                        # "IT",
-                        # "BE",
-                        # "IE",
-                        # "PT",
-                        # "CH",
-                        # "GR",
-                        # "SK",
-                        # "RO",
-                        # "HU",
-                    ],
+                    countries,
                 )
             )
         elif offer_source == "kuantokusta":
@@ -176,9 +188,4 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
         logger.exception("exception", exc_info=ex)
         raise ex
     finally:
-        # for offer in offers:
-        #     logger.debug(
-        #         "offer-found",
-        #         **offer,
-        #     )
         helpers.offers.publish_offers(payload, offers, offer_source)
