@@ -1,10 +1,9 @@
-import functools
 import asyncio
-import pydash.arrays
-from typing import Dict, List, Optional, Tuple
+import functools
+from typing import List, Optional, Tuple
 
-from bs4 import BeautifulSoup
 import structlog
+from bs4 import BeautifulSoup
 
 from sherlock_offer_scrapers import helpers
 from sherlock_offer_scrapers.helpers.offers import Offer
@@ -44,28 +43,35 @@ logger = structlog.get_logger()
 # }
 
 
-async def scrape(
+async def scrape_one_country(
     gtin: str,
     cached_offers_urls: Optional[dict],
-    countries=["SE"],
-) -> Tuple[List[helpers.offers.Offer], List[Tuple[Exception, str]]]:
-    if not cached_offers_urls or "google_shopping" not in cached_offers_urls:
+    country: str,
+):
+    offer_source = "google_shopping"
+    if country.upper() != "SE":
+        """
+        Sweden is a special case because this code used to search only in Sweden and we already have entries in the
+        database with "google_shopping" as `offer_source`.
+
+        That's why you will find "google_shopping_DK", but not "google_shopping_SE" in the database.
+        """
+        offer_source += f"_{country.upper()}"
+
+    if not cached_offers_urls or offer_source not in cached_offers_urls:
         logger.info("No google shopping url provided - searching by gtin")
         google_product_id = find_product_id(gtin)
-        helpers.offers.publish_new_offer_urls(
-            gtin, {"google_shopping": google_product_id}
-        )
+        helpers.offers.publish_new_offer_urls(gtin, {offer_source: google_product_id})
 
         if google_product_id is None:
             logger.warning(f"No product found for gtin {gtin}")
             return [], []
     else:
-        google_product_id = cached_offers_urls["google_shopping"]
+        google_product_id = cached_offers_urls[offer_source]
 
     all_searches = []
-    for country in countries:
-        coro = fetch_offers_from_google_product_id(google_product_id, gtin, country)  # type: ignore
-        all_searches.append(coro)
+    coro = fetch_offers_from_google_product_id(google_product_id, gtin, country)  # type: ignore
+    all_searches.append(coro)
 
     offer_results = await asyncio.gather(*all_searches)
 
@@ -79,11 +85,27 @@ async def scrape(
     return all_offers, exceptions
 
 
-def find_product_id(gtin: str) -> Optional[str]:
+async def scrape(
+    gtin: str,
+    cached_offers_urls: Optional[dict],
+    countries=["SE"],
+) -> Tuple[List[helpers.offers.Offer], List[Tuple[Exception, str]]]:
+    results_per_country = await asyncio.gather(
+        *[
+            scrape_one_country(gtin, cached_offers_urls, country)
+            for country in countries
+        ]
+    )
+
+    return [o for r in results_per_country for o in r[0]], [
+        e for r in results_per_country for e in r[1]
+    ]
+
+
+def find_product_id(gtin: str, country: str = "se") -> Optional[str]:
     """Find product_id of a google shopping product based on GTIN."""
-    # TODO: Parameterize this
-    COUNTRY_TO_SEARCH_ON = "se"
-    url = f"https://www.google.com/search?q={gtin}&gl={COUNTRY_TO_SEARCH_ON}&hl=en&tbm=shop"
+
+    url = f"https://www.google.com/search?q={gtin}&gl={country}&hl=en&tbm=shop"
     html = helpers.requests.get(
         url,
         headers={"User-Agent": user_agents.choose_random()},
