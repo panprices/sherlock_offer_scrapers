@@ -140,6 +140,7 @@ def demo_sherlock_gs_offers():
             "job_id": "UupuDUjLXoHbAKjHsrtH",
             "task_id": "hyAnhCIoQQyt0qWl5W3S",
             "offer_search_id": "JGUl2cEn2pU77PevQBYx",
+            "target_countries": ["SE", "DK", "DE"],
         },
     }
 
