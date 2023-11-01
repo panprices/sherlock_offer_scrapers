@@ -60,7 +60,7 @@ async def scrape_one_country(
 
     if not cached_offers_urls or offer_source not in cached_offers_urls:
         logger.info("No google shopping url provided - searching by gtin")
-        google_product_id = find_product_id(gtin)
+        google_product_id = find_product_id(gtin, country)
         helpers.offers.publish_new_offer_urls(gtin, {offer_source: google_product_id})
 
         if google_product_id is None:
