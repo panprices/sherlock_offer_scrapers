@@ -14,6 +14,8 @@ logger = structlog.get_logger()
 
 # !DEPRECATED: We don't need to use UULE anymore for google shopping,
 # only need to use gl={country} now.
+# Keeping it commented here so that we remember this trick exists
+# in case we need it in the future.
 
 # Using UULE parameter to access the offer page in different countries.
 # Read about UULE here: https://valentin.app/uule.html
@@ -47,7 +49,7 @@ async def scrape_one_country(
     gtin: str,
     cached_offers_urls: Optional[dict],
     country: str,
-):
+) -> Tuple[List[helpers.offers.Offer], List[Tuple[Exception, str]]]:
     offer_source = "google_shopping"
     if country.upper() != "SE":
         """
@@ -59,13 +61,21 @@ async def scrape_one_country(
         offer_source += f"_{country.upper()}"
 
     if not cached_offers_urls or offer_source not in cached_offers_urls:
-        logger.info("No google shopping url provided - searching by gtin")
-        google_product_id = find_product_id(gtin, country)
-        helpers.offers.publish_new_offer_urls(gtin, {offer_source: google_product_id})
+        logger.warning(
+            "Search by GTIN has been disabled for google_shopping. "
+            + "No cached url provided, cannot fetch offers.",
+            offer_source=offer_source,
+            gtin=gtin,
+        )
+        return [], []
 
-        if google_product_id is None:
-            logger.warning(f"No product found for gtin {gtin}")
-            return [], []
+        # logger.info("No cached url provided - searching by gtin")
+        # google_product_id = find_product_id(gtin, country)
+        # helpers.offers.publish_new_offer_urls(gtin, {offer_source: google_product_id})
+
+        # if google_product_id is None:
+        #     logger.warning(f"No product found for gtin {gtin}")
+        #     return [], []
     else:
         google_product_id = cached_offers_urls[offer_source]
 
@@ -77,7 +87,7 @@ async def scrape_one_country(
 
     all_offers = []
     exceptions = []
-    for (offers, country, exception) in offer_results:
+    for offers, country, exception in offer_results:
         all_offers.extend(offers)
         if exception is not None:
             exceptions.append((exception, country))
