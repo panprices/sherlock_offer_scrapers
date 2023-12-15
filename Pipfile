@@ -13,7 +13,7 @@ name = "pypi"
 python_version = "3.9"
 
 [packages]
-requests = "2.25"
+requests = "~=2.26"
 unidecode = "~=1.2"
 beautifulsoup4 = "~=4.9"
 google-cloud-pubsub = "~=2.4"
@@ -22,12 +22,14 @@ types-requests = "*"
 price-parser = "~=0.3"
 pydash = "*"
 google-cloud-storage = "*"
+brotli = "~=1.1.0"
 
 [dev-packages]
 mypy = {extras = [ "cli",], version = "0.910"}
 pytest = "*"
 black = "==21.4b2"
 python-dotenv = "*"
+typer = "*"
 
 [pipenv]
 allow_prereleases = true
