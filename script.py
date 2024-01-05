@@ -1,4 +1,6 @@
+import asyncio
 import csv
+import functools
 import json
 import os.path
 import re
@@ -19,25 +21,20 @@ logger = structlog.get_logger()
 
 id_to_gtin_cache = {}
 gtin_to_id_cache = {}
-retailer_gtin_success_count = {}
 searches_cache = set()
 products_without_gtin = set()
 
 
-INTER_SEARCH_DELAY = 90
+INTER_SEARCH_DELAY = 0
 INTER_NAVIGATION_DELAY = 0
 
-search_proxy_country = None
+search_proxy_country = "SE"
 product_proxy_country = "SE"
 
 
 GOOGLE_SHOPPING_COOKIES = {
-    "NID": "511=i3rfMEZFKEb_UtdoCUGW0DwOkG4s1dAqCELqh3BeG7w9yWQnmTVesrUuvelzgxezPSyfMetkjVBxaXlMmd0CNEcMh8J2oCQYTSyJ5T"
-    "9YVYyQP2eif2vpVQDwEBg_dSo-iPVMS-vajMeNghBfAkSwyWPPFWGF1lYtptf7ioIjKrKikWURqYTPCXL6qkVk1x87eDGQl0hu9LXeFbSh7"
-    "tWLTFgyrEoGAvC1GMs6O1UNRjmeu8VTofLnJk4_Iy6fAOrimwncF0kVCO81_nL_zzAgLGuPxQyRw0fwGqPzAv8TMhJSbkW682w4kDtJ-Otm"
-    "F8eCGORgUN2H4YBKXtadY_qj8Islgxc4m54ugnwY_9vQn_NFpsUjFVr1XGh-7Bkr92C1YRwFUR9ntaX9ajGxcQ1MuvODlXKMVzQwNZv6miL"
-    "CjiCwuqEvneqazsfZWLeZI5X6SIpRuG0SUxIg0PNv_sdZxuSLMpq5ehmAiAtMRHnn",
-    "SOCS": "CAISNQgCEitib3FfaWRlbnRpdHlmcm9udGVuZHVpc2VydmVyXzIwMjMxMDI3LjA5X3AwGgJlbiACGgYIgPCQqgY",
+    "SOCS": "CAESNQgCEitib3FfaWRlbnRpdHlmcm9udGVuZHVpc2VydmVyXzIwMjQwMTAyLjA1X3AwGgJlbiACGgYIgI3drAY",
+    "CONSENT": "PENDING+105",
 }
 
 
@@ -61,8 +58,8 @@ def write_output():
     # Save the products without a gtin
     with open("output/products_without_gtin.csv", "w") as f:
         f.write("product_id\n")
-        for product_id in products_without_gtin:
-            f.write(f"{product_id}\n")
+        for product_id, country in products_without_gtin:
+            f.write(f"{product_id},{country}\n")
 
 
 def find_gtin_from_retailer_url(
@@ -192,6 +189,22 @@ def extract_gtin_from_html_regex(html: str) -> Optional[str]:
     return gtin
 
 
+def find_gtin_from_gs_url(offer_url: str, expected_gtin: str):
+    offer_url_after_redirect = urllib.parse.parse_qs(
+        urllib.parse.urlparse(offer_url).query
+    )["q"][0]
+
+    try:
+        gtin_from_offer = find_gtin_from_retailer_url(
+            offer_url_after_redirect, expected_gtin
+        )
+    except Exception as e:
+        logger.warning(e)
+        gtin_from_offer = None
+
+    return gtin_from_offer
+
+
 def search_for_gtin_within_offers(
     product_id: str, country: str, expected_gtin: Optional[str] = None
 ) -> Optional[str]:
@@ -221,39 +234,40 @@ def search_for_gtin_within_offers(
 
         offers_dict[offer_retailer] = offer_url
 
-    sorted_offers_tuples = sorted(
-        offers_dict.items(),
-        key=lambda item: retailer_gtin_success_count.get(item[0], 0),
-        reverse=True,
+    # Parallelize going to each of the individual retailers
+    futures = [
+        asyncio.get_event_loop().run_in_executor(
+            None,
+            functools.partial(
+                find_gtin_from_gs_url,
+                offer_url,
+                expected_gtin=expected_gtin,
+            ),
+        )
+        for offer_retailer, offer_url in offers_dict.items()
+    ]
+    gtins_from_offers = asyncio.get_event_loop().run_until_complete(
+        asyncio.gather(*futures)
     )
 
-    for offer_retailer, offer_url in sorted_offers_tuples:
-        # The actual url is in the offer_url as a query parameter with key q
-        offer_url_after_redirect = urllib.parse.parse_qs(
-            urllib.parse.urlparse(offer_url).query
-        )["q"][0]
-
-        try:
-            gtin_from_offer = find_gtin_from_retailer_url(
-                offer_url_after_redirect, expected_gtin
-            )
-        except Exception as e:
-            logger.warning(e)
-            gtin_from_offer = None
-
-        if not gtin_from_offer:
+    aggregated_gtins = {}
+    # count the number of times a gtin appears
+    for gtin in gtins_from_offers:
+        if not gtin:
             continue
+        aggregated_gtins[gtin] = aggregated_gtins.get(gtin, 0) + 1
 
-        id_to_gtin_cache[product_id] = gtin_from_offer
-        gtin_to_id_cache[gtin_from_offer] = product_id
-        retailer_gtin_success_count[offer_retailer] = (
-            retailer_gtin_success_count.get(offer_retailer, 0) + 1
-        )
+    if not aggregated_gtins:
+        products_without_gtin.add((product_id, country))
+        return None  # No gtins found
 
-        return gtin_from_offer
+    # the one gtin with the most count is the gtin of this product id
+    gtin_from_offer = max(aggregated_gtins.keys(), key=aggregated_gtins.get)
 
-    products_without_gtin.add(product_id)
-    return None
+    id_to_gtin_cache[product_id] = gtin_from_offer
+    gtin_to_id_cache[gtin_from_offer] = product_id
+
+    return gtin_from_offer
 
 
 def search_for_gtin(
@@ -266,7 +280,7 @@ def search_for_gtin(
 
         return product_id, None
 
-    if product_id in products_without_gtin:
+    if (product_id, country) in products_without_gtin:
         return product_id, None
 
     variant_id, gtin_from_offer = search_for_gtin_within_variants(
@@ -429,7 +443,7 @@ def run(products_file: str, default_brand: str = "Muuto"):
             csv_reader = csv.reader(f)
             next(csv_reader)
             for row in csv_reader:
-                products_without_gtin.add(row[0])
+                products_without_gtin.add((row[0], row[1]))
     countries = ["dk", "se", "de"]
 
     for product in products:
