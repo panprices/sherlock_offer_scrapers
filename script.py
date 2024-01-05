@@ -1,9 +1,10 @@
+import csv
 import json
 import os.path
 import re
 import time
 import urllib.parse
-from typing import Optional
+from typing import Optional, Tuple
 
 import structlog
 import typer
@@ -11,7 +12,6 @@ from bs4 import BeautifulSoup
 
 from sherlock_offer_scrapers import helpers
 from sherlock_offer_scrapers.scrapers.google_shopping import user_agents
-import csv
 
 app = typer.Typer()
 
@@ -24,9 +24,12 @@ searches_cache = set()
 products_without_gtin = set()
 
 
-INTER_REQUEST_DELAY = 90
+INTER_SEARCH_DELAY = 90
+INTER_NAVIGATION_DELAY = 0
 
-proxy_country = None
+search_proxy_country = None
+product_proxy_country = "SE"
+
 
 GOOGLE_SHOPPING_COOKIES = {
     "NID": "511=i3rfMEZFKEb_UtdoCUGW0DwOkG4s1dAqCELqh3BeG7w9yWQnmTVesrUuvelzgxezPSyfMetkjVBxaXlMmd0CNEcMh8J2oCQYTSyJ5T"
@@ -48,7 +51,23 @@ def read_id_to_gtin_cache():
                 gtin_to_id_cache[row[1]] = row[0]
 
 
-def find_gtin_from_retailer_url(url: str) -> Optional[str]:
+def write_output():
+    # Save id_to_gtin_cache to a csv file
+    with open("output/id_to_gtin_cache.csv", "w") as f:
+        f.write("product_id,gtin\n")
+        for product_id, gtin in id_to_gtin_cache.items():
+            f.write(f"{product_id},{gtin}\n")
+
+    # Save the products without a gtin
+    with open("output/products_without_gtin.csv", "w") as f:
+        f.write("product_id\n")
+        for product_id in products_without_gtin:
+            f.write(f"{product_id}\n")
+
+
+def find_gtin_from_retailer_url(
+    url: str, expected_gtin: Optional[str] = None
+) -> Optional[str]:
     html = helpers.requests.get(url).text
 
     gtin = extract_gtin_from_html_schemaorg(html)
@@ -61,11 +80,17 @@ def find_gtin_from_retailer_url(url: str) -> Optional[str]:
         print(f"Found gtin: {gtin} in the html of {url} using regex")
         return gtin
 
-    if gtin is None:
-        gtin = extract_gtin_from_meta_property(html)
+    gtin = extract_gtin_from_meta_property(html)
+    if gtin is not None:
+        print(f"Found gtin: {gtin} in the html of {url} using meta property")
+        return gtin
+
+    if expected_gtin is not None:
+        gtin = search_for_gtin_in_page(html, expected_gtin)
         if gtin is not None:
-            print(f"Found gtin: {gtin} in the html of {url} using meta property")
-            return gtin
+            print(
+                f"Found gtin {gtin} by searching for the expected gtin within the html of {url}"
+            )
 
     return None
 
@@ -79,6 +104,14 @@ def extract_gtin_from_meta_property(html: str) -> Optional[str]:
 
     gtin = meta_tags[0]["content"]
     return _normalise_gtin14(gtin)
+
+
+def search_for_gtin_in_page(html: str, gtin: str) -> Optional[str]:
+    search_result = html.find(gtin)
+    if search_result != -1:
+        return gtin
+
+    return None
 
 
 def extract_gtin_from_html_schemaorg(html: str) -> Optional[str]:
@@ -159,9 +192,11 @@ def extract_gtin_from_html_regex(html: str) -> Optional[str]:
     return gtin
 
 
-def search_for_gtin_within_offers(product_id: str, country: str) -> Optional[str]:
+def search_for_gtin_within_offers(
+    product_id: str, country: str, expected_gtin: Optional[str] = None
+) -> Optional[str]:
     # insert some delay betwwen requests to google shopping
-    time.sleep(INTER_REQUEST_DELAY)
+    time.sleep(INTER_NAVIGATION_DELAY)
 
     url = f"https://www.google.com/shopping/product/{product_id}/offers?hl=en&gl={country}"
 
@@ -169,11 +204,10 @@ def search_for_gtin_within_offers(product_id: str, country: str) -> Optional[str
         url,
         headers={"User-Agent": user_agents.choose_random()},
         cookies=GOOGLE_SHOPPING_COOKIES,
-        proxy_country=proxy_country,
+        proxy_country=product_proxy_country,
     )
     if resp.status_code == 429:
         raise Exception("Too many requests")
-
     html = resp.text
     soup = BeautifulSoup(html, features="html.parser")
 
@@ -200,7 +234,9 @@ def search_for_gtin_within_offers(product_id: str, country: str) -> Optional[str
         )["q"][0]
 
         try:
-            gtin_from_offer = find_gtin_from_retailer_url(offer_url_after_redirect)
+            gtin_from_offer = find_gtin_from_retailer_url(
+                offer_url_after_redirect, expected_gtin
+            )
         except Exception as e:
             logger.warning(e)
             gtin_from_offer = None
@@ -220,19 +256,91 @@ def search_for_gtin_within_offers(product_id: str, country: str) -> Optional[str
     return None
 
 
-def check_gtin_matches(product_id: str, search_gtin: str, country: str):
+def search_for_gtin(
+    product_id: str, search_gtin: str, country: str
+) -> Tuple[str, Optional[str]]:
     if product_id in id_to_gtin_cache:
-        return id_to_gtin_cache[product_id] == search_gtin
+        gtin_for_product = id_to_gtin_cache[product_id]
+        if gtin_for_product == search_gtin:
+            return product_id, gtin_for_product
+
+        return product_id, None
 
     if product_id in products_without_gtin:
-        return False
+        return product_id, None
 
-    gtin_from_offer = search_for_gtin_within_offers(product_id, country)
+    variant_id, gtin_from_offer = search_for_gtin_within_variants(
+        product_id, country, expected_gtin=search_gtin
+    )
 
     if gtin_from_offer == search_gtin:
-        return True
+        return variant_id, search_gtin
 
-    return False
+    return product_id, None
+
+
+def search_for_gtin_within_variants(
+    product_id: str,
+    country: str,
+    expected_gtin: str = None,
+    known_variant_products=None,
+):
+    if known_variant_products is None:
+        known_variant_products = []
+
+    time.sleep(INTER_NAVIGATION_DELAY)
+
+    url = f"https://www.google.com/shopping/product/{product_id}?hl=en&gl={country}"
+    resp = helpers.requests.get(
+        url,
+        headers={"User-Agent": user_agents.choose_random()},
+        cookies=GOOGLE_SHOPPING_COOKIES,
+        proxy_country=product_proxy_country,
+    )
+
+    html = resp.text
+    soup = BeautifulSoup(html, features="html.parser")
+
+    gtin_for_id = search_for_gtin_within_offers(product_id, country, expected_gtin)
+    if gtin_for_id == expected_gtin:
+        return product_id, gtin_for_id
+
+    all_variants = soup.select("a.sh-dvc__item")
+    sub_variant_products = set()
+    for variant in all_variants:
+        variant_url = variant["href"]
+        variant_id = variant_url.split("?")[0].split("/")[-1]
+
+        if variant_id not in known_variant_products:
+            sub_variant_products.add(variant_id)
+
+    for variant_id in sub_variant_products:
+        sub_variant_id, gtin = search_for_gtin_within_variants(
+            variant_id,
+            country,
+            expected_gtin,
+            known_variant_products=known_variant_products + list(sub_variant_products),
+        )
+
+        if gtin == expected_gtin:
+            return sub_variant_id, gtin
+
+    return product_id, None
+
+
+def find_product_id_multiple_markets(
+    name: str, gtin: str, countries=None, brand: str = "GUBI"
+) -> Optional[str]:
+    if countries is None:
+        countries = ["dk", "se", "de"]
+
+    for country in countries:
+        id_in_country = find_product_id(name, gtin, country, brand)
+
+        if id_in_country is not None:
+            return id_in_country
+
+    return None
 
 
 def find_product_id(
@@ -258,14 +366,14 @@ def find_product_id(
     if search_term in searches_cache:
         return None
 
-    time.sleep(INTER_REQUEST_DELAY)
+    time.sleep(INTER_SEARCH_DELAY)
 
     url = f"https://www.google.com/search?q={search_term}&gl={country}&hl=en&tbm=shop"
     resp = helpers.requests.get(
         url,
         headers={"User-Agent": user_agents.choose_random()},
         cookies=GOOGLE_SHOPPING_COOKIES,
-        proxy_country=proxy_country,
+        proxy_country=search_proxy_country,
     )
     if resp.status_code == 429:
         raise Exception("Too many requests")
@@ -280,19 +388,19 @@ def find_product_id(
         a["href"].split("?")[0].split("/")[3]
         for a in product_a_tags
         # /shopping/product/2336121681419728525?q=05400653007411&hl=en&... -> 2336121681419728525
-    ][:8]
+    ][:12]
 
     visited_product_pages_count = 0
     for possible_product_id in possible_product_ids:
-        is_good_offer = check_gtin_matches(possible_product_id, gtin, country)
+        variant_id, found_gtin = search_for_gtin(possible_product_id, gtin, country)
         visited_product_pages_count += 1
 
-        if is_good_offer:
+        if found_gtin:
             logger.info(
                 "Visited product pages",
                 visited_product_pages_count=visited_product_pages_count,
             )
-            return possible_product_id
+            return variant_id
 
     logger.info(
         "Visited product pages",
@@ -308,7 +416,6 @@ def run(products_file: str, default_brand: str = "Muuto"):
     # read the gtin and product name from the csv file
     with open(products_file, "r") as f:
         csv_reader = csv.reader(f)
-        next(csv_reader)  # skip the header
         for row in csv_reader:
             if len(row) == 3:
                 products.append((row[0], row[1], row[2]))
@@ -323,31 +430,27 @@ def run(products_file: str, default_brand: str = "Muuto"):
             next(csv_reader)
             for row in csv_reader:
                 products_without_gtin.add(row[0])
+    countries = ["dk", "se", "de"]
 
-    for country in ["dk"]:
-        # Allow for the same search in different countries
-        searches_cache.clear()
+    for product in products:
+        logger.info(
+            "Starting with parameters",
+            product_name=product[1],
+            gtin=product[0],
+            brand=product[2],
+        )
+        gtin, name, brand = product
+        gtin = _normalise_gtin14(gtin)
 
-        for product in products:
-            logger.info(
-                "Starting with parameters", product_name=product[1], gtin=product[0]
-            )
+        product_id = find_product_id_multiple_markets(
+            name=name, gtin=gtin, countries=countries, brand=brand
+        )
 
-            product_id = find_product_id(product[1], product[0], country, product[2])
+        logger.info("Found product id", id=product_id)
+        write_output()
 
-            logger.info("Found product id", id=product_id)
-
-            # Save id_to_gtin_cache to a csv file
-            with open("output/id_to_gtin_cache.csv", "w") as f:
-                f.write("product_id,gtin\n")
-                for product_id, gtin in id_to_gtin_cache.items():
-                    f.write(f"{product_id},{gtin}\n")
-
-            # Save the products without a gtin
-            with open("output/products_without_gtin.csv", "w") as f:
-                f.write("product_id\n")
-                for product_id in products_without_gtin:
-                    f.write(f"{product_id}\n")
+        with open("output/products_results.csv", "a") as f:
+            f.write(f"{gtin},{product_id if product_id else ''}\n")
 
 
 @app.command()
@@ -416,6 +519,13 @@ def analyze_logs():
             total_pages_visited += pages_count
 
     logger.info("Total pages visited", total_pages_visited=total_pages_visited)
+
+
+@app.command()
+def explore_all_variants(product_id: str, country: str, expected_gtin: str):
+    search_for_gtin_within_variants(product_id, country, expected_gtin)
+
+    write_output()
 
 
 @app.command()
