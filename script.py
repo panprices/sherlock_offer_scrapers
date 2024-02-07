@@ -2,20 +2,44 @@ import asyncio
 import csv
 import functools
 import json
+import logging.config
 import os.path
 import re
 import time
 import urllib.parse
-from typing import Optional, Tuple
+from typing import Optional, Tuple, Annotated, List
 
 import structlog
 import typer
 from bs4 import BeautifulSoup
+from requests.exceptions import ProxyError
+from tqdm import tqdm
 
 from sherlock_offer_scrapers import helpers
 from sherlock_offer_scrapers.scrapers.google_shopping import user_agents
+from structlog.dev import set_exc_info, ConsoleRenderer
+from structlog.processors import (
+    StackInfoRenderer,
+    TimeStamper,
+    add_log_level,
+    LogfmtRenderer,
+)
 
 app = typer.Typer()
+
+structlog.configure_once(
+    processors=[
+        add_log_level,
+        StackInfoRenderer(),
+        set_exc_info,
+        TimeStamper(fmt="%Y-%m-%d %H:%M.%S", utc=False),
+        LogfmtRenderer(),
+    ],
+    logger_factory=structlog.stdlib.LoggerFactory(),
+    wrapper_class=structlog.stdlib.BoundLogger,
+    cache_logger_on_first_use=True,
+)
+
 
 logger = structlog.get_logger()
 
@@ -69,23 +93,23 @@ def find_gtin_from_retailer_url(
 
     gtin = extract_gtin_from_html_schemaorg(html)
     if gtin is not None:
-        print(f"Found gtin: {gtin} in the html of {url} using schema.org")
+        logger.debug(f"Found gtin: {gtin} in the html of {url} using schema.org")
         return gtin
 
     gtin = extract_gtin_from_html_regex(html)
     if gtin is not None:
-        print(f"Found gtin: {gtin} in the html of {url} using regex")
+        logger.debug(f"Found gtin: {gtin} in the html of {url} using regex")
         return gtin
 
     gtin = extract_gtin_from_meta_property(html)
     if gtin is not None:
-        print(f"Found gtin: {gtin} in the html of {url} using meta property")
+        logger.debug(f"Found gtin: {gtin} in the html of {url} using meta property")
         return gtin
 
     if expected_gtin is not None:
         gtin = search_for_gtin_in_page(html, expected_gtin)
         if gtin is not None:
-            print(
+            logger.debug(
                 f"Found gtin {gtin} by searching for the expected gtin within the html of {url}"
             )
 
@@ -205,9 +229,7 @@ def find_gtin_from_gs_url(offer_url: str, expected_gtin: str):
     return gtin_from_offer
 
 
-def search_for_gtin_within_offers(
-    product_id: str, country: str, expected_gtin: Optional[str] = None
-) -> Optional[str]:
+def __navigate_to_product_page(product_id: str, country: str):
     # insert some delay betwwen requests to google shopping
     time.sleep(INTER_NAVIGATION_DELAY)
 
@@ -223,6 +245,25 @@ def search_for_gtin_within_offers(
         raise Exception("Too many requests")
     html = resp.text
     soup = BeautifulSoup(html, features="html.parser")
+
+    return soup
+
+
+def extract_product_image(product_id: str, country: str):
+    soup = __navigate_to_product_page(product_id, country)
+
+    image = soup.select_one("img.r4m4nf")
+
+    if not image:
+        return None
+
+    return image["src"] if image.has_attr("src") else None
+
+
+def search_for_gtin_within_offers(
+    product_id: str, country: str, expected_gtin: Optional[str] = None
+) -> Optional[str]:
+    soup = __navigate_to_product_page(product_id, country)
 
     all_offers = soup.select("tr.sh-osd__offer-row")
     offers_dict = {}
@@ -296,27 +337,45 @@ def search_for_gtin(
 def search_for_gtin_within_variants(
     product_id: str,
     country: str,
-    expected_gtin: str = None,
+    expected_gtin: Optional[str] = None,
     known_variant_products=None,
-):
+    retry_ttl=3,
+) -> Tuple[str, Optional[str]]:
     if known_variant_products is None:
         known_variant_products = []
+
+    if (product_id, country) in products_without_gtin:
+        return product_id, None
+
+    if product_id in id_to_gtin_cache:
+        return product_id, id_to_gtin_cache[product_id]
 
     time.sleep(INTER_NAVIGATION_DELAY)
 
     url = f"https://www.google.com/shopping/product/{product_id}?hl=en&gl={country}"
-    resp = helpers.requests.get(
-        url,
-        headers={"User-Agent": user_agents.choose_random()},
-        cookies=GOOGLE_SHOPPING_COOKIES,
-        proxy_country=product_proxy_country,
-    )
+    try:
+        resp = helpers.requests.get(
+            url,
+            headers={"User-Agent": user_agents.choose_random()},
+            cookies=GOOGLE_SHOPPING_COOKIES,
+            proxy_country=product_proxy_country,
+        )
+    except ProxyError as e:
+        logger.warning("Proxy error encountered, will retry")
+        time.sleep(2 ** (3 - retry_ttl))
+        return search_for_gtin_within_variants(
+            product_id,
+            country,
+            expected_gtin,
+            known_variant_products,
+            retry_ttl=retry_ttl - 1,
+        )
 
     html = resp.text
     soup = BeautifulSoup(html, features="html.parser")
 
     gtin_for_id = search_for_gtin_within_offers(product_id, country, expected_gtin)
-    if gtin_for_id == expected_gtin:
+    if gtin_for_id == expected_gtin or expected_gtin is None:
         return product_id, gtin_for_id
 
     all_variants = soup.select("a.sh-dvc__item")
@@ -348,7 +407,7 @@ def find_product_id_multiple_markets(
     if countries is None:
         countries = ["dk", "se", "de"]
 
-    for country in countries:
+    for country in tqdm(countries, desc="Markets"):
         id_in_country = find_product_id(name, gtin, country, brand)
 
         if id_in_country is not None:
@@ -405,7 +464,7 @@ def find_product_id(
     ][:12]
 
     visited_product_pages_count = 0
-    for possible_product_id in possible_product_ids:
+    for possible_product_id in tqdm(possible_product_ids, "Google Shopping products"):
         variant_id, found_gtin = search_for_gtin(possible_product_id, gtin, country)
         visited_product_pages_count += 1
 
@@ -424,7 +483,8 @@ def find_product_id(
 
 
 @app.command()
-def run(products_file: str, default_brand: str = "Muuto"):
+def run(products_file: str, default_brand: Annotated[str, typer.Argument()] = "Muuto"):
+    logging.basicConfig(filename="output/logs", encoding="utf-8", level=logging.DEBUG)
     products = []
 
     # read the gtin and product name from the csv file
@@ -446,7 +506,7 @@ def run(products_file: str, default_brand: str = "Muuto"):
                 products_without_gtin.add((row[0], row[1]))
     countries = ["dk", "se", "de"]
 
-    for product in products:
+    for product in tqdm(products, desc="Input products"):
         logger.info(
             "Starting with parameters",
             product_name=product[1],
@@ -547,6 +607,55 @@ def extract_gtin_from_page(target_url: str):
     gtin = find_gtin_from_retailer_url(target_url)
 
     logger.info("Found gtin", gtin=gtin)
+
+
+@app.command()
+def extract_gtin_from_gs_variant(product_id: str, country: str):
+    gtin = search_for_gtin_within_offers(product_id, country)
+
+    print(gtin)
+
+
+@app.command()
+def fetch_images_for_result(
+    result_dir: Annotated[Optional[str], typer.Argument()] = "output"
+):
+    products_file = os.path.join(result_dir, "products_results.csv")
+    images_file = os.path.join(result_dir, "products_results_with_images.csv")
+
+    results = []
+    with open(products_file, "r") as f:
+        csv_reader = csv.reader(f)
+        for row in csv_reader:
+            results.append(row)
+
+    results_with_images = []
+    for r in tqdm(results):
+        if not r[1]:
+            continue  # skip products we haven't found
+
+        for c in ["DE", "NL", "FR", "DK"]:
+            image_url = extract_product_image(r[1], c)
+            if image_url is not None:
+                break
+
+        results_with_images.append(r + [image_url])
+
+    with open(images_file, "w") as f:
+        csv_writer = csv.writer(f)
+        csv_writer.writerows(results_with_images)
+
+
+@app.command()
+def find_single_product(
+    gtin: str,
+    name: str,
+    brand: Annotated[Optional[str], typer.Argument()],
+    countries: Annotated[Optional[List[str]], typer.Argument()],
+):
+    logging.basicConfig(filename="output/logs", encoding="utf-8", level=logging.DEBUG)
+    product_id = find_product_id_multiple_markets(name, gtin, countries, brand)
+    print(product_id)
 
 
 if __name__ == "__main__":

@@ -24,6 +24,7 @@ pydash = "*"
 google-cloud-storage = "*"
 brotli = "~=1.1.0"
 http3 = "*"
+tqdm = "*"
 
 [dev-packages]
 mypy = {extras = [ "cli",], version = "0.910"}
