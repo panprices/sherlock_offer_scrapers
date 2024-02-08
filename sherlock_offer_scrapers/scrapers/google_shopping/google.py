@@ -46,7 +46,8 @@ logger = structlog.get_logger()
 
 
 async def scrape_one_country(
-    gtin: str,
+    gtin: Optional[str],
+    sku: Optional[str],
     cached_offers_urls: Optional[dict],
     country: str,
 ) -> Tuple[List[helpers.offers.Offer], List[Tuple[Exception, str]]]:
@@ -76,12 +77,11 @@ async def scrape_one_country(
         # if google_product_id is None:
         #     logger.warning(f"No product found for gtin {gtin}")
         #     return [], []
-    else:
-        google_product_id = cached_offers_urls[offer_source]
 
     all_searches = []
-    coro = fetch_offers_from_google_product_id(google_product_id, gtin, country)  # type: ignore
-    all_searches.append(coro)
+    for google_product_id in cached_offers_urls[offer_source]:
+        coro = fetch_offers_from_google_product_id(google_product_id, gtin, sku, country)  # type: ignore
+        all_searches.append(coro)
 
     offer_results = await asyncio.gather(*all_searches)
 
@@ -96,13 +96,14 @@ async def scrape_one_country(
 
 
 async def scrape(
-    gtin: str,
+    gtin: Optional[str],
+    sku: Optional[str],
     cached_offers_urls: Optional[dict],
     countries=["SE"],
 ) -> Tuple[List[helpers.offers.Offer], List[Tuple[Exception, str]]]:
     results_per_country = await asyncio.gather(
         *[
-            scrape_one_country(gtin, cached_offers_urls, country)
+            scrape_one_country(gtin, sku, cached_offers_urls, country)
             for country in countries
         ]
     )
@@ -155,7 +156,8 @@ def find_product_id(gtin: str, country: str = "se") -> Optional[str]:
 
 async def fetch_offers_from_google_product_id(
     google_pid: str,
-    gtin: str,
+    gtin: Optional[str],
+    sku: Optional[str],
     country: str,
 ) -> Tuple[list[Offer], str, Optional[Exception]]:
     try:
@@ -187,7 +189,7 @@ async def fetch_offers_from_google_product_id(
             helpers.dump_html.dump_html(
                 response.text,
                 "google_shopping",
-                gtin,
+                gtin if gtin else sku,
                 country,
             )
             raise ex

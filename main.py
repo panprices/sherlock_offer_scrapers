@@ -93,6 +93,7 @@ def sherlock_kuantokusta(event, context):
 
 def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
     gtin = payload["gtin"]
+    sku = payload.get("sku", None)
 
     if (
         "source" in payload["triggered_by"]
@@ -118,6 +119,10 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
     cached_offer_urls = payload.get("offer_urls")
     offers = []
     exceptions: list[tuple[Exception, str]] = []
+
+    # We enabled searching by SKU only on Google Shopping through the cache
+    if not gtin and offer_source != "google_shopping":
+        pass
 
     try:
         if offer_source == "prisjakt":
@@ -163,6 +168,7 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
             offers, exceptions = asyncio.run(
                 google_shopping.scrape(
                     gtin,
+                    sku,
                     cached_offer_urls,
                     countries,
                 )
