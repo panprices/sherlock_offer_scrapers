@@ -15,7 +15,7 @@ def test_scrape():
     cached_offer_urls = {
         "google_shopping": "3112645306492221763",
     }
-    offers, errors = asyncio.run(google_shopping.scrape(gtin, cached_offer_urls))
+    offers, errors = asyncio.run(google_shopping.scrape(gtin, None, cached_offer_urls))
     assert len(offers) > 0
     assert len(errors) == 0
 

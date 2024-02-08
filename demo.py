@@ -130,7 +130,9 @@ def demo_sherlock_gs_offers():
         "gtin": "04004025087578",
         "offer_fetch_complete": False,
         "offer_urls": {
-            # "google_shopping": "5346533728443139525",
+            "google_shopping_FR": [
+                "epd:1450297559679597994,eto:1450297559679597994_0,pid:1450297559679597994"
+            ],
         },
         "product_token": "test_gAAAAAAAAAAAsMFK1hehjtyl8OSy9z19N9wvdLUdZdZlh0BWDUgGGc08fkgYGqeXaQn1JegqyzvYRJKhMGix6cIKlNUjHqI2sQ==",
         "triggered_from_client": True,
@@ -140,7 +142,7 @@ def demo_sherlock_gs_offers():
             "job_id": "UupuDUjLXoHbAKjHsrtH",
             "task_id": "hyAnhCIoQQyt0qWl5W3S",
             "offer_search_id": "JGUl2cEn2pU77PevQBYx",
-            "target_countries": ["SE", "DK", "DE"],
+            "target_countries": ["FR"],
         },
     }
 

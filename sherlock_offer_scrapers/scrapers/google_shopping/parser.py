@@ -2,6 +2,7 @@ import json
 import re
 from typing import Optional, Tuple
 
+import bs4
 import price_parser
 import structlog
 
@@ -58,6 +59,8 @@ def parser_offer_page(soup, country) -> list[Offer]:
         rows = soup.select("table.dOwBOc tr.sh-osd__offer-row")
     elif page_variant == 1:
         rows = soup.select("div.Nq7DI div.MVQv4e")
+    elif page_variant == 2:
+        rows = soup.select("div.qEeQL")
 
     offers: list[Offer] = []
     for row in rows:
@@ -67,6 +70,8 @@ def parser_offer_page(soup, country) -> list[Offer]:
             price_divs = row.select(".g9WBQb.fObmGc")
         elif page_variant == 1:
             price_divs = row.select("div.DX0ugf div.xwW5Ce div.DX0ugf span.Lhpu7d")
+        elif page_variant == 2:
+            price_divs = row.select("div.WwE9ce")
 
         if len(price_divs) == 0:  # skip rows without prices
             continue
@@ -83,6 +88,11 @@ def parser_offer_page(soup, country) -> list[Offer]:
         elif page_variant == 1:
             link_anchor = row.select("a.ueI0Ed")[0]
             offer_url = link_anchor.attrs["href"]
+        elif page_variant == 2:
+            link_anchor = row.select("a")[0]
+            offer_url = link_anchor.attrs["href"]
+            offer_url = f"https://www.google.com{offer_url}"
+
         retailer_name = link_anchor.contents[0].get_text()
 
         if image is not None:
@@ -124,10 +134,15 @@ def _is_server_error_page(soup) -> bool:
 def _extract_product_name(soup) -> Tuple[str, int]:
     page_variant = 0
 
-    product_title = soup.find("div", class_="f0t7kf")
+    product_title = soup.find("span", class_="sh-t__title-pdp")
     if product_title is None:
         product_title = soup.find("div", class_="MPhl6c")
         page_variant = 1
+
+    if product_title is None:
+        product_title = soup.find("div", class_="fbrNcd")
+        page_variant = 2  # This is e one-offer product page identified by the query parameter "prds", instead of a product id
+
     if product_title is None:
         raise Exception("Cannot find product title")
 

@@ -46,7 +46,8 @@ logger = structlog.get_logger()
 
 
 async def scrape_one_country(
-    gtin: str,
+    gtin: Optional[str],
+    sku: Optional[str],
     cached_offers_urls: Optional[dict],
     country: str,
 ) -> Tuple[List[helpers.offers.Offer], List[Tuple[Exception, str]]]:
@@ -76,12 +77,11 @@ async def scrape_one_country(
         # if google_product_id is None:
         #     logger.warning(f"No product found for gtin {gtin}")
         #     return [], []
-    else:
-        google_product_id = cached_offers_urls[offer_source]
 
     all_searches = []
-    coro = fetch_offers_from_google_product_id(google_product_id, gtin, country)  # type: ignore
-    all_searches.append(coro)
+    for product_url in cached_offers_urls[offer_source]:
+        coro = fetch_offers_from_google_product_id(product_url, gtin, sku, country)  # type: ignore
+        all_searches.append(coro)
 
     offer_results = await asyncio.gather(*all_searches)
 
@@ -96,13 +96,14 @@ async def scrape_one_country(
 
 
 async def scrape(
-    gtin: str,
+    gtin: Optional[str],
+    sku: Optional[str],
     cached_offers_urls: Optional[dict],
     countries=["SE"],
 ) -> Tuple[List[helpers.offers.Offer], List[Tuple[Exception, str]]]:
     results_per_country = await asyncio.gather(
         *[
-            scrape_one_country(gtin, cached_offers_urls, country)
+            scrape_one_country(gtin, sku, cached_offers_urls, country)
             for country in countries
         ]
     )
@@ -153,17 +154,34 @@ def find_product_id(gtin: str, country: str = "se") -> Optional[str]:
     return product_id
 
 
+def __build_product_url(cached_product_url: str, country: str):
+    """
+    We have 2 types of storing the Google Shopping products in the cache.
+
+    1. One relies on the google product id, and then we store just the id and recompose the URL.
+    Ex: 13206784448519231477
+
+    2. Sometimes offer are displayed in one-offer product pages, that do not have an id assigned. Then we need to cache
+    the full URL.
+    Ex: epd:6307150723913084381,eto:6307150723913084381_0,pid:6307150723913084381
+
+    """
+    return (
+        f"https://www.google.com/shopping/product/{cached_product_url}/offers?hl=en&gl={country}"
+        if cached_product_url.isdigit()
+        else f"https://www.google.com/shopping/product/1?hl=en&gl={country}&prds={cached_product_url}"
+    )
+
+
 async def fetch_offers_from_google_product_id(
-    google_pid: str,
-    gtin: str,
+    cached_product_url: str,
+    gtin: Optional[str],
+    sku: Optional[str],
     country: str,
 ) -> Tuple[list[Offer], str, Optional[Exception]]:
     try:
         proxy_country = "DE"  # always use DE proxy
-        url = (
-            f"https://www.google.com/shopping/product/{google_pid}/offers"
-            + f"?hl=en&gl={country}"
-        )
+        url = __build_product_url(cached_product_url, country)
 
         loop = asyncio.get_event_loop()
 
@@ -187,14 +205,14 @@ async def fetch_offers_from_google_product_id(
             helpers.dump_html.dump_html(
                 response.text,
                 "google_shopping",
-                gtin,
+                gtin if gtin else sku,
                 country,
             )
             raise ex
     except Exception as ex:
         logger.error(
             "error when fetching offers",
-            google_pid=google_pid,
+            google_pid=cached_product_url,
             country=country,
             error=str(ex),
         )
