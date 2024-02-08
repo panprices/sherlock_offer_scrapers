@@ -130,9 +130,7 @@ def demo_sherlock_gs_offers():
         "gtin": "04004025087578",
         "offer_fetch_complete": False,
         "offer_urls": {
-            "google_shopping_FR": [
-                "epd:1450297559679597994,eto:1450297559679597994_0,pid:1450297559679597994"
-            ],
+            "google_shopping_FR": ["4767685657360388125", "10843660857942207722"],
         },
         "product_token": "test_gAAAAAAAAAAAsMFK1hehjtyl8OSy9z19N9wvdLUdZdZlh0BWDUgGGc08fkgYGqeXaQn1JegqyzvYRJKhMGix6cIKlNUjHqI2sQ==",
         "triggered_from_client": True,

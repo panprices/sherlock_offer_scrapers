@@ -134,7 +134,7 @@ def _is_server_error_page(soup) -> bool:
 def _extract_product_name(soup) -> Tuple[str, int]:
     page_variant = 0
 
-    product_title = soup.find("span", class_="sh-t__title-pdp")
+    product_title = soup.find(["a", "span"], class_="sh-t__title-pdp")
     if product_title is None:
         product_title = soup.find("div", class_="MPhl6c")
         page_variant = 1
