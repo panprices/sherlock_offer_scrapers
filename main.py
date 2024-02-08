@@ -22,10 +22,11 @@ logger = structlog.get_logger()
 class Payload(TypedDict):
     created_at: int
     product_id: Optional[int]
-    gtin: str
+    gtin: Optional[str]
+    sku: Optional[str]
     product_token: str
     offer_fetch_complete: bool
-    offer_urls: dict[str, str]
+    offer_urls: dict[str, list[str]]
     user_country: str
     triggered_by: dict[str, Any]
     target_countries: Optional[list[str]]
@@ -92,7 +93,7 @@ def sherlock_kuantokusta(event, context):
 
 
 def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
-    gtin = payload["gtin"]
+    gtin = payload.get("gtin", None)
     sku = payload.get("sku", None)
 
     if (
@@ -119,6 +120,9 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
     cached_offer_urls = payload.get("offer_urls")
     offers = []
     exceptions: list[tuple[Exception, str]] = []
+    cached_offer_single_url = {
+        k: l[0] for k, l in cached_offer_urls.items() if len(l) >= 1
+    }
 
     # We enabled searching by SKU only on Google Shopping through the cache
     if not gtin and offer_source != "google_shopping":
@@ -128,11 +132,11 @@ def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
         if offer_source == "prisjakt":
             pass
         elif offer_source == "pricerunner":
-            offers = pricerunner.scrape(gtin, cached_offer_urls)
+            offers = pricerunner.scrape(gtin, cached_offer_single_url)
         elif offer_source == "kelkoo":
             offers = kelkoo.scrape(gtin)
         elif offer_source == "idealo":
-            offers = idealo.scrape(gtin, cached_offer_urls)
+            offers = idealo.scrape(gtin, cached_offer_single_url)
         elif offer_source == "google_shopping":
             default_countries = [
                 "SE",
