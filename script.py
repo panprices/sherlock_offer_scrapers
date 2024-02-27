@@ -249,10 +249,34 @@ def __navigate_to_product_page(product_id: str, country: str):
     return soup
 
 
-def extract_product_image(product_id: str, country: str):
-    soup = __navigate_to_product_page(product_id, country)
+def __navigate_to_single_offer_product_page(product_id: str, country: str):
+    """Example product_id: epd:8370985928704265029,eto:8370985928704265029_0,pid:8370985928704265029"""
+    # insert some delay betwwen requests to google shopping
+    time.sleep(INTER_NAVIGATION_DELAY)
 
-    image = soup.select_one("img.r4m4nf")
+    url = f"https://www.google.com/shopping/product/1?prds={product_id}&hl=en&gl={country}"
+
+    resp = helpers.requests.get(
+        url,
+        headers={"User-Agent": user_agents.choose_random()},
+        cookies=GOOGLE_SHOPPING_COOKIES,
+        proxy_country=product_proxy_country,
+    )
+    if resp.status_code == 429:
+        raise Exception("Too many requests")
+    html = resp.text
+    soup = BeautifulSoup(html, features="html.parser")
+
+    return soup
+
+
+def extract_product_image(product_id: str, country: str):
+    if product_id.isnumeric():
+        soup = __navigate_to_product_page(product_id, country)
+        image = soup.select_one("img.r4m4nf")
+    else:  # product_id is like epd:8370985928704265029,eto:8370985928704265029_0,pid:8370985928704265029
+        soup = __navigate_to_single_offer_product_page(product_id, country)
+        image = soup.select_one("img.sh-div__image.sh-div__current")
 
     if not image:
         return None
