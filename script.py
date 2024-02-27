@@ -87,7 +87,7 @@ def write_output():
 
 
 def find_gtin_from_retailer_url(
-    url: str, expected_gtin: Optional[str] = None
+    url: str, expected_gtin: Optional[str] = None, expected_sku: Optional[str] = None
 ) -> Optional[str]:
     html = helpers.requests.get(url).text
 
@@ -111,6 +111,13 @@ def find_gtin_from_retailer_url(
         if gtin is not None:
             logger.debug(
                 f"Found gtin {gtin} by searching for the expected gtin within the html of {url}"
+            )
+
+    if expected_sku is not None:
+        sku = search_for_gtin_in_page(html, expected_sku)
+        if sku is not None:
+            logger.info(
+                f"Found sku {sku} by searching for the expected sku within the html of {url}"
             )
 
     return None
@@ -177,7 +184,9 @@ def extract_gtin_from_html_schemaorg(html: str) -> Optional[str]:
     return None
 
 
-def _normalise_gtin14(gtin: str) -> str:
+def _normalise_gtin14(gtin: Optional[str]) -> Optional[str]:
+    if not gtin:
+        return None
     return gtin.rjust(14, "0")
 
 
@@ -213,14 +222,16 @@ def extract_gtin_from_html_regex(html: str) -> Optional[str]:
     return gtin
 
 
-def find_gtin_from_gs_url(offer_url: str, expected_gtin: str):
+def find_gtin_from_gs_url(
+    offer_url: str, expected_gtin: Optional[str], expected_sku: Optional[str]
+):
     offer_url_after_redirect = urllib.parse.parse_qs(
         urllib.parse.urlparse(offer_url).query
     )["q"][0]
 
     try:
         gtin_from_offer = find_gtin_from_retailer_url(
-            offer_url_after_redirect, expected_gtin
+            offer_url_after_redirect, expected_gtin, expected_sku
         )
     except Exception as e:
         logger.warning(e)
@@ -285,7 +296,10 @@ def extract_product_image(product_id: str, country: str):
 
 
 def search_for_gtin_within_offers(
-    product_id: str, country: str, expected_gtin: Optional[str] = None
+    product_id: str,
+    country: str,
+    expected_gtin: Optional[str] = None,
+    expected_sku: Optional[str] = None,
 ) -> Optional[str]:
     soup = __navigate_to_product_page(product_id, country)
 
@@ -307,6 +321,7 @@ def search_for_gtin_within_offers(
                 find_gtin_from_gs_url,
                 offer_url,
                 expected_gtin=expected_gtin,
+                expected_sku=expected_sku,
             ),
         )
         for offer_retailer, offer_url in offers_dict.items()
@@ -336,7 +351,7 @@ def search_for_gtin_within_offers(
 
 
 def search_for_gtin(
-    product_id: str, search_gtin: str, country: str
+    product_id: str, search_gtin: str, search_sku, country: str
 ) -> Tuple[str, Optional[str]]:
     if product_id in id_to_gtin_cache:
         gtin_for_product = id_to_gtin_cache[product_id]
@@ -349,7 +364,7 @@ def search_for_gtin(
         return product_id, None
 
     variant_id, gtin_from_offer = search_for_gtin_within_variants(
-        product_id, country, expected_gtin=search_gtin
+        product_id, country, expected_gtin=search_gtin, expected_sku=search_sku
     )
 
     if gtin_from_offer == search_gtin:
@@ -362,6 +377,7 @@ def search_for_gtin_within_variants(
     product_id: str,
     country: str,
     expected_gtin: Optional[str] = None,
+    expected_sku: Optional[str] = None,
     known_variant_products=None,
     retry_ttl=3,
 ) -> Tuple[str, Optional[str]]:
@@ -398,7 +414,9 @@ def search_for_gtin_within_variants(
     html = resp.text
     soup = BeautifulSoup(html, features="html.parser")
 
-    gtin_for_id = search_for_gtin_within_offers(product_id, country, expected_gtin)
+    gtin_for_id = search_for_gtin_within_offers(
+        product_id, country, expected_gtin, expected_sku
+    )
     if gtin_for_id == expected_gtin or expected_gtin is None:
         return product_id, gtin_for_id
 
@@ -426,13 +444,17 @@ def search_for_gtin_within_variants(
 
 
 def find_product_id_multiple_markets(
-    name: str, gtin: str, countries=None, brand: str = "GUBI"
+    name: str,
+    gtin: Optional[str],
+    sku: Optional[str],
+    countries=None,
+    brand: str = "GUBI",
 ) -> Optional[str]:
     if countries is None:
         countries = ["dk", "se", "de"]
 
     for country in tqdm(countries, desc="Markets"):
-        id_in_country = find_product_id(name, gtin, country, brand)
+        id_in_country = find_product_id(name, gtin, sku, country, brand)
 
         if id_in_country is not None:
             return id_in_country
@@ -441,7 +463,11 @@ def find_product_id_multiple_markets(
 
 
 def find_product_id(
-    name: str, gtin: str, country: str = "se", brand: str = "GUBI"
+    name: str,
+    gtin: Optional[str],
+    sku: Optional[str],
+    country: str = "se",
+    brand: str = "GUBI",
 ) -> Optional[str]:
     """
     Find product_id of a google shopping product based on name and GTIN.
@@ -489,7 +515,9 @@ def find_product_id(
 
     visited_product_pages_count = 0
     for possible_product_id in tqdm(possible_product_ids, "Google Shopping products"):
-        variant_id, found_gtin = search_for_gtin(possible_product_id, gtin, country)
+        variant_id, found_gtin = search_for_gtin(
+            possible_product_id, gtin, sku, country
+        )
         visited_product_pages_count += 1
 
         if found_gtin:
@@ -507,7 +535,10 @@ def find_product_id(
 
 
 @app.command()
-def run(products_file: str, default_brand: Annotated[str, typer.Argument()] = "Muuto"):
+def run(
+    products_file: str,
+    default_brand: Annotated[str, typer.Argument()] = "Muuto",
+):
     logging.basicConfig(filename="output/logs", encoding="utf-8", level=logging.DEBUG)
     products = []
 
@@ -515,10 +546,10 @@ def run(products_file: str, default_brand: Annotated[str, typer.Argument()] = "M
     with open(products_file, "r") as f:
         csv_reader = csv.reader(f)
         for row in csv_reader:
-            if len(row) == 3:
-                products.append((row[0], row[1], row[2]))
+            if len(row) == 4:
+                products.append((row[0], row[1], row[2], row[3]))
             else:
-                products.append((row[0], row[1], default_brand))
+                products.append((row[0], row[1], row[2], default_brand))
 
     read_id_to_gtin_cache()
 
@@ -527,28 +558,30 @@ def run(products_file: str, default_brand: Annotated[str, typer.Argument()] = "M
             csv_reader = csv.reader(f)
             next(csv_reader)
             for row in csv_reader:
-                products_without_gtin.add((row[0], row[1]))
+                products_without_gtin.add((row[0], row[1], row[2]))
+
     countries = ["dk", "se", "de"]
 
     for product in tqdm(products, desc="Input products"):
         logger.info(
             "Starting with parameters",
-            product_name=product[1],
-            gtin=product[0],
-            brand=product[2],
+            product_name=product[2],
+            gtin=product[1],
+            sku=product[0],
+            brand=product[3],
         )
-        gtin, name, brand = product
+        sku, gtin, name, brand = product
         gtin = _normalise_gtin14(gtin)
 
         product_id = find_product_id_multiple_markets(
-            name=name, gtin=gtin, countries=countries, brand=brand
+            name=name, gtin=gtin, sku=sku, countries=countries, brand=brand
         )
 
         logger.info("Found product id", id=product_id)
         write_output()
 
         with open("output/products_results.csv", "a") as f:
-            f.write(f"{gtin},{product_id if product_id else ''}\n")
+            f.write(f"{sku},{gtin},{product_id if product_id else ''}\n")
 
 
 @app.command()
