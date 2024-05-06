@@ -37,7 +37,7 @@ def gtin_to_product_url(gtin: str, country: str) -> Optional[str]:
 
 def _get_query_url(gtin: str, country: str):
     common.BASE_URL[country]
-    return f"{common.BASE_URL[country]}/public/search/v3/{country.lower()}?q={gtin}"
+    return f"{common.BASE_URL[country]}/public/search/v4/{country.lower()}?q={gtin}"
 
 
 def _parse_query_results(result) -> Optional[str]:
