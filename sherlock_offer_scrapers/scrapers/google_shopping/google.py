@@ -12,16 +12,22 @@ from . import user_agents, parser
 logger = structlog.get_logger()
 
 
-# !DEPRECATED: We don't need to use UULE anymore for google shopping,
-# only need to use gl={country} now.
-# Keeping it commented here so that we remember this trick exists
-# in case we need it in the future.
-
 # Using UULE parameter to access the offer page in different countries.
 # Read about UULE here: https://valentin.app/uule.html
+# You can create new UULE using that website as well.
 
-# https://www.google.ch/search?q=restaurant&hl=en&gl=SE&ie=utf-8&oe=utf-8&pws=0&uule=a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTY0MjUwMDE3MjQ0OTAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjQ2OTQ3OTczOQpsb25naXR1ZGVfZTc6NzQ0NzQ0NjgKfQpyYWRpdXM6OTMwMDA%3D
-#
+# Example: https://www.google.com/search?q=restaurant&hl=en&gl=SE&ie=utf-8&oe=utf-8&pws=0&uule=w+CAIQICIYRnJpZWRyaWNoc3dlcmRlciwgQmVybGlu
+uule_of_country = {
+    "DE": "w+CAIQICIYRnJpZWRyaWNoc3dlcmRlciwgQmVybGlu",
+    "NL": "w+CAIQICIYQm9zIGVuIExvbW1lciwgQW1zdGVyZGFt",
+    "DK": "w+CAIQICIaVmVzdGVyYnJvIMO4c3QsIENvcGVuaGFnZW4%3D",
+}
+
+
+# DEPRECATED: This is UULE version 2 accordding to https://valentin.app/uule.html,
+# and it used to work but not anymore. Now only the version 1 above works.
+# Keeping it commented here so that we remember this exists and in case it works again
+# in the future.
 # uule_of_country = {
 #     "SE": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTU5MTUyMTI0OTAzNDAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjU5MzI0ODk0NSwKbG9uZ2l0dWRlX2U3OjE4MDcwNjQ0MAp9CnJhZGl1czo5MzAwMAogICAgICAgICAg",  # Sweden
 #     "NO": "a+cm9sZToxCnByb2R1Y2VyOjEyCnByb3ZlbmFuY2U6Ngp0aW1lc3RhbXA6MTU5MTUyMTI0OTAzNDAwMApsYXRsbmd7CmxhdGl0dWRlX2U3OjU5OTEwMDY4NiwKbG9uZ2l0dWRlX2U3OjEwNzQyMDk2Mgp9CnJhZGl1czo5MzAwMAo%3D",  # Norway

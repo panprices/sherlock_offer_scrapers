@@ -24,6 +24,7 @@ from tqdm import tqdm
 
 from sherlock_offer_scrapers import helpers
 from sherlock_offer_scrapers.scrapers.google_shopping import user_agents
+from sherlock_offer_scrapers.scrapers.google_shopping.google import uule_of_country
 
 app = typer.Typer()
 
@@ -454,7 +455,7 @@ def find_product_id_multiple_markets(
     brand: str = "GUBI",
 ) -> Optional[str]:
     if countries is None:
-        countries = ["dk", "se", "de"]
+        countries = ["DK", "SE", "DE"]
 
     for country in tqdm(countries, desc="Markets"):
         id_in_country = find_product_id(name, gtin, sku, country, brand)
@@ -488,7 +489,7 @@ def find_product_id(
 
     time.sleep(INTER_SEARCH_DELAY)
 
-    url = f"https://www.google.com/search?q={search_term}&gl={country}&hl=en&tbm=shop"
+    url = f"https://www.google.com/search?q={search_term}&gl={country}&hl=en&tbm=shop&uule={uule_of_country[country]}"
     resp = helpers.requests.get(
         url,
         headers={"User-Agent": user_agents.choose_random()},
@@ -503,9 +504,9 @@ def find_product_id(
 
     all_a_tags = soup.select("a.Lq5OHe")
     # Only consider links to google shopping products. Ignore links directly to seller websites.
-    product_a_tags = [a for a in all_a_tags if "/shopping/product" in a["href"]]
+    product_a_tags = [a for a in all_a_tags if "/shopping/product/" in a["href"]]
     possible_product_ids = [
-        a["href"].split("?")[0].split("/")[3]
+        a["href"].split("/shopping/product/")[1].split("?")[0]
         for a in product_a_tags
         # /shopping/product/2336121681419728525?q=05400653007411&hl=en&... -> 2336121681419728525
     ][:12]
@@ -520,6 +521,9 @@ def find_product_id(
         for a in ad_tags
     ]
     ad_links.update(current_ad_links)
+
+    # DEV: temporarily only get ADs links to speed up process
+    return None
 
     visited_product_pages_count = 0
     for possible_product_id in tqdm(possible_product_ids, "Google Shopping products"):
@@ -569,7 +573,8 @@ def run(
                 products_without_gtin.add((row[0], row[1], row[2]))
 
     # IT, FR, DE, NL, SE, DK, US, UK
-    countries = ["it", "fr", "de", "nl", "se", "dk", "us", "uk"]
+    # countries = ['IT', 'FR', 'DE', 'NL', 'SE', 'DK', 'US', 'UK']
+    countries = ["DE", "DK", "NL"]
 
     for c in tqdm(countries, desc="Countries"):
         for product in tqdm(products, desc="Input products"):
