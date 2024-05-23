@@ -13,17 +13,17 @@ import structlog
 import typer
 from bs4 import BeautifulSoup
 from requests.exceptions import ProxyError
-from tqdm import tqdm
-
-from sherlock_offer_scrapers import helpers
-from sherlock_offer_scrapers.scrapers.google_shopping import user_agents
-from structlog.dev import set_exc_info, ConsoleRenderer
+from structlog.dev import set_exc_info
 from structlog.processors import (
     StackInfoRenderer,
     TimeStamper,
     add_log_level,
     LogfmtRenderer,
 )
+from tqdm import tqdm
+
+from sherlock_offer_scrapers import helpers
+from sherlock_offer_scrapers.scrapers.google_shopping import user_agents
 
 app = typer.Typer()
 
@@ -44,9 +44,9 @@ structlog.configure_once(
 logger = structlog.get_logger()
 
 id_to_gtin_cache = {}
-gtin_to_id_cache = {}
 searches_cache = set()
 products_without_gtin = set()
+ad_links = set()
 
 
 INTER_SEARCH_DELAY = 0
@@ -69,7 +69,6 @@ def read_id_to_gtin_cache():
             next(csv_reader)
             for row in csv_reader:
                 id_to_gtin_cache[row[0]] = row[1]
-                gtin_to_id_cache[row[1]] = row[0]
 
 
 def write_output():
@@ -84,6 +83,11 @@ def write_output():
         f.write("product_id\n")
         for product_id, country in products_without_gtin:
             f.write(f"{product_id},{country}\n")
+
+    with open("output/ad_links.csv", "w") as f:
+        f.write("ad_link\n")
+        for ad_link in ad_links:
+            f.write(f'{ad_link[0]},{ad_link[1]},"{ad_link[2]}"\n')
 
 
 def find_gtin_from_retailer_url(
@@ -345,13 +349,12 @@ def search_for_gtin_within_offers(
     gtin_from_offer = max(aggregated_gtins.keys(), key=aggregated_gtins.get)
 
     id_to_gtin_cache[product_id] = gtin_from_offer
-    gtin_to_id_cache[gtin_from_offer] = product_id
 
     return gtin_from_offer
 
 
 def search_for_gtin(
-    product_id: str, search_gtin: str, search_sku, country: str
+    product_id: str, search_gtin: str, search_sku: str, country: str
 ) -> Tuple[str, Optional[str]]:
     if product_id in id_to_gtin_cache:
         gtin_for_product = id_to_gtin_cache[product_id]
@@ -476,18 +479,12 @@ def find_product_id(
     them based on the GTIN we extract from one of the offers
     """
 
-    if not gtin:
+    if not gtin and not sku:
         return None
-
-    if gtin in gtin_to_id_cache:
-        return gtin_to_id_cache[gtin]
 
     main_name = name.split("(")[0].strip()
     full_name = f"{brand} {main_name}" if brand not in main_name else main_name
     search_term = urllib.parse.quote(full_name)
-
-    if search_term in searches_cache:
-        return None
 
     time.sleep(INTER_SEARCH_DELAY)
 
@@ -512,6 +509,17 @@ def find_product_id(
         for a in product_a_tags
         # /shopping/product/2336121681419728525?q=05400653007411&hl=en&... -> 2336121681419728525
     ][:12]
+
+    ad_tags = soup.find_all("a", attrs={"data-offer-id": True})
+    current_ad_links = [
+        (
+            f"www.google.com{a['href']}" if a["href"].startswith("/") else a["href"],
+            gtin,
+            sku,
+        )
+        for a in ad_tags
+    ]
+    ad_links.update(current_ad_links)
 
     visited_product_pages_count = 0
     for possible_product_id in tqdm(possible_product_ids, "Google Shopping products"):
@@ -560,28 +568,30 @@ def run(
             for row in csv_reader:
                 products_without_gtin.add((row[0], row[1], row[2]))
 
-    countries = ["dk", "se", "de"]
+    # IT, FR, DE, NL, SE, DK, US, UK
+    countries = ["it", "fr", "de", "nl", "se", "dk", "us", "uk"]
 
-    for product in tqdm(products, desc="Input products"):
-        logger.info(
-            "Starting with parameters",
-            product_name=product[2],
-            gtin=product[1],
-            sku=product[0],
-            brand=product[3],
-        )
-        sku, gtin, name, brand = product
-        gtin = _normalise_gtin14(gtin)
+    for c in tqdm(countries, desc="Countries"):
+        for product in tqdm(products, desc="Input products"):
+            logger.info(
+                "Starting with parameters",
+                product_name=product[2],
+                gtin=product[1],
+                sku=product[0],
+                brand=product[3],
+            )
+            sku, gtin, name, brand = product
+            gtin = _normalise_gtin14(gtin)
 
-        product_id = find_product_id_multiple_markets(
-            name=name, gtin=gtin, sku=sku, countries=countries, brand=brand
-        )
+            product_id = find_product_id_multiple_markets(
+                name=name, gtin=gtin, sku=sku, countries=[c], brand=brand
+            )
 
-        logger.info("Found product id", id=product_id)
-        write_output()
+            logger.info("Found product id", id=product_id)
+            write_output()
 
-        with open("output/products_results.csv", "a") as f:
-            f.write(f"{sku},{gtin},{product_id if product_id else ''}\n")
+            with open("output/products_results.csv", "a") as f:
+                f.write(f"{sku},{gtin},{product_id if product_id else ''}\n")
 
 
 @app.command()
@@ -691,7 +701,7 @@ def fetch_images_for_result(
         if not r[1]:
             continue  # skip products we haven't found
 
-        for c in ["DE", "NL", "FR", "DK"]:
+        for c in ["DK", "NL"]:
             image_url = extract_product_image(r[1], c)
             if image_url is not None:
                 break
