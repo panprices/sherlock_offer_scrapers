@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, Optional
 import os
 import base64
 import random
@@ -68,6 +68,7 @@ def get(
     cookies: dict = None,
     proxy_country: str = None,
     offer_source_country: str = None,
+    timeout: Optional[int] = 600,
 ) -> requests.Response:
     """Make a GET request with some default headers and optional proxy.
 
@@ -82,7 +83,9 @@ def get(
         proxy_config = _proxy_config[proxy_country]
         headers.update(_proxy_header)
 
-    response = requests.get(url, headers=headers, proxies=proxy_config, cookies=cookies)
+    response = requests.get(
+        url, headers=headers, proxies=proxy_config, cookies=cookies, timeout=timeout
+    )
 
     # TODO: Try to use the _log_request() function
     logger.info(

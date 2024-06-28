@@ -25,6 +25,8 @@ google-cloud-storage = "*"
 brotli = "~=1.1.0"
 http3 = "*"
 tqdm = "*"
+pydantic-settings = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
 mypy = {extras = [ "cli",], version = "0.910"}

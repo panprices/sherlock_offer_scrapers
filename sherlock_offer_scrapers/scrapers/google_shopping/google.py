@@ -21,6 +21,13 @@ uule_of_country = {
     "DE": "w+CAIQICIYRnJpZWRyaWNoc3dlcmRlciwgQmVybGlu",
     "NL": "w+CAIQICIYQm9zIGVuIExvbW1lciwgQW1zdGVyZGFt",
     "DK": "w+CAIQICIaVmVzdGVyYnJvIMO4c3QsIENvcGVuaGFnZW4%3D",
+    "IT": "w+CAIQICIQUm9tZSxMYXppbyxJdGFseQ%3D%3D",
+    "US": "w+CAIQICImV2VzdCBOZXcgWW9yayxOZXcgSmVyc2V5LFVuaXRlZCBTdGF0ZXM%3D",
+    "CH": "w+CAIQICIcRGlldGxpa29uLFp1cmljaCxTd2l0emVybGFuZA%3D%3D",
+    "SE": "w+CAIQICIXU3RvY2tob2xtIENvdW50eSxTd2VkZW4%3D",
+    "NO": "w+CAIQICIdT3NsbyBNdW5pY2lwYWxpdHksT3NsbyxOb3J3YXk%3D",
+    "FR": "w+CAIQICIgTHlvbixBdXZlcmduZS1SaG9uZS1BbHBlcyxGcmFuY2U%3D",
+    "ES": "w+CAIQICIWUmVnaW9uIG9mIE11cmNpYSxTcGFpbg%3D%3D",
 }
 
 
@@ -57,35 +64,39 @@ async def scrape_one_country(
     cached_offers_urls: Optional[dict],
     country: str,
 ) -> Tuple[List[helpers.offers.Offer], List[Tuple[Exception, str]]]:
-    offer_source = "google_shopping"
+    offer_sources = ["google_shopping"]
     if country.upper() != "SE":
         """
         Sweden is a special case because this code used to search only in Sweden and we already have entries in the
         database with "google_shopping" as `offer_source`.
 
         That's why you will find "google_shopping_DK", but not "google_shopping_SE" in the database.
-        """
-        offer_source += f"_{country.upper()}"
 
-    if not cached_offers_urls or offer_source not in cached_offers_urls:
+        June 2024 update: Now we use "google_shopping" as the default source, so an URL can be assigned to a country
+        with the "google_shopping_DE" source, or it can be used in all the countries by using "google_shopping"
+        """
+        offer_sources += [f"google_shopping_{country.upper()}"]
+
+    if not cached_offers_urls:
         logger.warning(
             "Search by GTIN has been disabled for google_shopping. "
             + "No cached url provided, cannot fetch offers.",
-            offer_source=offer_source,
+            offer_source=offer_sources,
             gtin=gtin,
         )
         return [], []
 
-        # logger.info("No cached url provided - searching by gtin")
-        # google_product_id = find_product_id(gtin, country)
-        # helpers.offers.publish_new_offer_urls(gtin, {offer_source: google_product_id})
-
-        # if google_product_id is None:
-        #     logger.warning(f"No product found for gtin {gtin}")
-        #     return [], []
+    product_urls = [u for s in offer_sources for u in cached_offers_urls.get(s, [])]
+    if not product_urls:
+        logger.warning(
+            "Missing URLs for given sources, skip...",
+            offer_source=offer_sources,
+            gtin=gtin,
+        )
+        return [], []
 
     all_searches = []
-    for product_url in cached_offers_urls[offer_source]:
+    for product_url in product_urls:
         coro = fetch_offers_from_google_product_id(product_url, gtin, sku, country)  # type: ignore
         all_searches.append(coro)
 

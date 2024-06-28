@@ -1,0 +1,10 @@
+input/
+output/
+runs_cache/
+.github/
+tests/
+docs/
+
+logs
+logs.txt
+requirements.txt
