@@ -27,6 +27,8 @@ class GoogleShoppingSearcher:
     products_without_gtin = set()
     ad_links = set()
 
+    domain_blacklist = set()
+
     INTER_SEARCH_DELAY = 0
     INTER_NAVIGATION_DELAY = 0
 
@@ -44,6 +46,9 @@ class GoogleShoppingSearcher:
         offer_url_after_redirect = urllib.parse.parse_qs(
             urllib.parse.urlparse(offer_url).query
         )["q"][0]
+        domain = urllib.parse.urlparse(offer_url_after_redirect).netloc
+        if domain in self.domain_blacklist:
+            return None
 
         try:
             gtin_from_offer = find_gtin_from_retailer_url(
@@ -51,6 +56,9 @@ class GoogleShoppingSearcher:
             )
         except Exception as e:
             logger.warning(e)
+            # keep a list of domains that timeout to improve speed
+            if domain not in self.domain_blacklist:
+                self.domain_blacklist.add(domain)
             gtin_from_offer = None
 
         return gtin_from_offer
@@ -127,9 +135,13 @@ class GoogleShoppingSearcher:
             )
             for offer_retailer, offer_url in offers_dict.items()
         ]
-        gtins_from_offers = asyncio.get_event_loop().run_until_complete(
-            asyncio.gather(*futures)
-        )
+        try:
+            gtins_from_offers = asyncio.get_event_loop().run_until_complete(
+                asyncio.wait_for(asyncio.gather(*futures), timeout=300)
+            )
+        except asyncio.exceptions.TimeoutError as ex:
+            logger.warning("Offers did not respond in time", exception=str(ex))
+            gtins_from_offers = []
 
         aggregated_gtins = {}
         # count the number of times a gtin appears
@@ -228,13 +240,16 @@ class GoogleShoppingSearcher:
             if variant_id not in known_variant_products:
                 sub_variant_products.add(variant_id)
 
-        for variant_id in sub_variant_products:
+        sub_variant_product_list = list(sub_variant_products)
+        for variant_id in sub_variant_product_list[
+            : min(len(sub_variant_products), 10)
+        ]:  # limit to 10 variants to avoid rabbit holes
             sub_variant_id, gtin = self.search_for_gtin_within_variants(
                 variant_id,
                 country,
                 expected_gtin,
                 known_variant_products=known_variant_products
-                + list(sub_variant_products),
+                + sub_variant_product_list,
             )
 
             if gtin == expected_gtin:

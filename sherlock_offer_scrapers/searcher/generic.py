@@ -13,7 +13,7 @@ logger = get_logger()
 def find_gtin_from_retailer_url(
     url: str, expected_gtin: Optional[str] = None, expected_sku: Optional[str] = None
 ) -> Optional[str]:
-    html = helpers.requests.get(url, timeout=300).text
+    html = helpers.requests.get(url, timeout=120).text
 
     gtin = extract_gtin_from_html_schemaorg(html)
     if gtin is not None:
