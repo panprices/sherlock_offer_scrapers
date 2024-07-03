@@ -6,7 +6,10 @@ import time
 import urllib.parse
 from typing import Optional, Tuple
 
+import requests.exceptions
 from bs4 import BeautifulSoup
+from requests.exceptions import ProxyError
+from structlog import get_logger
 from tqdm import tqdm
 
 from sherlock_offer_scrapers import helpers
@@ -15,10 +18,12 @@ from sherlock_offer_scrapers.scrapers.google_shopping import (
     uule_of_country,
 )
 from sherlock_offer_scrapers.searcher.generic import find_gtin_from_retailer_url
-from structlog import get_logger
-from requests.exceptions import ProxyError
 
 logger = get_logger()
+
+
+class ScrapingSpeedException(Exception):
+    pass
 
 
 class GoogleShoppingSearcher:
@@ -63,9 +68,12 @@ class GoogleShoppingSearcher:
 
         return gtin_from_offer
 
-    def __navigate_to_product_page_base(self, url: str):
+    def __navigate_to_google_page_base(self, url: str, delay: Optional[int] = None):
         # insert some delay betwwen requests to google shopping
-        time.sleep(self.INTER_NAVIGATION_DELAY)
+        if delay is None:
+            delay = self.INTER_NAVIGATION_DELAY
+
+        time.sleep(delay)
 
         resp = helpers.requests.get(
             url,
@@ -74,7 +82,7 @@ class GoogleShoppingSearcher:
             proxy_country=self.product_proxy_country,
         )
         if resp.status_code == 429:
-            raise Exception("Too many requests")
+            raise ScrapingSpeedException("Too many requests")
         html = resp.text
         soup = BeautifulSoup(html, features="html.parser")
 
@@ -82,21 +90,27 @@ class GoogleShoppingSearcher:
 
     def __navigate_to_product_page(self, product_id: str, country: str):
         url = f"https://www.google.com/shopping/product/{product_id}/offers?hl=en&gl={country}"
-        return self.__navigate_to_product_page_base(url)
+        return self.__navigate_to_google_page_base(url)
 
     def __navigate_to_single_offer_product_page(self, product_id: str, country: str):
         """Example product_id: epd:8370985928704265029,eto:8370985928704265029_0,pid:8370985928704265029"""
 
         url = f"https://www.google.com/shopping/product/1?prds={product_id}&hl=en&gl={country}"
-        return self.__navigate_to_product_page_base(url)
+        return self.__navigate_to_google_page_base(url)
 
     def extract_product_image(self, product_id: str, country: str):
-        if product_id.isnumeric():
-            soup = self.__navigate_to_product_page(product_id, country)
-            image = soup.select_one("img.r4m4nf")
-        else:  # product_id is like epd:8370985928704265029,eto:8370985928704265029_0,pid:8370985928704265029
-            soup = self.__navigate_to_single_offer_product_page(product_id, country)
-            image = soup.select_one("img.sh-div__image.sh-div__current")
+        try:
+            if product_id.isnumeric():
+                soup = self.__navigate_to_product_page(product_id, country)
+                image = soup.select_one("img.r4m4nf")
+            else:  # product_id is like epd:8370985928704265029,eto:8370985928704265029_0,pid:8370985928704265029
+                soup = self.__navigate_to_single_offer_product_page(product_id, country)
+                image = soup.select_one("img.sh-div__image.sh-div__current")
+        except ScrapingSpeedException as ex:
+            raise ex
+        except requests.exceptions.RequestException as ex:
+            logger.warning("Requests error encountered", exception=str(ex))
+            return None
 
         if not image:
             return None
@@ -110,7 +124,13 @@ class GoogleShoppingSearcher:
         expected_gtin: Optional[str] = None,
         expected_sku: Optional[str] = None,
     ) -> Optional[str]:
-        soup = self.__navigate_to_product_page(product_id, country)
+        try:
+            soup = self.__navigate_to_product_page(product_id, country)
+        except ScrapingSpeedException as ex:
+            raise ex
+        except requests.exceptions.RequestException as ex:
+            logger.warning("Requests error encountered", exception=str(ex))
+            return None
 
         all_offers = soup.select("tr.sh-osd__offer-row")
         offers_dict = {}
@@ -298,20 +318,16 @@ class GoogleShoppingSearcher:
         full_name = f"{brand} {main_name}" if brand not in main_name else main_name
         search_term = urllib.parse.quote(full_name)
 
-        time.sleep(self.INTER_SEARCH_DELAY)
-
         url = f"https://www.google.com/search?q={search_term}&gl={country}&hl=en&tbm=shop&uule={uule_of_country[country]}"
-        resp = helpers.requests.get(
-            url,
-            headers={"User-Agent": user_agents.choose_random()},
-            cookies=self.GOOGLE_SHOPPING_COOKIES,
-            proxy_country=self.search_proxy_country,
-        )
-        if resp.status_code == 429:
-            raise Exception("Too many requests")
-
-        html = resp.text
-        soup = BeautifulSoup(html, features="html.parser")
+        try:
+            soup = self.__navigate_to_google_page_base(
+                url, delay=self.INTER_SEARCH_DELAY
+            )
+        except ScrapingSpeedException as ex:
+            raise ex
+        except requests.exceptions.RequestException as ex:
+            logger.warning("Requests error encountered", exception=str(ex))
+            return None
 
         all_a_tags = soup.select("a.Lq5OHe")
         # Only consider links to google shopping products. Ignore links directly to seller websites.

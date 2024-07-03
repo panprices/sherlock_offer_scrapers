@@ -28,7 +28,7 @@ from sherlock_offer_scrapers.searcher.generic import (
 )
 from sherlock_offer_scrapers.searcher.google_shopping import GoogleShoppingSearcher
 
-app = typer.Typer()
+app = typer.Typer(pretty_exceptions_show_locals=False)
 
 structlog.configure_once(
     processors=[
