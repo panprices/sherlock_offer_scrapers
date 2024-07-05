@@ -85,15 +85,18 @@ def run(
             sku, gtin, name, brand = product
             gtin = normalise_gtin14(gtin)
 
-            product_id = google_shopping_searcher.find_product_id(
-                name=name, gtin=gtin, sku=sku, country=c, brand=brand
-            )
+            try:
+                product_id = google_shopping_searcher.find_product_id(
+                    name=name, gtin=gtin, sku=sku, country=c, brand=brand
+                )
 
-            logger.info("Found product id", id=product_id)
-            google_shopping_searcher.save_to_disk()
+                logger.info("Found product id", id=product_id)
+                google_shopping_searcher.save_to_disk()
 
-            with open("output/products_results.csv", "a") as f:
-                f.write(f"{sku},{gtin},{product_id if product_id else ''}\n")
+                with open("output/products_results.csv", "a") as f:
+                    f.write(f"{sku},{gtin},{product_id if product_id else ''}\n")
+            except Exception as e:
+                logger.warn("Exception encountered", exception=str(e))
 
 
 @app.command()

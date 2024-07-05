@@ -241,6 +241,8 @@ class GoogleShoppingSearcher:
                 known_variant_products,
                 retry_ttl=retry_ttl - 1,
             )
+        except requests.RequestException as e:
+            return product_id, None
 
         html = resp.text
         soup = BeautifulSoup(html, features="html.parser")
