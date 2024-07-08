@@ -72,7 +72,6 @@ def run(
     # Select 4 countries at random. This ensures over time we cover all countries while making the script
     # take less time each week
     countries = random.sample(countries, 4)
-    products = random.sample(products, 100)  # smaller run
 
     for c in tqdm(countries, desc="Countries"):
         for product in tqdm(products, desc="Input products"):
