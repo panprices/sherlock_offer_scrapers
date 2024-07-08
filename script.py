@@ -72,6 +72,7 @@ def run(
     # Select 4 countries at random. This ensures over time we cover all countries while making the script
     # take less time each week
     countries = random.sample(countries, 4)
+    products = random.sample(products, 100)  # smaller run
 
     for c in tqdm(countries, desc="Countries"):
         for product in tqdm(products, desc="Input products"):
@@ -134,7 +135,8 @@ def run_auto():
     storage_client = storage.Client("panprices")
     bucket = storage_client.get_bucket("panprices_logs")
     run_id = uuid.uuid4().hex
-    logger.info("Logging run_id", run_id=run_id)
+    # Print not log, the logs go to the file on disk, we want to show this in console
+    print(f"Logging run_id {run_id}")
 
     blob = bucket.blob(f"google_searches_cache/{run_id}/input.csv")
     blob.upload_from_filename("input/auto_input.csv")
@@ -148,7 +150,7 @@ def run_auto():
     with open("output/products_results.csv") as results_file:
         csv_reader = csv.reader(results_file)
         for row in csv_reader:
-            if not row[2]:
+            if len(row) < 3 or not row[2]:
                 continue  # if we don't have an id now, we don't save it to the db
 
             product_results.append(
