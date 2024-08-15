@@ -56,7 +56,7 @@ def parser_offer_page(soup, country) -> list[Offer]:
         image = image_element.get("src")
 
     if page_variant == 0:
-        rows = soup.select("table.dOwBOc tr.sh-osd__offer-row")
+        rows = soup.select("table.dOwBOc > tbody > tr.sh-osd__offer-row")
     elif page_variant == 1:
         rows = soup.select("div.Nq7DI div.MVQv4e")
     elif page_variant == 2:
