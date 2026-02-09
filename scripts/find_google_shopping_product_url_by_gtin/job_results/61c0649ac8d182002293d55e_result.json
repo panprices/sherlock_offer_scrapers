@@ -1,0 +1,3374 @@
+{
+  "job_id": "61c0649ac8d182002293d55e",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 20,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252212189",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 2,
+        "updated_at": "2021-12-20T11:10:21Z"
+      },
+      "content": {
+        "id": "1546004976044760847",
+        "name": "iPad Pro 12.9\" 2021 256 GB WiFi + Cellular (rymdgr\u00e5)",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRfJomPSpz8uG1vxPnyj8-MqCYGQKjvdmfnjmvHMFriKx3ZPVdUQEdTSpBVdw2-KakKdXE7EuCX&usqp=CAY",
+        "description": "Superladdad med Apple M1-chippet. iPad Pro har ett kraftfullt Apple M1-chip som ger prestanda p\u00e5 en helt ny niv\u00e5 och ett batteri som r\u00e4cker hela dagen. Den f\u00f6rtrollande Liquid Retina XDR-sk\u00e4rmen p\u00e5 12,9 tum \u00e4r som gjord f\u00f6r att visa och redigera bilder och videor i HDR.",
+        "properties": [
+          "Apple",
+          "iPad",
+          "iPad Pro",
+          "12,9 tum",
+          "684 g",
+          "Lagring: 256 GB",
+          "4G",
+          "Rymdgr\u00e5"
+        ],
+        "url": "https://www.google.se/shopping/product/1546004976044760847?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 4715,
+        "review_rating": 96,
+        "price": "15990.0",
+        "gtins": [
+          "194252212189"
+        ],
+        "eans": [
+          "0194252212189"
+        ],
+        "brand_name": "Apple",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Bildsk\u00e4rmsuppl\u00f6sning",
+            "value": [
+              "2732 x 2048"
+            ]
+          },
+          {
+            "label": "Paneltyp",
+            "value": [
+              "Mini LED",
+              "(HDR10",
+              "Dolby Vision)"
+            ]
+          },
+          {
+            "label": "Pixelt\u00e4thet (PPI)",
+            "value": [
+              "265 ppi"
+            ]
+          },
+          {
+            "label": "Processortillverkare",
+            "value": [
+              "Apple"
+            ]
+          },
+          {
+            "label": "Processortyp",
+            "value": [
+              "M1"
+            ]
+          },
+          {
+            "label": "Antal k\u00e4rnor",
+            "value": [
+              "8 st"
+            ]
+          },
+          {
+            "label": "Minne",
+            "value": [
+              "8 GB"
+            ]
+          },
+          {
+            "label": "Modem",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6st n\u00e4tverk",
+            "value": [
+              "Ja",
+              "(802.11 a/b/g/n/ac/ax)"
+            ]
+          },
+          {
+            "label": "Bluetooth",
+            "value": [
+              "Ja",
+              "(5.0",
+              "A2DP",
+              "LE",
+              "EDR)"
+            ]
+          },
+          {
+            "label": "GPS",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Selfiekamera",
+            "value": [
+              "Ja",
+              "(12 MP",
+              "f/2.4",
+              "122\u00b0 (ultrawide))"
+            ]
+          },
+          {
+            "label": "Anslutning",
+            "value": [
+              "USB-C"
+            ]
+          },
+          {
+            "label": "Stereoh\u00f6gtalare",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Ljudutg\u00e5ng",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "6.4 mm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "685 g"
+            ]
+          },
+          {
+            "label": "Operativsystem",
+            "value": [
+              "iPadOS 14.5"
+            ]
+          },
+          {
+            "label": "Medf\u00f6ljande tillbeh\u00f6r",
+            "value": [
+              "Laddare",
+              "kabel"
+            ]
+          },
+          {
+            "label": "Garanti",
+            "value": [
+              "1 \u00e5r"
+            ]
+          },
+          {
+            "label": "Paketbredd",
+            "value": [
+              "5.1 cm"
+            ]
+          },
+          {
+            "label": "Paketh\u00f6jd",
+            "value": [
+              "29.2 cm"
+            ]
+          },
+          {
+            "label": "Paketl\u00e4ngd",
+            "value": [
+              "18.9 cm"
+            ]
+          },
+          {
+            "label": "Paketvikt",
+            "value": [
+              "1.49 kg"
+            ]
+          },
+          {
+            "label": "Tillverkarens ArtNr",
+            "value": [
+              "MHR63KN/A"
+            ]
+          },
+          {
+            "label": "Upplagd",
+            "value": [
+              "2021-04-21 11:35"
+            ]
+          },
+          {
+            "label": "Releasedatum",
+            "value": [
+              "2021\u201005\u201021"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Apple"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "240608",
+              "MHR63KN/A",
+              "PRO MHR63KN/A SPACE GREY"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00194252212189"
+            ]
+          }
+        ],
+        "offer_count": 11,
+        "offers_url": "https://www.google.se/shopping/product/1546004976044760847/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "1546004976044760847",
+            "price": "15990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "15990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/datorer-tillbehor/ipad-surfplatta/313143/ipad-pro-12-9-2021-256-gb-wifi-cellular-rymdgra",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "1546004976044760847",
+            "price": "15990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "15990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/dator-surfplatta/surfplattor/apple-12-9-inch-ipad-pro-wifi-cellular-256gb-space-grey-mhr63kna/1018022.8899/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "1546004976044760847",
+            "price": "15995.0",
+            "price_additional_info": null,
+            "price_with_shipping": "15995.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mediamarkt.se/sv/product/_apple-ipad-pro-12-9-2021-wifi-cellular-256gb-surfplatta-gr%C3%A5-1334053.html?utm_source=google&utm_medium=seo-product%20feed",
+            "shop_name": "MediaMarkt.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-beb4b17be14",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-beb4b17be14",
+            "shop_url": "www.mediamarkt.se",
+            "shop_domain": "mediamarkt.se",
+            "shop_matching_id": "mediamarkt.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "1546004976044760847",
+            "price": "15990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "15990.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.kjell.com/se/produkter/mobilt/surfplattor/ipad/apple-ipad-pro-2021-12.9-5g-256-gb-space-grey-p20364",
+            "shop_name": "Kjell & Company",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4bc09bb32d0",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4bc09bb32d0",
+            "shop_url": "www.kjell.com",
+            "shop_domain": "kjell.com",
+            "shop_matching_id": "kjell.com",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "1546004976044760847",
+            "price": "15995.0",
+            "price_additional_info": null,
+            "price_with_shipping": "15995.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.apple.com/se/shop/go/product/MHR63?cid=aos-se-seo-pla",
+            "shop_name": "Apple",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-476432a3e85",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-476432a3e85",
+            "shop_url": "www.apple.com",
+            "shop_domain": "apple.com",
+            "shop_matching_id": "apple.com",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "1546004976044760847",
+            "price": "15990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "15990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elon.se/apple-mhr63kn-a",
+            "shop_name": "Elon Ljud & Bild",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4d16ab19f9e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4d16ab19f9e",
+            "shop_url": "www.elon.se",
+            "shop_domain": "elon.se",
+            "shop_matching_id": "elon.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "1546004976044760847",
+            "price": "15490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "15490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011230411/ipad-pro-wi-fi-cellular-2021?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "1546004976044760847",
+            "price": "15990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "15990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inet.se/produkt/1966502/apple-ipad-pro-12-9-2021-5g-256gb-rymdgra",
+            "shop_name": "Inet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fad01df70fc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fad01df70fc",
+            "shop_url": "www.inet.se",
+            "shop_domain": "inet.se",
+            "shop_matching_id": "inet.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "1546004976044760847",
+            "price": "15990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "15990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/apple-ipad-pro-12-9-2021-5g-256gb-rymdgra-p72856860",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "1546004976044760847",
+            "price": "15995.0",
+            "price_additional_info": null,
+            "price_with_shipping": "15995.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Tablet/Apple-iPad-Pro-129-2021-256GB-5G-Space-Grey/2943636?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "1546004976044760847",
+            "price": "20899.0",
+            "price_additional_info": null,
+            "price_with_shipping": "20899.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.leasy.se/datorer-och-spel/surfplatta/ipad-pro-wi-fi-mhr63kn-a-space-grey",
+            "shop_name": "L'EASY",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f6a688ca557",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f6a688ca557",
+            "shop_url": "www.leasy.se",
+            "shop_domain": "leasy.se",
+            "shop_matching_id": "leasy.se",
+            "page": 1,
+            "position": 11
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252244968",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:23Z"
+      },
+      "content": {
+        "id": "10246507306005017644",
+        "name": "APPLE AIRPODS MAX RYMDGR\u00c5",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSSTdo_i0Y5lvBxRvScCt7uToDLwXt7zD0ekGBLFVFsHG8BO14&usqp=CAY",
+        "description": "AirPods Max \u00e4r en helt ny typ av over-ear-h\u00f6rlurar. Hela v\u00e4gen fr\u00e5n \u00f6ronkuddarna till textiln\u00e4tet \u00e4r de utformade med en kompromissl\u00f6s passform som ger en optimal akustisk f\u00f6rsegling f\u00f6r m\u00e5nga olika huvudformer. Allt f\u00f6r att du ska kunna uppslukas helt av det otroliga ljudet. L\u00e5ter som en dr\u00f6m - AirPods Max kombinerar h\u00f6guppl\u00f6st ljud med marknadens b\u00e4sta aktiva brusreducering. Resultatet \u00e4r en upplevelse som inte liknar n\u00e5gon annan. Varje del av det specialbyggda elementet jobbar f\u00f6r att alstra ljud med minimal distorsion i hela det h\u00f6rbara omf\u00e5nget. Fr\u00e5n djup, fyllig bas och exakt definierat mellanregister till ren och klar diskant \u2013 allt ljud h\u00f6rs med en ny klarhet. AirPods Max \u00e4r lika tr\u00e5dl\u00f6sa och magiskt enkla som resten av AirPods-familjen. Du f\u00e5r en helt s\u00f6ml\u00f6s ljudupplevelse. Fr\u00e5n inst\u00e4llning till Siri-kommandon, fr\u00e5n en dag till en annan och fr\u00e5n enhet till enhet. Fodral som sparar p\u00e5 krafterna - Batteriet f\u00f6rs\u00e4tts i ett str\u00f6msparl\u00e4ge med ultral\u00e5g str\u00f6mf\u00f6rbrukning n\u00e4r du f\u00f6rvarar AirPods Max i det mjuka och slimmade fodralet Smart Case. 20 timmar av att lyssna p\u00e5 musik, kolla p\u00e5 film och prata i telefon \u2013 med aktiv brusreducering och rumsligt ljud. Laddas enkelt via Lightning-kontakten. En snabb 5\u2010minutersladdning ger 1,5 timmes lyssning.",
+        "properties": [
+          "Apple",
+          "AirPods",
+          "On-ear",
+          "DJ/studio",
+          "Tr\u00e5dl\u00f6sa",
+          "Brusreducerande",
+          "F\u00f6r barn",
+          "Surroundljud",
+          "Over-ear",
+          "Bluetooth"
+        ],
+        "url": "https://www.google.se/shopping/product/10246507306005017644?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 2176,
+        "review_rating": 90,
+        "price": "4990.0",
+        "gtins": [
+          "194252244968",
+          "00194252244944"
+        ],
+        "eans": [
+          "0194252244968",
+          "0194252244944"
+        ],
+        "brand_name": "Apple",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produktbeskrivning",
+            "value": [
+              "Apple AirPods Max - h\u00f6rlurar med mikrofon"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "H\u00f6rlurar - Bluetooth - tr\u00e5dl\u00f6s"
+            ]
+          },
+          {
+            "label": "Kompatibilitet",
+            "value": [
+              "iPhone",
+              "iPad",
+              "iPod",
+              "Mac"
+            ]
+          },
+          {
+            "label": "Rekommenderad anv\u00e4ndning",
+            "value": [
+              "B\u00e4rbar elektronik",
+              "dator"
+            ]
+          },
+          {
+            "label": "H\u00f6rlursmodell",
+            "value": [
+              "Fullstorlek"
+            ]
+          },
+          {
+            "label": "Anslutningsteknik",
+            "value": [
+              "Tr\u00e5dl\u00f6s"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s teknik",
+            "value": [
+              "Bluetooth"
+            ]
+          },
+          {
+            "label": "H\u00f6rlursteknik",
+            "value": [
+              "Dynamisk"
+            ]
+          },
+          {
+            "label": "Bluetoothversion",
+            "value": [
+              "Bluetooth 5.0"
+            ]
+          },
+          {
+            "label": "Ljudutg\u00e5ngsl\u00e4ge",
+            "value": [
+              "Stereo"
+            ]
+          },
+          {
+            "label": "Ljudeffekter",
+            "value": [
+              "Adaptive EQ"
+            ]
+          },
+          {
+            "label": "Active Noise Canceling",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Inkluderade mikrofoner",
+            "value": [
+              "9"
+            ]
+          },
+          {
+            "label": "Intelligent assistent",
+            "value": [
+              "Siri"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "8.34 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "384.8 g"
+            ]
+          },
+          {
+            "label": "Huvudbandsmaterial",
+            "value": [
+              "Stickat n\u00e4t"
+            ]
+          },
+          {
+            "label": "H\u00f6rlursmaterial",
+            "value": [
+              "Minnesskum",
+              "n\u00e4ttextil"
+            ]
+          },
+          {
+            "label": "Funktioner",
+            "value": [
+              "Detektering p\u00e5 \u00f6rat"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "Inbyggd"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Apple"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "1244~178360",
+              "238703",
+              "57915695",
+              "58500277",
+              "58973920",
+              "61264190",
+              "72845758",
+              "74034976",
+              "79839458",
+              "997966167",
+              "AIRPODS MAX SPACE GREY",
+              "Airpods Max",
+              "DSP0000003041",
+              "MGYH3RU/A",
+              "MGYH3ZM/A",
+              "MGYJ3ZM/A",
+              "S5608439",
+              "airpodsmaxs",
+              "mgyh3zma",
+              "mpn_1050348"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00194252244968",
+              "00194252244944"
+            ]
+          }
+        ],
+        "offer_count": 16,
+        "offers_url": "https://www.google.se/shopping/product/10246507306005017644/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10246507306005017644",
+            "price": "4990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/ljud-hifi/horlurar/266110/apple-airpods-max-tradlosa-around-ear-horlurar-rymdgra",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "10246507306005017644",
+            "price": "4990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mediamarkt.se/sv/product/_apple-airpods-max-tr%C3%A5dl%C3%B6sa-on-ear-h%C3%B6rlurar-gr%C3%A5-1330842.html?utm_source=google&utm_medium=seo-product%20feed",
+            "shop_name": "MediaMarkt.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-beb4b17be14",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-beb4b17be14",
+            "shop_url": "www.mediamarkt.se",
+            "shop_domain": "mediamarkt.se",
+            "shop_matching_id": "mediamarkt.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "10246507306005017644",
+            "price": "4990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4990.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.kjell.com/se/produkter/mobilt/bluetooth/bluetooth-horlurar/apple-airpods-max-rymdgra-p80040",
+            "shop_name": "Kjell & Company",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4bc09bb32d0",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4bc09bb32d0",
+            "shop_url": "www.kjell.com",
+            "shop_domain": "kjell.com",
+            "shop_matching_id": "kjell.com",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "10246507306005017644",
+            "price": "5490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011212534/airpods-max?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "10246507306005017644",
+            "price": "5393.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5442.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/apple-airpods-max-space-gray/cat-p/c92309/p1001566527/gr_0",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "10246507306005017644",
+            "price": "5047.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5047.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://panprices.com/se-sv/offers/10077725/Apple-AirPods-Max-Bluetooth-Headphones-Space-Gray?store=true&gs=true",
+            "shop_name": "Panprices",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c340cc25309",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c340cc25309",
+            "shop_url": "panprices.com",
+            "shop_domain": "panprices.com",
+            "shop_matching_id": "panprices.com",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "10246507306005017644",
+            "price": "6695.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6695.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.apple.com/se/shop/go/product/MGYH3?cid=aos-se-seo-pla",
+            "shop_name": "Apple",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-476432a3e85",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-476432a3e85",
+            "shop_url": "www.apple.com",
+            "shop_domain": "apple.com",
+            "shop_matching_id": "apple.com",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "10246507306005017644",
+            "price": "5395.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5395.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.telefonshoppen.se/tillbehor/apple-airpods-max?att=U3BhY2UgR3JheQ==",
+            "shop_name": "Telefonshoppen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-827b07b45ee",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-827b07b45ee",
+            "shop_url": "www.telefonshoppen.se",
+            "shop_domain": "telefonshoppen.se",
+            "shop_matching_id": "telefonshoppen.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "10246507306005017644",
+            "price": "5990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6069.0",
+            "shipping_costs": "79.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.cyberphoto.se/mobiltelefoni/ljud/horlurar/over-ear-horlurar/apple-airpods-max-rymdgra",
+            "shop_name": "CyberPhoto",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-809bd0cf62b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-809bd0cf62b",
+            "shop_url": "www.cyberphoto.se",
+            "shop_domain": "cyberphoto.se",
+            "shop_matching_id": "cyberphoto.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "10246507306005017644",
+            "price": "6290.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6290.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.conrad.se/p/-2345286?vat=true&utm_source=google&utm_medium=surfaces&utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_term=2345286",
+            "shop_name": "Conrad.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-243c865299c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-243c865299c",
+            "shop_url": "www.conrad.se",
+            "shop_domain": "conrad.se",
+            "shop_matching_id": "conrad.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "10246507306005017644",
+            "price": "7150.94",
+            "price_additional_info": null,
+            "price_with_shipping": "7150.94",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7433989/apple-airpods-max-h%C3%B6rlurar-med-mikrofon-fullstorlek-bluetooth-tr%C3%A5dl%C3%B6s-aktiv-brusradering-rymdgr%C3%A5-f%C3%B6r-ipad-iphone-ipod-tv",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "10246507306005017644",
+            "price": "8699.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8699.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.leasy.se/ljud-och-bild/ljud/apple-airpods-max-space-grey",
+            "shop_name": "L'EASY",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f6a688ca557",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f6a688ca557",
+            "shop_url": "www.leasy.se",
+            "shop_domain": "leasy.se",
+            "shop_matching_id": "leasy.se",
+            "page": 1,
+            "position": 12
+          },
+          {
+            "id": null,
+            "product_id": "10246507306005017644",
+            "price": "8457.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8457.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/bluetooth-horlurar-med-mikrofon-apple-airpods-max-gra-p86374725",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 13
+          },
+          {
+            "id": null,
+            "product_id": "10246507306005017644",
+            "price": "8159.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8159.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fruugo.se/apple-airpods-max-space-grey/p-60471461-121762894?language=sv&ac=croud&utm_source=organic_shopping&utm_medium=organic",
+            "shop_name": "fruugo.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fdf04e0f8d5",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fdf04e0f8d5",
+            "shop_url": "www.fruugo.se",
+            "shop_domain": "fruugo.se",
+            "shop_matching_id": "fruugo.se",
+            "page": 1,
+            "position": 14
+          },
+          {
+            "id": null,
+            "product_id": "10246507306005017644",
+            "price": "7823.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7823.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://allphone.se/tillbehoer/165-apple-airpods-max-194252244968.html",
+            "shop_name": "Allphone.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-e696a75172d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e696a75172d",
+            "shop_url": "allphone.se",
+            "shop_domain": "allphone.se",
+            "shop_matching_id": "allphone.se",
+            "page": 1,
+            "position": 15
+          },
+          {
+            "id": null,
+            "product_id": "10246507306005017644",
+            "price": "7989.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7989.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://bigsale.nu/bluetooth-horlurar-med-mikrofon/bluetooth-horlurar-med-mikrofon-apple-airpods-max-gra.html",
+            "shop_name": "bigsale.nu",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2ef4a9beb86",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2ef4a9beb86",
+            "shop_url": "bigsale.nu",
+            "shop_domain": "bigsale.nu",
+            "shop_matching_id": "bigsale.nu",
+            "page": 1,
+            "position": 16
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252438947",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:19Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=00194252438947&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.apple.com/se/shop/go/product/MJQJ3?cid=aos-se-seo-pla",
+            "name": "Apple Magic Keyboard till iPad Pro 11 tum (tredje generationen) och iPad Air (fj\u00e4rde generationen) \u2013 norskt \u2013 vitt",
+            "product_properties": [],
+            "price": "3595.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "3595.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Apple",
+            "shop_id": "priceapi-476432a3e85",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-476432a3e85",
+            "shop_url": "www.apple.com",
+            "shop_domain": "apple.com",
+            "shop_matching_id": "Apple",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252509036",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:22Z"
+      },
+      "content": {
+        "id": "8465372055890081582",
+        "name": "Apple iPad mini (2021) 5G 256GB Rymdgr\u00e5",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcShDsol5TUt_KDef8Az6GHYttyqJd_xwpWT4MFOaWR2z6nGIqsSF6X7Kc2NCTi8wq4dPWCndMN5&usqp=CAY",
+        "description": "Designad fr\u00e5n kant till kant med en 8,3-tums Liquid Retina-sk\u00e4rm. Och det kraftfulla A15 Bionic-chippet med Neural Engine. En sk\u00e4rmkamera med ultravidvinkel, 12 MP och funktionen Centrerat. Usb-c-kontakt. Ultrasnabbt 5G (utvalda modeller). Anteckna, g\u00f6r markeringar i dokument och skriv ner dina b\u00e4sta id\u00e9er med Apple Pencil 2nd gen (s\u00e4ljes separat), som f\u00e4sts magnetiskt och laddas tr\u00e5dl\u00f6st.",
+        "properties": [
+          "Apple",
+          "iPad",
+          "iPad mini",
+          "iPad mini (Original)",
+          "8,3 tum",
+          "297 g",
+          "Lagring: 256 GB",
+          "Rymdgr\u00e5"
+        ],
+        "url": "https://www.google.se/shopping/product/8465372055890081582?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 1140,
+        "review_rating": 96,
+        "price": "9590.0",
+        "gtins": [
+          "194252509036"
+        ],
+        "eans": [
+          "0194252509036"
+        ],
+        "brand_name": "Apple",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Sk\u00e4rmstorlek (tum)",
+            "value": [
+              "8.3 tum"
+            ]
+          },
+          {
+            "label": "Sk\u00e4rmuppl\u00f6sning",
+            "value": [
+              "2266 x 1488"
+            ]
+          },
+          {
+            "label": "Bildstandard",
+            "value": [
+              "Retina"
+            ]
+          },
+          {
+            "label": "Sk\u00e4rmstorlek (cm)",
+            "value": [
+              "21.08 cm"
+            ]
+          },
+          {
+            "label": "Typ av panel",
+            "value": [
+              "IPS (In-Plane Switching)"
+            ]
+          },
+          {
+            "label": "Sk\u00e4rmtyp",
+            "value": [
+              "Liquid Retina"
+            ]
+          },
+          {
+            "label": "RAM-Minne",
+            "value": [
+              "4 GB"
+            ]
+          },
+          {
+            "label": "Processor",
+            "value": [
+              "Apple A15 Bionic"
+            ]
+          },
+          {
+            "label": "Lagringsutrymme",
+            "value": [
+              "256 GB"
+            ]
+          },
+          {
+            "label": "H\u00e5rddisk 1",
+            "value": [
+              "Interminne",
+              "256 GB"
+            ]
+          },
+          {
+            "label": "Typ av h\u00e5rddisk 1",
+            "value": [
+              "Interminne"
+            ]
+          },
+          {
+            "label": "Kapacitet h\u00e5rddisk 1",
+            "value": [
+              "256 GB"
+            ]
+          },
+          {
+            "label": "Anslutningar",
+            "value": [
+              "USB-C -kontakt | Smart Connector"
+            ]
+          },
+          {
+            "label": "Mobiluppkoppling",
+            "value": [
+              "5G"
+            ]
+          },
+          {
+            "label": "Kompatibilitet",
+            "value": [
+              "St\u00f6d f\u00f6r Apple Pencil (andra generationen)"
+            ]
+          },
+          {
+            "label": "Operativsystem",
+            "value": [
+              "iPadOS"
+            ]
+          },
+          {
+            "label": "Kortl\u00e4sare",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "H\u00f6gtalare",
+            "value": [
+              "Stereoh\u00f6gtalare"
+            ]
+          },
+          {
+            "label": "SIM-kortsformat",
+            "value": [
+              "eSim",
+              "Nano-SIM (4FF)"
+            ]
+          },
+          {
+            "label": "Specialfunktioner",
+            "value": [
+              "Fingeravtrycksl\u00e4sare"
+            ]
+          },
+          {
+            "label": "Navigationsprogram",
+            "value": [
+              "Digital kompass | Mikrolokalisering med iBeacon"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning frontkamera",
+            "value": [
+              "12 MP FaceTime Ultravidvinkel"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning kamera",
+            "value": [
+              "12 megapixel"
+            ]
+          },
+          {
+            "label": "Batteritid",
+            "value": [
+              "Upp till 10 timmar"
+            ]
+          },
+          {
+            "label": "Batterityp",
+            "value": [
+              "Litiumpolymer"
+            ]
+          },
+          {
+            "label": "Batterikapacitet",
+            "value": [
+              "19.3 Wh"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxHxD)",
+            "value": [
+              "134.8 mm x 6.3 mm x 195.4 mm / -"
+            ]
+          },
+          {
+            "label": "Medf\u00f6ljande tillbeh\u00f6r",
+            "value": [
+              "USB-C laddningskabel | 20W str\u00f6madapter"
+            ]
+          },
+          {
+            "label": "H\u00f6lje",
+            "value": [
+              "Aluminium"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "195.4 mm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "297 g"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Surfplatta"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Apple"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "241437",
+              "MK7T3KN/A",
+              "MK8F3KN/A"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00194252509036"
+            ]
+          }
+        ],
+        "offer_count": 4,
+        "offers_url": "https://www.google.se/shopping/product/8465372055890081582/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "8465372055890081582",
+            "price": "9590.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9590.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/datorer-tillbehor/ipad-surfplatta/361886/ipad-mini-2021-256-gb-5g-space-gray",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "8465372055890081582",
+            "price": "9590.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9590.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/dator-surfplatta/surfplattor/apple-ipad-mini-wi-fi-cellular-256gb-space-grey/1020751.8899/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "8465372055890081582",
+            "price": "9590.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9590.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011255862/ipad-mini-wi-fi-cellular?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "8465372055890081582",
+            "price": "9595.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9595.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.apple.com/se/shop/go/product/MK8F3?cid=aos-se-seo-pla",
+            "shop_name": "Apple",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-476432a3e85",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-476432a3e85",
+            "shop_url": "www.apple.com",
+            "shop_domain": "apple.com",
+            "shop_matching_id": "apple.com",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252522042",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:22Z"
+      },
+      "content": {
+        "id": "1135253790418995796",
+        "name": "Apple iPad 10,2\" (2021) 4G 256GB Rymdgr\u00e5",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRgYjrXPEZ88XHtxw6MngKhVUDl2b10VihNY_l8pusLs3L5b4wMFYx6jSG4leSNenK2RV0zrlU&usqp=CAY",
+        "description": "G\u00f6r allt i en handv\u00e4ndning. Den nionde generationens iPad \u00e4r kraftfull, l\u00e4tt att anv\u00e4nda och allsidig. Allt f\u00f6r att du ska kunna g\u00f6ra allt det du gillar att g\u00f6ra. En kristallklar 10.2\" Retina-sk\u00e4rm med True Tone som anpassar ljuset efter omgivningen - f\u00f6r en behagligare sk\u00e4rmupplevelse. iPad \u00e4r utrustad med 12MP ultravidvinkel sk\u00e4rmkamera och en 8MP vidvinkel kamera bak. Kompatibel med f\u00f6rsta generationens Apple Pencil och Smart keyboard (ing\u00e5r inte, s\u00e4ljt separat). iPad \u00e4r en m\u00e5ngsidig surfplatta, oavsett om du vill l\u00e4sa nyheter, arbeta, spela spel eller titta p\u00e5 film. Mycket kapacitet och m\u00e5nga m\u00f6jligheter. Upp till 256GB lagringsutrymme!",
+        "properties": [
+          "Gr\u00e5"
+        ],
+        "url": "https://www.google.se/shopping/product/1135253790418995796?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 2362,
+        "review_rating": 96,
+        "price": "7290.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "10.2 tum",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Sk\u00e4rmstorlek (tum)",
+            "value": [
+              "10.2 tum"
+            ]
+          },
+          {
+            "label": "Sk\u00e4rmuppl\u00f6sning",
+            "value": [
+              "2160 x 1620"
+            ]
+          },
+          {
+            "label": "Bildstandard",
+            "value": [
+              "Retina"
+            ]
+          },
+          {
+            "label": "Sk\u00e4rmstorlek (cm)",
+            "value": [
+              "25.9 cm"
+            ]
+          },
+          {
+            "label": "Typ av panel",
+            "value": [
+              "IPS (In-Plane Switching)"
+            ]
+          },
+          {
+            "label": "Sk\u00e4rmtyp",
+            "value": [
+              "Retina"
+            ]
+          },
+          {
+            "label": "RAM-Minne",
+            "value": [
+              "4 GB"
+            ]
+          },
+          {
+            "label": "Processor",
+            "value": [
+              "Apple A13 Bionic"
+            ]
+          },
+          {
+            "label": "Lagringsutrymme",
+            "value": [
+              "256 GB"
+            ]
+          },
+          {
+            "label": "H\u00e5rddisk 1",
+            "value": [
+              "Interminne",
+              "256 GB"
+            ]
+          },
+          {
+            "label": "Typ av h\u00e5rddisk 1",
+            "value": [
+              "Interminne"
+            ]
+          },
+          {
+            "label": "Kapacitet h\u00e5rddisk 1",
+            "value": [
+              "256 GB"
+            ]
+          },
+          {
+            "label": "Mobiluppkoppling",
+            "value": [
+              "4G (LTE)"
+            ]
+          },
+          {
+            "label": "Kompatibilitet",
+            "value": [
+              "St\u00f6d f\u00f6r Apple Pencil (f\u00f6rsta generationen)"
+            ]
+          },
+          {
+            "label": "Operativsystem",
+            "value": [
+              "iPadOS"
+            ]
+          },
+          {
+            "label": "Kortl\u00e4sare",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "H\u00f6gtalare",
+            "value": [
+              "Stereoh\u00f6gtalare"
+            ]
+          },
+          {
+            "label": "Medf\u00f6ljande penna",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Specialfunktioner",
+            "value": [
+              "Fingeravtrycksl\u00e4sare"
+            ]
+          },
+          {
+            "label": "Navigationsprogram",
+            "value": [
+              "Digital kompass | Mikrolokalisering med iBeacon"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning frontkamera",
+            "value": [
+              "12 MP FaceTime Ultravidvinkel"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning kamera",
+            "value": [
+              "8 megapixel"
+            ]
+          },
+          {
+            "label": "Batteritid",
+            "value": [
+              "Upp till 10 timmar"
+            ]
+          },
+          {
+            "label": "Batterityp",
+            "value": [
+              "Litiumpolymer"
+            ]
+          },
+          {
+            "label": "Batterikapacitet",
+            "value": [
+              "32",
+              "4 Wh"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxHxD)",
+            "value": [
+              "174 mm x 7.5 mm x 250 mm / -"
+            ]
+          },
+          {
+            "label": "Konfiguration",
+            "value": [
+              "iPad 2021"
+            ]
+          },
+          {
+            "label": "Medf\u00f6ljande tillbeh\u00f6r",
+            "value": [
+              "Lightning till USB-C-kabel | USB-C-str\u00f6madapter"
+            ]
+          },
+          {
+            "label": "H\u00f6lje",
+            "value": [
+              "Aluminium"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "250 mm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "498 g"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Surfplatta"
+            ]
+          }
+        ],
+        "offer_count": 7,
+        "offers_url": "https://www.google.se/shopping/product/1135253790418995796/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "1135253790418995796",
+            "price": "7290.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7290.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mediamarkt.se/sv/product/_apple-ipad-10-2-2021-wifi-cellular-256gb-surfplatta-gr%C3%A5-1336415.html?utm_source=google&utm_medium=seo-product%20feed",
+            "shop_name": "MediaMarkt.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-beb4b17be14",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-beb4b17be14",
+            "shop_url": "www.mediamarkt.se",
+            "shop_domain": "mediamarkt.se",
+            "shop_matching_id": "mediamarkt.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "1135253790418995796",
+            "price": "7290.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7290.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/datorer-tillbehor/ipad-surfplatta/361844/ipad-10-2-2021-256-gb-4g-lte-space-gray",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "1135253790418995796",
+            "price": "7290.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7290.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/dator-surfplatta/surfplattor/apple-ipad-9th-gen-102-wi-fi-cellular-256gb-space-grey/1020778.8899/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "1135253790418995796",
+            "price": "7290.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7290.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1195985/dator-surfplatta/surfplattor/surfplattor/ipad-2021-256gb-4g-space-gray?channable=00945369640031313935393835e0",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "1135253790418995796",
+            "price": "7290.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7290.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011255875/ipad-9th-2021-wi-fi-cellular?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "1135253790418995796",
+            "price": "7295.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7295.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.apple.com/se/shop/go/product/MK4E3?cid=aos-se-seo-pla",
+            "shop_name": "Apple",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-476432a3e85",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-476432a3e85",
+            "shop_url": "www.apple.com",
+            "shop_domain": "apple.com",
+            "shop_matching_id": "apple.com",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "1135253790418995796",
+            "price": "7295.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7374.0",
+            "shipping_costs": "79.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.cyberphoto.se/mobiltelefoni/surfplattor/apple-ipad-256gb-gen-9-wi-fi-cellular-rymdgra",
+            "shop_name": "CyberPhoto",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-809bd0cf62b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-809bd0cf62b",
+            "shop_url": "www.cyberphoto.se",
+            "shop_domain": "cyberphoto.se",
+            "shop_matching_id": "cyberphoto.se",
+            "page": 1,
+            "position": 7
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194252781371",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:23Z"
+      },
+      "content": {
+        "id": "4867817958382824175",
+        "name": "Apple Iphone 13 Pro Max Silicone Case / MagSafe \u2013 Abyss Blue",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRcAGIwqwNdCL1JiLeE31fQAZLaC1YBp3aC-4px3kGkctE-TA0r5Y1qd9XN3PLtVv9RMjKtL1g&usqp=CAY",
+        "description": "Silikonskalet med MagSafe har utformats av Apple f\u00f6r att komplettera och skydda din iPhone 13 Pro Max p\u00e5 ett smakfullt s\u00e4tt. Utsidan av silkeslent silikon k\u00e4nns sk\u00f6n att h\u00e5lla i. Och insidan har ett mjukt foder av mikrofiber f\u00f6r \u00e4nnu mer skydd. Skalet har inbyggda magneter som l\u00e4gger sig helt perfekt mot iPhone 13 Pro Max och f\u00e4ster och sl\u00e4pper p\u00e5 magiskt vis varje g\u00e5ng. Magneternas exakta placering g\u00f6r att det g\u00e5r snabbare och smidigare \u00e4n n\u00e5gonsin att ladda tr\u00e5dl\u00f6st. L\u00e5t skalet sitta kvar p\u00e5 din iPhone n\u00e4r det \u00e4r dags att ladda. Sn\u00e4pp bara fast en MagSafe-laddare eller l\u00e4gg enheten p\u00e5 en Qi-certifierad laddare. Precis som alla Apple-designade skal har det testats under tusentals timmar genom hela design- och tillverkningsprocessen. S\u00e5 det ser inte bara snyggt ut, utan skyddar ocks\u00e5 din iPhone effektivt mot repor och st\u00f6tar.",
+        "properties": [
+          "Med korth\u00e5llare",
+          "Silikon",
+          "Gummi",
+          "Bl\u00e4ckbl\u00e5",
+          "iPhone 13 Pro Max"
+        ],
+        "url": "https://www.google.se/shopping/product/4867817958382824175?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 740,
+        "review_rating": 84,
+        "price": "321.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "1 st",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Bredden (InfraCity)",
+            "value": [
+              "1 st"
+            ]
+          },
+          {
+            "label": "H\u00f6torget, Sveav\u00e4gen",
+            "value": [
+              "3 st"
+            ]
+          },
+          {
+            "label": "Mall of Scandinavia",
+            "value": [
+              "2 st"
+            ]
+          },
+          {
+            "label": "Liljeholmstorget",
+            "value": [
+              "3 st"
+            ]
+          },
+          {
+            "label": "Release",
+            "value": [
+              "2021-09-14"
+            ]
+          },
+          {
+            "label": "Tillverkarens artikelnr",
+            "value": [
+              "MM2T3ZM/A"
+            ]
+          },
+          {
+            "label": "Rekommenderad anv\u00e4ndning",
+            "value": [
+              "F\u00f6r mobiltelefon"
+            ]
+          },
+          {
+            "label": "F\u00f6rpackad kvantitet",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "M\u00e4rke",
+            "value": [
+              "Apple"
+            ]
+          },
+          {
+            "label": "Produktlinje",
+            "value": [
+              "Apple"
+            ]
+          }
+        ],
+        "offer_count": 8,
+        "offers_url": "https://www.google.se/shopping/product/4867817958382824175/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "4867817958382824175",
+            "price": "321.69",
+            "price_additional_info": null,
+            "price_with_shipping": "374.37",
+            "shipping_costs": "52.68",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "http://www.valucase.com/iphone-13-pro-max-silicone-case-with-magsafe-abyss-blue?___store=se",
+            "shop_name": "ValuCase",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-47e5d6e9be7",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-47e5d6e9be7",
+            "shop_url": "www.valucase.com",
+            "shop_domain": "valucase.com",
+            "shop_matching_id": "valucase.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "4867817958382824175",
+            "price": "321.69",
+            "price_additional_info": null,
+            "price_with_shipping": "352.88",
+            "shipping_costs": "31.19",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "http://www.phonecasewiz.com/iphone-13-pro-max-silicone-case-with-magsafe-abyss-blue?___store=se",
+            "shop_name": "Phone Case Wiz",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2d3ac0cf1be",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2d3ac0cf1be",
+            "shop_url": "www.phonecasewiz.com",
+            "shop_domain": "phonecasewiz.com",
+            "shop_matching_id": "phonecasewiz.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "4867817958382824175",
+            "price": "505.0",
+            "price_additional_info": null,
+            "price_with_shipping": "545.0",
+            "shipping_costs": "40.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7625445/apple-baksidesskydd-f%C3%B6r-mobiltelefon-med-magsafe-silikon-avgrundsbl%C3%A5-f%C3%B6r-iphone-13-pro-max",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "4867817958382824175",
+            "price": "595.0",
+            "price_additional_info": null,
+            "price_with_shipping": "595.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/justnu/apple/tillbehor/apple-iphone-13-pro-max-silicone-case-with-magsafe-abyss-blue/1020796.15645/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "4867817958382824175",
+            "price": "599.0",
+            "price_additional_info": null,
+            "price_with_shipping": "599.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Mobile-Covers-Cases/Apple-iPhone-13-Pro-Max-Silicone-Case-with-MagSafe-Abyss-Blue/2998811?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "4867817958382824175",
+            "price": "595.0",
+            "price_additional_info": null,
+            "price_with_shipping": "595.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/mobil-tele-gps/skal-och-fodral/362156/iphone-13-pro-max-silikonfodral-med-magsafe-abyss-blue",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "4867817958382824175",
+            "price": "656.0",
+            "price_additional_info": null,
+            "price_with_shipping": "656.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/bygg-verktyg/apple-silikonfodral-till-iphone-13-pro-max-med-magsafe-abyss-blue-p83727818",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "4867817958382824175",
+            "price": "661.0",
+            "price_additional_info": null,
+            "price_with_shipping": "760.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/397/189708/sort/1/filter/0_0_0_0/Silicone-Case-with-MagSafe-iPhone-13-Pro-Max-MM2T3ZM-A--Abyss-Blue-skydd.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 8
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194552271046",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:10:25Z"
+      },
+      "content": {
+        "id": "10697184240088675488",
+        "name": "Lenovo ThinkPad L13 13.3\" Full HD",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcROPBt_z5EDMleZHQJRMIqY2doJEm3rBeMRiKVlL5MwWz1N8kE&usqp=CAY",
+        "description": "Core i7-10510U, 16GB RAM, 512GB SSD, Windows 10 Pro",
+        "properties": [
+          "Lenovo",
+          "ThinkPad",
+          "ThinkPad L"
+        ],
+        "url": "https://www.google.se/shopping/product/10697184240088675488?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 428,
+        "review_rating": 90,
+        "price": "13670.0",
+        "gtins": [
+          "194552271046"
+        ],
+        "eans": [
+          "0194552271046"
+        ],
+        "brand_name": "Lenovo",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Lenovo"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "20R3000FMX"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00194552271046"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/10697184240088675488/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10697184240088675488",
+            "price": "13670.0",
+            "price_additional_info": null,
+            "price_with_shipping": "13719.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/lenovo-thinkpad-l13-133-full/cat-p/c0/p1000708865",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195908806639",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:21Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00196068007546",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:19Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00196068576424",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:19Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00675901755658",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:20Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00675901794695",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:20Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00675901795340",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:20Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00675901795524",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:20Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00740617258516",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:10:24Z"
+      },
+      "content": {
+        "id": "8849391136337166516",
+        "name": "HyperX Predator DDR4 3000MHz 16GB",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQEjMC43wwWjqlfU5iM7MnOvhKUP7hbMVqPrJl6aKiC-YD-MiS1OPLR_-pzlI0cpOPALWNL2eD8&usqp=CAY",
+        "description": "Ge ditt AMD- eller Intel-system prestandan det beh\u00f6ver f\u00f6r att stanna h\u00f6gst upp i n\u00e4ringskedjan med ultrasnabba HyperX Predator DDR4. Sl\u00e5 v\u00e4rmen och sl\u00e5 r\u00e4dsla i motst\u00e5ndarens hj\u00e4rta med Predator's aggressiva, eleganta svarta v\u00e4rmespridare. Boosta din framerate, h\u00e5ll streamen flytande mjukt och ploga genom din redigering. 100% fabrikstestade med hastighet och backade av livstids garanti (via tillverkaren) ger Predator DDR4 det b\u00e4sta av tv\u00e5 v\u00e4rldar; extrem prestanda och maximal sinnesfrid.",
+        "properties": [
+          "Kingston",
+          "DDR4",
+          "Icke-buffrad",
+          "Med v\u00e4rmespridning",
+          "16 GB",
+          "3\u00a0000 MHz"
+        ],
+        "url": "https://www.google.se/shopping/product/8849391136337166516?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 93,
+        "review_rating": 94,
+        "price": "948.0",
+        "gtins": [
+          "740617258516"
+        ],
+        "eans": [
+          "0740617258516"
+        ],
+        "brand_name": "Kingston",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Kingston"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "2055121SESEKSV",
+              "221316",
+              "342B502/HX430C15PB3K2/16",
+              "37973383",
+              "42091903",
+              "44263381",
+              "44461748",
+              "45480799",
+              "50079574",
+              "51446145",
+              "61891447",
+              "740617258516",
+              "D4-16G3000KHX15K2-PRED",
+              "HX430C15PB3K2/16",
+              "hx430c15pb3k216",
+              "hyperx_45480799"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00740617258516"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/8849391136337166516/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "8849391136337166516",
+            "price": "948.0",
+            "price_additional_info": null,
+            "price_with_shipping": "997.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/kingston-hyperx-predator-ddr4-pc24000/cat-p/c0/p8840339",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00740617267082",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:23Z"
+      },
+      "content": {
+        "id": "15692473252714771133",
+        "name": "HyperX Fury S Pro Gaming Mouse Pad, XL",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTArhmPjxESvPbmP6rhCnnglA83CD1Ju1rYyuiXp-QbHTMevCo&usqp=CAY",
+        "description": "FURY S \u00e4r en musmatta f\u00f6r e-proffs. Den \u00e4r belagd med en finmaskig textilv\u00e4v med dolda kants\u00f6mmar f\u00f6r att inte fransa. Det ger en sl\u00e4t och enhetlig yta. Oavsett om det \u00e4r millimeterprecision eller snabba ryck som g\u00e4ller ger den t\u00e4ta v\u00e4ven en mjuk, f\u00f6ljsam musmatta som \u00e4r perfekt anpassad efter dina behov.",
+        "properties": [
+          "Kingston",
+          "Gaming",
+          "Ergonomiska"
+        ],
+        "url": "https://www.google.se/shopping/product/15692473252714771133?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 2682,
+        "review_rating": 96,
+        "price": "434.0",
+        "gtins": [
+          "740617267082"
+        ],
+        "eans": [
+          "0740617267082"
+        ],
+        "brand_name": "Kingston",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produkten har slutat tillverkas",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Produktens m\u00e5tt",
+            "value": [
+              "89.92 x 42.01 x 0.4 cm; 1.01 Kilogram"
+            ]
+          },
+          {
+            "label": "Ursprungsland",
+            "value": [
+              "Kina"
+            ]
+          },
+          {
+            "label": "Modellnamn",
+            "value": [
+              "Fury S Pro Gaming XL"
+            ]
+          },
+          {
+            "label": "Delnummer",
+            "value": [
+              "HX-MPFS-XL"
+            ]
+          },
+          {
+            "label": "Antal processorer",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Montering av maskinvara",
+            "value": [
+              "\u00d6vrigt"
+            ]
+          },
+          {
+            "label": "Antal artiklar",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Batterier inkluderade",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Batterier kr\u00e4vs",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s typ",
+            "value": [
+              "802.11a"
+            ]
+          },
+          {
+            "label": "Materialtyp",
+            "value": [
+              "Gummi"
+            ]
+          },
+          {
+            "label": "Supports Bluetooth Technology",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Kingston"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "1810",
+              "312279-153",
+              "42508244",
+              "44956833",
+              "47726252",
+              "49954481",
+              "50819669",
+              "51750879",
+              "52792563",
+              "73392328",
+              "740617267082",
+              "B0716ZHGKT",
+              "HX-MPFS-XL",
+              "KING-2382",
+              "hx-mpfs-xl",
+              "hxmpfsxl",
+              "hyperx_47726252",
+              "kingston_44956833"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00740617267082"
+            ]
+          }
+        ],
+        "offer_count": 3,
+        "offers_url": "https://www.google.se/shopping/product/15692473252714771133/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "15692473252714771133",
+            "price": "413.0",
+            "price_additional_info": null,
+            "price_with_shipping": "512.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/369/32888/sort/1/filter/0_0_0_0/Fury-S-Pro-XL-musmatta.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "15692473252714771133",
+            "price": "434.0",
+            "price_additional_info": null,
+            "price_with_shipping": "483.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/kingston-hyperx-fury-s-pro/cat-p/c/p9543618",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "15692473252714771133",
+            "price": "573.0",
+            "price_additional_info": null,
+            "price_with_shipping": "642.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011042295/hyperx-fury-s---xl-pro-gaming?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00740617277449",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:24Z"
+      },
+      "content": {
+        "id": "3895715168968307921",
+        "name": "Kingston 32GB / 2666MHz / DDR4 / CL19 / KSM26RD4/32MEI",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSUXwycL0UPh7Ic5PyGBAIMfffoz6Mr8JrfYr-xScidA4sdygdjur9ax1rjbw&usqp=CAY",
+        "description": "Kingston Server Premier is designed specifically for mission-critical server systems that require maximum uptime and stability. Server Premier Modules are built using the same components every time and include advanced product change notification (PCN).",
+        "properties": [
+          "Kingston",
+          "DDR4",
+          "ECC",
+          "Registrerad",
+          "32 GB",
+          "2\u00a0666 MHz"
+        ],
+        "url": "https://www.google.se/shopping/product/3895715168968307921?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 2,
+        "review_rating": 100,
+        "price": "2519.0",
+        "gtins": [
+          "740617277449"
+        ],
+        "eans": [
+          "0740617277449"
+        ],
+        "brand_name": "Kingston",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Minnesmodul"
+            ]
+          },
+          {
+            "label": "Kapacitet",
+            "value": [
+              "32 GB"
+            ]
+          },
+          {
+            "label": "Minnestyp",
+            "value": [
+              "DDR4 SDRAM - DIMM 288-pin"
+            ]
+          },
+          {
+            "label": "Uppgraderingstyp",
+            "value": [
+              "Generisk"
+            ]
+          },
+          {
+            "label": "Data Integrity Check",
+            "value": [
+              "ECC"
+            ]
+          },
+          {
+            "label": "\u00c5tkomsttidstiming",
+            "value": [
+              "CL19"
+            ]
+          },
+          {
+            "label": "Sp\u00e4nning",
+            "value": [
+              "1.2 V"
+            ]
+          },
+          {
+            "label": "Pl\u00e4tering",
+            "value": [
+              "Guld"
+            ]
+          },
+          {
+            "label": "Teknik",
+            "value": [
+              "DDR4 SDRAM"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "DIMM 288-pin"
+            ]
+          },
+          {
+            "label": "Modulkonfiguration",
+            "value": [
+              "4096 x 72"
+            ]
+          },
+          {
+            "label": "Chips-organisering",
+            "value": [
+              "X4"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Kingston"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "342C141/KSM26RD4/32MEI",
+              "50087796",
+              "53834165",
+              "740617277449",
+              "KSM26RD4/32MEI",
+              "ksm26rd432mei"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00740617277449"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.se/shopping/product/3895715168968307921/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "3895715168968307921",
+            "price": "2466.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2515.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/kingston-memory-d4-2666-32gb/cat-p/c0/p10078887",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "3895715168968307921",
+            "price": "2519.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2672.6",
+            "shipping_costs": "153.6",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.senetic.se/product/KSM26RD4/32MEI",
+            "shop_name": "Senetic Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3d20fd85b7c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3d20fd85b7c",
+            "shop_url": "www.senetic.se",
+            "shop_domain": "senetic.se",
+            "shop_matching_id": "senetic.se",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00740617278859",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:19Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00740617318432",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:22Z"
+      },
+      "content": {
+        "id": "12448354714218365011",
+        "name": "Kingston FURY Impact - DDR4 - sats - 64 GB: 2 x 32 GB - SO DIMM",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQTO3xkc8f8qOBDYn0COA3MBo6TOF_ODRm7AtcviMxDQJSfCQPsC5ffvVpctNfLpQo3VYJWAnU&usqp=CAY",
+        "description": "Uppgradera arbetsminnet nu. Att ut\u00f6ka arbetsminnet i din PC eller Mac ger i regel den st\u00f6rsta prestanda\u00f6kningen.",
+        "properties": [
+          "Kingston",
+          "DDR4",
+          "Icke-buffrad",
+          "64 GB",
+          "2\u00a0933 MHz"
+        ],
+        "url": "https://www.google.se/shopping/product/12448354714218365011?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 3,
+        "review_rating": 100,
+        "price": "3274.0",
+        "gtins": [
+          "740617318432"
+        ],
+        "eans": [
+          "0740617318432"
+        ],
+        "brand_name": "Kingston",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produktens m\u00e5tt \u200f",
+            "value": [
+              "\u200e 6.96 x 0.38 x 3 cm; 15.2 Gram"
+            ]
+          },
+          {
+            "label": "Ursprungsland \u200f",
+            "value": [
+              "\u200e Kina"
+            ]
+          },
+          {
+            "label": "Modellnamn",
+            "value": [
+              "Kingston FURY Impact DDR4 Memory"
+            ]
+          },
+          {
+            "label": "Delnummer",
+            "value": [
+              "KF429S17IBK2/64"
+            ]
+          },
+          {
+            "label": "RAM",
+            "value": [
+              "32 GB"
+            ]
+          },
+          {
+            "label": "Typ av datorminne",
+            "value": [
+              "SODIMM"
+            ]
+          },
+          {
+            "label": "Antal artiklar",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Sp\u00e4nning",
+            "value": [
+              "1.2 Sp\u00e4nning"
+            ]
+          },
+          {
+            "label": "Batterier inkluderade",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Batterier kr\u00e4vs",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Kompatibel med",
+            "value": [
+              "Liten formfaktor"
+            ]
+          },
+          {
+            "label": "Contains Liquid Contents",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Produktens m\u00e5tt",
+            "value": [
+              "6.96 x 0.38 x 3 cm; 15.2 Gram"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "Liten formfaktor"
+            ]
+          },
+          {
+            "label": "Storlek p\u00e5 datorminne",
+            "value": [
+              "32 GB"
+            ]
+          },
+          {
+            "label": "Minneshastighet",
+            "value": [
+              "2933 MHz"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Kingston"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "KF429S17IBK2/64"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00740617318432"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/12448354714218365011/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "12448354714218365011",
+            "price": "3258.58",
+            "price_additional_info": null,
+            "price_with_shipping": null,
+            "shipping_costs": "12.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.buykingston.co.uk/kingston-fury-impact-kf429s17ibk2-64-64gb-32gb-x2-ddr4-2933mhz-non-ecc-memory-ram-sodimm",
+            "shop_name": "buykingston.co.uk",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f80cea9c009",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f80cea9c009",
+            "shop_url": "www.buykingston.co.uk",
+            "shop_domain": "buykingston.co.uk",
+            "shop_matching_id": "buykingston.co.uk",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00740617321142",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:19Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=00740617321142&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.komplett.se/product/1191741/datorutrustning/datorkomponenter/minne/kingston-fury-beast-rgb-ddr4-3200mhz-32gb?channable=00945369640031313931373431d9",
+            "name": "Kingston FURY Beast RGB DDR4 3200MHz 32GB",
+            "product_properties": [],
+            "price": "2219.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "2219.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Komplett.se",
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "Komplett.se",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    }
+  ]
+}

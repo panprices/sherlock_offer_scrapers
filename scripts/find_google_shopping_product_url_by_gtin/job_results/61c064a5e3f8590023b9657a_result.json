@@ -1,0 +1,4484 @@
+{
+  "job_id": "61c064a5e3f8590023b9657a",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 19,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00194552419394",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:10:34Z"
+      },
+      "content": {
+        "id": "3139732362724052348",
+        "name": "Lenovo ThinkVision P24q-20 - LED-sk\u00e4rm - 23.8\"",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTpv6iSGn8gJHzoTeyC2jvrJN-_YwoVaKuOdTVDEfnMkVvnm-5Ondr4ZnO578LRizstpkx3QPkB&usqp=CAY",
+        "description": "ThinkVision P24q-20 \u00e4r konstruerad f\u00f6r att passa alla arbetsytor och \u00e4r utrustad med produktivitetsfunktioner som st\u00e4rker effektiviteten.",
+        "properties": [
+          "Lenovo",
+          "ThinkVision",
+          "23,8 tum",
+          "2560 x 1440",
+          "Bakgrundsbelyst LED",
+          "HDMI",
+          "VGA",
+          "DVI",
+          "DisplayPort",
+          "Med h\u00f6gtalare"
+        ],
+        "url": "https://www.google.se/shopping/product/3139732362724052348?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 102,
+        "review_rating": 90,
+        "price": "3790.0",
+        "gtins": [
+          "194552419394"
+        ],
+        "eans": [
+          "0194552419394"
+        ],
+        "brand_name": "Lenovo",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produktbeskrivning",
+            "value": [
+              "Lenovo ThinkVision P24q-20 - LED-sk\u00e4rm - 24\""
+            ]
+          },
+          {
+            "label": "Typ av enhet",
+            "value": [
+              "LED-bakgrundsbelyst LCD-sk\u00e4rm - 24\""
+            ]
+          },
+          {
+            "label": "Energiklass",
+            "value": [
+              "Klass F"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtion (driftl\u00e4ge)",
+            "value": [
+              "20 W"
+            ]
+          },
+          {
+            "label": "Paneltyp",
+            "value": [
+              "IPS"
+            ]
+          },
+          {
+            "label": "Bildf\u00f6rh\u00e5llande",
+            "value": [
+              "16:9"
+            ]
+          },
+          {
+            "label": "Ursprunglig uppl\u00f6sning",
+            "value": [
+              "WQHD 2560 x 1440"
+            ]
+          },
+          {
+            "label": "Pixelh\u00f6jd",
+            "value": [
+              "0.2058 mm"
+            ]
+          },
+          {
+            "label": "Ljusstyrka",
+            "value": [
+              "300 cd/m\u00b2"
+            ]
+          },
+          {
+            "label": "Responstid",
+            "value": [
+              "6 ms (normalt); 4 ms (extremt)"
+            ]
+          },
+          {
+            "label": "F\u00e4rgst\u00f6d",
+            "value": [
+              "16",
+              "7 miljoner f\u00e4rger"
+            ]
+          },
+          {
+            "label": "Inmatningsanslutningar",
+            "value": [
+              "HDMI",
+              "DisplayPort"
+            ]
+          },
+          {
+            "label": "Displayl\u00e4gesjusteringar",
+            "value": [
+              "H\u00f6jd",
+              "pivot (rotation)",
+              "vridbar bas",
+              "lutning"
+            ]
+          },
+          {
+            "label": "Sk\u00e4rmbel\u00e4ggning",
+            "value": [
+              "Bl\u00e4ndskydd"
+            ]
+          },
+          {
+            "label": "Sp\u00e4nning",
+            "value": [
+              "AC 120/230 V (50/60 Hz)"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxDxH) - med st\u00e4ll",
+            "value": [
+              "53.98 cm x 20.5 cm x 57 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "6.18 kg"
+            ]
+          },
+          {
+            "label": "Lokalisering",
+            "value": [
+              "Engelska / Europa"
+            ]
+          },
+          {
+            "label": "Typ av bildsk\u00e4rm",
+            "value": [
+              "LED-bakgrundsbelyst LCD-sk\u00e4rm / TFT aktiv matris"
+            ]
+          },
+          {
+            "label": "Diagonal storlek",
+            "value": [
+              "24\""
+            ]
+          },
+          {
+            "label": "Bildyta",
+            "value": [
+              "23.8\""
+            ]
+          },
+          {
+            "label": "Inbyggda enheter",
+            "value": [
+              "USB 3.1 Gen 1 hub"
+            ]
+          },
+          {
+            "label": "Pixlar per tum",
+            "value": [
+              "123"
+            ]
+          },
+          {
+            "label": "Vertikal uppdateringshastighet",
+            "value": [
+              "60 Hz"
+            ]
+          },
+          {
+            "label": "Horisontell visningsvinkel",
+            "value": [
+              "178"
+            ]
+          },
+          {
+            "label": "Vertikal visningsvinkel",
+            "value": [
+              "178"
+            ]
+          },
+          {
+            "label": "Bakgrundsbelysningsteknik",
+            "value": [
+              "WLED"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxDxH)",
+            "value": [
+              "53.98 cm x 20.5 cm x 57 cm - med st\u00e4ll"
+            ]
+          },
+          {
+            "label": "Lutningsvinkel",
+            "value": [
+              "-5/+35"
+            ]
+          },
+          {
+            "label": "Vridningsvinkel",
+            "value": [
+              "90"
+            ]
+          },
+          {
+            "label": "Rotationsvinkel",
+            "value": [
+              "180"
+            ]
+          },
+          {
+            "label": "H\u00f6jdjustering",
+            "value": [
+              "150 mm"
+            ]
+          },
+          {
+            "label": "VESA-inf\u00e4stningsgr\u00e4nssnitt",
+            "value": [
+              "100 x 100 mm"
+            ]
+          },
+          {
+            "label": "Typ av s\u00e4kerhetsplats",
+            "value": [
+              "Kensington s\u00e4kerhetsplats"
+            ]
+          },
+          {
+            "label": "Emballagets bredd",
+            "value": [
+              "62 cm"
+            ]
+          },
+          {
+            "label": "Emballagets djup",
+            "value": [
+              "14.9 cm"
+            ]
+          },
+          {
+            "label": "Emballagets h\u00f6jd",
+            "value": [
+              "42.3 cm"
+            ]
+          },
+          {
+            "label": "Emballagets vikt",
+            "value": [
+              "8.1 kg"
+            ]
+          },
+          {
+            "label": "EPEAT-kompatibel",
+            "value": [
+              "EPEAT Silver"
+            ]
+          },
+          {
+            "label": "ENERGY STAR-certifierad",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "ENERGY STAR-version",
+            "value": [
+              "8.0"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Lenovo"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "51513390",
+              "51999771",
+              "58438394",
+              "60298530",
+              "61F5GAT1DK",
+              "61F5GAT1EU",
+              "61f5gat1eu",
+              "78684546",
+              "995746040",
+              "S60EQW7"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00194552419394"
+            ]
+          }
+        ],
+        "offer_count": 7,
+        "offers_url": "https://www.google.se/shopping/product/3139732362724052348/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "3139732362724052348",
+            "price": "3790.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3790.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1155018/datorutrustning/bildskarm/bildskarmar/lenovo-24-skarm-thinkvision-p24q-20?channable=00945369640031313535303138dd",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "3139732362724052348",
+            "price": "3790.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3790.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.power.se/datorer/bildskarmar-och-monitorer/bildskarmar/lenovo-thinkvision-p24q-20-238-qhd-skarm/p-1206090/",
+            "shop_name": "Power.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12a02cb9685",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12a02cb9685",
+            "shop_url": "www.power.se",
+            "shop_domain": "power.se",
+            "shop_matching_id": "power.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "3139732362724052348",
+            "price": "3961.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4010.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/lenovo-p24q-20-238in-qhd-10001/cat-p/c/p1000645131",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "3139732362724052348",
+            "price": "3990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011176512/thinkvision-p24q?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "3139732362724052348",
+            "price": "4036.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4036.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/6097409/lenovo-thinkvision-p24q-20-led-sk%C3%A4rm-24-23-8-visbar-2560-x-1440-wqhd-ips-300-cd-m-1000-1-4-ms-hdmi-displayport-korpsvart",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "3139732362724052348",
+            "price": "3839.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3839.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/lenovo-thinkvision-p24q-20-led-skarm-24-23-8-visbar-2560-x-1440-wqhd-ips-300-cd-m2-10001-4-ms-hdmi-displayport-korpsvart-p51999771",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "3139732362724052348",
+            "price": "3999.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3999.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/lenovo-thinkvision-p24q-20-23-8-2560-x-1440-hdmi-displayport-pivot-skaerm",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 7
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00740617279016",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:31Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=00740617279016&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.datagrottan.se/kingston-memory-d4-2666-8gb/cat-p/c0/p10078886",
+            "name": "Kingston DDR4 2666MHz 8GB ECC",
+            "product_properties": [],
+            "price": "857.0",
+            "shipping_costs": "49.0",
+            "price_with_shipping": "906.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Datagrottan",
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "Datagrottan",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00740617288582",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:32Z"
+      },
+      "content": {
+        "id": "4383350598969088268",
+        "name": "Hyperx Mechanina Klaviata ra A3 4aidimams Nor hx kb6rdx no Kingston",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcREFnIkbW7HCXdJI9mkcCi2qQA5fRIs3hTRC-FybP7-KRIOEGtV1moVE1Cv9w&usqp=CAY",
+        "description": null,
+        "properties": [
+          "Kingston",
+          "HyperX",
+          "HyperX Alloy",
+          "Mekaniskt",
+          "Gaming",
+          "QWERTY",
+          "Tr\u00e5dbunden",
+          "Windows",
+          "Bakbelyst",
+          "PC"
+        ],
+        "url": "https://www.google.se/shopping/product/4383350598969088268?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 214,
+        "review_rating": 94,
+        "price": "1278.0",
+        "gtins": [
+          "740617288582"
+        ],
+        "eans": [
+          "0740617288582"
+        ],
+        "brand_name": "Kingston",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Kingston"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00740617288582"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/4383350598969088268/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "4383350598969088268",
+            "price": "1281.39",
+            "price_additional_info": null,
+            "price_with_shipping": null,
+            "shipping_costs": "12.5",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://allsuperprice.com/product/hyperx-mechanina-klaviata/",
+            "shop_name": "AllSuperPrice",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-630c4b2fcb6",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-630c4b2fcb6",
+            "shop_url": "allsuperprice.com",
+            "shop_domain": "allsuperprice.com",
+            "shop_matching_id": "allsuperprice.com",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00740617288643",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:32Z"
+      },
+      "content": {
+        "id": "4300672909398640184",
+        "name": "Kingston A400 120GB M.2 SSD",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcThhf8lJ12eLz7IHewJ6AOKRRxYBJa0G0Q7qlGeH8IiGP6CLy-BrjGgiWy8nbiunJAujMfrBWY&usqp=CAY",
+        "description": "Snabba upp datorn med Kingston A400 intern SSD 120 GB och bli av med tr\u00f6ttsamma och l\u00e5nga v\u00e4ntetider n\u00e4r applikationer laddar. M.2 SATA 3.0-gr\u00e4nssnittet garanterar snabba l\u00e4s- och skrivhastigheter p\u00e5 500 MB/s respektive 320 MB/s.",
+        "properties": [
+          "Kingston",
+          "120 GB",
+          "SATA",
+          "M.2 2280",
+          "Intern",
+          "7200 varv per minut"
+        ],
+        "url": "https://www.google.se/shopping/product/4300672909398640184?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 379,
+        "review_rating": 90,
+        "price": "287.0",
+        "gtins": [
+          "740617288643"
+        ],
+        "eans": [
+          "0740617288643"
+        ],
+        "brand_name": "Kingston",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Serier",
+            "value": [
+              "SA400M8/120G"
+            ]
+          },
+          {
+            "label": "Produktens m\u00e5tt",
+            "value": [
+              "0.13 x 2.21 x 8 cm; 4.54 Gram"
+            ]
+          },
+          {
+            "label": "Produkten har slutat tillverkas",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Kompatibel med",
+            "value": [
+              "6",
+              "4 cm"
+            ]
+          },
+          {
+            "label": "RAM",
+            "value": [
+              "120 GB"
+            ]
+          },
+          {
+            "label": "Minnets klockhastighet",
+            "value": [
+              "2 Ok\u00e4nd modifierare"
+            ]
+          },
+          {
+            "label": "H\u00e5rddiskstorlek",
+            "value": [
+              "120 GB"
+            ]
+          },
+          {
+            "label": "H\u00e5rddiskgr\u00e4nssnitt",
+            "value": [
+              "Serial ATA"
+            ]
+          },
+          {
+            "label": "Watt",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Maskinvaruplattform",
+            "value": [
+              "PC"
+            ]
+          },
+          {
+            "label": "Medf\u00f6ljer batterier",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Digital lagringskapacitet",
+            "value": [
+              "120 GB"
+            ]
+          },
+          {
+            "label": "Kompatibla enheter",
+            "value": [
+              "Desktop"
+            ]
+          },
+          {
+            "label": "H\u00e5rddiskens gr\u00e4nssnitt",
+            "value": [
+              "Serial ATA"
+            ]
+          },
+          {
+            "label": "Anslutningsteknik",
+            "value": [
+              "SATA"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "6",
+              "4 cm"
+            ]
+          },
+          {
+            "label": "L\u00e4shastighet",
+            "value": [
+              "500 Megabyte per sekund"
+            ]
+          },
+          {
+            "label": "Skrivhastighet",
+            "value": [
+              "450 megabits_per_second"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Kingston"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "12053",
+              "278238",
+              "4301175",
+              "43581497",
+              "46911955",
+              "46933218",
+              "47668934",
+              "47860712",
+              "49975597",
+              "52215931",
+              "52451326",
+              "62583432",
+              "740617288643",
+              "75606519",
+              "994006886",
+              "A400 120gb M.2 2280 Serial Ata-600",
+              "KING-2801",
+              "S0222975",
+              "S0223176:S0222975",
+              "S3511826",
+              "S55092100",
+              "SA400M8/120G",
+              "SNS-192-B07P22T3VD",
+              "kingston_46911955",
+              "kingston_46933218",
+              "kingston_47860712",
+              "sa400m8120g"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00740617288643"
+            ]
+          }
+        ],
+        "offer_count": 12,
+        "offers_url": "https://www.google.se/shopping/product/4300672909398640184/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "4300672909398640184",
+            "price": "287.0",
+            "price_additional_info": null,
+            "price_with_shipping": "306.0",
+            "shipping_costs": "19.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1124410/datorutrustning/lagring/haarddisk/ssd-m2/kingston-a400-120gb-m2-ssd?channable=00945369640031313234343130a6",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "4300672909398640184",
+            "price": "275.0",
+            "price_additional_info": null,
+            "price_with_shipping": "344.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011123413/a400?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "4300672909398640184",
+            "price": "319.0",
+            "price_additional_info": null,
+            "price_with_shipping": "368.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/kingston-ssd-m2-120gb-kingston/cat-p/c/p1000086198",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "4300672909398640184",
+            "price": "287.49",
+            "price_additional_info": null,
+            "price_with_shipping": "354.48",
+            "shipping_costs": "66.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/kingston-sa-400m8-m.2-ssd-120gb-sata3-m.2-ssd-120gb-sata3-harddisk/137889281/p?utm_source=google_products&utm_medium=merchant&id_producte=12076119&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "4300672909398640184",
+            "price": "349.0",
+            "price_additional_info": null,
+            "price_with_shipping": "349.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://inf.se/elektronik/42783-kingston-a400-120-gb-320-mb-s-500-mb-s-m2-sata-0740617288643.html",
+            "shop_name": "inf.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-86164cf026b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-86164cf026b",
+            "shop_url": "inf.se",
+            "shop_domain": "inf.se",
+            "shop_matching_id": "inf.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "4300672909398640184",
+            "price": "389.0",
+            "price_additional_info": null,
+            "price_with_shipping": "389.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inet.se/produkt/4301175/kingston-a400-120gb-m-2",
+            "shop_name": "Inet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fad01df70fc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fad01df70fc",
+            "shop_url": "www.inet.se",
+            "shop_domain": "inet.se",
+            "shop_matching_id": "inet.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "4300672909398640184",
+            "price": "300.0",
+            "price_additional_info": null,
+            "price_with_shipping": "399.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/416/103528/sort/1/filter/0_0_0_0/120GB-A400-M.2-2280-SATA-III-h%C3%A5rddisk-SSD-.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "4300672909398640184",
+            "price": "339.0",
+            "price_additional_info": null,
+            "price_with_shipping": "404.0",
+            "shipping_costs": "65.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.wesellcd.com/affiliate/redirect.php?ID=gglshse&page=products&product_id=32223",
+            "shop_name": "Wesellcd.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9f63d52d8d1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9f63d52d8d1",
+            "shop_url": "www.wesellcd.com",
+            "shop_domain": "wesellcd.com",
+            "shop_matching_id": "wesellcd.com",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "4300672909398640184",
+            "price": "396.0",
+            "price_additional_info": null,
+            "price_with_shipping": "436.0",
+            "shipping_costs": "40.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/5105862/kingston-a400-solid-state-drive-120-gb-inbyggd-m-2-2280-sata-6gb-s",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "4300672909398640184",
+            "price": "360.0",
+            "price_additional_info": null,
+            "price_with_shipping": "399.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/kingston-120g-ssdnow-a400-m-2-2280",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "4300672909398640184",
+            "price": "379.0",
+            "price_additional_info": null,
+            "price_with_shipping": "379.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/kingston-a400-120-gb-320-mb-s-500-mb-s-m-2-sata-p81935138",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "4300672909398640184",
+            "price": "449.0",
+            "price_additional_info": null,
+            "price_with_shipping": "449.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fyndvaruhuset.com/produkt/kingston-a400-120gb-m-2-ssd/",
+            "shop_name": "Fyndvaruhuset.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ef831d97b65",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ef831d97b65",
+            "shop_url": "www.fyndvaruhuset.com",
+            "shop_domain": "fyndvaruhuset.com",
+            "shop_matching_id": "fyndvaruhuset.com",
+            "page": 1,
+            "position": 12
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00740617308891",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:32Z"
+      },
+      "content": {
+        "id": "17845215428587108603",
+        "name": "HyperX CloudX Gaming Headset",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSIqlKHVQ-wMaIbLtXWoTLtgfBndbuRl3kP-kfLSnMQJCo6nszwbfXEQd0cu8NI3ei-nkgA7qWL&usqp=CAY",
+        "description": "HyperX CloudX gaming headset has been tested and approved by Microsoft and delivers signature HyperX comfort, durability, and amazing sound for serious Xbox gamers. CloudX has convenient in-line audio controls that side-step system menus and put control right at your fingertips. The sturdy aluminum frame is designed for long-lasting reliability and to withstand the harsh rigors of daily gaming life. The 100% memory foam ear cushions and leatherette-padded headband provide great comfort for those long weekends and late nights of gaming. 53mm drivers and enhanced bass reproduction pump out crystal-clear highs, mids, and lows, and the closed-cup design mutes the outside world to completely immerse you in your game. The noise-canceling microphone can be positioned just the way you like it, and it also eliminates background noise so you'll come across loud and clear. CloudX is also compatible with mobile devices. When you're ready to listen to music, simply unplug the microphone and stow it for later.",
+        "properties": [
+          "Kingston",
+          "HyperX",
+          "HyperX Cloud Series",
+          "On-ear",
+          "Dator",
+          "TV-spel",
+          "Tr\u00e5dbundna",
+          "Headset",
+          "Over-ear",
+          "Med mikrofon"
+        ],
+        "url": "https://www.google.se/shopping/product/17845215428587108603?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 251,
+        "review_rating": 86,
+        "price": "731.0",
+        "gtins": [
+          "740617308891"
+        ],
+        "eans": [
+          "0740617308891"
+        ],
+        "brand_name": "Kingston",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Product Type",
+            "value": [
+              "Headset - wired - 3.5 mm jack"
+            ]
+          },
+          {
+            "label": "Weight",
+            "value": [
+              "337 g"
+            ]
+          },
+          {
+            "label": "Body Material",
+            "value": [
+              "Aluminium"
+            ]
+          },
+          {
+            "label": "Recommended Use",
+            "value": [
+              "Game console"
+            ]
+          },
+          {
+            "label": "Headphones Form Factor",
+            "value": [
+              "Full size"
+            ]
+          },
+          {
+            "label": "Headphones Cup Type",
+            "value": [
+              "Closed"
+            ]
+          },
+          {
+            "label": "Headphones Technology",
+            "value": [
+              "Dynamic"
+            ]
+          },
+          {
+            "label": "Connectivity Technology",
+            "value": [
+              "Wired"
+            ]
+          },
+          {
+            "label": "Sound Output Mode",
+            "value": [
+              "Stereo"
+            ]
+          },
+          {
+            "label": "Frequency Response",
+            "value": [
+              "15 - 25000 Hz"
+            ]
+          },
+          {
+            "label": "Total Harmonic Distortion (THD)",
+            "value": [
+              "<2%"
+            ]
+          },
+          {
+            "label": "Sensitivity",
+            "value": [
+              "95 dB"
+            ]
+          },
+          {
+            "label": "Impedance",
+            "value": [
+              "41 Ohm"
+            ]
+          },
+          {
+            "label": "Diaphragm",
+            "value": [
+              "53 mm"
+            ]
+          },
+          {
+            "label": "Magnet Material",
+            "value": [
+              "Neodymium"
+            ]
+          },
+          {
+            "label": "In-Cord Volume Control",
+            "value": [
+              "Yes"
+            ]
+          },
+          {
+            "label": "Type",
+            "value": [
+              "Boom"
+            ]
+          },
+          {
+            "label": "Form Factor",
+            "value": [
+              "Headset microphone"
+            ]
+          },
+          {
+            "label": "Microphone Technology",
+            "value": [
+              "Electret condenser"
+            ]
+          },
+          {
+            "label": "Sensitivity",
+            "value": [
+              "-39 dB"
+            ]
+          },
+          {
+            "label": "Frequency Response",
+            "value": [
+              "50 - 18000 Hz"
+            ]
+          },
+          {
+            "label": "Audio Input Details",
+            "value": [
+              "- 50 - 18000 Hz"
+            ]
+          },
+          {
+            "label": "Controls",
+            "value": [
+              "Volume",
+              "microphone on/mute"
+            ]
+          },
+          {
+            "label": "Connector Type",
+            "value": [
+              "Headset (mini-phone stereo 3.5 mm 4-pole)"
+            ]
+          },
+          {
+            "label": "Cable Length",
+            "value": [
+              "1.3 m"
+            ]
+          },
+          {
+            "label": "Included Accessories",
+            "value": [
+              "Detachable microphone"
+            ]
+          },
+          {
+            "label": "Cable Details",
+            "value": [
+              "Headset cable - 1.3 m"
+            ]
+          },
+          {
+            "label": "Service & Support",
+            "value": [
+              "Limited warranty - 2 years"
+            ]
+          },
+          {
+            "label": "Designed For",
+            "value": [
+              "Xbox One",
+              "Xbox One S",
+              "Xbox One S All-Digital Edition",
+              "Xbox One X",
+              "Xbox Series S",
+              "Xbox Series X"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Kingston"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "B08KS397GY",
+              "HHSC2-CG-SL/G",
+              "HHSC2-CG-SLG",
+              "OPC-P7CWYF2-NEW",
+              "RN9D3",
+              "TX66X",
+              "hhsc2cgslg"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00740617308891"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/17845215428587108603/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "17845215428587108603",
+            "price": "731.6",
+            "price_additional_info": null,
+            "price_with_shipping": null,
+            "shipping_costs": "19.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://tinkerer.co.uk/hyperx-cloudx-headset-head-band-3-5-mm-connector-aluminium-black-hhsc2-cg-sl-g.html",
+            "shop_name": "Tinkerer Computers & Components",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ce78ebf1616",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ce78ebf1616",
+            "shop_url": "tinkerer.co.uk",
+            "shop_domain": "tinkerer.co.uk",
+            "shop_matching_id": "tinkerer.co.uk",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00778656080607",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:32Z"
+      },
+      "content": {
+        "id": "17700694458938405836",
+        "name": "XFX Radeon RX 6800 XT 16GB MERC 319 Black",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTGSjK2TX9GdZ3DSexJViTcSJOdR76AsLT4TATx7Lv1nymVi74pL9EI2e6n6yRfjqyE3nUmdzag&usqp=CAY",
+        "description": "Speedsterserien f\u00f6rkroppsligar en modern aerodynamisk stil med tydlig och elegant design. Det \u00e4r en genomt\u00e4nkt design med det enda syftet att maximera luftfl\u00f6det f\u00f6r att f\u00f6rb\u00e4ttra kylning och prestanda. En revolutionerande ny minnesarkitektur som omdefinierar hur du levererar en h\u00f6gre niv\u00e5 av prestanda och effektivitet f\u00f6r 4K-spel. AMD RDNA 2-arkitekturen \u00f6kar och kombinerar spelupplevelsen fr\u00e5n prestanda till visuella via konsoler och PC. Nya Ray-acceleratorer som bearbetar korsning av bl\u00e4string ger h\u00f6gpresterande h\u00e5rdvara accelererad racing.",
+        "properties": [
+          "XFX",
+          "PCI Express",
+          "HDMI",
+          "DisplayPort",
+          "GDDR",
+          "Grafikkort",
+          "Externt",
+          "Aktiv",
+          "St\u00f6d f\u00f6r str\u00e5lf\u00f6ljning",
+          "VR-redo"
+        ],
+        "url": "https://www.google.se/shopping/product/17700694458938405836?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 53,
+        "review_rating": 96,
+        "price": "15283.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "36",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "36"
+            ]
+          },
+          {
+            "label": "Typ av enhet",
+            "value": [
+              "Grafikkort"
+            ]
+          },
+          {
+            "label": "Busstyp",
+            "value": [
+              "PCI Express 4.0 x16"
+            ]
+          },
+          {
+            "label": "Grafikmotor",
+            "value": [
+              "AMD Radeon RX 6800 XT"
+            ]
+          },
+          {
+            "label": "K\u00e4rnklocka",
+            "value": [
+              "1900 MHz"
+            ]
+          },
+          {
+            "label": "Snabbklocka",
+            "value": [
+              "2340 MHz"
+            ]
+          },
+          {
+            "label": "Str\u00f6mprocessorer",
+            "value": [
+              "4608"
+            ]
+          },
+          {
+            "label": "Processteknik",
+            "value": [
+              "7 nm"
+            ]
+          },
+          {
+            "label": "VR-f\u00f6rberedd",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Max uppl\u00f6sning",
+            "value": [
+              "7680 x 4320"
+            ]
+          },
+          {
+            "label": "Max antal bildsk\u00e4rmar som st\u00f6ds",
+            "value": [
+              "6"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt",
+            "value": [
+              "HDMI; 3 x DisplayPort"
+            ]
+          },
+          {
+            "label": "API-st\u00f6d",
+            "value": [
+              "OpenCL",
+              "OpenGL 4.5",
+              "DirectX 12 Ultimate"
+            ]
+          },
+          {
+            "label": "Teknik",
+            "value": [
+              "GDDR6 SDRAM"
+            ]
+          },
+          {
+            "label": "Minnehastighet",
+            "value": [
+              "16 Gbps"
+            ]
+          },
+          {
+            "label": "Bussbredd",
+            "value": [
+              "256-bit"
+            ]
+          },
+          {
+            "label": "Inkluderade tillbeh\u00f6r",
+            "value": [
+              "2 st. 8-poliga till 6-poliga n\u00e4tkablar"
+            ]
+          },
+          {
+            "label": "Standarder som f\u00f6ljs",
+            "value": [
+              "RoHS",
+              "DisplayPort 1.4"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "34 cm"
+            ]
+          },
+          {
+            "label": "Emballagets bredd",
+            "value": [
+              "12.5 cm"
+            ]
+          },
+          {
+            "label": "Emballagets djup",
+            "value": [
+              "34.45 cm"
+            ]
+          },
+          {
+            "label": "Emballagets h\u00f6jd",
+            "value": [
+              "23.5 cm"
+            ]
+          },
+          {
+            "label": "Emballagets vikt",
+            "value": [
+              "2.41 kg"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/17700694458938405836/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "17700694458938405836",
+            "price": "15283.0",
+            "price_additional_info": null,
+            "price_with_shipping": "15332.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/xfx-rx-6800xt-merc-319/cat-p/c36132/p1001547455",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00778656080843",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:30Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00778656080935",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:30Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00778656080966",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:30Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00778656081260",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:34Z"
+      },
+      "content": {
+        "id": "8231039899317127848",
+        "name": "Xfx Radeon Rx 6700 Xt Speedster Qick319 12gb",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQoqOSJ4-SlccmbAbsrfKGLTCVhurKQoZnetB5iISz4kVSV5qiysTyorUyney1AMmOz-LE7eqg&usqp=CAY",
+        "description": "P\u00e5 grund av brist p\u00e5 grafikkort s\u00e5 kommer vi endast till\u00e5ta k\u00f6p av ett grafikkort per kund. Detta g\u00e4ller tills tillg\u00e5ngen f\u00f6rb\u00e4ttrats. Notera \u00e4ven att pris p\u00e5 produkt kan kommits att \u00e4ndras fr\u00e5n ordertillf\u00e4lle till leverans, i dessa fall kontaktas varje kund individuellt f\u00f6r att s\u00e4kerst\u00e4lla att ordern \u00e4r aktuell vid g\u00e4llande dagspris.",
+        "properties": [
+          "XFX",
+          "XFX",
+          "Grafikkort",
+          "12 GB",
+          "GDDR6",
+          "VGA",
+          "HDMI",
+          "DisplayPort",
+          "PCI Express",
+          "L\u00e4ngd: 323 mm"
+        ],
+        "url": "https://www.google.se/shopping/product/8231039899317127848?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 111,
+        "review_rating": 94,
+        "price": "9887.0",
+        "gtins": [
+          "778656081260"
+        ],
+        "eans": [
+          "0778656081260"
+        ],
+        "brand_name": "XFX",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "36"
+            ]
+          },
+          {
+            "label": "Typ av enhet",
+            "value": [
+              "Grafikkort"
+            ]
+          },
+          {
+            "label": "Busstyp",
+            "value": [
+              "PCI Express 4.0 x16"
+            ]
+          },
+          {
+            "label": "Grafikmotor",
+            "value": [
+              "AMD Radeon RX 6700 XT"
+            ]
+          },
+          {
+            "label": "K\u00e4rnklocka",
+            "value": [
+              "2457 MHz"
+            ]
+          },
+          {
+            "label": "Snabbklocka",
+            "value": [
+              "2622 MHz"
+            ]
+          },
+          {
+            "label": "Str\u00f6mprocessorer",
+            "value": [
+              "2560"
+            ]
+          },
+          {
+            "label": "Processteknik",
+            "value": [
+              "7 nm"
+            ]
+          },
+          {
+            "label": "VR-f\u00f6rberedd",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Max uppl\u00f6sning",
+            "value": [
+              "7680 x 4320"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt",
+            "value": [
+              "HDMI; 3 x DisplayPort"
+            ]
+          },
+          {
+            "label": "API-st\u00f6d",
+            "value": [
+              "OpenGL",
+              "OpenCL",
+              "DirectX 12",
+              "DirectX 12 Ultimate"
+            ]
+          },
+          {
+            "label": "Teknik",
+            "value": [
+              "GDDR6 SDRAM"
+            ]
+          },
+          {
+            "label": "Minnehastighet",
+            "value": [
+              "16 Gbps"
+            ]
+          },
+          {
+            "label": "Bussbredd",
+            "value": [
+              "192-bit"
+            ]
+          },
+          {
+            "label": "Operativsystem erfordras",
+            "value": [
+              "Windows 10"
+            ]
+          },
+          {
+            "label": "Erforderligt n\u00e4taggregat",
+            "value": [
+              "650 W"
+            ]
+          },
+          {
+            "label": "Extra krav",
+            "value": [
+              "2 x 8 stifts PCI Express-str\u00f6mkontakt"
+            ]
+          },
+          {
+            "label": "Standarder som f\u00f6ljs",
+            "value": [
+              "RoHS",
+              "DisplayPort 1.4"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "32.3 cm"
+            ]
+          },
+          {
+            "label": "Emballagets bredd",
+            "value": [
+              "12.6 cm"
+            ]
+          },
+          {
+            "label": "Emballagets djup",
+            "value": [
+              "42.7 cm"
+            ]
+          },
+          {
+            "label": "Emballagets h\u00f6jd",
+            "value": [
+              "21.4 cm"
+            ]
+          },
+          {
+            "label": "Emballagets vikt",
+            "value": [
+              "1.86 kg"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "XFX"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "RX-67XT YPBDP",
+              "RX-67XTYPBDP",
+              "RX67XTYPBDP"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00778656081260"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/8231039899317127848/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "8231039899317127848",
+            "price": "9887.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9887.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7639510/xfx-speedster-qick319-radeon-rx-6700-xt-grafikkort-radeon-rx-6700-xt-12-gb-gddr6-pcie-4-0-x16-hdmi-3-x-displayport-svart",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00778656081512",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:32Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00815820020318",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:30Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00840006607397",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:34Z"
+      },
+      "content": {
+        "id": "3174190112344997897",
+        "name": "Corsair 32GB (4x8GB) DDR4 3200MHz CL16 Dominator Platinum RGB",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQETI9_wjJmaiO06sgeK1AgXTUhgDPXmucZsJrrRcWS0oPEsVs0uxEssZ5UOA&usqp=CAY",
+        "description": "Corsair Dominator Platinum RGB omdefinierar premium DDR4-minnen med tidl\u00f6s, ikonisk design, \u00f6verl\u00e4gset hantverk och en aluminiumkonstruktion som \u00e4r byggd f\u00f6r att h\u00e5lla. Drivna av noga utvalda minneschip med h\u00f6g frekvens s\u00e4kerst\u00e4ller Dominator Platinum RGB h\u00f6gfrekvensprestanda med gener\u00f6st \u00f6verklockningsutrymme tack vare en egendesignad PCB, kyld av patenterad DHX-kylteknik. Anv\u00e4nd Corsair iCUE-programvaran f\u00f6r att styra de 12 ljusstarka, individuellt adresserbara CAPELLIX RGB LED:sen.",
+        "properties": [
+          "CORSAIR",
+          "DDR4",
+          "Icke-buffrad",
+          "Med v\u00e4rmespridning",
+          "32 GB",
+          "3\u00a0200 MHz"
+        ],
+        "url": "https://www.google.se/shopping/product/3174190112344997897?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 299,
+        "review_rating": 94,
+        "price": "2999.0",
+        "gtins": [
+          "840006607397"
+        ],
+        "eans": [
+          "0840006607397"
+        ],
+        "brand_name": "CORSAIR",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "120"
+            ]
+          },
+          {
+            "label": "Kapacitet",
+            "value": [
+              "32 GB: 4 x 8 GB"
+            ]
+          },
+          {
+            "label": "Uppgraderingstyp",
+            "value": [
+              "Generisk"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "8 mm"
+            ]
+          },
+          {
+            "label": "Teknik",
+            "value": [
+              "DDR4 SDRAM"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "DIMM 288-pin"
+            ]
+          },
+          {
+            "label": "H\u00f6jd modul (tum)",
+            "value": [
+              "2.2"
+            ]
+          },
+          {
+            "label": "\u00c5tkomsttidstiming",
+            "value": [
+              "CL16 (16-18-18-36)"
+            ]
+          },
+          {
+            "label": "Data Integrity Check",
+            "value": [
+              "Icke ECC"
+            ]
+          },
+          {
+            "label": "Sp\u00e4nning",
+            "value": [
+              "1.35 V"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "CORSAIR"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "20714383222223",
+              "46892689",
+              "46896592",
+              "47027398",
+              "50856535",
+              "840006607397",
+              "CMT32GX4M4C3200C16",
+              "CMT32GX4M4C3200C16B",
+              "Dominator Platinum Rgb 32gb 3200mhz Ddr4 Sdram Dimm 288-pin",
+              "cmt32gx4m4c3200c16",
+              "corsair_46892689",
+              "corsair_46896592",
+              "corsair_47027398"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00840006607397"
+            ]
+          }
+        ],
+        "offer_count": 5,
+        "offers_url": "https://www.google.se/shopping/product/3174190112344997897/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "3174190112344997897",
+            "price": "2999.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2999.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.webhallen.com/se/product/297909-Corsair-Dominator-Platinum-RGB-32GB-4x8GB-3200MHz-DDR4-CL16-CMT32GX4M4C3200C16?channable=00c0c7696400323937393039ff",
+            "shop_name": "Webhallen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-82f3e802042",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-82f3e802042",
+            "shop_url": "www.webhallen.com",
+            "shop_domain": "webhallen.com",
+            "shop_matching_id": "webhallen.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "3174190112344997897",
+            "price": "3249.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3249.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1160309/datorutrustning/datorkomponenter/minne/corsair-dominator-rgb-ddr4-3200mhz-32gb?channable=00945369640031313630333039ae",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "3174190112344997897",
+            "price": "2690.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2690.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/5041618/corsair-dominator-platinum-rgb-ddr4-sats-32-gb-4-x-8-gb-dimm-288-pin-3200-mhz-pc4-25600-cl16-1-35-v-ej-buffrad-icke-ecc-svart",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "3174190112344997897",
+            "price": "4105.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4154.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/corsair-memory-d4-3200-32gb/cat-p/c/p1000042593",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "3174190112344997897",
+            "price": "5290.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5290.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fruugo.se/corsair-cmt32gx4m4c3200c16-dominator-platinum-hogpresterande-skrivbordsminnessats-ddr4-32-gb-4-x-8-gb-3200-mhz-rgb/p-46407947-93193828?language=sv&ac=croud&utm_source=organic_shopping&utm_medium=organic",
+            "shop_name": "fruugo.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fdf04e0f8d5",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fdf04e0f8d5",
+            "shop_url": "www.fruugo.se",
+            "shop_domain": "fruugo.se",
+            "shop_matching_id": "fruugo.se",
+            "page": 1,
+            "position": 5
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00840006611493",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:10:34Z"
+      },
+      "content": {
+        "id": "2894964550615701473",
+        "name": "Corsair DDR4 2666MHz 32GB SODIMM Mac Memory",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT7M8Pyvn762oamIjtfVj6QxZg2njXlvy8IIVzeMwUkcEXKj9CUJe4zLhA5HA&usqp=CAY",
+        "description": "De mest kr\u00e4vande applikationerna beh\u00f6ver kraftfulla och stabila minnen f\u00f6r att k\u00f6ras s\u00e5 effektivt som m\u00f6jligt. Corsair Mac Memory hj\u00e4lper till att \u00f6ka ditt systems prestanda och din produktivitet, s\u00e5 att du beh\u00f6ver spendera mindre tid p\u00e5 renderande och buffrande - och ist\u00e4llet kan l\u00e4gga tiden p\u00e5 jobb eller spelande. Corsair Mac Memory \u00e4r h\u00e5rt testade f\u00f6r att klara h\u00f6g stressniv\u00e5 samt temperaturer och \u00e4r garanterat kompatibla.",
+        "properties": [
+          "CORSAIR",
+          "DDR4",
+          "Icke-buffrad",
+          "32 GB",
+          "2\u00a0666 MHz"
+        ],
+        "url": "https://www.google.se/shopping/product/2894964550615701473?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 451,
+        "review_rating": 96,
+        "price": "1538.0",
+        "gtins": [
+          "840006611493"
+        ],
+        "eans": [
+          "0840006611493"
+        ],
+        "brand_name": "CORSAIR",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produktens m\u00e5tt",
+            "value": [
+              "6.76 x 0.41 x 3.02 cm; 15 Gram"
+            ]
+          },
+          {
+            "label": "Ursprungsland",
+            "value": [
+              "Taiwan"
+            ]
+          },
+          {
+            "label": "Limited Lifetime Warranty",
+            "value": [
+              "For your complete peace of mind."
+            ]
+          },
+          {
+            "label": "Ram-minnesteknik",
+            "value": [
+              "DDR4 SDRAM"
+            ]
+          },
+          {
+            "label": "Storlek p\u00e5 datorminne",
+            "value": [
+              "32 GB"
+            ]
+          },
+          {
+            "label": "Minneshastighet",
+            "value": [
+              "2666 MHz"
+            ]
+          },
+          {
+            "label": "Sp\u00e4nning",
+            "value": [
+              "1.2 Sp\u00e4nning"
+            ]
+          },
+          {
+            "label": "Delnummer",
+            "value": [
+              "CMSA32GX4M2A2666C18"
+            ]
+          },
+          {
+            "label": "RAM",
+            "value": [
+              "32 GB"
+            ]
+          },
+          {
+            "label": "Minneslagringskapacitet",
+            "value": [
+              "32 GB"
+            ]
+          },
+          {
+            "label": "Typ av datorminne",
+            "value": [
+              "DDR4 SDRAM"
+            ]
+          },
+          {
+            "label": "Antal artiklar",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Batterier inkluderade",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Batterier kr\u00e4vs",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "CORSAIR"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "2072346138222",
+              "49245580",
+              "61644686",
+              "840006611493",
+              "CMSA32GX4M2A2666C18",
+              "CMSA32GX4M2A266C18",
+              "cmsa32gx4m2a2666c18",
+              "corsair_49245580"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00840006611493"
+            ]
+          }
+        ],
+        "offer_count": 3,
+        "offers_url": "https://www.google.se/shopping/product/2894964550615701473/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "2894964550615701473",
+            "price": "1538.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1538.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1170077/datorutrustning/datorkomponenter/minne/corsair-ddr4-2666mhz-32gb-sodimm-mac-memory?channable=009453696400313137303037375f",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "2894964550615701473",
+            "price": "1599.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1599.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inet.se/produkt/5302414/corsair-32gb-2x16gb-ddr4-2666mhz-cl18-so-dimm-apple",
+            "shop_name": "Inet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fad01df70fc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fad01df70fc",
+            "shop_url": "www.inet.se",
+            "shop_domain": "inet.se",
+            "shop_matching_id": "inet.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "2894964550615701473",
+            "price": "1573.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1573.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/5808373/corsair-mac-memory-ddr4-sats-32-gb-2-x-16-gb-so-dimm-260-pin-2666-mhz-pc4-21300-cl18-1-2-v-ej-buffrad-icke-ecc",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00840006614852",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:34Z"
+      },
+      "content": {
+        "id": "8961339857543490427",
+        "name": "Corsair Vengeance RGB PRO DDR4 3600MHz 16GB",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQPubpkGr0pt4mv6vTE80CybdVlbh4KOsKSYlg9izcuFMNQj7YN1VKDOUUi2odH6GEe2vGAT3M&usqp=CAY",
+        "description": "Corsairs Vengeance RGB PRO-serie \u00e4r h\u00f6gpresterande arbetsminnen d\u00e4r varje modul rymmer tio stycken ljusstarka RGB LEDs. Ta kontroll \u00f6ver och styr belysningen med Corsairs iCUE-programvara och synkronisera med resten av dina iCUE-kompatibla Corsair-produkter via Light LINK. En egendesignad PCB ger den b\u00e4sta signalkvaliteten f\u00f6r h\u00f6g prestandaniv\u00e5 och stabilitet p\u00e5 de senaste DDR4-plattformarna fr\u00e5n AMD och Intel, samtidigt som handplockade kretsar \u00f6ppnar upp f\u00f6r \u00f6verklockning.",
+        "properties": [
+          "DDR4",
+          "Icke-buffrad",
+          "Med v\u00e4rmespridning",
+          "16 GB",
+          "3\u00a0600 MHz"
+        ],
+        "url": "https://www.google.se/shopping/product/8961339857543490427?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 220,
+        "review_rating": 92,
+        "price": "1085.0",
+        "gtins": [
+          "840006614852"
+        ],
+        "eans": [
+          "0840006614852"
+        ],
+        "brand_name": "Ubiquiti Networks",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produktens m\u00e5tt",
+            "value": [
+              "13.82 x 0.76 x 5.08 cm; 120 Gram"
+            ]
+          },
+          {
+            "label": "Ursprungsland",
+            "value": [
+              "Taiwan"
+            ]
+          },
+          {
+            "label": "Dynamic Multi-Zone RGB Lighting",
+            "value": [
+              "10 Ultra-bright RGB LEDs per module."
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "288-stifts DIMM"
+            ]
+          },
+          {
+            "label": "Ram-minnesteknik",
+            "value": [
+              "DDR4 SDRAM"
+            ]
+          },
+          {
+            "label": "Storlek p\u00e5 datorminne",
+            "value": [
+              "16 GB"
+            ]
+          },
+          {
+            "label": "Minneshastighet",
+            "value": [
+              "3600 MHz"
+            ]
+          },
+          {
+            "label": "Sp\u00e4nning",
+            "value": [
+              "1.35 Sp\u00e4nning"
+            ]
+          },
+          {
+            "label": "Data\u00f6verf\u00f6ringshastighet",
+            "value": [
+              "3600 Megabit per sekund"
+            ]
+          },
+          {
+            "label": "Modellnamn",
+            "value": [
+              "Vengeance RGB PRO"
+            ]
+          },
+          {
+            "label": "Delnummer",
+            "value": [
+              "CMW16GX4M2D3600C18"
+            ]
+          },
+          {
+            "label": "RAM",
+            "value": [
+              "16 GB"
+            ]
+          },
+          {
+            "label": "Minneslagringskapacitet",
+            "value": [
+              "16 GB"
+            ]
+          },
+          {
+            "label": "Typ av datorminne",
+            "value": [
+              "DDR4 SDRAM"
+            ]
+          },
+          {
+            "label": "Antal artiklar",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Batterier inkluderade",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Batterier kr\u00e4vs",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Kompatibel med",
+            "value": [
+              "288-stifts DIMM"
+            ]
+          },
+          {
+            "label": "Supports Bluetooth Technology",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Ubiquiti Networks"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "2072023189102",
+              "320125",
+              "47971421",
+              "58468651",
+              "60971848",
+              "79823867",
+              "994853956",
+              "B07TB3R9JB",
+              "CMW16GX4M2D3600C18",
+              "SNS-192-B07TB3R9JB",
+              "cmw16gx4m2d3600c18"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00840006614852"
+            ]
+          }
+        ],
+        "offer_count": 11,
+        "offers_url": "https://www.google.se/shopping/product/8961339857543490427/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "8961339857543490427",
+            "price": "1085.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1085.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1174418/datorutrustning/datorkomponenter/minne/corsair-vengeance-rgb-pro-ddr4-3600mhz-16gb?channable=00945369640031313734343138de",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "8961339857543490427",
+            "price": "1086.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1086.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inet.se/produkt/5301809/corsair-16gb-2x8gb-ddr4-3600mhz-cl18-vengeance-rgb-pro-d",
+            "shop_name": "Inet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fad01df70fc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fad01df70fc",
+            "shop_url": "www.inet.se",
+            "shop_domain": "inet.se",
+            "shop_matching_id": "inet.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "8961339857543490427",
+            "price": "1083.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1083.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/5655244/corsair-vengeance-rgb-pro-ddr4-sats-16-gb-2-x-8-gb-dimm-288-pin-3600-mhz-pc4-28800-cl18-1-35-v-ej-buffrad-icke-ecc-svart",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "8961339857543490427",
+            "price": "1125.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1125.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.alina.se/Produkt.aspx?site=gm&T2=CMW16GX4M2D3600C18",
+            "shop_name": "Alina.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3895675bbec",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3895675bbec",
+            "shop_url": "www.alina.se",
+            "shop_domain": "alina.se",
+            "shop_matching_id": "alina.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "8961339857543490427",
+            "price": "971.49",
+            "price_additional_info": null,
+            "price_with_shipping": "1038.48",
+            "shipping_costs": "66.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/corsair-minnes-ram-vengeance-cmw16gx4m2d3600c18-2x8gb-16gb-ddr4-3600mhz/138442770/p?utm_source=google_products&utm_medium=merchant&id_producte=14503668&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "8961339857543490427",
+            "price": "1020.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1119.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/433/116201/sort/1/filter/0_0_0_0/Vengeance-RGB-Pro-Black-16GB-DDR4-3600MHZ-DIMM-CMW16GX4M2D3600C18-datorminne-RAM-.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "8961339857543490427",
+            "price": "1160.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1160.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/corsair-vengeance-ddr4-16gb-kit-3600mhz-cl18-ikke-ecc-994853956-dc",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "8961339857543490427",
+            "price": "1475.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1524.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/corsair-v-rgb-pro-16gb/cat-p/c0/p1000314486",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "8961339857543490427",
+            "price": "2049.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2049.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fruugo.se/corsair-vengeance-rgb-pro-svart-ddr4-ram-3600-mhz-2x-8gb-minne/p-46408022-93193913?language=sv&ac=croud&utm_source=organic_shopping&utm_medium=organic",
+            "shop_name": "fruugo.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fdf04e0f8d5",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fdf04e0f8d5",
+            "shop_url": "www.fruugo.se",
+            "shop_domain": "fruugo.se",
+            "shop_matching_id": "fruugo.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "8961339857543490427",
+            "price": "2413.99",
+            "price_additional_info": null,
+            "price_with_shipping": "2493.98",
+            "shipping_costs": "79.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://se-unlimitedcellular.glopalstore.com/products/corsair-vengeance-rgb-pro-16gb-2x8gb-ddr4-3600-pc4-28800-c18-desktop-memory-black?variant=32875418288209",
+            "shop_name": "Unlimited Cellular SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-dcc28d2b063",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-dcc28d2b063",
+            "shop_url": "se-unlimitedcellular.glopalstore.com",
+            "shop_domain": "glopalstore.com",
+            "shop_matching_id": "glopalstore.com",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "8961339857543490427",
+            "price": "1499.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1558.0",
+            "shipping_costs": "59.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplettforetag.se/product/1174418/datorkomponenter/minne/minne/corsair-vengeance-rgb-pro-ddr4-3600mhz-16gb",
+            "shop_name": "Komplett F\u00f6retag",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9edf77b141d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9edf77b141d",
+            "shop_url": "www.komplettforetag.se",
+            "shop_domain": "komplettforetag.se",
+            "shop_matching_id": "komplettforetag.se",
+            "page": 1,
+            "position": 11
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00843591085953",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:33Z"
+      },
+      "content": {
+        "id": "10026352414213991258",
+        "name": "Corsair Gaming K95 RGB Platinum MX Brown",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQNRt73kejjEmXMQpAS12uVPEdxlEJ8R83xTjB2WbMLfPC7N0TzYs0fjXXdmstVO08iEFvqPrY&usqp=CAY",
+        "description": "Du bad om allt. H\u00e4r \u00e4r det. Corsair K95 RGB PLATINUM har CHERRY MX Brown tangentomkopplare backas upp av en l\u00e4tt aluminiumram. 8 MB profillagring med h\u00e5rdvarumacro och belysningsuppspelning till\u00e5ter profil\u00e5tkomst oberoende av extern programvara. Utnyttja den 19-zoniga LightEdge f\u00f6r att l\u00e4gga till dramatiska animationer och effekter. Dra nytta av de 6 programmerbara G-knapparna f\u00f6r makron i spelet.100 % antighosting med full tangent-rollover p\u00e5 USB s\u00e4kerst\u00e4ller att varje tangenttryckning \u00f6vers\u00e4tts direkt till korrekt gameplay. Pass-through USB-porten ger bekv\u00e4m tillg\u00e5ng till en extra USB-port f\u00f6r mus eller headset. Dedikerade volym- och multimediakontroller l\u00e5ter dig justera din audio utan att avbryta ditt spel. Mycket l\u00e4tt och h\u00e5llbar svart anodiserad borstad aluminiumfinish Byggd f\u00f6r att t\u00e5la en livstid av gaming. L\u00e4tt och robust h\u00e5llbarhet som du beh\u00f6ver f\u00f6r ett tangentbord som kommer se en hel del action. 8MB profillagring med h\u00e5rdvarumakro och belysningsuppspelning Till\u00e5t \u00e5tkomst upp till tre lagrade profiler p\u00e5 spr\u00e5ng, oberoende av extern programvara. Dynamisk multicolor per tangentbakgrundsbelysning med LightEdge Justera varje tangentf\u00e4rg och belysning plus 19-zoner p\u00e5 ljusf\u00e4ltet h\u00f6gst upp f\u00f6r sofistikerade och dramatiska animationer och effekter.",
+        "properties": [
+          "Bakbelyst",
+          "Mekaniskt",
+          "Tr\u00e5dbunden",
+          "QWERTY",
+          "Windows",
+          "PC"
+        ],
+        "url": "https://www.google.se/shopping/product/10026352414213991258?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 28,
+        "review_rating": 92,
+        "price": "1390.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "Gamingtangentbord",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Gamingtangentbord"
+            ]
+          },
+          {
+            "label": "Signal\u00f6verf\u00f6ring",
+            "value": [
+              "Tr\u00e5dad"
+            ]
+          },
+          {
+            "label": "Antal knappar",
+            "value": [
+              "122"
+            ]
+          },
+          {
+            "label": "Tangentbordslayout",
+            "value": [
+              "QWERTY"
+            ]
+          },
+          {
+            "label": "Tangentbordsteknologi",
+            "value": [
+              "Mechanical"
+            ]
+          },
+          {
+            "label": "Tangentbordets storlek",
+            "value": [
+              "Full storlek"
+            ]
+          },
+          {
+            "label": "Bakgrundsbelyst",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Anti-ghosting",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Anslutningar",
+            "value": [
+              "USB"
+            ]
+          },
+          {
+            "label": "Handledsst\u00f6d",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Switchar",
+            "value": [
+              "Cherry MX Brown"
+            ]
+          },
+          {
+            "label": "Systemkrav",
+            "value": [
+              "PC med 2 st USB 2.0-portar"
+            ]
+          },
+          {
+            "label": "Bredd (tangentbord)",
+            "value": [
+              "465 mm"
+            ]
+          },
+          {
+            "label": "H\u00f6jd (tangentbord)",
+            "value": [
+              "36 mm"
+            ]
+          },
+          {
+            "label": "Djup (tangentbord)",
+            "value": [
+              "171 mm"
+            ]
+          },
+          {
+            "label": "Vikt (tangentbord)",
+            "value": [
+              "1.32 kg"
+            ]
+          },
+          {
+            "label": "Medf\u00f6ljande tillbeh\u00f6r",
+            "value": [
+              "Avtagbart handledsst\u00f6d"
+            ]
+          }
+        ],
+        "offer_count": 8,
+        "offers_url": "https://www.google.se/shopping/product/10026352414213991258/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10026352414213991258",
+            "price": "1390.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1390.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.webhallen.com/se/product/261053-Corsair-Gaming-K95-RGB-PLATINUM-Cherry-MX-Brown?channable=00c0c769640032363130353369",
+            "shop_name": "Webhallen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-82f3e802042",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-82f3e802042",
+            "shop_url": "www.webhallen.com",
+            "shop_domain": "webhallen.com",
+            "shop_matching_id": "webhallen.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "10026352414213991258",
+            "price": "1989.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1989.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/910177/gaming/spelutrustning/gamingtangentbord/corsair-gaming-k95-platinum-gamingtangentbord?channable=009453696400393130313737b3",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "10026352414213991258",
+            "price": "1949.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2018.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011004827/gaming-k95-rgb-platinum?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "10026352414213991258",
+            "price": "1990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1990.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.alina.se/Produkt.aspx?site=gm&T2=CH-9127012-ND",
+            "shop_name": "Alina.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3895675bbec",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3895675bbec",
+            "shop_url": "www.alina.se",
+            "shop_domain": "alina.se",
+            "shop_matching_id": "alina.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "10026352414213991258",
+            "price": "2190.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2190.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/3269073/corsair-gaming-k95-rgb-platinum-mechanical-tangentbord-bakgrundsbelyst-usb-nordisk-tangentbrytare-cherry-mx-brown-svart",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "10026352414213991258",
+            "price": "2245.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2294.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/corsair-gaming-k95-rgb-platinum/cat-p/c/p9296654",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "10026352414213991258",
+            "price": "2254.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2254.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/corsair-gaming-k95-rgb-platinum-cherry-mx-brown-black",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "10026352414213991258",
+            "price": "2190.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2249.0",
+            "shipping_costs": "59.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplettforetag.se/product/910177/datorutrustning/mustangentbord/gamingtangentbord/corsair-gaming-k95-platinum-gamingtangentbord",
+            "shop_name": "Komplett F\u00f6retag",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9edf77b141d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9edf77b141d",
+            "shop_url": "www.komplettforetag.se",
+            "shop_domain": "komplettforetag.se",
+            "shop_matching_id": "komplettforetag.se",
+            "page": 1,
+            "position": 8
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00882780349605",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:30Z"
+      },
+      "content": {
+        "id": "17450386710157936440",
+        "name": "Q8692A - Fotopapper HP 250 gr. glossy 10x15 cm (100 ark)",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJz94SIGayLbEnV2iB9fEuAxfUywIDXpXoenzXkgMfrRIxtm8tRBJB9PKL6vU7NxlhL1Y87WetKQ&usqp=CAY",
+        "description": "Observera, denna text \u00e4r maskin\u00f6versatt. Utskriftskvalitet med varma, levande f\u00e4rger och en imponerande finish. Eftersom bilderna torkar direkt s\u00e5 att du kan hantera dem direkt fr\u00e5n skrivaren hand utan smetar.",
+        "properties": [
+          "HP",
+          "Foto",
+          "Klister"
+        ],
+        "url": "https://www.google.se/shopping/product/17450386710157936440?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 2013,
+        "review_rating": 94,
+        "price": "117.0",
+        "gtins": [
+          "882780349605"
+        ],
+        "eans": [
+          "0882780349605"
+        ],
+        "brand_name": "HP",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Emballagets bredd",
+            "value": [
+              "18.1 cm"
+            ]
+          },
+          {
+            "label": "Emballagets djup",
+            "value": [
+              "12.4 cm"
+            ]
+          },
+          {
+            "label": "Emballagets h\u00f6jd",
+            "value": [
+              "3.3 cm"
+            ]
+          },
+          {
+            "label": "Mediatyp",
+            "value": [
+              "Fotopapper"
+            ]
+          },
+          {
+            "label": "Ytbel\u00e4ggning",
+            "value": [
+              "Blank"
+            ]
+          },
+          {
+            "label": "Mediestorlekar",
+            "value": [
+              "100 x 150 mm"
+            ]
+          },
+          {
+            "label": "Medf\u00f6ljande antal",
+            "value": [
+              "100 ark"
+            ]
+          },
+          {
+            "label": "Medievikt",
+            "value": [
+              "250 g/m\u00b2"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "HP"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "0882780349605",
+              "1294996",
+              "1374722",
+              "220900",
+              "316703-752",
+              "46572122",
+              "58556938",
+              "62924510",
+              "76836841",
+              "83710177",
+              "882780349605",
+              "943MEV0",
+              "943MEV0/Q8692A",
+              "987693700",
+              "HP-Q8692A",
+              "HPQ8692A",
+              "HYG-882780349605",
+              "Q8692A",
+              "S55109087",
+              "q8692a"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00882780349605"
+            ]
+          }
+        ],
+        "offer_count": 14,
+        "offers_url": "https://www.google.se/shopping/product/17450386710157936440/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "17450386710157936440",
+            "price": "117.0",
+            "price_additional_info": null,
+            "price_with_shipping": "117.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.power.se/datorer/skrivare-och-scanners/skrivarpapper/10x15-advanced-glossy-photo-paper-250-g/p-175392/",
+            "shop_name": "Power.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12a02cb9685",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12a02cb9685",
+            "shop_url": "www.power.se",
+            "shop_domain": "power.se",
+            "shop_matching_id": "power.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "17450386710157936440",
+            "price": "117.0",
+            "price_additional_info": null,
+            "price_with_shipping": "117.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Papper-Fotopapper-Etiketter/HP-Advanced-Glossy-Photo-Paper-250gm2-100-sheets/2027990?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "17450386710157936440",
+            "price": "110.99",
+            "price_additional_info": null,
+            "price_with_shipping": "194.98",
+            "shipping_costs": "83.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/hp-q8692a/137457437/p?utm_source=google_products&utm_medium=merchant&id_producte=10248592&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "17450386710157936440",
+            "price": "146.0",
+            "price_additional_info": null,
+            "price_with_shipping": "186.0",
+            "shipping_costs": "40.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/143174/hp-advanced-glossy-photo-paper-blank-100-x-150-mm-250-g-m-100-ark-fotopapper-f%C3%B6r-deskjet-2622-envy-50xx-76xx-officejet-52xx",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "17450386710157936440",
+            "price": "151.0",
+            "price_additional_info": null,
+            "price_with_shipping": "200.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/hp-advanced-glaettat-fotopapper-100/cat-p/c/p1112855",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "17450386710157936440",
+            "price": "127.5",
+            "price_additional_info": null,
+            "price_with_shipping": "162.5",
+            "shipping_costs": "35.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.123ink.se/HP-Q8692A-Advanced-Glossy-photo-paper-250g-10-x-15-cm-borderless-100-ark-i10028-t12471.html?referer=google&utm_source=google&utm_medium=organic&utm_campaign=free-listings&utm_term=PF_064864_0882780349605_Q8692A_FL",
+            "shop_name": "123Ink.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-781a7e6e4ae",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-781a7e6e4ae",
+            "shop_url": "www.123ink.se",
+            "shop_domain": "123ink.se",
+            "shop_matching_id": "123ink.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "17450386710157936440",
+            "price": "169.0",
+            "price_additional_info": null,
+            "price_with_shipping": "169.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.hp.com/se-sv/shop/product.aspx?id=Q8692A&opt=&sel=SUP&lang=sv-SE&jumpID=ps_6jytiqsmpx/sf:_sku:Q8692A",
+            "shop_name": "HP Store",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-6ce1c1e22cb",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-6ce1c1e22cb",
+            "shop_url": "www.hp.com",
+            "shop_domain": "hp.com",
+            "shop_matching_id": "hp.com",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "17450386710157936440",
+            "price": "169.0",
+            "price_additional_info": null,
+            "price_with_shipping": "169.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.hp.com/se-sv/shop/product.aspx?id=Q8692A&opt=&sel=SUP&lang=sv-SE",
+            "shop_name": "HP Store",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-6ce1c1e22cb",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-6ce1c1e22cb",
+            "shop_url": "www.hp.com",
+            "shop_domain": "hp.com",
+            "shop_matching_id": "hp.com",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "17450386710157936440",
+            "price": "165.0",
+            "price_additional_info": null,
+            "price_with_shipping": "234.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5010099012/papper-photo-advanced-glossy-10x15cm-100-ark-250g?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "17450386710157936440",
+            "price": "168.0",
+            "price_additional_info": null,
+            "price_with_shipping": "217.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.teknikproffset.se/hp-q8692a-fotopapper-svart-bla-vit-glansigt",
+            "shop_name": "Teknikproffset.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b1c12f7fe91",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b1c12f7fe91",
+            "shop_url": "www.teknikproffset.se",
+            "shop_domain": "teknikproffset.se",
+            "shop_matching_id": "teknikproffset.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "17450386710157936440",
+            "price": "199.0",
+            "price_additional_info": null,
+            "price_with_shipping": "268.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.conrad.se/p/-1374722?vat=true&utm_source=google&utm_medium=surfaces&utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_term=1374722",
+            "shop_name": "Conrad.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-243c865299c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-243c865299c",
+            "shop_url": "www.conrad.se",
+            "shop_domain": "conrad.se",
+            "shop_matching_id": "conrad.se",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "17450386710157936440",
+            "price": "322.05",
+            "price_additional_info": null,
+            "price_with_shipping": "421.05",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/skrivarpapper-hp-q8692a-p86715235",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 12
+          },
+          {
+            "id": null,
+            "product_id": "17450386710157936440",
+            "price": "207.0",
+            "price_additional_info": null,
+            "price_with_shipping": "246.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/hp-advanced-fotopapir-100-x-150-mm-100ark",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 13
+          },
+          {
+            "id": null,
+            "product_id": "17450386710157936440",
+            "price": "209.99",
+            "price_additional_info": null,
+            "price_with_shipping": "209.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://shopbetter.se/shop/product/printer-paper-hp-q8692a_265276?cvt=GMC",
+            "shop_name": "Shopbetter.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4420f3e3978",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4420f3e3978",
+            "shop_url": "shopbetter.se",
+            "shop_domain": "shopbetter.se",
+            "shop_matching_id": "shopbetter.se",
+            "page": 1,
+            "position": 14
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00884962161142",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:10:35Z"
+      },
+      "content": {
+        "id": "8827714885020071010",
+        "name": "HP 126A (CE312A) GUL TONER",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ-khl0r6J7CitKAFvX5EvhpD0PEcE7p_aUvYCeHMjJgaIpgdnFxzwJrNN3bLGGt11LKsPqYf40&usqp=CAY",
+        "description": "HP 126 Laser Jet utskriftsf\u00f6rbrukningsartiklar skriver ut textdokument och marknadsf\u00f6ringsmaterial av h\u00f6g klass. Tonerns glans ger grafik och bilder av fotokvalitet. G\u00f6r ett professionellt intryck - du f\u00e5r resultat av aff\u00e4rskvalitet p\u00e5 m\u00e5nga olika typer av laserpapper. G\u00f6r ett professionellt intryck genom att skriva ut i\u00f6gonfallande f\u00e4rgdokument och marknadsf\u00f6ringsmaterial Ge dokumenten maximal genomslagskraft med livfulla f\u00e4rger. R\u00e4kna med tillf\u00f6rlitliga utskrifter och resultat av h\u00f6g kvalitet vid tuffa milj\u00f6f\u00f6rh\u00e5llanden R\u00e4kna med tillf\u00f6rlitliga utskrifter och resultat av h\u00f6g kvalitet under tuffa milj\u00f6f\u00f6rh\u00e5llanden. K\u00f6p f\u00f6rbrukningsartiklar utan kr\u00e5ngel med HP Sure Supply HP hj\u00e4lper dig att \u00e5tervinna dina tonerkassetter - det \u00e4r enkelt och kostnadsfritt med HP Planet Partners-programmet.",
+        "properties": [
+          "Samsung",
+          "Laser",
+          "Med flera f\u00e4rger",
+          "Flerpack",
+          "Utskriftskapacitet: 1\u00a0000 sidor (svart)",
+          "Utskriftskapacitet: 1\u00a0000 sidor (f\u00e4rg)"
+        ],
+        "url": "https://www.google.se/shopping/product/8827714885020071010?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 1802,
+        "review_rating": 92,
+        "price": "729.0",
+        "gtins": [
+          "884962161142"
+        ],
+        "eans": [
+          "0884962161142"
+        ],
+        "brand_name": "Samsung",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Sidor",
+            "value": [
+              "1000"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Samsung"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "0884962161142",
+              "107",
+              "1252785",
+              "134457-019",
+              "1619644",
+              "2242070",
+              "226183",
+              "25475091",
+              "39736481",
+              "44337750",
+              "45485700",
+              "474243",
+              "53144",
+              "54269-217",
+              "56843",
+              "58297345",
+              "6810606",
+              "78991",
+              "88",
+              "881908",
+              "882280",
+              "884962161142",
+              "94337RP/CE312A",
+              "CE312A",
+              "HP-CE312A",
+              "HPCE312A",
+              "S0204918",
+              "S55109635",
+              "ce312a",
+              "hp_ce312a",
+              "hp_hpce312a",
+              "hpce312a"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00884962161142"
+            ]
+          }
+        ],
+        "offer_count": 20,
+        "offers_url": "https://www.google.se/shopping/product/8827714885020071010/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "8827714885020071010",
+            "price": "699.0",
+            "price_additional_info": null,
+            "price_with_shipping": "699.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/dator-surfplatta/skrivare-scanner/blackpatroner-och-lasertoner/lasertoner/hp-ce312a/158148.15303/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "8827714885020071010",
+            "price": "545.0",
+            "price_additional_info": null,
+            "price_with_shipping": "584.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inky.se/inkysepla?PS=CE312A",
+            "shop_name": "Inky",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f01ff2ed855",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f01ff2ed855",
+            "shop_url": "www.inky.se",
+            "shop_domain": "inky.se",
+            "shop_matching_id": "inky.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "8827714885020071010",
+            "price": "612.0",
+            "price_additional_info": null,
+            "price_with_shipping": "652.0",
+            "shipping_costs": "40.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/905344/hp-126a-gul-original-laserjet-tonerkassett-ce312a-f%C3%B6r-color-laserjet-pro-cp1025-laserjet-pro-mfp-m175-topshot-laserjet-pro",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "8827714885020071010",
+            "price": "555.0",
+            "price_additional_info": null,
+            "price_with_shipping": "590.0",
+            "shipping_costs": "35.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.123ink.se/HP-126A-CE312A-gul-toner-original-i13832-t16931.html",
+            "shop_name": "123Ink.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-781a7e6e4ae",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-781a7e6e4ae",
+            "shop_url": "www.123ink.se",
+            "shop_domain": "123ink.se",
+            "shop_matching_id": "123ink.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "8827714885020071010",
+            "price": "559.0",
+            "price_additional_info": null,
+            "price_with_shipping": "608.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tonerlagret.se/CE312A",
+            "shop_name": "Tonerlagret",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a2465f3d42c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a2465f3d42c",
+            "shop_url": "www.tonerlagret.se",
+            "shop_domain": "tonerlagret.se",
+            "shop_matching_id": "tonerlagret.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "8827714885020071010",
+            "price": "729.0",
+            "price_additional_info": null,
+            "price_with_shipping": "778.95",
+            "shipping_costs": "49.95",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.clasohlson.com/se/Toner-HP-126A/p/38-5133?utm_source=google&utm_medium=organic&utm_campaign=google%20surfaces",
+            "shop_name": "Clas Ohlson Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-5e99f6322e9",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5e99f6322e9",
+            "shop_url": "www.clasohlson.com",
+            "shop_domain": "clasohlson.com",
+            "shop_matching_id": "clasohlson.com",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "8827714885020071010",
+            "price": "700.0",
+            "price_additional_info": null,
+            "price_with_shipping": "785.0",
+            "shipping_costs": "85.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.kontorsgiganten.se/toner-ce312a-p-881908.html?from=gpla",
+            "shop_name": "Kontorsgiganten",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-96fb01f6fd7",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-96fb01f6fd7",
+            "shop_url": "www.kontorsgiganten.se",
+            "shop_domain": "kontorsgiganten.se",
+            "shop_matching_id": "kontorsgiganten.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "8827714885020071010",
+            "price": "664.99",
+            "price_additional_info": null,
+            "price_with_shipping": "748.98",
+            "shipping_costs": "83.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/hp-126a-toner/136193666/p?utm_source=google_products&utm_medium=merchant&id_producte=3803529&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "8827714885020071010",
+            "price": "700.0",
+            "price_additional_info": null,
+            "price_with_shipping": "700.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Skrivartillbehoer-blaeck-toner/HP-126A-CE312A-Yellow-Toner-Tonerkassett-Yellow/2235256?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "8827714885020071010",
+            "price": "692.0",
+            "price_additional_info": null,
+            "price_with_shipping": "731.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inkpro.se/produkter/4483-hp-color-laserjet-pro-cp-1025/53144-hp-126a-gul-toner-1-000-sidor-original-hp-ce312a-gul-toner/",
+            "shop_name": "inkpro.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-17b29003214",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-17b29003214",
+            "shop_url": "www.inkpro.se",
+            "shop_domain": "inkpro.se",
+            "shop_matching_id": "inkpro.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "8827714885020071010",
+            "price": "692.0",
+            "price_additional_info": null,
+            "price_with_shipping": "731.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inkpro.se/produkter/4483-hp-color-laserjet-pro-cp-1025/53144-hp-126a-gul-toner-1-000-sidor-original-hp-ce312a-gul-toner/",
+            "shop_name": "Inkpro",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f15cbf32f25",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f15cbf32f25",
+            "shop_url": "www.inkpro.se",
+            "shop_domain": "inkpro.se",
+            "shop_matching_id": "inkpro.se",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "8827714885020071010",
+            "price": "652.0",
+            "price_additional_info": null,
+            "price_with_shipping": "717.0",
+            "shipping_costs": "65.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.wesellcd.com/affiliate/redirect.php?ID=gglshse&page=products&product_id=16386",
+            "shop_name": "Wesellcd.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9f63d52d8d1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9f63d52d8d1",
+            "shop_url": "www.wesellcd.com",
+            "shop_domain": "wesellcd.com",
+            "shop_matching_id": "wesellcd.com",
+            "page": 1,
+            "position": 12
+          },
+          {
+            "id": null,
+            "product_id": "8827714885020071010",
+            "price": "735.07",
+            "price_additional_info": null,
+            "price_with_shipping": "794.27",
+            "shipping_costs": "59.2",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.papperskungen.se/tonerhpce312a126a1kgul-p-13675.html",
+            "shop_name": "Papperskungen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-40e655aeac2",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-40e655aeac2",
+            "shop_url": "www.papperskungen.se",
+            "shop_domain": "papperskungen.se",
+            "shop_matching_id": "papperskungen.se",
+            "page": 1,
+            "position": 13
+          },
+          {
+            "id": null,
+            "product_id": "8827714885020071010",
+            "price": "849.0",
+            "price_additional_info": null,
+            "price_with_shipping": "849.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.hp.com/se-sv/shop/product.aspx?id=CE312A&opt=&sel=SUP&lang=sv-SE",
+            "shop_name": "HP Store",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-6ce1c1e22cb",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-6ce1c1e22cb",
+            "shop_url": "www.hp.com",
+            "shop_domain": "hp.com",
+            "shop_matching_id": "hp.com",
+            "page": 1,
+            "position": 14
+          },
+          {
+            "id": null,
+            "product_id": "8827714885020071010",
+            "price": "849.0",
+            "price_additional_info": null,
+            "price_with_shipping": "849.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.hp.com/se-sv/shop/product.aspx?id=CE312A&opt=&sel=SUP&lang=sv-SE&jumpID=ps_6jytiqsmpx/sf:_sku:CE312A",
+            "shop_name": "HP Store",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-6ce1c1e22cb",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-6ce1c1e22cb",
+            "shop_url": "www.hp.com",
+            "shop_domain": "hp.com",
+            "shop_matching_id": "hp.com",
+            "page": 1,
+            "position": 15
+          },
+          {
+            "id": null,
+            "product_id": "8827714885020071010",
+            "price": "879.0",
+            "price_additional_info": null,
+            "price_with_shipping": "928.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inkclub.com/gosesvpla?PS=CE312A",
+            "shop_name": "inkClub",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f3e5aaa55de",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f3e5aaa55de",
+            "shop_url": "www.inkclub.com",
+            "shop_domain": "inkclub.com",
+            "shop_matching_id": "inkclub.com",
+            "page": 1,
+            "position": 16
+          },
+          {
+            "id": null,
+            "product_id": "8827714885020071010",
+            "price": "873.75",
+            "price_additional_info": null,
+            "price_with_shipping": "873.75",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.officedepot.se/produkter/teknik-2130/black-toner-3700/toner-trummor-3089/toner-hp-126a-ce312a-gul-1200-sidor-p2242070",
+            "shop_name": "Office Depot",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-f7dfe4fbd5e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f7dfe4fbd5e",
+            "shop_url": "www.officedepot.se",
+            "shop_domain": "officedepot.se",
+            "shop_matching_id": "officedepot.se",
+            "page": 1,
+            "position": 17
+          },
+          {
+            "id": null,
+            "product_id": "8827714885020071010",
+            "price": "1199.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1199.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.power.se/datorer/skrivare-och-scanners/toner/hp-126a-ce312a-gul-toner/p-189440/",
+            "shop_name": "Power.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12a02cb9685",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12a02cb9685",
+            "shop_url": "www.power.se",
+            "shop_domain": "power.se",
+            "shop_matching_id": "power.se",
+            "page": 1,
+            "position": 18
+          },
+          {
+            "id": null,
+            "product_id": "8827714885020071010",
+            "price": "785.0",
+            "price_additional_info": null,
+            "price_with_shipping": "785.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.112ink.se/112gosepla?PS=CE312A",
+            "shop_name": "112ink SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4cc2bc7d476",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4cc2bc7d476",
+            "shop_url": "www.112ink.se",
+            "shop_domain": "112ink.se",
+            "shop_matching_id": "112ink.se",
+            "page": 1,
+            "position": 19
+          },
+          {
+            "id": null,
+            "product_id": "8827714885020071010",
+            "price": "849.0",
+            "price_additional_info": null,
+            "price_with_shipping": "849.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.teknikproffset.se/hp-126a-tonerkassett-1-styck-original-gul",
+            "shop_name": "Teknikproffset.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b1c12f7fe91",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b1c12f7fe91",
+            "shop_url": "www.teknikproffset.se",
+            "shop_domain": "teknikproffset.se",
+            "shop_matching_id": "teknikproffset.se",
+            "page": 1,
+            "position": 20
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04548736116603",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:10:30Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "success": false,
+      "reason": "error",
+      "source": "google-shopping",
+      "country": "se",
+      "key": "gtin",
+      "value": "04548736121881",
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04548736121881",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      }
+    }
+  ]
+}

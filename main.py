@@ -1,0 +1,201 @@
+import json
+import asyncio
+import base64
+from typing import Literal, Optional, TypedDict, Any
+
+import structlog
+
+from sherlock_offer_scrapers import helpers
+from sherlock_offer_scrapers.scrapers import (
+    pricerunner,
+    kelkoo,
+    idealo,
+    google_shopping,
+    kuantokusta,
+)
+
+
+helpers.structlog.config_structlog()
+logger = structlog.get_logger()
+
+
+class Payload(TypedDict):
+    created_at: int
+    product_id: Optional[int]
+    gtin: Optional[str]
+    sku: Optional[str]
+    product_token: str
+    offer_fetch_complete: bool
+    offer_urls: dict[str, list[str]]
+    user_country: str
+    triggered_by: dict[str, Any]
+    target_countries: Optional[list[str]]
+
+
+OfferSourceType = Literal[
+    "prisjakt",
+    "pricerunner",
+    "kelkoo",
+    "idealo",
+    "geizhals",
+    "guenstiger",
+    "ebay",
+    "ceneo",
+    "google_shopping",
+    "kuantokusta",
+]
+
+
+def sherlock_prisjakt(event, context):
+    """Search for offers on Prisjakt for a product."""
+    payload: Payload = json.loads(base64.b64decode(event["data"]))
+    _sherlock_scrape("prisjakt", payload)
+
+
+def sherlock_pricerunner(event, context):
+    """Search for offers on Pricerunner for a product."""
+    payload: Payload = json.loads(base64.b64decode(event["data"]))
+    _sherlock_scrape("pricerunner", payload)
+
+
+def sherlock_kelkoo(event, context):
+    """Search for offers on Kelkoo for a product."""
+    payload: Payload = json.loads(base64.b64decode(event["data"]))
+    _sherlock_scrape("kelkoo", payload)
+
+
+def sherlock_idealo(event, context):
+    """Search for offers on Idealo for a product."""
+    payload: Payload = json.loads(base64.b64decode(event["data"]))
+    _sherlock_scrape("idealo", payload)
+
+
+def sherlock_gs_offers(event, context):
+    payload: Payload = json.loads(base64.b64decode(event["data"]))
+
+    # Only trigger for our b2b-flow
+    if payload["triggered_by"]["source"] != "b2b_job":
+        logger.msg("Skipping search. Google shopping is only enabled for b2b")
+        return
+
+    _sherlock_scrape("google_shopping", payload)
+
+
+def sherlock_kuantokusta(event, context):
+    payload: Payload = json.loads(base64.b64decode(event["data"]))
+    if (
+        "source" not in payload["triggered_by"]
+        or payload["triggered_by"]["source"] != "b2b_job"
+    ):
+        return  # ignore kuanto kusta for non b2b to avoid burning scrapfly credits
+
+    _sherlock_scrape("kuantokusta", payload)
+
+
+def _sherlock_scrape(offer_source: OfferSourceType, payload: Payload) -> None:
+    gtin = payload.get("gtin", None)
+    sku = payload.get("sku", None)
+
+    if (
+        "source" in payload["triggered_by"]
+        and payload["triggered_by"]["source"] == "b2b_job"
+        and "requested_sources" in payload["triggered_by"]
+        and payload["triggered_by"]["requested_sources"]
+        and offer_source not in payload["triggered_by"]["requested_sources"]
+    ):
+        logger.info(
+            "Skipping execution, because the source is not listed in requested list: ",
+            payload=payload,
+            offer_source=offer_source,
+        )
+        return
+
+    logger.info(
+        "offer-scraping-started",
+        offer_source=offer_source,
+        payload=payload,
+        gtin=gtin,
+    )
+
+    cached_offer_urls = payload.get("offer_urls")
+    offers = []
+    exceptions: list[tuple[Exception, str]] = []
+    cached_offer_single_url = {
+        k: l[0] for k, l in cached_offer_urls.items() if len(l) >= 1
+    }
+
+    # We enabled searching by SKU only on Google Shopping through the cache
+    if not gtin and offer_source != "google_shopping":
+        pass
+
+    try:
+        if offer_source == "prisjakt":
+            pass
+        elif offer_source == "pricerunner":
+            offers = pricerunner.scrape(gtin, cached_offer_single_url)
+        elif offer_source == "kelkoo":
+            offers = kelkoo.scrape(gtin)
+        elif offer_source == "idealo":
+            offers = idealo.scrape(gtin, cached_offer_single_url)
+        elif offer_source == "google_shopping":
+            default_countries = [
+                "SE",
+                "FI",
+                "NO",
+                "DK",
+                "DE",
+                "UK",
+                "NL",
+                "PL",
+                "CZ",
+                "FR",
+                # "IT",
+                # "BE",
+                # "IE",
+                # "PT",
+                # "CH",
+                # "GR",
+                # "SK",
+                # "RO",
+                # "HU",
+            ]
+
+            if (
+                "triggered_by" in payload
+                and "target_countries" in payload["triggered_by"]
+                and payload["triggered_by"]["target_countries"]
+            ):
+                countries = payload["triggered_by"]["target_countries"]
+            else:
+                countries = default_countries
+
+            offers, exceptions = asyncio.run(
+                google_shopping.scrape(
+                    gtin,
+                    sku,
+                    cached_offer_urls,
+                    countries,
+                )
+            )
+        elif offer_source == "kuantokusta":
+            offers = kuantokusta.scrape(gtin)
+        else:
+            raise Exception(f"Offer source {offer_source} not supported.")
+
+        for (ex, country) in exceptions:
+            logger.error(
+                "error when fetching offers",
+                error=ex,
+                country=country,
+                gtin=gtin,
+                offer_source=offer_source,
+            )
+
+        if len(exceptions) > 0:
+            raise exceptions[0][0]
+
+    except Exception as ex:
+        logger.exception("exception", exc_info=ex)
+        raise ex
+    finally:
+        helpers.offers.publish_offers(payload, offers, offer_source)

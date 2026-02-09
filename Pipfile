@@ -1,0 +1,39 @@
+[scripts]
+unit-test = "pytest -m unit"
+integration-test = "pytest -m integration"
+mypy = "mypy ."
+demo = "dotenv run -- python demo.py"
+
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[requires]
+python_version = "3.9"
+
+[packages]
+requests = "~=2.26"
+unidecode = "~=1.2"
+beautifulsoup4 = "~=4.9"
+google-cloud-pubsub = "~=2.4"
+structlog = "~=21.2"
+types-requests = "*"
+price-parser = "~=0.3"
+pydash = "*"
+google-cloud-storage = "*"
+brotli = "~=1.1.0"
+http3 = "*"
+tqdm = "*"
+pydantic-settings = "*"
+psycopg2-binary = "*"
+
+[dev-packages]
+mypy = {extras = [ "cli",], version = "0.910"}
+pytest = "*"
+black = "==21.4b2"
+python-dotenv = "*"
+typer = "*"
+
+[pipenv]
+allow_prereleases = true

@@ -1,0 +1,3517 @@
+{
+  "job_id": "62b9b8deb6693f27194b9309",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 20,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00818242864911",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:24Z"
+      },
+      "content": {
+        "id": "17892979801934463990",
+        "name": "Kit M\u00e1quina Fotogr\u00e1fica Reflex NIKON D7500 Corpo + cart\u00e3o SD de 64GB + bolsa para c\u00e2mera + bateria EN-EL15A + leitor de cart\u00e3o de mem\u00f3ria",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzMcjY0rSMTk6_KqxatWdWJBwd8JzJcADhZT0QyHlJS_wSCbhlFQEgy0_Xetv-zByziW0maJyQdBQkQLaq_4nIbgPMK3Gsp4NnF9GKqNbFvIWyFlCb5W46xrmcvNdqjbm2MGf4kZctRhL6oiJWkwX40kTBw3f4FWV3RHNECKjV-ygbsWJIuRotyxeEZg8EHa-pC4Tc6=s512-pd-pc0x00ffffff",
+        "description": "Apta para a noite. Incr\u00edvel sensibilidade \u00e0 luz. Excelente em condi\u00e7\u00f5es de ilumina\u00e7\u00e3o reduzida. Gra\u00e7as \u00e0 sensibilidade de 100-51200 ISO, extens\u00edvel at\u00e9 1640000 ISO (equivalente), a D7500 n\u00e3o tem medo da escurid\u00e3o. Capte os detalhes. Excecional rec...",
+        "properties": [
+          "CMOS",
+          "Com v\u00eddeo",
+          "Com estabiliza\u00e7\u00e3o de imagem"
+        ],
+        "url": "https://www.google.pt/shopping/product/17892979801934463990?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/17892979801934463990/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "17892979801934463990",
+            "price": "1157.0",
+            "price_additional_info": [],
+            "price_with_shipping": "1157.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/fotografia-e-drones/maquinas-fotograficas/maquinas-fotograficas-reflex-dslr/kit-maquina-fotografica-reflex-nikon-d7500-corpo-cartao-sd-de-64gb-bolsa-para-camera-bateria-en-el15a-leitor-de-cartao-de-memoria-MRKEAN-0818242864911",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03507460152197",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:28Z"
+      },
+      "content": {
+        "id": "2693465740322972638",
+        "name": "Zy Safe Cadeira Auto Premium Isofix One 360o (Grupo 0/1/2/3 - Cinzento)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwlnVz3AISquDPXk_wTIvY_q9yJMJVfdhCzc0Z0wdhmINb0j8HzdxqWrHedAT7Pl_2i1bkRJOowWqwo08IxRLD-OeQzRIJidIbmwsgQ9gfL9jHA_sytlSTHsETHwD4Yc_6WhoHEm7x7nfuQyU--SKHlhBZCGbmeDD-w2XiYKnKp4yKIBzDCuJA8w-bZQOAOKFSVgBGRiw=s512-pd-pc0x00ffffff",
+        "description": "Para utiliza\u00e7\u00e3o prolongada desde o nascimento at\u00e9 aos 12 anos. Para maior seguran\u00e7a pode ser instalada contra a marcha at\u00e9 aos 18kg com sistema isofix. Com cintos do autom\u00f3vel at\u00e9 aos 13 kgs. A rota\u00e7\u00e3o 360o facilita a coloca\u00e7\u00e3o da crian\u00e7a.",
+        "properties": [
+          "Cadeira"
+        ],
+        "url": "https://www.google.pt/shopping/product/2693465740322972638?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 3,
+        "offers_url": "https://www.google.pt/shopping/product/2693465740322972638/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "2693465740322972638",
+            "price": "229.0",
+            "price_additional_info": [],
+            "price_with_shipping": "232.99",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://zippyonline.com/pt/cadeira-auto-gr-0-1-2-3-premium-isofix-one-zy-safe-melange-grey/7046111.html?LGWCODE=7046111;114169;9295",
+            "shop_name": "ZIPPY",
+            "shop_review_count": 257,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-1603146d07a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-1603146d07a",
+            "shop_url": "zippyonline.com",
+            "shop_domain": "zippyonline.com",
+            "shop_matching_id": "zippyonline.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "2693465740322972638",
+            "price": "229.0",
+            "price_additional_info": [],
+            "price_with_shipping": "232.99",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-zy-safe-premium-isofix-one-360-o-grupo-0-1-2-3-cinzento-MRKEAN-3507460152197",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "2693465740322972638",
+            "price": "229.0",
+            "price_additional_info": [],
+            "price_with_shipping": "229.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://mo-online.com/pt/cadeira-auto-gr-0-1-2-3-premium-isofix-one-zy-safe-melange-grey/7046111.html?LGWCODE=7046111;115163;9295",
+            "shop_name": "MO Online",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3793fd4ef3f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3793fd4ef3f",
+            "shop_url": "mo-online.com",
+            "shop_domain": "mo-online.com",
+            "shop_matching_id": "mo-online.com",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "03800151965831",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:25Z"
+      },
+      "content": {
+        "id": "14308779000864939406",
+        "name": "Lorelli Triciclo Jaguar Air Rodas Infl\u00e1veis Cinzento",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwYoWoOPf34pw0Veg5ymvXJJNDy5SF5dMMe1sV-yftzesYCpHs4bjE2WrryZRj6VhoB-rVhxURp4d5WTkO3s0rhyG0GYWsYBTpTkwq6oWr5D0c3pim8hGcXF3ThX6IH1SAQD1wxcbYKI6FfS0o6WMZSZJyZNDkOipf7aNyu1nTa8NOrLip15GTplnNU2Iz0fxG16Qe5LSg=s512-pd-pc0x00ffffff",
+        "description": "Caracter\u00edsticas:toldo dobr\u00e1vel com janela, cesta de brinquedos, estrutura de a\u00e7o, encosto ajust\u00e1vel e confort\u00e1vel, apoio para os p\u00e9s dobr\u00e1vel, assento rotativo, apoio para os p\u00e9s dobr\u00e1vel, apoio para os p\u00e9s para crian\u00e7as pequenas, triciclo, Cinto ...",
+        "properties": [
+          "Com guia",
+          "Cinzento"
+        ],
+        "url": "https://www.google.pt/shopping/product/14308779000864939406?hl=pt&gl=pt&sfr=compass",
+        "review_count": 3,
+        "review_rating": 100,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/14308779000864939406/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "14308779000864939406",
+            "price": "159.99",
+            "price_additional_info": [],
+            "price_with_shipping": "175.98",
+            "shipping_costs": "15.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/triciclos-para-bebe/triciclo-lorelli-jaguar-air-rodas-inflaveis-cinzento-MRKEAN-3800151965831",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04711081071785",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:26Z"
+      },
+      "content": {
+        "id": "1278053120385492876",
+        "name": "Asus ROG Strix LC Radeon RX 6900 XT 16GB GDDR6",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkzX2I-2SD6oe-P9evVof-Wr6Y5OTPcANun4B827cA_FD3gQfNeHwDi4ekJUHHHotrCSS_gkLCt2KqkPhMdCwM-TnFRkGEVVE6wpSMmgV5LTaViEOxajXADScBmAEx9lgou1URqJy6tFy9haq10BYWK01QryHEHbOm6CSqJJ6dP4Cf_fMfGoFXb367beevQk4DW-clqFfA=s512-pd-pc0x00ffffff",
+        "description": "A placa gr\u00e1fica AMD Radeon RX 6900 XT, alimentada pela arquitetura AMD RDNA 2, com 80 unidades avan\u00e7adas de computa\u00e7\u00e3o poderosas, 128 MB da mais recente AMD Infinity Cache e 16GB de mem\u00f3ria GDDR6 dedicada, foi criada para oferecer taxas de frames ...",
+        "properties": [
+          "ASUS",
+          "PCI Express",
+          "DVI",
+          "HDMI",
+          "DisplayPort",
+          "GDDR",
+          "4096 x 2160",
+          "Placa gr\u00e1fica",
+          "8 pinos",
+          "Suporte para v\u00e1rias placas"
+        ],
+        "url": "https://www.google.pt/shopping/product/1278053120385492876?hl=pt&gl=pt&sfr=compass",
+        "review_count": 16,
+        "review_rating": 92,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Largura",
+            "value": [
+              "43",
+              "6 mm"
+            ]
+          },
+          {
+            "label": "Profundidade",
+            "value": [
+              "277 mm"
+            ]
+          },
+          {
+            "label": "Cor de ilumina\u00e7\u00e3o",
+            "value": [
+              "Multi"
+            ]
+          },
+          {
+            "label": "Ilumina\u00e7\u00e3o",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "N\u00famero de slots",
+            "value": [
+              "2",
+              "2"
+            ]
+          },
+          {
+            "label": "Tipo de refrigera\u00e7\u00e3o",
+            "value": [
+              "L\u00edquido"
+            ]
+          },
+          {
+            "label": "Quantidade de portas DisplayPort",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Quantidade de portas HDMI",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Quantidade de portas USB Tipo-C",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Tipo de interface",
+            "value": [
+              "PCI Express 4.0"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o DisplayPort",
+            "value": [
+              "1.4a"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o HDMI",
+            "value": [
+              "2.1"
+            ]
+          }
+        ],
+        "offer_count": 11,
+        "offers_url": "https://www.google.pt/shopping/product/1278053120385492876/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "1278053120385492876",
+            "price": "1459.0",
+            "price_additional_info": [
+              "PRE\u00c7O BAIXO"
+            ],
+            "price_with_shipping": "1459.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mbit.pt/informatica/componentes/vga/asus-placa-grafica-radeon-rog-strix-lc-rx-6900xt-16gb-gddr6?srsltid=AQP2TePmv02k8PPxzC5A0lcJOGFSQLzkj0zhjNAD87QUWz7JV6nidi_J9Jg",
+            "shop_name": "Mbit",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b05b7d92646",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b05b7d92646",
+            "shop_url": "www.mbit.pt",
+            "shop_domain": "mbit.pt",
+            "shop_matching_id": "mbit.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "1278053120385492876",
+            "price": "1799.9",
+            "price_additional_info": [],
+            "price_with_shipping": "1799.9",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.pcdiga.com/placa-grafica-asus-rog-strix-lc-rx-6900-xt-16gb-gddr6-oc-90yv0gf0-m0nm00",
+            "shop_name": "PCDiga",
+            "shop_review_count": 163,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-f8542fbc9d7",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-f8542fbc9d7",
+            "shop_url": "www.pcdiga.com",
+            "shop_domain": "pcdiga.com",
+            "shop_matching_id": "pcdiga.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "1278053120385492876",
+            "price": "1623.9",
+            "price_additional_info": [],
+            "price_with_shipping": "1623.9",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/informatica-e-acessorios/componentes/placas-graficas/placas-graficas-amd/placa-grafica-asus-radeon-rx-6900-xt-amd-16-gb-ddr6-7398363",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "1278053120385492876",
+            "price": "1619.0",
+            "price_additional_info": [],
+            "price_with_shipping": "1625.99",
+            "shipping_costs": "6.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://microlagos.pt/pt/produtos/vga-asus-rx6900xt-ti-rog-strix-lc-gaming-oc-16gb-gddr6-hdmi-dp",
+            "shop_name": "Microlagos, Lda",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4ae24f8c77c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4ae24f8c77c",
+            "shop_url": "microlagos.pt",
+            "shop_domain": "microlagos.pt",
+            "shop_matching_id": "microlagos.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "1278053120385492876",
+            "price": "1583.38",
+            "price_additional_info": [],
+            "price_with_shipping": "1589.87",
+            "shipping_costs": "6.49",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.minfo.pt/product/b-4711081071785-90yv0gf0-m0nm00-asus-rog-strix-lc-rx6900xt-o16g",
+            "shop_name": "Minfo.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-7569bd876cd",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-7569bd876cd",
+            "shop_url": "www.minfo.pt",
+            "shop_domain": "minfo.pt",
+            "shop_matching_id": "minfo.pt",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "1278053120385492876",
+            "price": "1699.9",
+            "price_additional_info": [],
+            "price_with_shipping": "1699.9",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.novoatalho.pt/pt-PT/produto/47567/Placa-Gr%C3%A1fica-Asus-Radeon-RX-6900-XT-ROG-STRIX-LC-GAMING-OC-16GB.html",
+            "shop_name": "Novo Atalho",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ba9dba739ca",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ba9dba739ca",
+            "shop_url": "www.novoatalho.pt",
+            "shop_domain": "novoatalho.pt",
+            "shop_matching_id": "novoatalho.pt",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "1278053120385492876",
+            "price": "1570.6",
+            "price_additional_info": [],
+            "price_with_shipping": "1570.6",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://kibo.pt/index.php/vga-asus-rx6900xt-ti-rog-strix-lc-gaming-oc-16gb-gddr6-hdmi-dp.html",
+            "shop_name": "KIBO.pt",
+            "shop_review_count": 490,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-bba1e197fb2",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-bba1e197fb2",
+            "shop_url": "kibo.pt",
+            "shop_domain": "kibo.pt",
+            "shop_matching_id": "kibo.pt",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "1278053120385492876",
+            "price": "1979.99",
+            "price_additional_info": [],
+            "price_with_shipping": "1979.99",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.radiopopular.pt/produto/placa-graf-asus-rogstrix-rx6900xt-1",
+            "shop_name": "Radio Popular",
+            "shop_review_count": 173,
+            "shop_review_rating": 92,
+            "shop_id": "priceapi-d9878524606",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d9878524606",
+            "shop_url": "www.radiopopular.pt",
+            "shop_domain": "radiopopular.pt",
+            "shop_matching_id": "radiopopular.pt",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "1278053120385492876",
+            "price": "1659.0",
+            "price_additional_info": [],
+            "price_with_shipping": "1662.99",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://sensorvaga.com/pt/produtos/vga-asus-rx6900xt-ti-rog-strix-lc-gaming-oc-16gb-gddr6-hdmi-dp",
+            "shop_name": "Sensorvaga Inform\u00e1tica",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4d8e2e2a60c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4d8e2e2a60c",
+            "shop_url": "sensorvaga.com",
+            "shop_domain": "sensorvaga.com",
+            "shop_matching_id": "sensorvaga.com",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "1278053120385492876",
+            "price": "1559.49",
+            "price_additional_info": [],
+            "price_with_shipping": "1564.39",
+            "shipping_costs": "4.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://lmpcinformatica.com/pt/produtos/vga-asus-rx6900xt-ti-rog-strix-lc-gaming-oc-16gb-gddr6-hdmi-dp",
+            "shop_name": "lmpcinformatica.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-396f33daa82",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-396f33daa82",
+            "shop_url": "lmpcinformatica.com",
+            "shop_domain": "lmpcinformatica.com",
+            "shop_matching_id": "lmpcinformatica.com",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "1278053120385492876",
+            "price": "1599.0",
+            "price_additional_info": [],
+            "price_with_shipping": "1604.63",
+            "shipping_costs": "5.63",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://tcsistore.pt/pt/produtos/vga-asus-rx6900xt-ti-rog-strix-lc-gaming-oc-16gb-gddr6-hdmi-dp?srsltid=AQP2TeNd8X9unv_NvbEK93kM5HEBkrN-5ukulSRxiWU0G-cJzdEIOEx9t7k",
+            "shop_name": "TCSiStore",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3bb6bd072da",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3bb6bd072da",
+            "shop_url": "tcsistore.pt",
+            "shop_domain": "tcsistore.pt",
+            "shop_matching_id": "tcsistore.pt",
+            "page": 1,
+            "position": 11
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04711081169802",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:26Z"
+      },
+      "content": {
+        "id": "9722392234321946316",
+        "name": "Placa Gr\u00e1fica Asus Vga RTX3080Ti Tuf Gaming Oc 12Gb Gddr6x",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwuZ5KGJv1R5D_uu2E-Ad69O03diaiyeCNI3P_N49q8zBON6yrW3G7io9FzBcZFOeLhA-IJI7NH4QGYqqPnuoKpHWu2IuZt6_QhHwhv9EmQ_cU54IjQwddSnNblLqpp1zoTLare4gJJydy0AgqCEuQ-2HEXqS7PWXye1eW0kesKQeiTIycd_aA-Krw_WUM7soCT2UwkHw=s512-pd-pc0x00ffffff",
+        "description": "A TUF GAMING GeForce RTX 3080 Ti foi despojada e reconstru\u00edda para fornecer uma pot\u00eancia e um arrefecimento mais robustos. Uma nova camisa totalmente met\u00e1lica aloja tr\u00eas potentes ventiladores axiais de tecnologia que utilizam rolamentos de ventila...",
+        "properties": [
+          "ASUS",
+          "PCI Express",
+          "VGA",
+          "DVI",
+          "HDMI",
+          "DisplayPort",
+          "GDDR",
+          "Placa gr\u00e1fica",
+          "Slot triplo",
+          "8 pinos"
+        ],
+        "url": "https://www.google.pt/shopping/product/9722392234321946316?hl=pt&gl=pt&sfr=compass",
+        "review_count": 167,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Afinador TV integrado",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Dual Link DVI",
+            "value": [
+              "N\u00e3o"
+            ]
+          },
+          {
+            "label": "HDCP",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o OpenGL",
+            "value": [
+              "4.6"
+            ]
+          },
+          {
+            "label": "Largura",
+            "value": [
+              "299",
+              "9 mm"
+            ]
+          },
+          {
+            "label": "Profundidade",
+            "value": [
+              "51",
+              "7 mm"
+            ]
+          },
+          {
+            "label": "Altura do suporte",
+            "value": [
+              "Full-Height (FH)"
+            ]
+          },
+          {
+            "label": "Forma",
+            "value": [
+              "Full-Height/Full-Length (FH/FL)"
+            ]
+          },
+          {
+            "label": "N\u00famero de slots",
+            "value": [
+              "2",
+              "7"
+            ]
+          },
+          {
+            "label": "N\u00famero de vento\u00ednhas",
+            "value": [
+              "3 ventoinha(s)"
+            ]
+          },
+          {
+            "label": "Tipo de refrigera\u00e7\u00e3o",
+            "value": [
+              "Ativo"
+            ]
+          },
+          {
+            "label": "Apoio a tecnologia paralela de processamento",
+            "value": [
+              "N\u00e3o suportado"
+            ]
+          },
+          {
+            "label": "CUDA",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Exibi\u00e7\u00f5es m\u00e1ximas por cart\u00e3o de v\u00eddeo",
+            "value": [
+              "4"
+            ]
+          },
+          {
+            "label": "Fam\u00edlia de processadores gr\u00e1ficos",
+            "value": [
+              "NVIDIA"
+            ]
+          },
+          {
+            "label": "Frequ\u00eancia do processador",
+            "value": [
+              "1755 MHz"
+            ]
+          },
+          {
+            "label": "Frequ\u00eancia do processador (modo OC)",
+            "value": [
+              "1785 MHz"
+            ]
+          },
+          {
+            "label": "Processador gr\u00e1fico",
+            "value": [
+              "GeForce RTX 3080 Ti"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o M\u00e1xima",
+            "value": [
+              "7680 x 4320 pixels"
+            ]
+          },
+          {
+            "label": "Velocidade do processador com boost",
+            "value": [
+              "1785 MHz"
+            ]
+          },
+          {
+            "label": "Conectores de alimenta\u00e7\u00e3o suplementares",
+            "value": [
+              "2x 8-pin"
+            ]
+          },
+          {
+            "label": "DVI",
+            "value": [
+              "N\u00e3o"
+            ]
+          },
+          {
+            "label": "DisplayPort",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "HDMI",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Quantidade de portas DisplayPort",
+            "value": [
+              "3"
+            ]
+          },
+          {
+            "label": "Quantidade de portas HDMI",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Tipo de interface",
+            "value": [
+              "PCI Express 4.0"
+            ]
+          },
+          {
+            "label": "VGA",
+            "value": [
+              "N\u00e3o"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o DisplayPort",
+            "value": [
+              "1.4a"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o HDMI",
+            "value": [
+              "2.1"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria bus",
+            "value": [
+              "384 bit"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria de placa gr\u00e1fica discreta",
+            "value": [
+              "12 GB"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria gr\u00e1fica",
+            "value": [
+              "12 GB"
+            ]
+          },
+          {
+            "label": "Tipo de mem\u00f3ria da placa gr\u00e1fica",
+            "value": [
+              "GDDR6X"
+            ]
+          }
+        ],
+        "offer_count": 8,
+        "offers_url": "https://www.google.pt/shopping/product/9722392234321946316/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "9722392234321946316",
+            "price": "1619.9",
+            "price_additional_info": [],
+            "price_with_shipping": "1619.9",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.globaldata.pt/grafica-asus-geforce-rtx-3080-ti-tuf-gaming-oc-12gd6x-90yv0gu1-m0nm00",
+            "shop_name": "Globaldata",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-5491307ab20",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5491307ab20",
+            "shop_url": "www.globaldata.pt",
+            "shop_domain": "globaldata.pt",
+            "shop_matching_id": "globaldata.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "9722392234321946316",
+            "price": "1495.99",
+            "price_additional_info": [
+              "PRE\u00c7O BAIXO"
+            ],
+            "price_with_shipping": "1498.98",
+            "shipping_costs": "2.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.tradeinn.com/techinn/pt/asus-placa-grafica-tuf-rtx-3080ti-12gb-gddr6/139005466/p?utm_source=google_products&utm_medium=merchant&id_producte=16485318&country=pt",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 464,
+            "shop_review_rating": 94,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.tradeinn.com",
+            "shop_domain": "tradeinn.com",
+            "shop_matching_id": "tradeinn.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "9722392234321946316",
+            "price": "1602.55",
+            "price_additional_info": [],
+            "price_with_shipping": "1602.55",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mbit.pt/informatica/componentes/vga/asus-vga-rtx3080ti-tuf-gaming-oc-12gb-gddr6x-hdmi-dp?srsltid=AQP2TePTgDHTP9B7YeAcEKPRT4THQnnP_K4xYih1jnJboc7xsApq20Mp8qc",
+            "shop_name": "Mbit",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b05b7d92646",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b05b7d92646",
+            "shop_url": "www.mbit.pt",
+            "shop_domain": "mbit.pt",
+            "shop_matching_id": "mbit.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "9722392234321946316",
+            "price": "1669.9",
+            "price_additional_info": [],
+            "price_with_shipping": "1669.9",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.novoatalho.pt/pt-PT/produto/49526/Placa-Gr%C3%A1fica-Asus-GeForce%C2%AE-RTX-3080-Ti-TUF-GAMING-OC-12GB-LHR.html",
+            "shop_name": "Novo Atalho",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ba9dba739ca",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ba9dba739ca",
+            "shop_url": "www.novoatalho.pt",
+            "shop_domain": "novoatalho.pt",
+            "shop_matching_id": "novoatalho.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "9722392234321946316",
+            "price": "1508.53",
+            "price_additional_info": [
+              "PRE\u00c7O BAIXO"
+            ],
+            "price_with_shipping": "1516.03",
+            "shipping_costs": "7.5",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://greatecno.com/pt/placas-graficas/180605-asus-tuf-geforce-rtx-3080-ti-gaming-oc-12gb-gddr6x-placa-grafica-4711081169802.html?srsltid=AQP2TeNqPeCXfo2qrrY9lxg4PlYw8PRt-ybw-w7f-r8UazgEoxexepPnELE",
+            "shop_name": "GreaTecno",
+            "shop_review_count": 72,
+            "shop_review_rating": 88,
+            "shop_id": "priceapi-c7bb28ea093",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c7bb28ea093",
+            "shop_url": "greatecno.com",
+            "shop_domain": "greatecno.com",
+            "shop_matching_id": "greatecno.com",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "9722392234321946316",
+            "price": "1761.0",
+            "price_additional_info": [],
+            "price_with_shipping": "1763.9",
+            "shipping_costs": "2.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/informatica-e-acessorios/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-asus-tuf-geforce-rtx-3080-ti-nvidia-12-gb-gddr6x-7425269",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "9722392234321946316",
+            "price": "1885.99",
+            "price_additional_info": [],
+            "price_with_shipping": "1885.99",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.radiopopular.pt/produto/placa-graf-asus-tuf-rtx3080ti",
+            "shop_name": "Radio Popular",
+            "shop_review_count": 173,
+            "shop_review_rating": 92,
+            "shop_id": "priceapi-d9878524606",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d9878524606",
+            "shop_url": "www.radiopopular.pt",
+            "shop_domain": "radiopopular.pt",
+            "shop_matching_id": "radiopopular.pt",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "9722392234321946316",
+            "price": "1640.96",
+            "price_additional_info": [],
+            "price_with_shipping": "1645.86",
+            "shipping_costs": "4.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://lmpcinformatica.com/pt/produtos/vga-asus-rtx3080ti-tuf-gaming-oc-12gb-gddr6x-hdmi-dp_",
+            "shop_name": "lmpcinformatica.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-396f33daa82",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-396f33daa82",
+            "shop_url": "lmpcinformatica.com",
+            "shop_domain": "lmpcinformatica.com",
+            "shop_matching_id": "lmpcinformatica.com",
+            "page": 1,
+            "position": 8
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072922658",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:24Z"
+      },
+      "content": {
+        "id": "6576038417351520806",
+        "name": "MSI GeForce RTX 3080 GAMING Z TRIO LHR 12GB GDDR6X",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxWDZag4BD0vil_OPJX8OIRWBLmlLlBQ5rcNE_iELIhAdI8nUowGjRNhLrUetFvGxCjEU23UKSgehjIxJetbQ1Hm0YOfKXA09BYhsKuLModkFbxd7fKk12Mkf1bM-dq3Mi_vV997Ns15R8PN8yRpsg8xF6aLM4IcctxZtRrfYK3rl05igj55_-l36gIoB5TJ-DXc6Oc=s512-pd-pc0x00ffffff",
+        "description": "As placas gr\u00e1ficas GeForce RTX S\u00e9rie 30 oferecem o melhor desempenho para jogadores e criadores. Elas s\u00e3o alimentados por Ampere - a arquitetura RTX de 2a gera\u00e7\u00e3o da NVIDIA - com novos n\u00facleos RT, n\u00facleos Tensor e multiprocessadores de streaming p...",
+        "properties": [
+          "MSI",
+          "PCI Express",
+          "DVI",
+          "HDMI",
+          "DisplayPort",
+          "GDDR",
+          "4096 x 2160",
+          "Placa gr\u00e1fica",
+          "Ativo",
+          "Suporte a Ray Tracing"
+        ],
+        "url": "https://www.google.pt/shopping/product/6576038417351520806?hl=pt&gl=pt&sfr=compass",
+        "review_count": 14,
+        "review_rating": 96,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Fam\u00edlia de processadores gr\u00e1ficos",
+            "value": [
+              "NVIDIA"
+            ]
+          },
+          {
+            "label": "Processador gr\u00e1fico",
+            "value": [
+              "GeForce RTX 3080"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o M\u00e1xima",
+            "value": [
+              "7680 x 4320 pixels"
+            ]
+          },
+          {
+            "label": "CUDA",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Frequ\u00eancia do processador",
+            "value": [
+              "1815 MHz"
+            ]
+          },
+          {
+            "label": "Apoio a tecnologia paralela de processamento",
+            "value": [
+              "N\u00e3o suportado"
+            ]
+          },
+          {
+            "label": "CUDA cores",
+            "value": [
+              "8960"
+            ]
+          },
+          {
+            "label": "Exibi\u00e7\u00f5es m\u00e1ximas por cart\u00e3o de v\u00eddeo",
+            "value": [
+              "4"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria de placa gr\u00e1fica discreta",
+            "value": [
+              "12 GB"
+            ]
+          },
+          {
+            "label": "Tipo de mem\u00f3ria da placa gr\u00e1fica",
+            "value": [
+              "GDDR6X"
+            ]
+          },
+          {
+            "label": "Mem\u00f3ria bus",
+            "value": [
+              "384 bit"
+            ]
+          },
+          {
+            "label": "Taxa de transfer\u00eancia de dados",
+            "value": [
+              "19 Gbit/s"
+            ]
+          },
+          {
+            "label": "Tipo de interface",
+            "value": [
+              "PCI Express 4.0"
+            ]
+          },
+          {
+            "label": "Quantidade de portas HDMI",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Quantidade de portas DisplayPort",
+            "value": [
+              "3"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o HDMI",
+            "value": [
+              "2.1"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o DisplayPort",
+            "value": [
+              "1.4a"
+            ]
+          },
+          {
+            "label": "Afinador TV integrado",
+            "value": [
+              "N\u00e3o"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o DirectX",
+            "value": [
+              "12.0"
+            ]
+          },
+          {
+            "label": "Vers\u00e3o OpenGL",
+            "value": [
+              "4.6"
+            ]
+          },
+          {
+            "label": "Dual Link DVI",
+            "value": [
+              "N\u00e3o"
+            ]
+          },
+          {
+            "label": "Preparado para Realidade Virtual (RV)",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "HDCP",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "NVIDIA G-SYNC",
+            "value": [
+              "Sim"
+            ]
+          },
+          {
+            "label": "Tipo de refrigera\u00e7\u00e3o",
+            "value": [
+              "Ativo"
+            ]
+          },
+          {
+            "label": "Tecnologia de arrefecimento",
+            "value": [
+              "MSI TORX Fan 4.0"
+            ]
+          },
+          {
+            "label": "N\u00famero de vento\u00ednhas",
+            "value": [
+              "3 ventoinha(s)"
+            ]
+          },
+          {
+            "label": "Consumo de energia (t\u00edpico)",
+            "value": [
+              "390 W"
+            ]
+          },
+          {
+            "label": "Conectores de alimenta\u00e7\u00e3o suplementares",
+            "value": [
+              "3x 8-pin"
+            ]
+          },
+          {
+            "label": "Alimenta\u00e7\u00e3o",
+            "value": [
+              "750 W"
+            ]
+          },
+          {
+            "label": "Profundidade",
+            "value": [
+              "140 mm"
+            ]
+          },
+          {
+            "label": "Largura",
+            "value": [
+              "323 mm"
+            ]
+          },
+          {
+            "label": "Peso da embalagem",
+            "value": [
+              "2",
+              "35 kg"
+            ]
+          }
+        ],
+        "offer_count": 7,
+        "offers_url": "https://www.google.pt/shopping/product/6576038417351520806/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "6576038417351520806",
+            "price": "1214.9",
+            "price_additional_info": [],
+            "price_with_shipping": "1214.9",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.globaldata.pt/grafica-msi-geforce-rtx-3080-gaming-z-trio-lhr-12g-4719072922658",
+            "shop_name": "Globaldata",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-5491307ab20",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5491307ab20",
+            "shop_url": "www.globaldata.pt",
+            "shop_domain": "globaldata.pt",
+            "shop_matching_id": "globaldata.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "6576038417351520806",
+            "price": "1260.28",
+            "price_additional_info": [],
+            "price_with_shipping": "1266.27",
+            "shipping_costs": "5.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/informatica-e-acessorios/componentes/placas-graficas/placas-graficas-nvidia/placa-grafica-msi-geforce-rtx-3080-nvidia-12-gb-gddr6x-MRKEAN-4719072922658",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "6576038417351520806",
+            "price": "1249.0",
+            "price_additional_info": [],
+            "price_with_shipping": "1249.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mbit.pt/informatica/componentes/vga/msi-geforce-rtx-3080-gaming-z-trio-12g-lhr-nvidia-12-gb-gddr?srsltid=AQP2TeMjRvgXK1sOdxiKnDOMqcBZ8-lZzguwyaMlgq_QECD1DNJiw6DKuO8",
+            "shop_name": "Mbit",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b05b7d92646",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b05b7d92646",
+            "shop_url": "www.mbit.pt",
+            "shop_domain": "mbit.pt",
+            "shop_matching_id": "mbit.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "6576038417351520806",
+            "price": "1192.61",
+            "price_additional_info": [
+              "PRE\u00c7O BAIXO"
+            ],
+            "price_with_shipping": "1200.11",
+            "shipping_costs": "7.5",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://greatecno.com/pt/placas-graficas/216420-msi-geforce-rtx-3080-gaming-z-trio-12gb-gddr6x-lhr-4719072922658.html?srsltid=AQP2TeMrchZC4M-lsQ_WBwo7g8yUKxx_rzcSOlCqlZ-qF__7z780kLaQYvI",
+            "shop_name": "GreaTecno",
+            "shop_review_count": 72,
+            "shop_review_rating": 88,
+            "shop_id": "priceapi-c7bb28ea093",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c7bb28ea093",
+            "shop_url": "greatecno.com",
+            "shop_domain": "greatecno.com",
+            "shop_matching_id": "greatecno.com",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "6576038417351520806",
+            "price": "1369.9",
+            "price_additional_info": [],
+            "price_with_shipping": "1369.9",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.novoatalho.pt/pt-PT/produto/52422/Placa-Gr%C3%A1fica-MSI-GeForce%C2%AE-RTX-3080-GAMING-Z-TRIO-12G-LHR.html",
+            "shop_name": "Novo Atalho",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ba9dba739ca",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ba9dba739ca",
+            "shop_url": "www.novoatalho.pt",
+            "shop_domain": "novoatalho.pt",
+            "shop_matching_id": "novoatalho.pt",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "6576038417351520806",
+            "price": "1459.66",
+            "price_additional_info": [],
+            "price_with_shipping": "1466.15",
+            "shipping_costs": "6.49",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.minfo.pt/product/b-4719072922658-912-v389-410-tarjeta-grafica-msi-rtx-3080-gaming-z",
+            "shop_name": "Minfo.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-7569bd876cd",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-7569bd876cd",
+            "shop_url": "www.minfo.pt",
+            "shop_domain": "minfo.pt",
+            "shop_matching_id": "minfo.pt",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "6576038417351520806",
+            "price": "1484.31",
+            "price_additional_info": [],
+            "price_with_shipping": "1503.28",
+            "shipping_costs": "18.97",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://monimega.com/sun/pt/placas-graficas/59059-msi-geforce-rtx-3080-gaming-z-trio-12g-lhr-nvidia-12-gb-gddr6x-rtx-3080-ga-z-tr-12g-4719072922658.html",
+            "shop_name": "Monimega Shop",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2ea96b4e584",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2ea96b4e584",
+            "shop_url": "monimega.com",
+            "shop_domain": "monimega.com",
+            "shop_matching_id": "monimega.com",
+            "page": 1,
+            "position": 7
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04960759900821",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:23Z"
+      },
+      "content": {
+        "id": "8545011996517627747",
+        "name": "NIKON D3500 + 18-55mm AF-P DX VR",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkx6XMZFNhpFqS-Ok8saFUnJ_hlZ6wUQFpfS2TU4HpXeZMegYPXDWexaZgcNOms47vZBXhWPJCp17O3UqpV93ltsW9Qf7kGpHPom9zgC8ypODvMGEZbEbCdV6_x-R-kCq8-DRyWfTNLDFhrdY2i7kx6OjaxizZtklM5wTNU4S_MHpLTiRBrdoQQj-D6LCk3el3GlT-Yur3c=s512-pd-pc0x00ffffff",
+        "description": "Desde os dias importantes aos dias comuns, experimente a alegria da fotografia real. A compacta D3500 combina uma constru\u00e7\u00e3o de qualidade premium com um desempenho extraordin\u00e1rio. O funcionamento sem esfor\u00e7o permite capturar com extrema facilidade...",
+        "properties": [
+          "Com v\u00eddeo",
+          "Flash embutido",
+          "Flash remov\u00edvel",
+          "DSLR",
+          "Sensor com fator de corte",
+          "CMOS",
+          "Com estabiliza\u00e7\u00e3o de imagem",
+          "Bluetooth",
+          "Com Wi-Fi"
+        ],
+        "url": "https://www.google.pt/shopping/product/8545011996517627747?hl=pt&gl=pt&sfr=compass",
+        "review_count": 3690,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Modelo de lente",
+            "value": [
+              "AF-P DX Nikkor 18-55mm f/3.5-5.6G VR"
+            ]
+          },
+          {
+            "label": "Megapixels",
+            "value": [
+              "20"
+            ]
+          },
+          {
+            "label": "Resolu\u00e7\u00e3o",
+            "value": [
+              "1920 x 1080p"
+            ]
+          },
+          {
+            "label": "Marca da lente",
+            "value": [
+              "Nikon"
+            ]
+          },
+          {
+            "label": "Estabilizador de imagem",
+            "value": [
+              "N\u00e3o"
+            ]
+          },
+          {
+            "label": "Dist\u00e2ncia focal",
+            "value": [
+              "18-55mm"
+            ]
+          },
+          {
+            "label": "Tipo de c\u00e2mara",
+            "value": [
+              "Reflex"
+            ]
+          },
+          {
+            "label": "S\u00f3 a camara",
+            "value": [
+              "N\u00e3o"
+            ]
+          },
+          {
+            "label": "Abertura m\u00e1xima da lente",
+            "value": [
+              "f/3.5-5.6"
+            ]
+          },
+          {
+            "label": "Tipo de cart\u00e3o SD",
+            "value": [
+              "SD"
+            ]
+          },
+          {
+            "label": "Formato do sensor",
+            "value": [
+              "APS-C"
+            ]
+          },
+          {
+            "label": "Sa\u00edda HDMI",
+            "value": [
+              "mini HDMI"
+            ]
+          },
+          {
+            "label": "Lente inclu\u00edda",
+            "value": [
+              "Sim"
+            ]
+          }
+        ],
+        "offer_count": 3,
+        "offers_url": "https://www.google.pt/shopping/product/8545011996517627747/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "8545011996517627747",
+            "price": "549.0",
+            "price_additional_info": [],
+            "price_with_shipping": "549.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.digitfoto.pt/GoogleMC.php?prod=NIKONVBA550K001",
+            "shop_name": "DigitFoto.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8b836e914d0",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8b836e914d0",
+            "shop_url": "www.digitfoto.pt",
+            "shop_domain": "digitfoto.pt",
+            "shop_matching_id": "digitfoto.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "8545011996517627747",
+            "price": "629.99",
+            "price_additional_info": [],
+            "price_with_shipping": "629.99",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.radiopopular.pt/produto/maquina-fotografica-nikon-d35001855-vr",
+            "shop_name": "Radio Popular",
+            "shop_review_count": 173,
+            "shop_review_rating": 92,
+            "shop_id": "priceapi-d9878524606",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d9878524606",
+            "shop_url": "www.radiopopular.pt",
+            "shop_domain": "radiopopular.pt",
+            "shop_matching_id": "radiopopular.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "8545011996517627747",
+            "price": "666.0",
+            "price_additional_info": [],
+            "price_with_shipping": "666.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/fotografia-e-drones/maquinas-fotograficas/maquinas-fotograficas-reflex-dslr/maquina-fotografica-nikon-d3500-af-p-dx-nikkor-18-55mm-f-3-5-5-6g-vr-dx-MRKEAN-4960759900821",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05603968047909",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:25Z"
+      },
+      "content": {
+        "id": "10154428324333462607",
+        "name": "Zy Safe Cadeira Auto Zippy Black (Grupo 2/3)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxdZceSIRZIT6P7pGgzLlOAKdlX8vlziDObSZ238pfO0Tqdk7KdIeu6vBkFmtrVAe8EkAS_RS3ic3EV0E32JfJhrmIGRYtnktWcCf8PiZiRwUi-sMdryakRiA_w9UvuGkLuc0qmuPN5U7pUDtQ20IM45pybG4Z-tijGJZvF9DXBalInEhxIUV8hg_bE0CNdV9dpoeFmQ_E=s512-pd-pc0x00ffffff",
+        "description": "Assento elevat\u00f3rio Grupo 2/3 destinado a crian\u00e7a entre os 15 e os 36 kilos, de forma a dar estabilidade e seguran\u00e7a no transporte desta, que se fixa com os cintos do pr\u00f3prio autom\u00f3vel.",
+        "properties": [
+          "Virada para frente",
+          "Assento de eleva\u00e7\u00e3o"
+        ],
+        "url": "https://www.google.pt/shopping/product/10154428324333462607?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/10154428324333462607/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10154428324333462607",
+            "price": "9.99",
+            "price_additional_info": [],
+            "price_with_shipping": "13.98",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://zippyonline.com/pt/assento-auto-elevatorio-zy-safe-black/6110481.html?LGWCODE=6110481;114169;9295",
+            "shop_name": "ZIPPY",
+            "shop_review_count": 257,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-1603146d07a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-1603146d07a",
+            "shop_url": "zippyonline.com",
+            "shop_domain": "zippyonline.com",
+            "shop_matching_id": "zippyonline.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "10154428324333462607",
+            "price": "9.99",
+            "price_additional_info": [],
+            "price_with_shipping": "13.98",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-zy-safe-zippy-black-grupo-2-3-MRKEAN-5603968047909",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05900495895271",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:25Z"
+      },
+      "content": {
+        "id": "10759287121248428348",
+        "name": "Trotinete Para Beb\u00e9 Ili A Partir De 3 Anos - 57 X 16 X 27 - Momi",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxWJdhycZPVS9LxJBcWKtU25AeNJHh7nBbJERbjCqqrlLJVqB68VvN3Qv0n4-DRNCYljmOstJH4OSlbhAeuxBDHGGPsYMfFV-se7gJfMvbFBhgvPE8fuNBrpMmchRs0siriqO-rNUxl050z6zaKjnScuvPzkbjUKP1OlBNW9zxIv4lTWTbykbkaSgenuvh8wYUJryNGLpE=s512-pd-pc0x00ffffff",
+        "description": "Trotinete para beb\u00e9. 3 fun\u00e7\u00f5es: - com uma tira atr\u00e1s para si e um assento para beb\u00e9 - sem tira mas com um assento para beb\u00e9 - sem tira e sem assento 3 rodas. 1 volante regul\u00e1vel. 1 cesto \u00e0 frente. Marca Qkids",
+        "properties": [
+          "Laranja"
+        ],
+        "url": "https://www.google.pt/shopping/product/10759287121248428348?hl=pt&gl=pt&sfr=compass",
+        "review_count": 1,
+        "review_rating": 100,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/10759287121248428348/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10759287121248428348",
+            "price": "57.99",
+            "price_additional_info": [],
+            "price_with_shipping": "62.99",
+            "shipping_costs": "5.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/trotinete-3-em-1-qkids-ili-laranja-MRKEAN-5900495895271",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "10759287121248428348",
+            "price": "57.99",
+            "price_additional_info": [],
+            "price_with_shipping": "57.99",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://chicmybaby.pt/product/trotinete-3-em-1-qkids-ili-peach/?utm_source=Google%20Shopping&utm_campaign=Google%20Shopping&utm_medium=cpc&utm_term=13503",
+            "shop_name": "Chic My Baby",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-66dd0ad9d87",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-66dd0ad9d87",
+            "shop_url": "chicmybaby.pt",
+            "shop_domain": "chicmybaby.pt",
+            "shop_matching_id": "chicmybaby.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05901435409558",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:24Z"
+      },
+      "content": {
+        "id": "1939352845161833458",
+        "name": "Baby Ono Porta-Chupetas Cinza",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkz8MCwij_FlqDY3QJiZnDioGrdJsHwAL5hSz6CZslXrxAN6sfqnU5Mgq6V_8bHzqdGkK8gir_DjAnx7f60-novQ2Dp_9SU1OpNaJy84kGcH7nogqesHErnbnmQZlFlcF4LyoK5iiAD2OBn1nS_CQQYGmpvTNKdeFIcB8EpTQYCOPgb7yypK_EtntSqA4zTf-avw4IObxGE=s512-pd-pc0x00ffffff",
+        "description": "O estojo para chupetas em forma de elefante \u00e9 um produto pr\u00e1tico para todos os tipos de viagens com o beb\u00e9. Ele protege a chupeta contra a sujidade. O tronco de elefante flex\u00edvel garante uma fixa\u00e7\u00e3o segura no carrinho, na cadeirinha ou na bolsa. A...",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/1939352845161833458?hl=pt&gl=pt&sfr=compass",
+        "review_count": 22,
+        "review_rating": 96,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "MRW",
+            "value": [
+              "quarta-feira 01/06/2022"
+            ]
+          },
+          {
+            "label": "Ponto de Pick Up",
+            "value": [
+              "quarta-feira 01/06/2022"
+            ]
+          },
+          {
+            "label": "UPS Correio A\u00e9reo",
+            "value": [
+              "segunda-feira 30/05/2022"
+            ]
+          }
+        ],
+        "offer_count": 3,
+        "offers_url": "https://www.google.pt/shopping/product/1939352845161833458/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "1939352845161833458",
+            "price": "2.9",
+            "price_additional_info": [
+              "PROMO\u00c7\u00c3O"
+            ],
+            "price_with_shipping": "8.85",
+            "shipping_costs": "5.95",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.notino.pt/babyono/dummy-case-estojo-de-chupeta-i/p-16103703/",
+            "shop_name": "Notino.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0565aa8c267",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0565aa8c267",
+            "shop_url": "www.notino.pt",
+            "shop_domain": "notino.pt",
+            "shop_matching_id": "notino.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "1939352845161833458",
+            "price": "7.35",
+            "price_additional_info": [],
+            "price_with_shipping": "12.49",
+            "shipping_costs": "5.14",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp19054059/Porta-Chupetas-Baby-Ono-Cinza/w-4?oref=edd202f5-b483-66d9-dacf-bf12da9e9def",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "1939352845161833458",
+            "price": "7.85",
+            "price_additional_info": [],
+            "price_with_shipping": "7.85",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/protecao-e-saude-do-bebe/chupetas/porta-chupetas-baby-ono-cinza-MRKEAN-5901435409558",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05902021219650",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:21Z"
+      },
+      "content": {
+        "id": "4329402779223715715",
+        "name": "Kinderkraft Comfort Up Cadeira Auto Rosa",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkyx0nD60OWd-IBcw3yq595FNF_g5AGRXfs2tAgSp50_X76orm7CpL2iUWXzFbAsVeWRuix0s9hiNe7iM2Ue8jmHtYzv5Wj95e8xU-QiKD11mCtS_w1PAGpEgYemRbYYcmIL7g4TwowIsDyAjuYK-Ywyy1qT3fPBPf2fFJjYl3JAyQLjYxF1hpSP2-eeLJbFc9ilayhiDzg=s512-pd-pc0x00ffffff",
+        "description": "A Cadeira Auto Confort Up foi concebida para crian\u00e7as dos 9 a 36 kg de pesoest\u00e1 inserida no grupo ECE I / II / III, com encosto de cabe\u00e7a ajust\u00e1vel de 7 n\u00edveis com bloqueio. Ajuste de cintos de seguran\u00e7a de 2 n\u00edveis. Assento e acolchoamento refor\u00e7...",
+        "properties": [
+          "Virada para frente",
+          "Cadeira",
+          "Rosa"
+        ],
+        "url": "https://www.google.pt/shopping/product/4329402779223715715?hl=pt&gl=pt&sfr=compass",
+        "review_count": 1671,
+        "review_rating": 94,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 4,
+        "offers_url": "https://www.google.pt/shopping/product/4329402779223715715/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "4329402779223715715",
+            "price": "91.51",
+            "price_additional_info": [],
+            "price_with_shipping": "91.51",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-kinderkraft-comfort-up-grupo-1-2-3-cinzento-e-rosa-MRKEAN-5902021219650",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "4329402779223715715",
+            "price": "82.79",
+            "price_additional_info": [],
+            "price_with_shipping": "82.79",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://farmacianovadamaia.pt/pt/cadeiras-auto/4055-kinderkraft-comfort-up-cadeira-auto-rosa-5902021219650.html?utm_source=google&utm_medium=free_merchant",
+            "shop_name": "Farm\u00e1cia Nova da Maia",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ae41cc375da",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ae41cc375da",
+            "shop_url": "farmacianovadamaia.pt",
+            "shop_domain": "farmacianovadamaia.pt",
+            "shop_matching_id": "farmacianovadamaia.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "4329402779223715715",
+            "price": "81.31",
+            "price_additional_info": [],
+            "price_with_shipping": "81.31",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.planetahuerto.pt/venda-cadeira-de-auto-kinderkraft-comfort-up-cor-rosa_207040?srsltid=AQP2TeM3yV0_dEA2HjOnORf_JCTTGP3nG7bVqVtYY8HeOacu_art-UQVVlc",
+            "shop_name": "Planeta Huerto",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4b6739d069f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4b6739d069f",
+            "shop_url": "www.planetahuerto.pt",
+            "shop_domain": "planetahuerto.pt",
+            "shop_matching_id": "planetahuerto.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "4329402779223715715",
+            "price": "96.92",
+            "price_additional_info": [],
+            "price_with_shipping": "96.92",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp19097670/Cadeira-Auto-Kinderkraft-Comfort-Up-Rosa/w-4?oref=3ccbb1b7-2eed-1eff-b660-9fd40689a419",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05902533911394",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:30Z"
+      },
+      "content": {
+        "id": "7288908864965163373",
+        "name": "Kinderkraft Carrinho de Beb\u00e9 Trio 3 Em 1 Juli Grey",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHky7IwDUGq-UDNejuWxK-VqQ0rn3xtKxon4HAZYwMmEwPyGwTKJD-Oy7F4A3UO_dnrbQoyRUui9tn9CN7JUX3u78ITSVEKBCd4le9w7d-NCL8AZq_sv7D247Egym6DIdYUMTlPG8CpoOn4ff2QuxzrQSLWZUeD5MGTT1LHb3cAJCK9e2WPCDlsz3i1L6I9Fkcc_rn6TE2g=s512-pd-pc0x00ffffff",
+        "description": "JULI: cadeira multifuncional 3 em 1 Travel System Cadeira multifuncional que cresce com a crian\u00e7a. O conjunto JULI 3in1 inclui o carrinho de passeio transform\u00e1vel em alcofa e a cadeira Grupo 0 Mink. A alcofa pode ser trocada com alguns movimentos ...",
+        "properties": [
+          "Para terrenos irregulares",
+          "Individual",
+          "A\u00e7o"
+        ],
+        "url": "https://www.google.pt/shopping/product/7288908864965163373?hl=pt&gl=pt&sfr=compass",
+        "review_count": 120,
+        "review_rating": 92,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Largura do produto (em cm)",
+            "value": [
+              "73"
+            ]
+          },
+          {
+            "label": "Altura do Produto (em cm)",
+            "value": [
+              "57"
+            ]
+          },
+          {
+            "label": "Peso adequado (em kg)",
+            "value": [
+              "15"
+            ]
+          },
+          {
+            "label": "Adequado a partir de (idade)",
+            "value": [
+              "6 Jahre"
+            ]
+          },
+          {
+            "label": "Comprimento do produto (em cm)",
+            "value": [
+              "99"
+            ]
+          },
+          {
+            "label": "Material de chassi",
+            "value": [
+              "Stahl"
+            ]
+          },
+          {
+            "label": "Capacidade m\u00e1xima (em kg)",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Tipo de trav\u00e3o",
+            "value": [
+              "Hinterradbremse"
+            ]
+          },
+          {
+            "label": "Material das engrenagens",
+            "value": [
+              "Schaumr\u00e4der"
+            ]
+          },
+          {
+            "label": "N\u00famero de engrenagens",
+            "value": [
+              "fourWheeled"
+            ]
+          },
+          {
+            "label": "Recosto",
+            "value": [
+              "Bis Liegeposition verstellbar"
+            ]
+          },
+          {
+            "label": "Descanso de p\u00e9s",
+            "value": [
+              "Nicht verstellbar"
+            ]
+          }
+        ],
+        "offer_count": 4,
+        "offers_url": "https://www.google.pt/shopping/product/7288908864965163373/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "7288908864965163373",
+            "price": "318.58",
+            "price_additional_info": [
+              "PROMO\u00c7\u00c3O"
+            ],
+            "price_with_shipping": "318.58",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-trio-kinderkraft-3-em-1-juli-grey-MRKEAN-5902533911394",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "7288908864965163373",
+            "price": "351.9",
+            "price_additional_info": [],
+            "price_with_shipping": "357.04",
+            "shipping_costs": "5.14",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp19097720/Carrinho-de-Bebe-Kinderkraft-3-em-1-Juli-Cinzento/w-4?oref=fc69789f-e21e-2970-b144-6d8b75bfd706",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "7288908864965163373",
+            "price": "331.19",
+            "price_additional_info": [],
+            "price_with_shipping": "331.19",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://farmacianovadamaia.pt/pt/carrobebe/7825-kinderkraft-juli-carrinho-de-passeio-trio-cinzento-5902533911394.html?utm_source=google&utm_medium=free_merchant",
+            "shop_name": "Farm\u00e1cia Nova da Maia",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ae41cc375da",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ae41cc375da",
+            "shop_url": "farmacianovadamaia.pt",
+            "shop_domain": "farmacianovadamaia.pt",
+            "shop_matching_id": "farmacianovadamaia.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "7288908864965163373",
+            "price": "414.0",
+            "price_additional_info": [],
+            "price_with_shipping": "414.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://recemmama.pt/pt/produtos/kinderkraftcarrinho-3-em-1-juli-cinza-juli_3433",
+            "shop_name": "Rec\u00e9m Mam\u00e3 - Loja Infantil",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c1a1d038b78",
+            "shop_sub_id": "Loja Infantil",
+            "shop_extended_source_id": "priceapi-c1a1d038b78-Loja Infantil",
+            "shop_url": "recemmama.pt",
+            "shop_domain": "recemmama.pt",
+            "shop_matching_id": "recemmama.pt - Loja Infantil",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05902581654731",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:26Z"
+      },
+      "content": {
+        "id": "10262096357478294404",
+        "name": "Lionelo Bomba Tira-leite Fidi Electr\u00f3nico",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkze18ibS3j6Xogb0G93cF6xjJm_ShH1Ezo8UsVxgoocR8wXlHJi4fekN3o76Mo-7CKO1LxdJ4aMUQ1ykb89qs02V4xW4oN2GvqV3kHTzfLNSrWX_J9p6YMIsZweupDNDiWt1_0A-1hxWyicj4SvzehO6-izYLmwAsNOF4IwOg_NtQYMvOdRweRMYa7T2QXOyDtnebo-BNI=s512-pd-pc0x00ffffff",
+        "description": "Bomba extratora de leite el\u00e9trica Fidi muito conveniente e eficaz. A suc\u00e7\u00e3o ocorre em 15 modos com pot\u00eancia diferente, gra\u00e7as \u00e0 qual o dispositivo fornecer\u00e1 um ajuste individual da pot\u00eancia de suc\u00e7\u00e3o \u00e0s suas necessidades . A bomba extratora foi ad...",
+        "properties": [
+          "El\u00e9trico",
+          "Com bateria"
+        ],
+        "url": "https://www.google.pt/shopping/product/10262096357478294404?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 2,
+        "offers_url": "https://www.google.pt/shopping/product/10262096357478294404/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10262096357478294404",
+            "price": "58.0",
+            "price_additional_info": [],
+            "price_with_shipping": "58.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/pre-mama-e-mama/amamentacao/bomba-tira-leite-lionelo-fidi-electronico-MRKEAN-5902581654731",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "10262096357478294404",
+            "price": "58.0",
+            "price_additional_info": [],
+            "price_with_shipping": "63.14",
+            "shipping_costs": "5.14",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp19054196/Bomba-Tira-Leite-Lionelo-Fidi-Azul-Branco/w-4?oref=0f1bff5d-1477-e6b0-7343-e436a0f1754e",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08058664139712",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:26Z"
+      },
+      "content": {
+        "id": "7118766268203429107",
+        "name": "Chicco CARRINHO CHEERIO",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwzaqweMIdIrOibs-vp866QwvLMjb6OG-VnnUYe_wqbpL_PuvJIUtcodEnXCvvnvoBD6c_nSRGG_Hh0Jj9dtcth1KdcwFYYAFEO7ELF8UIbWXDbZR2iOg0hv27no-xPV2BkQ6eH3bzIQwIcdvP3mlzfOlDiBEYqcygRmgY4QL3umWJAswhSEEttXYQ5csBn_AZ-4vr7SkI=s512-pd-pc0x00ffffff",
+        "description": "O Cheerio \u00e9 o carrinho de beb\u00e9 ultracompacto que se dobra sozinho gra\u00e7as ao sistema de dobragem autom\u00e1tico One Touch e que se mant\u00e9m de p\u00e9. - A dobragem extrassuave e r\u00e1pida torna-o ultracompacto, o que permite arrum\u00e1-lo e transport\u00e1-lo para todo ...",
+        "properties": [
+          "Individual"
+        ],
+        "url": "https://www.google.pt/shopping/product/7118766268203429107?hl=pt&gl=pt&sfr=compass",
+        "review_count": 7,
+        "review_rating": 100,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Dimens\u00f5es fechado",
+            "value": [
+              "53 x 44 x 26 cm"
+            ]
+          },
+          {
+            "label": "Dimens\u00f5es aberto",
+            "value": [
+              "97 x 76 x44 cm"
+            ]
+          },
+          {
+            "label": "Peso",
+            "value": [
+              "5",
+              "6kg"
+            ]
+          }
+        ],
+        "offer_count": 4,
+        "offers_url": "https://www.google.pt/shopping/product/7118766268203429107/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "7118766268203429107",
+            "price": "129.99",
+            "price_additional_info": [],
+            "price_with_shipping": "129.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-chicco-cheerio-jet-black-MRKEAN-8058664139712",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "7118766268203429107",
+            "price": "129.94",
+            "price_additional_info": [],
+            "price_with_shipping": "129.94",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.autobrinca.com/produto/carrinho-chicco-cheerio-jet-black/?srsltid=AQP2TeNfAE82iaOfJVOmesGprZ2PdBgdI_V9aSBdoNaoXV9wSHE3k5kIKb4",
+            "shop_name": "Autobrinca",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-e89310ef117",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e89310ef117",
+            "shop_url": "www.autobrinca.com",
+            "shop_domain": "autobrinca.com",
+            "shop_matching_id": "autobrinca.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "7118766268203429107",
+            "price": "263.97",
+            "price_additional_info": [],
+            "price_with_shipping": "263.97",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp20398773/Carrinho-de-bebe-Chicco-Cheerio-Preto/w-4?oref=fe354c80-f685-a51f-7977-e341d2bf80bb",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "7118766268203429107",
+            "price": "247.62",
+            "price_additional_info": [],
+            "price_with_shipping": "251.61",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://dott.pt/pt/products/chicco-cheerio-carrinho-tradicional-1-lugares-preto-bbb82273-8128-45a2-9567-65b020eca586?utm_source=google-shopping&utm_medium=organic&utm_campaign=Carrinhos%20alcofa%20%3E%20Carrinhos%20%3E%20Passeio%20e%20Viagens%20%3E%20Beb%C3%A9%20Crian%C3%A7a%20e%20Brinquedos&utm_content=Chicco%20Cheerio%20Carrinho%20Tradicional%201%20Lugares%20Preto",
+            "shop_name": "Dott",
+            "shop_review_count": 123,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-5aa8ad5316e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5aa8ad5316e",
+            "shop_url": "dott.pt",
+            "shop_domain": "dott.pt",
+            "shop_matching_id": "dott.pt",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08410446362105",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:26Z"
+      },
+      "content": {
+        "id": "10822869407665279163",
+        "name": "Walking Mum Mochila Baby Nature Ocean",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkylLG1QSuy17tm3Hz8UtdTzUdaLwzjIGggg8osPSNnqzpmcjA8TToNwFWlZtwPTw-r7g0wtjYa9PXqyWh2rohVk_enl1o9Q58aHmLy9NiqG4snjpD-baSSxaLVSDNXqd3_IHx3Fa2lj1GkLT0AIR5Axprx9pcKmdiw2Z63KOzMIX7BDcSa4_b-ItQCNIFVX02keLdL6WQ=s512-pd-pc0x00ffffff",
+        "description": "Mochila Walking Mum Baby Nature Ocean da Pasito a Pasito com uma cole\u00e7\u00e3o desportiva e urbana. Esta \u00e9 uma mochila com bolsos interiores e exteriores. Resistente e de grande capacidade, essencial para levar tudo o que necessita para o passeio do beb...",
+        "properties": [
+          "Mochila"
+        ],
+        "url": "https://www.google.pt/shopping/product/10822869407665279163?hl=pt&gl=pt&sfr=compass",
+        "review_count": 12,
+        "review_rating": 98,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 5,
+        "offers_url": "https://www.google.pt/shopping/product/10822869407665279163/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10822869407665279163",
+            "price": "49.29",
+            "price_additional_info": [
+              "PROMO\u00c7\u00c3O"
+            ],
+            "price_with_shipping": "53.19",
+            "shipping_costs": "3.9",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elcorteingles.pt/bebes/A35386310-mochila-nature-ocean-para-carrinho-de-passeio-cinzenta/?ref=001093441401259%20&feed=true",
+            "shop_name": "El Corte Ingl\u00e9s",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-59e992a5443",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-59e992a5443",
+            "shop_url": "www.elcorteingles.pt",
+            "shop_domain": "elcorteingles.pt",
+            "shop_matching_id": "elcorteingles.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "10822869407665279163",
+            "price": "48.03",
+            "price_additional_info": [],
+            "price_with_shipping": "48.03",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://myminimoon.com/malas-e-necessaires/1847-mochila-de-maternidade-baby-nature-azul-8410446362105",
+            "shop_name": "My Mini Moon",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d2681381e02",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d2681381e02",
+            "shop_url": "myminimoon.com",
+            "shop_domain": "myminimoon.com",
+            "shop_matching_id": "myminimoon.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "10822869407665279163",
+            "price": "59.33",
+            "price_additional_info": [],
+            "price_with_shipping": "63.33",
+            "shipping_costs": "4.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/malas-e-bolsas-de-passeio/mochila-walking-mum-ocean-MRKEAN-8410446362105",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "10822869407665279163",
+            "price": "56.5",
+            "price_additional_info": [],
+            "price_with_shipping": "60.5",
+            "shipping_costs": "4.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.autobrinca.com/produto/mochila-walking-mum-baby-nature-ocean/?srsltid=AQP2TePzWun8hJBGuEZj4zpVOV7RzigTzbC4qyBt4C2y5y5mh1FBMi7nfYU",
+            "shop_name": "Autobrinca",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-e89310ef117",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-e89310ef117",
+            "shop_url": "www.autobrinca.com",
+            "shop_domain": "autobrinca.com",
+            "shop_matching_id": "autobrinca.com",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "10822869407665279163",
+            "price": "86.19",
+            "price_additional_info": [],
+            "price_with_shipping": "86.19",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp19056200/Mochila-Walking-Mum-Baby-Nature-Ocean/w-4?oref=b0c16cc5-cc14-30fd-0a48-f6f96882e375",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 5
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08410963162189",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:29Z"
+      },
+      "content": {
+        "id": "17619230607567763617",
+        "name": "Molto Triciclo urban trike ii city rosa",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwa5FHC0vl50UZKUTXNPKCJkViaeq_imZ6JguFbMiB5EKQjuP97bcyMc2NSKTVu9s29pz4R52eMn_NH9WObZmrTEzK9fKs3Bx22OyItCoC--u7cs2v0XQMwq08ns7hm3KpkF6MoKaDEYDy85A-tUVGKAK8rWjXtMUcV2vST8WydlFPotWJD6ZDwFYYJ1QnIY43KPxxAdZA=s512-pd-pc0x00ffffff",
+        "description": "Certifique-se de que o seu filho vai conseguir uma boa viagem com este triciclo, porque uma vez nele, n\u00e3o vai querer descer. H\u00e1 tamb\u00e9m cinco maneiras poss\u00edveis de mont\u00e1-lo, dependendo da idade da crian\u00e7a. Para mais informa\u00e7\u00e3o sobre o produto consu...",
+        "properties": [
+          "Rosa"
+        ],
+        "url": "https://www.google.pt/shopping/product/17619230607567763617?hl=pt&gl=pt&sfr=compass",
+        "review_count": 18,
+        "review_rating": 88,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 5,
+        "offers_url": "https://www.google.pt/shopping/product/17619230607567763617/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "17619230607567763617",
+            "price": "56.99",
+            "price_additional_info": [],
+            "price_with_shipping": "57.99",
+            "shipping_costs": "1.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/triciclos-para-bebe/triciclo-molto-rosa-MRKEAN-8410963162189",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "17619230607567763617",
+            "price": "40.32",
+            "price_additional_info": [],
+            "price_with_shipping": "41.31",
+            "shipping_costs": "0.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.eurekakids.pt/brinquedo/molto/triciclo-urban-trike-ii-city-rosa",
+            "shop_name": "Eurekakids PT",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-44db87faa69",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-44db87faa69",
+            "shop_url": "www.eurekakids.pt",
+            "shop_domain": "eurekakids.pt",
+            "shop_matching_id": "eurekakids.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "17619230607567763617",
+            "price": "47.73",
+            "price_additional_info": [],
+            "price_with_shipping": "47.73",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.planetahuerto.pt/venda-triciclo-infantil-molto-urban-trike-5-em-1-rosa_124754?srsltid=AQP2TePMA73fqlV8ECLyNyrLnM6s9hZDssjwPFR0QzkVhWv4fqWqVk6WxDQ",
+            "shop_name": "Planeta Huerto",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4b6739d069f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4b6739d069f",
+            "shop_url": "www.planetahuerto.pt",
+            "shop_domain": "planetahuerto.pt",
+            "shop_matching_id": "planetahuerto.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "17619230607567763617",
+            "price": "52.3",
+            "price_additional_info": [
+              "REDU\u00c7\u00c3O NO PRE\u00c7O"
+            ],
+            "price_with_shipping": "53.29",
+            "shipping_costs": "0.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp19662151/Triciclo-Urbano-Rosa-Ii-Molto/w-4?oref=a399eda8-0f77-d9b3-218f-d9f4ec980bd1",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "17619230607567763617",
+            "price": "49.95",
+            "price_additional_info": [],
+            "price_with_shipping": "66.9",
+            "shipping_costs": "16.95",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dondino.pt/triciclo-urbano-trike-ii-rosa-b1cab/?otcountry=PT",
+            "shop_name": "donDino PT",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8a37506c1a8",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8a37506c1a8",
+            "shop_url": "www.dondino.pt",
+            "shop_domain": "dondino.pt",
+            "shop_matching_id": "dondino.pt",
+            "page": 1,
+            "position": 5
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08433605339381",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:21Z"
+      },
+      "content": {
+        "id": "10595402567762877246",
+        "name": "Saco E Colch\u00e3o Para Mudar Fraldas Vichy Bege E Branco- Showroomprive",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkxPC4PZwKrm7M_xbqedX6ftaB2gEMRL2EYfN5eGCbVq9poEVlkWOj_WHbS-ztTGqls_8xFHK1t963IIIvc7BPEGQljCtedMD4m9fjXd5Hr1agH8WJl-I7koyjdd1syTJDRWNSJrBAe15vVHVz84O1CXiu7BlKbaU0ZxyOHYVxta_RHs8gLNrx-llxNlAp_G_tx6Ow-c_w=s512-pd-pc0x00ffffff",
+        "description": "Conjunto composto por: - Saco para muda de fraldas 2 pegas. Al\u00e7a comprida regul\u00e1vel e amov\u00edvel. Padr\u00f5es vichy. Bolso com aba \u00e0s bolas e log\u00f3tipo \u00e0 frente. Fecho zip. - Colch\u00e3o para mudar fraldas Padr\u00f5es vichy. Bolso com aba \u00e0s bolas e log\u00f3tipo \u00e0 f...",
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/10595402567762877246?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/10595402567762877246/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10595402567762877246",
+            "price": "66.0",
+            "price_additional_info": [],
+            "price_with_shipping": "66.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/malas-e-bolsas-de-passeio/mala-de-maternidade-nafnaf-vichy-45x25x20-cm-bege-MRKEAN-8433605339381",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08434520058623",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:25Z"
+      },
+      "content": {
+        "id": "18018258576085326032",
+        "name": "Pekebaby Capa para Alcofa Liso Algod\u00e3o (85x51x23.50 cm - Azul)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkyuW-jLdHmO83fCtXEa5BYsR2XcUVBGTH5QRkunDyPZ9IcM-tPnvY27v6LiuH0Mjp3ZniUU-NZ2zs2MVVsdAmwxo2pGggiLSpAAvsmn8Q7KdyyBlfyFnd57MVrPz1alTgs-DSWTmvHkS5of0a_hQU8mAP42t35uVgdUqFvCb5Fg814dj4xUW-CbFqLzR0l_cR-1hARHGA=s512-pd-pc0x00ffffff",
+        "description": null,
+        "properties": null,
+        "url": "https://www.google.pt/shopping/product/18018258576085326032?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/18018258576085326032/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "18018258576085326032",
+            "price": "17.85",
+            "price_additional_info": [],
+            "price_with_shipping": "21.84",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/acessorios-de-passeio-para-bebe/capa-para-alcofa-pekebaby-liso-algodao-85x51x23-50-cm-azul-MRKEAN-8434520058623",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08435593700631",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:24Z"
+      },
+      "content": {
+        "id": "6301360889933518434",
+        "name": "Babyauto Cadeira Auto Revolta (Grupo 0+/1/2/3 - Cinzento)",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkw_0nJhMkEggpyVVaITwNgpzlckVJZdjhGpNJnsiUaLSYcJOj9sTKwIfwWn7r-8zrItQXgFIvMi6KpouONnhMM-1oUxOT8Vk40WE3h4qi0SSqkRqSZRPW3QDo7z3yy_ZZ0gQbrhVDnqEbjDoOgebt81EhMLX8y7MtnkRaTuoR8CA2oGcWx5VAOr9h2zWEx_P7y_ZKf4iPQ=s512-pd-pc0x00ffffff",
+        "description": "Cadeira-auto para crian\u00e7a do nascimento aos 36 kg. Pode ser utilizado de costas para a estrada desde o nascimento at\u00e9 aos 13 kg e de frente para a estrada dos 13 kg aos 36 kg. Cinto de seguran\u00e7a com 5 pontos. 3 n\u00edveis inclina\u00e7\u00e3o. Sistema de fixa\u00e7\u00e3...",
+        "properties": [
+          "Virada para tr\u00e1s / frente",
+          "Assentos e cadeiras",
+          "Cadeira"
+        ],
+        "url": "https://www.google.pt/shopping/product/6301360889933518434?hl=pt&gl=pt&sfr=compass",
+        "review_count": 0,
+        "review_rating": null,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 1,
+        "offers_url": "https://www.google.pt/shopping/product/6301360889933518434/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "6301360889933518434",
+            "price": "219.9",
+            "price_additional_info": [],
+            "price_with_shipping": "219.9",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/cadeiras-auto-bebe/cadeira-auto-babyauto-revolta-grupo-0-1-2-3-cinzento-MRKEAN-8435593700631",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "pt",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08718475500230",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 0,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2022-06-27T14:04:27Z"
+      },
+      "content": {
+        "id": "10113793179315299874",
+        "name": "Vidaxl Carrinho de Beb\u00e9 Cinzento 102X52X100 Cm",
+        "image_url": "https://lh3.googleusercontent.com/spp/AARfHkwtq2P2Es7gY1zz2iY5nRGou3bnJ7Ny0aoTX5jsBNQK6Hr3qpMTzmAlP4Zl60BUqTmwHa4o07WlhG7nncFTF12Xg7O3hhrxGXznautNojHAfByyeA1d1msvZsFL-RdOTQyhrj3NYW8-Onrn32nDrMXUYgx-IeBbaq3z6phtHvGvf7FSzsXp9dZEYE0NXziBSYVKcIOP=s512-pd-pc0x00ffffff",
+        "description": "O nosso robusto carrinho de beb\u00e9 de alta qualidade possui uma grande cesta por baixo e \u00e9 um transportador de beb\u00e9s ideal para levar o seu beb\u00e9 com facilidade para um passeio ou viagem. Este carrinho possui uma cobertura e uma pega de espoja PE con...",
+        "properties": [
+          "Individual",
+          "Para corrida",
+          "Girat\u00f3ria"
+        ],
+        "url": "https://www.google.pt/shopping/product/10113793179315299874?hl=pt&gl=pt&sfr=compass",
+        "review_count": 7,
+        "review_rating": 82,
+        "price": null,
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Dimens\u00f5es (quando dobrado)",
+            "value": [
+              "51 x 36 x 88 cm (L x P x A)"
+            ]
+          },
+          {
+            "label": "Dimens\u00f5es (quando desdobrado)",
+            "value": [
+              "102 x 52 x 100 cm (L x P x A)"
+            ]
+          }
+        ],
+        "offer_count": 8,
+        "offers_url": "https://www.google.pt/shopping/product/10113793179315299874/offers?hl=pt&prds=sgro:oo&sfr=compass&gl=pt",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10113793179315299874",
+            "price": "99.99",
+            "price_additional_info": [],
+            "price_with_shipping": "99.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.worten.pt/beleza-saude-e-bebe/bebe/passeio/carrinhos-de-bebe/carrinho-de-bebe-individual-vidaxl-dobravel-cinzento-102x52x100-cm-MRKEAN-8718475500230",
+            "shop_name": "Worten.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-2eb158aa94d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-2eb158aa94d",
+            "shop_url": "www.worten.pt",
+            "shop_domain": "worten.pt",
+            "shop_matching_id": "worten.pt",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "10113793179315299874",
+            "price": "109.99",
+            "price_additional_info": [],
+            "price_with_shipping": "109.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.vidaxl.pt/e/vidaxl-carrinho-de-bebe-cinzento-102x52x100-cm/8718475500230.html",
+            "shop_name": "vidaXL.pt",
+            "shop_review_count": 143,
+            "shop_review_rating": 86,
+            "shop_id": "priceapi-a01dd5bddff",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a01dd5bddff",
+            "shop_url": "www.vidaxl.pt",
+            "shop_domain": "vidaxl.pt",
+            "shop_matching_id": "vidaxl.pt",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "10113793179315299874",
+            "price": "109.99",
+            "price_additional_info": [],
+            "price_with_shipping": "109.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fnac.pt/mp12213625/Carrinho-de-Bebe-vidaXL-102x52x100-cm-Cinzento/w-4?oref=f20c95a7-d2d9-974e-cc33-fe23ebd2187f",
+            "shop_name": "FNAC Portugal",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d399318d749",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d399318d749",
+            "shop_url": "www.fnac.pt",
+            "shop_domain": "fnac.pt",
+            "shop_matching_id": "fnac.pt",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "10113793179315299874",
+            "price": "109.99",
+            "price_additional_info": [],
+            "price_with_shipping": "113.98",
+            "shipping_costs": "3.99",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://dott.pt/pt/products/vidaxl-carrinho-de-bebe-cinzento-102x52x100-cm-b5c2b234-5e60-46cd-9866-b00ab8b3a6db?utm_source=google-shopping&utm_medium=organic&utm_campaign=Carrinhos%20alcofa%20%3E%20Carrinhos%20%3E%20Passeio%20e%20Viagens%20%3E%20Beb%C3%A9%20Crian%C3%A7a%20e%20Brinquedos&utm_content=Vidaxl%20Carrinho%20de%20Beb%C3%A9%20Cinzento%20102X52X100%20Cm",
+            "shop_name": "Dott",
+            "shop_review_count": 123,
+            "shop_review_rating": 90,
+            "shop_id": "priceapi-5aa8ad5316e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5aa8ad5316e",
+            "shop_url": "dott.pt",
+            "shop_domain": "dott.pt",
+            "shop_matching_id": "dott.pt",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "10113793179315299874",
+            "price": "95.39",
+            "price_additional_info": [],
+            "price_with_shipping": "95.39",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://precodireto.com/carrinhos-de-bebe/75-tander-carrinho-de-bebe-cinzento-102x52x100-cm-8718475500230.html",
+            "shop_name": "PrecoDireto",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-49cd35fcab7",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-49cd35fcab7",
+            "shop_url": "precodireto.com",
+            "shop_domain": "precodireto.com",
+            "shop_matching_id": "precodireto.com",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "10113793179315299874",
+            "price": "104.49",
+            "price_additional_info": [],
+            "price_with_shipping": "112.99",
+            "shipping_costs": "8.5",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "http://allzora.pt/vidaxl-carrinho-de-bebe-cinzento-102x52x100-cm",
+            "shop_name": "allzora.pt",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-38b969c09b7",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-38b969c09b7",
+            "shop_url": "allzora.pt",
+            "shop_domain": "allzora.pt",
+            "shop_matching_id": "allzora.pt",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "10113793179315299874",
+            "price": "162.35",
+            "price_additional_info": [],
+            "price_with_shipping": "162.35",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.ricardoevaz.com/artigos/carrinho-de-bebe-cinzento-102x52x100-cm-59571?srsltid=AQP2TePOcsI6pgP0LTlv3wNszZ8Fk-Hrkcusb-u-3tK8bWLgZdZwOpjIsP8",
+            "shop_name": "Riva Office Supplies",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-1ff35f77cb4",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-1ff35f77cb4",
+            "shop_url": "www.ricardoevaz.com",
+            "shop_domain": "ricardoevaz.com",
+            "shop_matching_id": "ricardoevaz.com",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "10113793179315299874",
+            "price": "171.5",
+            "price_additional_info": [],
+            "price_with_shipping": "185.03",
+            "shipping_costs": "13.53",
+            "tax": null,
+            "currency": "EUR",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fruugo.pt/vidaxl-buggy-grey-102%C3%9752%C3%97100-cm/p-48178752-95755558?language=pt&ac=ProductCasterAPI&utm_source=organic_shopping&utm_medium=organic",
+            "shop_name": "Fruugo PT - 11424",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c7658269a1",
+            "shop_sub_id": "11424",
+            "shop_extended_source_id": "priceapi-8c7658269a1-11424",
+            "shop_url": "www.fruugo.pt",
+            "shop_domain": "fruugo.pt",
+            "shop_matching_id": "fruugo.pt - 11424",
+            "page": 1,
+            "position": 8
+          }
+        ]
+      }
+    }
+  ]
+}

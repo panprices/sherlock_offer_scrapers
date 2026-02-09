@@ -1,0 +1,2806 @@
+{
+  "job_id": "61c065818012fa0022e4b9fc",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 15,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195477004641",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:14:14Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195477257320",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:14:14Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195477332492",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:14:14Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195477617490",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:14:17Z"
+      },
+      "content": {
+        "id": "7627665705936539016",
+        "name": "Lenovo V15 G2 Ryzen 5 8gb 256gb Ssd 15.6\"",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS840w85rcme0acfnWK7tiL9kxUfl72ejFRXTe5suTPb3PK01NMqSbjLuy7fbw2SJ7k8pGD7Qnc&usqp=CAY",
+        "description": "Tunna och eleganta Lenovo V15 klarar alla uppgifter med glans, fr\u00e5n videokonferenser till presentationer och multitasking. Med en kraftfull AMD-processor hj\u00e4lper denna prisv\u00e4rda b\u00e4rbara 15,6\"-dator dig att f\u00e5 mer gjort samtidigt som den skyddar dina k\u00e4nsliga data. Ut\u00f6ver en f\u00f6rb\u00e4ttrad visningsupplevelse har den inbyggda tillf\u00f6rlitlighets- och produktivitetsfunktioner s\u00e5 att du kan spara tid och anstr\u00e4ngning.",
+        "properties": [
+          "Lenovo",
+          "Windows OS",
+          "15,6 tum",
+          "Lagringskapacitet: 256 GB",
+          "Processorhastighet: 2,1 GHz",
+          "AMD-grafikprocessor"
+        ],
+        "url": "https://www.google.se/shopping/product/7627665705936539016?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 0,
+        "review_rating": null,
+        "price": "6490.0",
+        "gtins": [
+          "195477617490"
+        ],
+        "eans": [
+          "0195477617490"
+        ],
+        "brand_name": "Lenovo",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Notebook"
+            ]
+          },
+          {
+            "label": "CPU",
+            "value": [
+              "AMD Ryzen 5 5500U / 2.1 GHz"
+            ]
+          },
+          {
+            "label": "Max. turbohastighet",
+            "value": [
+              "4 GHz"
+            ]
+          },
+          {
+            "label": "Antal k\u00e4rnor",
+            "value": [
+              "Med 6 k\u00e4rnor"
+            ]
+          },
+          {
+            "label": "Cache",
+            "value": [
+              "L3 - 8 MB"
+            ]
+          },
+          {
+            "label": "Funktioner",
+            "value": [
+              "Integrerad minnesstyrenhet"
+            ]
+          },
+          {
+            "label": "RAM",
+            "value": [
+              "8 GB (medf\u00f6ljande minne \u00e4r integrerat)"
+            ]
+          },
+          {
+            "label": "Max. RAM som st\u00f6ds",
+            "value": [
+              "16 GB"
+            ]
+          },
+          {
+            "label": "Hastighet",
+            "value": [
+              "3200 MHz"
+            ]
+          },
+          {
+            "label": "Nominell hastighet",
+            "value": [
+              "3200 MHz"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "SO DIMM 260-pin"
+            ]
+          },
+          {
+            "label": "Antal kortplatser",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Tomma kortplatser",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "LCD-bakgrundsbelysningsteknik",
+            "value": [
+              "LED-bakgrundsbelysning"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning",
+            "value": [
+              "1920 x 1080 (Full HD)"
+            ]
+          },
+          {
+            "label": "Bredsk\u00e4rm",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Bildkvot",
+            "value": [
+              "16:9"
+            ]
+          },
+          {
+            "label": "Ljusstyrka f\u00f6r bild",
+            "value": [
+              "300 cd/m\u00b2"
+            ]
+          },
+          {
+            "label": "Grafikprocessor",
+            "value": [
+              "AMD Radeon Graphics"
+            ]
+          },
+          {
+            "label": "Memory Allocation-teknik",
+            "value": [
+              "Shared Video Memory (UMA)"
+            ]
+          },
+          {
+            "label": "Kamera",
+            "value": [
+              "Ja - 720p"
+            ]
+          },
+          {
+            "label": "Kameraegenskaper",
+            "value": [
+              "Webkamera skydd"
+            ]
+          },
+          {
+            "label": "Ljud",
+            "value": [
+              "H\u00f6gtalare",
+              "mikrofon med tv\u00e5 l\u00e4gen"
+            ]
+          },
+          {
+            "label": "Tangentbordslayout",
+            "value": [
+              "Nordisk"
+            ]
+          },
+          {
+            "label": "Numeriskt tangentbord",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s",
+            "value": [
+              "802.11a/b/g/n/ac",
+              "Bluetooth 5.0"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s styrenhet",
+            "value": [
+              "M.2 Card"
+            ]
+          },
+          {
+            "label": "N\u00e4tverksgr\u00e4nssnitt",
+            "value": [
+              "Gigabit Ethernet"
+            ]
+          },
+          {
+            "label": "Ethernet-styrenhet",
+            "value": [
+              "Realtek RTL8111H"
+            ]
+          },
+          {
+            "label": "Kapacitet",
+            "value": [
+              "38 Wh"
+            ]
+          },
+          {
+            "label": "K\u00f6rtid",
+            "value": [
+              "Upp till 7.5 timmar"
+            ]
+          },
+          {
+            "label": "L\u00e5dmaterial",
+            "value": [
+              "Polykarbonat-ABS"
+            ]
+          },
+          {
+            "label": "St\u00f6ld-/inbrottsskydd",
+            "value": [
+              "Plats f\u00f6r s\u00e4kerhetsl\u00e5s (kabell\u00e5s s\u00e4ljs separat)"
+            ]
+          },
+          {
+            "label": "Typ av s\u00e4kerhetsplats",
+            "value": [
+              "Kensington nano s\u00e4kerhetsplats"
+            ]
+          },
+          {
+            "label": "Inkluderade tillbeh\u00f6r",
+            "value": [
+              "Str\u00f6madapter"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Lenovo"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "82KD0034MX",
+              "82kd0034mx",
+              "88312245",
+              "998145688"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00195477617490"
+            ]
+          }
+        ],
+        "offer_count": 11,
+        "offers_url": "https://www.google.se/shopping/product/7627665705936539016/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "7627665705936539016",
+            "price": "6490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/dator-surfplatta/laptop/laptop-14-16-tum/lenovo-v15-g2-alc-82kd0034mx-/1021792.8908/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "7627665705936539016",
+            "price": "6495.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6495.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/datorer-tillbehor/barbar-dator/windows-laptops/385868/lenovo-82kd0034mx-commercial-l",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "7627665705936539016",
+            "price": "6490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inet.se/produkt/1967219/lenovo-v15-15-6-ryzen-5-8gb-256gb",
+            "shop_name": "Inet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fad01df70fc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fad01df70fc",
+            "shop_url": "www.inet.se",
+            "shop_domain": "inet.se",
+            "shop_matching_id": "inet.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "7627665705936539016",
+            "price": "7490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "7490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1175819/dator-surfplatta/datorer-barbara-laptop/ultraportabel/lenovo-v15-g2-156-full-hd?channable=0094536964003131373538313900",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "7627665705936539016",
+            "price": "6490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6490.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.power.se/datorer/datorer/b2b-barbar-pc/lenovo-v15-g2-alc-156-barbar-dator/p-1221434/",
+            "shop_name": "Power.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12a02cb9685",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12a02cb9685",
+            "shop_url": "www.power.se",
+            "shop_domain": "power.se",
+            "shop_matching_id": "power.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "7627665705936539016",
+            "price": "6521.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6521.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7056695/lenovo-v15-g2-alc-82kd-ryzen-5-5500u-2-1-ghz-win-10-pro-64-bitars-8-gb-ram-256-gb-ssd-nvme-15-6-ips-1920-x-1080-full-hd",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "7627665705936539016",
+            "price": "6490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011253581/v15-g2?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "7627665705936539016",
+            "price": "6765.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6814.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/lenovo-156fhd_ag_300n_n-ryzen_5_5500u_21g_6c_mb-none-8g/cat-p/c36159/p1001551220",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "7627665705936539016",
+            "price": "6490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/lenovo-v15-15-6-ryzen-5-8gb-256gb-p88743129",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "7627665705936539016",
+            "price": "6827.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6827.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/lenovo-v15-g2-alc-82kd-15-6-5500u-8gb-256gb-graphics-windows-10-pro-64-bit",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "7627665705936539016",
+            "price": "7487.5",
+            "price_additional_info": null,
+            "price_with_shipping": "7546.5",
+            "shipping_costs": "59.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplettforetag.se/product/1175819/dator-surfplatta/barbara/ultraportable/lenovo-v15-g2-156-full-hd",
+            "shop_name": "Komplett F\u00f6retag",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9edf77b141d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9edf77b141d",
+            "shop_url": "www.komplettforetag.se",
+            "shop_domain": "komplettforetag.se",
+            "shop_matching_id": "komplettforetag.se",
+            "page": 1,
+            "position": 11
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195697015809",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:14:14Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=00195697015809&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://cdon.se/hemelektronik/hp-245-g8-27j57ea-p86959511",
+            "name": "HP 245 G8 27J57EA - B\u00e4rbara datorer",
+            "product_properties": [],
+            "price": "5595.0",
+            "shipping_costs": "49.0",
+            "price_with_shipping": "5644.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "cdon.se",
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195697142338",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:14:13Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195697142420",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:14:13Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195697150166",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:14:13Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=00195697150166&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.alina.se/Produkt.aspx?site=gm&T2=2M3B7ES%23UUW",
+            "name": "HP 255 G7 - Ryzen 5 - 8GB - 256GB SSD - Windows 10 Pro",
+            "product_properties": [],
+            "price": "6499.0",
+            "shipping_costs": null,
+            "price_with_shipping": null,
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Alina.se",
+            "shop_id": "priceapi-3895675bbec",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-3895675bbec",
+            "shop_url": "www.alina.se",
+            "shop_domain": "alina.se",
+            "shop_matching_id": "Alina.se",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195697224553",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:14:14Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195890440408",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:14:13Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195891124048",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:14:18Z"
+      },
+      "content": {
+        "id": "16378541339094505878",
+        "name": "Lenovo Thinkpad E15 G3 Ryzen 5 8gb 256gb Ssd 15.6\"",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRGBvhycs-3f5Jchl4Foo7vCc1qBs6rbtlwpac3kdnyCs_Kl4H1&usqp=CAY",
+        "description": "Den barbara foretagsdatorn ThinkPad E15 Gen 3 (15 AMD) drivs av AMD Ryzen? 5000 Series mobilprocessorer och har allt du behover, var du an arbetar. Tack vare att den testats enligt militara specifikationer ar den har kraftfulla maskinen b\u00e5de tuff och h\u00e5llbar, och de robusta sakerhetsfunktionerna skyddar dina data. Valj en modell med inbyggda Bluetooth -oronsnackor for smidiga, improviserade konferenssamtal var du an befinner dig.",
+        "properties": [
+          "Lenovo",
+          "ThinkPad",
+          "ThinkPad Edge",
+          "Windows OS",
+          "15,6 tum",
+          "Lagringskapacitet: 256 GB",
+          "SSD",
+          "Processorhastighet: 2,1 GHz",
+          "1920 x 1080"
+        ],
+        "url": "https://www.google.se/shopping/product/16378541339094505878?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 0,
+        "review_rating": null,
+        "price": "9990.0",
+        "gtins": [
+          "195891124048"
+        ],
+        "eans": [
+          "0195891124048"
+        ],
+        "brand_name": "Lenovo",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Notebook"
+            ]
+          },
+          {
+            "label": "CPU",
+            "value": [
+              "AMD Ryzen 5 5500U / 2.1 GHz"
+            ]
+          },
+          {
+            "label": "Max. turbohastighet",
+            "value": [
+              "4 GHz"
+            ]
+          },
+          {
+            "label": "Antal k\u00e4rnor",
+            "value": [
+              "Med 6 k\u00e4rnor"
+            ]
+          },
+          {
+            "label": "Cache",
+            "value": [
+              "L3 - 8 MB"
+            ]
+          },
+          {
+            "label": "Funktioner",
+            "value": [
+              "Integrerad minnesstyrenhet"
+            ]
+          },
+          {
+            "label": "RAM",
+            "value": [
+              "8 GB (medf\u00f6ljande minne \u00e4r integrerat)"
+            ]
+          },
+          {
+            "label": "Max. RAM som st\u00f6ds",
+            "value": [
+              "24 GB"
+            ]
+          },
+          {
+            "label": "Hastighet",
+            "value": [
+              "3200 MHz"
+            ]
+          },
+          {
+            "label": "Nominell hastighet",
+            "value": [
+              "3200 MHz"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "SO DIMM 260-pin"
+            ]
+          },
+          {
+            "label": "Antal kortplatser",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Tomma kortplatser",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "LCD-bakgrundsbelysningsteknik",
+            "value": [
+              "LED-bakgrundsbelysning"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning",
+            "value": [
+              "1920 x 1080 (Full HD)"
+            ]
+          },
+          {
+            "label": "Bredsk\u00e4rm",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Bildkvot",
+            "value": [
+              "16:9"
+            ]
+          },
+          {
+            "label": "Ljusstyrka f\u00f6r bild",
+            "value": [
+              "300 cd/m\u00b2"
+            ]
+          },
+          {
+            "label": "Grafikprocessor",
+            "value": [
+              "AMD Radeon Graphics"
+            ]
+          },
+          {
+            "label": "Memory Allocation-teknik",
+            "value": [
+              "Shared Video Memory (UMA)"
+            ]
+          },
+          {
+            "label": "Max antal sk\u00e4rmar som st\u00f6ds",
+            "value": [
+              "2 extern(a) sk\u00e4rm(ar)"
+            ]
+          },
+          {
+            "label": "Kamera",
+            "value": [
+              "Ja - 720p"
+            ]
+          },
+          {
+            "label": "Ljud",
+            "value": [
+              "H\u00f6gtalare",
+              "mikrofon med tv\u00e5 l\u00e4gen"
+            ]
+          },
+          {
+            "label": "Ljudfunktioner",
+            "value": [
+              "Harman/Kardon stereoh\u00f6gtalare"
+            ]
+          },
+          {
+            "label": "Bakgrundsbelysning, tangentbord",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Tangentbordslayout",
+            "value": [
+              "Nordisk"
+            ]
+          },
+          {
+            "label": "Numeriskt tangentbord",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s",
+            "value": [
+              "802.11a/b/g/n/ac/ax",
+              "Bluetooth 5.2"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s styrenhet",
+            "value": [
+              "M.2 Card"
+            ]
+          },
+          {
+            "label": "N\u00e4tverksgr\u00e4nssnitt",
+            "value": [
+              "Gigabit Ethernet"
+            ]
+          },
+          {
+            "label": "Ethernet-styrenhet",
+            "value": [
+              "Realtek RTL8111GUS"
+            ]
+          },
+          {
+            "label": "Kapacitet",
+            "value": [
+              "57 Wh"
+            ]
+          },
+          {
+            "label": "K\u00f6rtid",
+            "value": [
+              "Upp till 13.6 timmar"
+            ]
+          },
+          {
+            "label": "L\u00e5dmaterial",
+            "value": [
+              "Aluminium",
+              "polykarbonat-ABS"
+            ]
+          },
+          {
+            "label": "St\u00f6ld-/inbrottsskydd",
+            "value": [
+              "Plats f\u00f6r s\u00e4kerhetsl\u00e5s (kabell\u00e5s s\u00e4ljs separat)"
+            ]
+          },
+          {
+            "label": "Typ av s\u00e4kerhetsplats",
+            "value": [
+              "Kensington s\u00e4kerhetsplats"
+            ]
+          },
+          {
+            "label": "Inkluderade tillbeh\u00f6r",
+            "value": [
+              "USB-C str\u00f6madapter"
+            ]
+          },
+          {
+            "label": "TCO-certifierad",
+            "value": [
+              "TCO Certified Notebooks 8"
+            ]
+          },
+          {
+            "label": "EPEAT-kompatibel",
+            "value": [
+              "EPEAT Gold"
+            ]
+          },
+          {
+            "label": "ENERGY STAR-certifierad",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Lenovo"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "20YG004DMX",
+              "20yg004dmx"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00195891124048"
+            ]
+          }
+        ],
+        "offer_count": 4,
+        "offers_url": "https://www.google.se/shopping/product/16378541339094505878/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "16378541339094505878",
+            "price": "9990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/datorer-tillbehor/barbar-dator/windows-laptops/335538/lenovo-thinkpad-e15-gen3-15-6-barbar-dator-r58256-gb-svart",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "16378541339094505878",
+            "price": "9651.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9651.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7361686/lenovo-thinkpad-e15-gen-3-20yg-ryzen-5-5500u-2-1-ghz-win-10-pro-64-bitars-8-gb-ram-256-gb-ssd-nvme-15-6-ips-1920-x-1080-full",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "16378541339094505878",
+            "price": "9739.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9739.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011252358/thinkpad-e15-g3?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "16378541339094505878",
+            "price": "9692.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9741.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/lenovo-thinkpad-e15-g3-amd/cat-p/c/p1001808914",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195891168349",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:14:17Z"
+      },
+      "content": {
+        "id": "7945653526567783734",
+        "name": "Lenovo Thinkpad E14 G3 Ryzen 5 8gb 256gb Ssd 14\"",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTVgCojHzsszyRewKWXAw-jZw0JzvQfZykf5r3PYSIkRsBKiAs&usqp=CAY",
+        "description": "ThinkPad E14 Gen 3 \u00e4r en kompakt och robust jobblaptop med en sexk\u00e4rnig Ryzen -processor, rej\u00e4la anslutningsm\u00f6jligheter och praktiska s\u00e4kerhetsfunktioner. Fantastisk prestanda med Ryzen 5000 Series Den kraftfulla b\u00e4rbara datorn klarar av komplexa program och kr\u00e4vande multitasking. ThinkPad E14 Gen 3 har en kraftfull sexk\u00e4rnig AMD Ryzen 5 5500U-processor med ett inbyggt AMD Radeon -grafikkort, 8 GB med l\u00f6dat RAM (DDR4-3200) och en snabb M.2 SSD-h\u00e5rddisk p\u00e5 256 GB. 14\u201d Full HD-sk\u00e4rm med klara f\u00e4rger Den f\u00f6rstklassiga f\u00e4rg\u00e5tergivningen och de breda betraktningsvinklarna g\u00f6r att dina bildspel, foton och videor ser lika proffsiga ut fr\u00e5n alla vinklar. Sk\u00e4rmen har en IPS-panel med antireflexbel\u00e4ggning och passar perfekt f\u00f6r kreativt skapande och annat visuellt arbete. Var produktiv n\u00e4r och var som helst Den b\u00e4rbara datorn ThinkPad E14 Gen 3 har ett batteri p\u00e5 57 Wh som r\u00e4cker i upp till 16 timmar (MobileMark 2018) s\u00e5 att du kan h\u00e5lla ig\u00e5ng hela dagen l\u00e5ng. Med Wi-Fi 6 f\u00e5r du supersnabba och p\u00e5litliga uppkopplingar \u00e4ven p\u00e5 upptagna n\u00e4tverk. H\u00e5llbar och p\u00e5litlig b\u00e4rbar dator med aluminiumchassi som klarat av de milit\u00e4ra MIL-STD 810H-testerna. H\u00f6g s\u00e4kerhet ThinkPad har gott om praktiska s\u00e4kerhetsfunktioner som skyddar din dator. Datorn har en pekbaserad fingeravtrycksl\u00e4sare, ett Kensington-l\u00e5s, ett TPM 2.0-s\u00e4kerhetschipp och en 720p IR-webbkamera med lock.",
+        "properties": [
+          "Lenovo",
+          "ThinkPad",
+          "ThinkPad Edge",
+          "Windows OS",
+          "14 tum",
+          "Lagringskapacitet: 256 GB",
+          "SSD",
+          "Peksk\u00e4rm",
+          "Processorhastighet: 2,1 GHz",
+          "AMD-CPU"
+        ],
+        "url": "https://www.google.se/shopping/product/7945653526567783734?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 48,
+        "review_rating": 90,
+        "price": "9490.0",
+        "gtins": [
+          "195891168349"
+        ],
+        "eans": [
+          "0195891168349"
+        ],
+        "brand_name": "Lenovo",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Notebook"
+            ]
+          },
+          {
+            "label": "CPU",
+            "value": [
+              "AMD Ryzen 5 5500U / 2.1 GHz"
+            ]
+          },
+          {
+            "label": "Max. turbohastighet",
+            "value": [
+              "4 GHz"
+            ]
+          },
+          {
+            "label": "Antal k\u00e4rnor",
+            "value": [
+              "Med 6 k\u00e4rnor"
+            ]
+          },
+          {
+            "label": "Cache",
+            "value": [
+              "L3 - 8 MB"
+            ]
+          },
+          {
+            "label": "Funktioner",
+            "value": [
+              "Integrerad minnesstyrenhet"
+            ]
+          },
+          {
+            "label": "RAM",
+            "value": [
+              "8 GB (medf\u00f6ljande minne \u00e4r integrerat)"
+            ]
+          },
+          {
+            "label": "Max. RAM som st\u00f6ds",
+            "value": [
+              "24 GB"
+            ]
+          },
+          {
+            "label": "Hastighet",
+            "value": [
+              "3200 MHz"
+            ]
+          },
+          {
+            "label": "Nominell hastighet",
+            "value": [
+              "3200 MHz"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "SO DIMM 260-pin"
+            ]
+          },
+          {
+            "label": "Antal kortplatser",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Tomma kortplatser",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "LCD-bakgrundsbelysningsteknik",
+            "value": [
+              "LED-bakgrundsbelysning"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning",
+            "value": [
+              "1920 x 1080 (Full HD)"
+            ]
+          },
+          {
+            "label": "Bredsk\u00e4rm",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Bildkvot",
+            "value": [
+              "16:9"
+            ]
+          },
+          {
+            "label": "Ljusstyrka f\u00f6r bild",
+            "value": [
+              "300 cd/m\u00b2"
+            ]
+          },
+          {
+            "label": "Grafikprocessor",
+            "value": [
+              "AMD Radeon Graphics"
+            ]
+          },
+          {
+            "label": "Memory Allocation-teknik",
+            "value": [
+              "Shared Video Memory (UMA)"
+            ]
+          },
+          {
+            "label": "Max antal sk\u00e4rmar som st\u00f6ds",
+            "value": [
+              "2 extern(a) sk\u00e4rm(ar)"
+            ]
+          },
+          {
+            "label": "Kamera",
+            "value": [
+              "Ja - 720p"
+            ]
+          },
+          {
+            "label": "Kameraegenskaper",
+            "value": [
+              "IR-kamera",
+              "ThinkShutter kamerasekretess"
+            ]
+          },
+          {
+            "label": "Ljud",
+            "value": [
+              "H\u00f6gtalare",
+              "mikrofon med tv\u00e5 l\u00e4gen"
+            ]
+          },
+          {
+            "label": "Ljudfunktioner",
+            "value": [
+              "Harman ljudteknologi"
+            ]
+          },
+          {
+            "label": "Bakgrundsbelysning, tangentbord",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Tangentbordslayout",
+            "value": [
+              "Nordisk"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s",
+            "value": [
+              "802.11a/b/g/n/ac/ax",
+              "Bluetooth 5.2"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s styrenhet",
+            "value": [
+              "M.2 Card"
+            ]
+          },
+          {
+            "label": "N\u00e4tverksgr\u00e4nssnitt",
+            "value": [
+              "Gigabit Ethernet"
+            ]
+          },
+          {
+            "label": "Ethernet-styrenhet",
+            "value": [
+              "Realtek RTL8111GUS"
+            ]
+          },
+          {
+            "label": "Kapacitet",
+            "value": [
+              "57 Wh"
+            ]
+          },
+          {
+            "label": "K\u00f6rtid",
+            "value": [
+              "Upp till 15.8 timmar"
+            ]
+          },
+          {
+            "label": "L\u00e5dmaterial",
+            "value": [
+              "Aluminium"
+            ]
+          },
+          {
+            "label": "St\u00f6ld-/inbrottsskydd",
+            "value": [
+              "Plats f\u00f6r s\u00e4kerhetsl\u00e5s (kabell\u00e5s s\u00e4ljs separat)"
+            ]
+          },
+          {
+            "label": "Typ av s\u00e4kerhetsplats",
+            "value": [
+              "Kensington s\u00e4kerhetsplats"
+            ]
+          },
+          {
+            "label": "Inkluderade tillbeh\u00f6r",
+            "value": [
+              "USB-C str\u00f6madapter"
+            ]
+          },
+          {
+            "label": "TCO-certifierad",
+            "value": [
+              "TCO Certified Notebooks 8"
+            ]
+          },
+          {
+            "label": "EPEAT-kompatibel",
+            "value": [
+              "EPEAT Gold"
+            ]
+          },
+          {
+            "label": "ENERGY STAR-certifierad",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Lenovo"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "20Y7004JMX",
+              "20y7004jmx",
+              "331401",
+              "63297781",
+              "83667800",
+              "88313013",
+              "998814063"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00195891168349"
+            ]
+          }
+        ],
+        "offer_count": 7,
+        "offers_url": "https://www.google.se/shopping/product/7945653526567783734/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "7945653526567783734",
+            "price": "9490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/datorer-tillbehor/barbar-dator/windows-laptops/326611/lenovo-thinkpad-e14-gen3-14-laptop-r58256-gb-svart",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "7945653526567783734",
+            "price": "9998.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9998.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/lenovo-thinkpad-e14-gen-3-20y7-14-5500u-8gb-256gb-graphics-windows-10-pro-64-bit",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "7945653526567783734",
+            "price": "10309.0",
+            "price_additional_info": null,
+            "price_with_shipping": "10348.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/lenovo-thinkpad-e14-barbar-dator-35-6-cm-14-full-hd-amd-ryzen-5-8-gb-ddr4-sdram-256-gb-ssd-wi-fi-6-802-11ax-windows-10-pro-svart-p88313013",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "7945653526567783734",
+            "price": "9678.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9678.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7361684/lenovo-thinkpad-e14-gen-3-20y7-ryzen-5-5500u-2-1-ghz-win-10-pro-64-bitars-8-gb-ram-256-gb-ssd-nvme-14-ips-1920-x-1080-full-hd",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "7945653526567783734",
+            "price": "9699.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9699.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011252362/thinkpad-e14-g3?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "7945653526567783734",
+            "price": "9739.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9739.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Baerbar-dator/Lenovo-ThinkPad-E14-Gen-3-Ryzen-5-5500U-8-GB-RAM/2969034?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "7945653526567783734",
+            "price": "9736.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9785.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/lenovo-thinkpad-e14-g3-amd/cat-p/c36320/p1001808901",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 7
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195908077992",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:14:13Z"
+      },
+      "content": {
+        "id": "968355332819305514",
+        "name": "HP EliteBook 830 G8 13,3\" Full HD, Core i5",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTjnDoyeOrdDqhDnIkMGF-6PCIGWnHgf53_agAgM8OjSdcVsET-qjEOKYzKVjk6Zc-3bylwNRWH&usqp=CAY",
+        "description": "HP EliteBook 830 \u00e4r utformad f\u00f6r ert s\u00e4tt att arbeta med en ny AI-baserad ljudupplevelse. Denna ultratunna och l\u00e4tta b\u00e4rbara f\u00f6retagsdator har ett f\u00f6rh\u00e5llande mellan sk\u00e4rm och h\u00f6lje p\u00e5 85 procent och ett tyst, smidigt tangentbord.",
+        "properties": [
+          "HP",
+          "HP EliteBook",
+          "HP EliteBook 800 Series",
+          "HP EliteBook 830",
+          "Windows OS",
+          "13,3 tum",
+          "Lagringskapacitet: 256 GB",
+          "SSD",
+          "Processorhastighet: 4,2 GHz",
+          "Intel-CPU"
+        ],
+        "url": "https://www.google.se/shopping/product/968355332819305514?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 0,
+        "review_rating": null,
+        "price": "15599.0",
+        "gtins": [
+          "195908077992"
+        ],
+        "eans": [
+          "0195908077992"
+        ],
+        "brand_name": "HP",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Minne",
+            "value": [
+              "8 GB DDR4-3200 MHz RAM (1 x 8 GB)"
+            ]
+          },
+          {
+            "label": "Not om standardminne",
+            "value": [
+              "\u00d6verf\u00f6ringshastigheter p\u00e5 upp till 3 200 MT/s"
+            ]
+          },
+          {
+            "label": "Minneskortplatser",
+            "value": [
+              "2 SODIMM"
+            ]
+          },
+          {
+            "label": "Intern lagring",
+            "value": [
+              "256 GB PCIe NVMe SSD"
+            ]
+          },
+          {
+            "label": "Lagringstyp",
+            "value": [
+              "SSD"
+            ]
+          },
+          {
+            "label": "Optisk enhet",
+            "value": [
+              "Ing\u00e5r inte"
+            ]
+          },
+          {
+            "label": "Processorfamilj",
+            "value": [
+              "11:e generationens Intel Core i\u2075-processor"
+            ]
+          },
+          {
+            "label": "Bildsk\u00e4rmsstorlek (diagonalt)",
+            "value": [
+              "33",
+              "8 cm (13",
+              "3 tum)"
+            ]
+          },
+          {
+            "label": "Peksk\u00e4rm",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "F\u00e4rgregister",
+            "value": [
+              "45% NTSC"
+            ]
+          },
+          {
+            "label": "Ljusstyrka",
+            "value": [
+              "250 nits"
+            ]
+          },
+          {
+            "label": "Minimim\u00e5tt (B x D x H)",
+            "value": [
+              "30",
+              "76 x 20",
+              "45 x 1",
+              "79 cm"
+            ]
+          },
+          {
+            "label": "Grafik",
+            "value": [
+              "Inbyggd"
+            ]
+          },
+          {
+            "label": "Grafikkortet (integrerat)",
+            "value": [
+              "Intel Iris Xe-grafik"
+            ]
+          },
+          {
+            "label": "Pekdon",
+            "value": [
+              "Styrplatta med st\u00f6d f\u00f6r multipekfunktion"
+            ]
+          },
+          {
+            "label": "Fingeravtrycksl\u00e4sare",
+            "value": [
+              "Fingeravtryckssensor"
+            ]
+          },
+          {
+            "label": "Specifikationer f\u00f6r h\u00e5llbar inverkan",
+            "value": [
+              "L\u00e5ghalogen; TCO 8.0-certifierad\u00b2\u2076 \u00b2\u2077 \u00b2\u2078"
+            ]
+          },
+          {
+            "label": "Tillg\u00e4nglig programvara",
+            "value": [
+              "HP Smart Support"
+            ]
+          },
+          {
+            "label": "Dokument",
+            "value": [
+              "HP EliteBook 830 G8 Notebook PC"
+            ]
+          },
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "36"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Notebook"
+            ]
+          },
+          {
+            "label": "CPU",
+            "value": [
+              "Intel Core i5 11:e gen. 1135G7 / 2.4 GHz"
+            ]
+          },
+          {
+            "label": "Max. turbohastighet",
+            "value": [
+              "4.2 GHz"
+            ]
+          },
+          {
+            "label": "Antal k\u00e4rnor",
+            "value": [
+              "Fyrk\u00e4rnig"
+            ]
+          },
+          {
+            "label": "Cache",
+            "value": [
+              "L3 - 8 MB"
+            ]
+          },
+          {
+            "label": "RAM",
+            "value": [
+              "8 GB (1 x 8 GB)"
+            ]
+          },
+          {
+            "label": "Max. RAM som st\u00f6ds",
+            "value": [
+              "64 GB"
+            ]
+          },
+          {
+            "label": "Hastighet",
+            "value": [
+              "3200 MHz"
+            ]
+          },
+          {
+            "label": "Nominell hastighet",
+            "value": [
+              "3200 MHz"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "SO DIMM 260-pin"
+            ]
+          },
+          {
+            "label": "Antal kortplatser",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Tomma kortplatser",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "LCD-bakgrundsbelysningsteknik",
+            "value": [
+              "WLED-bakgrundsbelysning"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning",
+            "value": [
+              "1920 x 1080 (Full HD)"
+            ]
+          },
+          {
+            "label": "Bredsk\u00e4rm",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Ljusstyrka f\u00f6r bild",
+            "value": [
+              "250 cd/m\u00b2"
+            ]
+          },
+          {
+            "label": "Namn tangentbord",
+            "value": [
+              "HP Premium Collaboration Keyboard"
+            ]
+          },
+          {
+            "label": "Grafikprocessor",
+            "value": [
+              "Intel Iris Xe Graphics"
+            ]
+          },
+          {
+            "label": "Videouppl\u00f6sning",
+            "value": [
+              "720p"
+            ]
+          },
+          {
+            "label": "Ljud",
+            "value": [
+              "H\u00f6gtalare",
+              "3 multiarraymikrofoner"
+            ]
+          },
+          {
+            "label": "Bakgrundsbelysning, tangentbord",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Tangentbordslayout",
+            "value": [
+              "Hela norden"
+            ]
+          },
+          {
+            "label": "Kapacitet",
+            "value": [
+              "53 Wh"
+            ]
+          },
+          {
+            "label": "K\u00f6rtid",
+            "value": [
+              "Upp till 14.25 timmar"
+            ]
+          },
+          {
+            "label": "L\u00e5dmaterial",
+            "value": [
+              "Aluminium"
+            ]
+          },
+          {
+            "label": "Integrerade alternativ",
+            "value": [
+              "Kakelmodul",
+              "milj\u00f6ljussensor",
+              "hallsensor"
+            ]
+          },
+          {
+            "label": "Typ av s\u00e4kerhetsplats",
+            "value": [
+              "Kensington nano s\u00e4kerhetsplats"
+            ]
+          },
+          {
+            "label": "Inkluderade tillbeh\u00f6r",
+            "value": [
+              "USB-C str\u00f6madapter"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "HP"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "2M3D1Q3",
+              "358M7EA#UUW",
+              "358m7eauuw",
+              "60542108",
+              "78928598"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00195908077992"
+            ]
+          }
+        ],
+        "offer_count": 6,
+        "offers_url": "https://www.google.se/shopping/product/968355332819305514/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "968355332819305514",
+            "price": "16799.0",
+            "price_additional_info": null,
+            "price_with_shipping": "16799.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/datorer-tillbehor/barbar-dator/windows-laptops/282786/hp-elitebook-830-g8-13-3-barbar-dator-i58256gb-silver",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "968355332819305514",
+            "price": "15590.0",
+            "price_additional_info": null,
+            "price_with_shipping": "15590.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1180456/dator-surfplatta/datorer-barbara-laptop/ultraportabel/hp-elitebook-830-g8-133-full-hd?channable=009453696400313138303435368e",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "968355332819305514",
+            "price": "16212.0",
+            "price_additional_info": null,
+            "price_with_shipping": "16212.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7035772/hp-elitebook-830-g8-core-i5-1135g7-2-4-ghz-win-10-pro-64-bitars-8-gb-ram-256-gb-ssd-nvme-13-3-ips-1920-x-1080-full-hd-iris-xe",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "968355332819305514",
+            "price": "16790.0",
+            "price_additional_info": null,
+            "price_with_shipping": "16790.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011217788/elitebook-830-g8?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "968355332819305514",
+            "price": "16423.0",
+            "price_additional_info": null,
+            "price_with_shipping": "16472.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/hp-elitebook-830-g8-i5-1135g7/cat-p/c36161/p1001585066/gr_0",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "968355332819305514",
+            "price": "20703.0",
+            "price_additional_info": null,
+            "price_with_shipping": "20703.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/hp-elitebook-830-g8-11e-generationens-intelr-coret-i5-33-8-cm-13-3-192-p78928598",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 6
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195908078395",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:14:14Z"
+      },
+      "content": {
+        "id": "13306127093467785347",
+        "name": "HP EliteBook 850 G8 15,6\" Full HD",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRCqeziivgOgNKuDGJnCl3-e5lAeSncxi3OLLkMdRZ3GHDy5m0r&usqp=CAY",
+        "description": "HP EliteBook 850 \u00e4r utformad f\u00f6r ert s\u00e4tt att arbeta med en ny AI-baserad ljudupplevelse. Denna ultratunna och l\u00e4tta b\u00e4rbara f\u00f6retagsdator har ett sk\u00e4rm till chassi-f\u00f6rh\u00e5llande (STBR) p\u00e5 85 procent och ett tyst, smidigt tangentbord.",
+        "properties": [
+          "HP",
+          "HP EliteBook",
+          "HP EliteBook 800 Series",
+          "HP EliteBook 850",
+          "Windows OS",
+          "15,6 tum",
+          "Lagringskapacitet: 512 GB",
+          "Intel-CPU",
+          "1,68 kg",
+          "Intel-grafikprocessor"
+        ],
+        "url": "https://www.google.se/shopping/product/13306127093467785347?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 0,
+        "review_rating": null,
+        "price": "23499.0",
+        "gtins": [
+          "195908078395"
+        ],
+        "eans": [
+          "0195908078395"
+        ],
+        "brand_name": "HP",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Notebook"
+            ]
+          },
+          {
+            "label": "CPU",
+            "value": [
+              "Intel Core i7 11:e gen. 1165G7 / 2.8 GHz"
+            ]
+          },
+          {
+            "label": "Max. turbohastighet",
+            "value": [
+              "4.7 GHz"
+            ]
+          },
+          {
+            "label": "Antal k\u00e4rnor",
+            "value": [
+              "Fyrk\u00e4rnig"
+            ]
+          },
+          {
+            "label": "Cache",
+            "value": [
+              "L3 - 12 MB"
+            ]
+          },
+          {
+            "label": "RAM",
+            "value": [
+              "16 GB (1 x 16 GB)"
+            ]
+          },
+          {
+            "label": "Max. RAM som st\u00f6ds",
+            "value": [
+              "64 GB"
+            ]
+          },
+          {
+            "label": "Hastighet",
+            "value": [
+              "3200 MHz"
+            ]
+          },
+          {
+            "label": "Nominell hastighet",
+            "value": [
+              "3200 MHz"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "SO DIMM 260-pin"
+            ]
+          },
+          {
+            "label": "Antal kortplatser",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Tomma kortplatser",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "LCD-bakgrundsbelysningsteknik",
+            "value": [
+              "WLED-bakgrundsbelysning"
+            ]
+          },
+          {
+            "label": "Uppl\u00f6sning",
+            "value": [
+              "1920 x 1080 (Full HD)"
+            ]
+          },
+          {
+            "label": "Vert. Synkr. frekv. vid max uppl",
+            "value": [
+              "60 Hz"
+            ]
+          },
+          {
+            "label": "Bredsk\u00e4rm",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Ljusstyrka f\u00f6r bild",
+            "value": [
+              "1000 cd/m\u00b2"
+            ]
+          },
+          {
+            "label": "Integritetsteknik",
+            "value": [
+              "HP SureView"
+            ]
+          },
+          {
+            "label": "Namn tangentbord",
+            "value": [
+              "HP Premium"
+            ]
+          },
+          {
+            "label": "Grafikprocessor",
+            "value": [
+              "Intel Iris Xe Graphics"
+            ]
+          },
+          {
+            "label": "Kamera",
+            "value": [
+              "Ja - HD"
+            ]
+          },
+          {
+            "label": "Videouppl\u00f6sning",
+            "value": [
+              "720p"
+            ]
+          },
+          {
+            "label": "Kameraegenskaper",
+            "value": [
+              "IR-kamera"
+            ]
+          },
+          {
+            "label": "Ljudfunktioner",
+            "value": [
+              "Bang & Olufsen Audio"
+            ]
+          },
+          {
+            "label": "Bakgrundsbelysning, tangentbord",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Tangentbordslayout",
+            "value": [
+              "Hela norden"
+            ]
+          },
+          {
+            "label": "Numeriskt tangentbord",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Generation",
+            "value": [
+              "4G"
+            ]
+          },
+          {
+            "label": "Kontroller",
+            "value": [
+              "Intel XMM 7360"
+            ]
+          },
+          {
+            "label": "Max. \u00f6verf\u00f6ringshastighet",
+            "value": [
+              "450 Mbps"
+            ]
+          },
+          {
+            "label": "Tj\u00e4nsteleverant\u00f6r",
+            "value": [
+              "Tj\u00e4nst ing\u00e5r ej"
+            ]
+          },
+          {
+            "label": "L\u00e5dmaterial",
+            "value": [
+              "Aluminium"
+            ]
+          },
+          {
+            "label": "Integrerade alternativ",
+            "value": [
+              "Kakelmodul",
+              "hallsensor"
+            ]
+          },
+          {
+            "label": "St\u00f6ld-/inbrottsskydd",
+            "value": [
+              "Plats f\u00f6r s\u00e4kerhetsl\u00e5s (kabell\u00e5s s\u00e4ljs separat)"
+            ]
+          },
+          {
+            "label": "Typ av s\u00e4kerhetsplats",
+            "value": [
+              "Kensington nano s\u00e4kerhetsplats"
+            ]
+          },
+          {
+            "label": "Inkluderade tillbeh\u00f6r",
+            "value": [
+              "USB-C str\u00f6madapter"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "HP"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "358Q1EA#UUW",
+              "358q1eauuw",
+              "60553873"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "00195908078395"
+            ]
+          }
+        ],
+        "offer_count": 6,
+        "offers_url": "https://www.google.se/shopping/product/13306127093467785347/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "13306127093467785347",
+            "price": "23499.0",
+            "price_additional_info": null,
+            "price_with_shipping": "23499.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.hp.com/se-sv/shop/product.aspx?id=358Q1EA&opt=UUW&sel=NTB&lang=sv-SE",
+            "shop_name": "HP Store",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-6ce1c1e22cb",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-6ce1c1e22cb",
+            "shop_url": "www.hp.com",
+            "shop_domain": "hp.com",
+            "shop_matching_id": "hp.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "13306127093467785347",
+            "price": "23800.0",
+            "price_additional_info": null,
+            "price_with_shipping": "23800.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/datorer-tillbehor/barbar-dator/windows-laptops/282787/hp-elitebook-850-g8-15-6-4g-lte-barbar-dator-i716512gb-silver",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "13306127093467785347",
+            "price": "21835.0",
+            "price_additional_info": null,
+            "price_with_shipping": "21835.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7036561/hp-elitebook-850-g8-core-i7-1165g7-2-8-ghz-win-10-pro-64-bitars-16-gb-ram-512-gb-ssd-nvme-tlc-15-6-ips-hp-sureview-1920-x",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "13306127093467785347",
+            "price": "22186.0",
+            "price_additional_info": null,
+            "price_with_shipping": "22186.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Baerbar-dator/HP-EliteBook-850-G8/2928360?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "13306127093467785347",
+            "price": "23785.0",
+            "price_additional_info": null,
+            "price_with_shipping": "23834.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/hp-elitebook-850-g8-i7-1165g7/cat-p/c/p1001585083",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "13306127093467785347",
+            "price": "24299.0",
+            "price_additional_info": null,
+            "price_with_shipping": "24299.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011217813/elitebook-850-g8?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 6
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195908568865",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 1,
+        "page_count_live": 0,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:14:14Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=00195908568865&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.dustinhome.se/product/5011233539/zbook-firefly-14-g8?ssel=true",
+            "name": "Hp Zbook Firefly 14 G8 Core I7 16gb 512gb Ssd 14\" T500",
+            "product_properties": [],
+            "price": "22490.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "22490.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Dustin Home SE",
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "Dustin Home SE",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    }
+  ]
+}

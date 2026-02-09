@@ -1,0 +1,2653 @@
+{
+  "job_id": "61c0653b0c81f400227dcf7d",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 18,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05032037155168",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:00Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05032037167321",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05032037167345",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05032037172578",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:02Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=05032037172578&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.datagrottan.se/intel-nuc-kit-i7-10710u-frost/cat-p/c/p1000533108",
+            "name": "Intel Nuc Frost Canyon I7-10710u",
+            "product_properties": [],
+            "price": "6198.0",
+            "shipping_costs": "49.0",
+            "price_with_shipping": "6247.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Datagrottan",
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "Datagrottan",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "url": "https://www.sotel.de/go/1000724750/en/SEK",
+            "name": "Intel NUC BXNUC10I7FNK2 PC/workstation barebone i7-10710U 1.1 GHz",
+            "product_properties": [],
+            "price": "9826.0",
+            "shipping_costs": "109.99",
+            "price_with_shipping": "9935.99",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "SOTEL",
+            "shop_id": "priceapi-2cb26b72f3b",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-2cb26b72f3b",
+            "shop_url": "www.sotel.de",
+            "shop_domain": "sotel.de",
+            "shop_matching_id": "SOTEL",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "success": false,
+      "reason": "error",
+      "source": "google-shopping",
+      "country": "se",
+      "key": "gtin",
+      "value": "05032037186957",
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05032037186957",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05032037186971",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:13:05Z"
+      },
+      "content": {
+        "id": "4121659284691068513",
+        "name": "INTEL Celeron G5920 LGA1200",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMa62rxLLN0-batAALMS8zue9o2kVXSRBHvQqtabEKV3z_84IJzpPo7jnzI08vgZJUMig9v60u&usqp=CAY",
+        "description": "Enkel instegsmodell. Intels nya plattform processorer Intels nya plattform med CPU:er har f\u00e5tt en ny socket: 1200, \u00e4ven moderkorten som \u00e4r kompatibla har f\u00e5tt ett ny chipset serie 400 (\u00c4ldre chipset samt socket \u00e4r ej kompatibla).",
+        "properties": [
+          "Intel",
+          "Intel Celeron",
+          "Tv\u00e5",
+          "3,5 GHz",
+          "LGA1156",
+          "Cacheminne: 2 MB",
+          "St\u00f6d f\u00f6r \u00f6verklockning",
+          "58 watt"
+        ],
+        "url": "https://www.google.se/shopping/product/4121659284691068513?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 4,
+        "review_rating": 96,
+        "price": "650.0",
+        "gtins": [
+          "5032037186971"
+        ],
+        "eans": [
+          "5032037186971"
+        ],
+        "brand_name": "Intel",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produktbeskrivning",
+            "value": [
+              "Intel Celeron G5920 / 3.5 GHz processor"
+            ]
+          },
+          {
+            "label": "Processortyp",
+            "value": [
+              "Intel Celeron G5920"
+            ]
+          },
+          {
+            "label": "Cache",
+            "value": [
+              "2 MB"
+            ]
+          },
+          {
+            "label": "Integrerad grafik",
+            "value": [
+              "Intel UHD Graphics 610"
+            ]
+          },
+          {
+            "label": "Kompatibel processorsockel",
+            "value": [
+              "LGA1200 Socket"
+            ]
+          },
+          {
+            "label": "Antal processorer",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Klockfrekvens",
+            "value": [
+              "3.5 GHz"
+            ]
+          },
+          {
+            "label": "Busshastighet",
+            "value": [
+              "8 GT/s"
+            ]
+          },
+          {
+            "label": "Tillverkningsprocess",
+            "value": [
+              "14 nm"
+            ]
+          },
+          {
+            "label": "Tillverkarens garanti",
+            "value": [
+              "3 \u00e5rs garanti"
+            ]
+          },
+          {
+            "label": "Typ / Formfaktor",
+            "value": [
+              "Intel Celeron G5920"
+            ]
+          },
+          {
+            "label": "Antal tr\u00e5dar",
+            "value": [
+              "2 tr\u00e5dar"
+            ]
+          },
+          {
+            "label": "Cacheminnesinformation",
+            "value": [
+              "Smart Cache - 2 MB"
+            ]
+          },
+          {
+            "label": "Termisk avledningseffekt",
+            "value": [
+              "58 W"
+            ]
+          },
+          {
+            "label": "Temperaturspecifikation",
+            "value": [
+              "100 \u00b0C"
+            ]
+          },
+          {
+            "label": "PCI-expressrevision",
+            "value": [
+              "3.0"
+            ]
+          },
+          {
+            "label": "PCI-expresskonfigurationer",
+            "value": [
+              "1x16",
+              "2x8",
+              "1x8+2x4"
+            ]
+          },
+          {
+            "label": "PCI-expressbanor antal",
+            "value": [
+              "16"
+            ]
+          },
+          {
+            "label": "Basfrekvens",
+            "value": [
+              "350 MHz"
+            ]
+          },
+          {
+            "label": "Max. dynamisk effekt",
+            "value": [
+              "1.05 GHz"
+            ]
+          },
+          {
+            "label": "Max. underst\u00f6dda minnesstorlek",
+            "value": [
+              "64 GB"
+            ]
+          },
+          {
+            "label": "F\u00f6rpackningstyp",
+            "value": [
+              "Intel Boxed"
+            ]
+          },
+          {
+            "label": "Service och support",
+            "value": [
+              "Begr\u00e4nsad garanti - 3 \u00e5r"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Intel"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "5032037186971",
+              "53565281",
+              "53565751",
+              "53784464",
+              "56359071",
+              "58468046",
+              "BX80701G5920",
+              "bx80701g5920"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "05032037186971"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/4121659284691068513/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "4121659284691068513",
+            "price": "650.0",
+            "price_additional_info": null,
+            "price_with_shipping": "699.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/intel-celeron-g5920-processor-lga1200/cat-p/c/p1001040544",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05032037186995",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:13:04Z"
+      },
+      "content": {
+        "id": "11964456485744299430",
+        "name": "INTEL Celeron G5900 LGA1200",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTYlTliWHzEGnz3Ndf6Mhe3xCdtVOKWw0F9UNpeBPjrbbwFenI8tCASaDR99PPByU1JwbB7b8U&usqp=CAY",
+        "description": "The Intel Celeron processor is designed to bring a balanced level of proven technology and value to basic PC desktops.",
+        "properties": [
+          "Intel",
+          "Intel Celeron",
+          "Tv\u00e5",
+          "3,4 GHz",
+          "LGA1156",
+          "Cacheminne: 2 MB",
+          "St\u00f6d f\u00f6r \u00f6verklockning",
+          "58 watt"
+        ],
+        "url": "https://www.google.se/shopping/product/11964456485744299430?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 4,
+        "review_rating": 96,
+        "price": "457.0",
+        "gtins": [
+          "5032037186995"
+        ],
+        "eans": [
+          "5032037186995"
+        ],
+        "brand_name": "Intel",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Typ / Formfaktor",
+            "value": [
+              "Intel Celeron G5900"
+            ]
+          },
+          {
+            "label": "Antal k\u00e4rnor",
+            "value": [
+              "Dubbelk\u00e4rnig"
+            ]
+          },
+          {
+            "label": "Antal tr\u00e5dar",
+            "value": [
+              "2 tr\u00e5dar"
+            ]
+          },
+          {
+            "label": "Cache",
+            "value": [
+              "2 MB"
+            ]
+          },
+          {
+            "label": "Cacheminnesinformation",
+            "value": [
+              "Smart Cache - 2 MB"
+            ]
+          },
+          {
+            "label": "Antal processorer",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Klockfrekvens",
+            "value": [
+              "3.4 GHz"
+            ]
+          },
+          {
+            "label": "Busshastighet",
+            "value": [
+              "8 GT/s"
+            ]
+          },
+          {
+            "label": "Kompatibel processorsockel",
+            "value": [
+              "LGA1200 Socket"
+            ]
+          },
+          {
+            "label": "Tillverkningsprocess",
+            "value": [
+              "14 nm"
+            ]
+          },
+          {
+            "label": "Termisk avledningseffekt",
+            "value": [
+              "58 W"
+            ]
+          },
+          {
+            "label": "Temperaturspecifikation",
+            "value": [
+              "100 \u00b0C"
+            ]
+          },
+          {
+            "label": "PCI-expressrevision",
+            "value": [
+              "3.0"
+            ]
+          },
+          {
+            "label": "PCI-expresskonfigurationer",
+            "value": [
+              "1x16",
+              "2x8",
+              "1x8+2x4"
+            ]
+          },
+          {
+            "label": "PCI-expressbanor antal",
+            "value": [
+              "16"
+            ]
+          },
+          {
+            "label": "Basfrekvens",
+            "value": [
+              "350 MHz"
+            ]
+          },
+          {
+            "label": "Max. dynamisk effekt",
+            "value": [
+              "1.05 GHz"
+            ]
+          },
+          {
+            "label": "Max. underst\u00f6dda minnesstorlek",
+            "value": [
+              "64 GB"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Intel"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "5032037186995",
+              "53565277",
+              "53872919",
+              "56359074",
+              "58438506",
+              "BX80701G5900",
+              "bx80701g5900"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "05032037186995"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.se/shopping/product/11964456485744299430/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "11964456485744299430",
+            "price": "457.0",
+            "price_additional_info": null,
+            "price_with_shipping": "506.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/intel-celeron-g5900-processor-lga1200/cat-p/c/p1001040543",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "11964456485744299430",
+            "price": "590.0",
+            "price_additional_info": null,
+            "price_with_shipping": "590.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/intel-celeron-g5900-3-4-ghz-2-karnor-2-tradar-2-mb-cache-lga1200-socket-box-p53872919",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05032037188661",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:13:03Z"
+      },
+      "content": {
+        "id": "5184621623692823088",
+        "name": "Intel Core i9-10900KF",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS7bTFn4WLiVMC4frQPAqZBoRHst0swNgSMpMX6msTEjgA0rCIwsjHkvDLhKmgfKWW8N2PJdbtCIg&usqp=CAY",
+        "description": "Intel 10th Gen Desktop Processorer utg\u00f6r en optimal balans av hastighet, k\u00e4rnor, tr\u00e5dar, inst\u00e4llningsm\u00f6jligheter och h\u00f6ghastighetsanslutningar.",
+        "properties": [
+          "Intel",
+          "Intel Core",
+          "Core i9",
+          "En",
+          "3,7 GHz",
+          "LGA1156",
+          "Cacheminne: 20 MB",
+          "St\u00f6d f\u00f6r \u00f6verklockning",
+          "125 watt"
+        ],
+        "url": "https://www.google.se/shopping/product/5184621623692823088?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 25,
+        "review_rating": 98,
+        "price": "4690.0",
+        "gtins": [
+          "5032037188661"
+        ],
+        "eans": [
+          "5032037188661"
+        ],
+        "brand_name": "Intel",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "36"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "11.6 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "87 g"
+            ]
+          },
+          {
+            "label": "Antal k\u00e4rnor",
+            "value": [
+              "10-k\u00e4rnig"
+            ]
+          },
+          {
+            "label": "Antal tr\u00e5dar",
+            "value": [
+              "20 tr\u00e5dar"
+            ]
+          },
+          {
+            "label": "Cache",
+            "value": [
+              "20 MB"
+            ]
+          },
+          {
+            "label": "Cacheminnesinformation",
+            "value": [
+              "Smart Cache - 20 MB"
+            ]
+          },
+          {
+            "label": "Antal processorer",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Klockfrekvens",
+            "value": [
+              "3.7 GHz"
+            ]
+          },
+          {
+            "label": "Max. turbohastighet",
+            "value": [
+              "5.3 GHz"
+            ]
+          },
+          {
+            "label": "Kompatibel processorsockel",
+            "value": [
+              "LGA1200 Socket"
+            ]
+          },
+          {
+            "label": "Termisk avledningseffekt",
+            "value": [
+              "125 W"
+            ]
+          },
+          {
+            "label": "PCI-expressbanor antal",
+            "value": [
+              "16"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Intel"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "300260",
+              "5032037188661",
+              "53417718",
+              "53429465",
+              "53559007",
+              "54816101",
+              "56364616",
+              "58466240",
+              "995905440",
+              "BX8070110900KF",
+              "BX8070110900KF 99A0VJ",
+              "BX8070110900KFSRH92",
+              "S0229205",
+              "S55074870",
+              "S5605021",
+              "bx8070110900kf"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "05032037188661"
+            ]
+          }
+        ],
+        "offer_count": 9,
+        "offers_url": "https://www.google.se/shopping/product/5184621623692823088/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "5184621623692823088",
+            "price": "4690.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4690.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inet.se/produkt/5303120/intel-core-i9-10900kf-3-7-ghz-20mb",
+            "shop_name": "Inet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fad01df70fc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fad01df70fc",
+            "shop_url": "www.inet.se",
+            "shop_domain": "inet.se",
+            "shop_matching_id": "inet.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "5184621623692823088",
+            "price": "4690.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4690.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.alina.se/Produkt.aspx?site=gm&T2=BX8070110900KF",
+            "shop_name": "Alina.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3895675bbec",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3895675bbec",
+            "shop_url": "www.alina.se",
+            "shop_domain": "alina.se",
+            "shop_matching_id": "alina.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "5184621623692823088",
+            "price": "4773.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4773.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7068338/intel-core-i9-10900kf-3-7-ghz-10-k%C3%A4rnig-20-tr%C3%A5dar-20-mb-cache-lga1200-socket-box",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "5184621623692823088",
+            "price": "4803.99",
+            "price_additional_info": null,
+            "price_with_shipping": "4887.98",
+            "shipping_costs": "83.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/intel-processor-i9-10900kf/138436797/p?utm_source=google_products&utm_medium=merchant&id_producte=14484677&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "5184621623692823088",
+            "price": "4690.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4690.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/intel-core-i9-10900kf-3-7-ghz-20mb-p53417718",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "5184621623692823088",
+            "price": "5191.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5344.6",
+            "shipping_costs": "153.6",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.senetic.se/product/BX8070110900KF",
+            "shop_name": "Senetic Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3d20fd85b7c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3d20fd85b7c",
+            "shop_url": "www.senetic.se",
+            "shop_domain": "senetic.se",
+            "shop_matching_id": "senetic.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "5184621623692823088",
+            "price": "5333.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5333.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/intel-cpu-core-i9-i9-10900kf-3-7ghz-10-kerne-lga1200",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "5184621623692823088",
+            "price": "5661.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5760.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/428/145326/sort/1/filter/0_0_0_0/Core-i9-10900KF-BX8070110900KF-Box-processor.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "5184621623692823088",
+            "price": "7490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8246.99",
+            "shipping_costs": "756.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.fruugo.se/intel-core-i9-10900kf-cpu-10th-gen-10-karnor/p-57177863-116268813?language=sv&ac=croud&utm_source=organic_shopping&utm_medium=organic",
+            "shop_name": "fruugo.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fdf04e0f8d5",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fdf04e0f8d5",
+            "shop_url": "www.fruugo.se",
+            "shop_domain": "fruugo.se",
+            "shop_matching_id": "fruugo.se",
+            "page": 1,
+            "position": 9
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05032037189163",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 2,
+        "updated_at": "2021-12-20T11:13:02Z"
+      },
+      "content": {
+        "id": "13833473675366778076",
+        "name": "Processor Intel Core I9-10900 2.8 Ghz 20 Mb",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0uLpA07OWC3ubyrLloHAvmB-ZIcELQW3qRBAIATEM5dPaQTco1BUABgz9chIWl68Mcelvvgm_Gw&usqp=CAY",
+        "description": "Denna kraftfulla 10:e generationens Intel Core i9-processor g\u00f6r att du kan pressa dig sj\u00e4lv och ditt system mot gr\u00e4nserna. En kraftfull processor \u00e4r en nyckelkomponent n\u00e4r man bygger eller uppgraderar en dator oavsett om det \u00e4r f\u00f6r spel, skapande av inneh\u00e5ll eller f\u00f6r analys av stora m\u00e4ngder data. Processorn \u00e4r endast kompatibel med LGA1200-socket moderkort som \u00e4r baserade p\u00e5 Intel 400-serie chipset.",
+        "properties": [
+          "Tv\u00e5",
+          "St\u00f6d f\u00f6r \u00f6verklockning",
+          "LGA1156"
+        ],
+        "url": "https://www.google.se/shopping/product/13833473675366778076?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 52,
+        "review_rating": 98,
+        "price": "4552.0",
+        "gtins": [
+          "5032037189163"
+        ],
+        "eans": [
+          "5032037189163"
+        ],
+        "brand_name": "Intel",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produktens m\u00e5tt",
+            "value": [
+              "12 x 7 x 10 cm; 300 Gram"
+            ]
+          },
+          {
+            "label": "Ursprungsland",
+            "value": [
+              "Kina"
+            ]
+          },
+          {
+            "label": "CPU-tillverkare",
+            "value": [
+              "Intel"
+            ]
+          },
+          {
+            "label": "CPU-modell",
+            "value": [
+              "Core i9"
+            ]
+          },
+          {
+            "label": "CPU-hastighet",
+            "value": [
+              "2.8 GHz"
+            ]
+          },
+          {
+            "label": "CPU-uttag",
+            "value": [
+              "LGA1200"
+            ]
+          },
+          {
+            "label": "Watt",
+            "value": [
+              "65 watt"
+            ]
+          },
+          {
+            "label": "Cache Storlek",
+            "value": [
+              "20 Ok\u00e4nd modifierare"
+            ]
+          },
+          {
+            "label": "Antal processorer",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Processorns varum\u00e4rke",
+            "value": [
+              "Intel"
+            ]
+          },
+          {
+            "label": "Processorns hastighet",
+            "value": [
+              "2.8 GHz"
+            ]
+          },
+          {
+            "label": "Processortyp",
+            "value": [
+              "Core i9"
+            ]
+          },
+          {
+            "label": "Processorsockel",
+            "value": [
+              "LGA1200"
+            ]
+          },
+          {
+            "label": "Antal artiklar",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Batterier inkluderade",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Batterier kr\u00e4vs",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Supports Bluetooth Technology",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Intel"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "5032037189163",
+              "53218042",
+              "53565752",
+              "53577429",
+              "54045589",
+              "58196414",
+              "58466306",
+              "995905437",
+              "BX8070110900",
+              "BX8070110900 99A0V9",
+              "S0227564",
+              "S5604886",
+              "bx8070110900"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "05032037189163"
+            ]
+          }
+        ],
+        "offer_count": 6,
+        "offers_url": "https://www.google.se/shopping/product/13833473675366778076/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "13833473675366778076",
+            "price": "4381.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4381.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1155666/datorutrustning/datorkomponenter/processor/intel-core-i9-10900-processor?channable=00945369640031313535363636df",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "13833473675366778076",
+            "price": "4552.99",
+            "price_additional_info": null,
+            "price_with_shipping": "4619.98",
+            "shipping_costs": "66.99",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/intel-processor-i9-10900-2.8ghz-box/138232176/p?utm_source=google_products&utm_medium=merchant&id_producte=13719183&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "13833473675366778076",
+            "price": "4929.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5082.6",
+            "shipping_costs": "153.6",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.senetic.se/product/BX8070110900",
+            "shop_name": "Senetic Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3d20fd85b7c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3d20fd85b7c",
+            "shop_url": "www.senetic.se",
+            "shop_domain": "senetic.se",
+            "shop_matching_id": "senetic.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "13833473675366778076",
+            "price": "3990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4049.0",
+            "shipping_costs": "59.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplettforetag.se/product/1155666/datorkomponenter/processor/processor/intel-core-i9-10900-processor",
+            "shop_name": "Komplett F\u00f6retag",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-9edf77b141d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-9edf77b141d",
+            "shop_url": "www.komplettforetag.se",
+            "shop_domain": "komplettforetag.se",
+            "shop_matching_id": "komplettforetag.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "13833473675366778076",
+            "price": "4469.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4469.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/intel-core-i9-10900-2-8-ghz-10-karnig-20-tradar-20-mb-cache-lga1200-socket-box-p53577429",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "13833473675366778076",
+            "price": "6109.99",
+            "price_additional_info": null,
+            "price_with_shipping": "6109.99",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://shopbetter.se/shop/product/processor-intel-i9-10900-2-8-ghz-20-mb_229147?cvt=GMC",
+            "shop_name": "Shopbetter.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4420f3e3978",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4420f3e3978",
+            "shop_url": "shopbetter.se",
+            "shop_domain": "shopbetter.se",
+            "shop_matching_id": "shopbetter.se",
+            "page": 1,
+            "position": 6
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05032037198929",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:00Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05032037198967",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:00Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=05032037198967&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.techinn.com/en/intel-core-i5-10600ka-4.10ghz-cpu/137819161/p?utm_source=google_products&utm_medium=merchant&id_producte=11860375&country=se",
+            "name": "Intel Core i5-10600K Special Edition Avengers processor",
+            "product_properties": [],
+            "price": "2658.99",
+            "shipping_costs": "57.99",
+            "price_with_shipping": "2716.98",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Techinn.com",
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "Techinn.com",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "url": "https://www.techinn.com/sv/intel-cpu-core-i5-10600ka-4.10ghz/137819161/p?utm_source=google_products&utm_medium=merchant&id_producte=11860375&country=se",
+            "name": "Intel Core i5-10600K Avengers Edition",
+            "product_properties": [],
+            "price": "2658.99",
+            "shipping_costs": "57.99",
+            "price_with_shipping": "2716.98",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Techinn.com",
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "Techinn.com",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05099206091733",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:01Z"
+      },
+      "content": {
+        "id": "5811528047163350187",
+        "name": "Logitech G Pro X Superlight tr\u00e5dl\u00f6s gamingmus (vit)",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTzPZDNCBO3FDmQrPX87uKBD3ChhnpHr5SjnQHwM2FFx8ANXht0WeGwWPLL6aTnbDeuz3_yQxgl&usqp=CAY",
+        "description": "PRO X Superlight \u00e4r Logitechs l\u00e4ttaste och snabbaste PRO-mus n\u00e5gonsin. HERO-sensorn ger dig en otroligt exakt, snabb och konsekvent kontroll medan PTFE-skatesen ger ett snabbt och j\u00e4mnt glid. PRO X Superlight v\u00e4ger inte mer \u00e4n 63g och det utan massa on\u00f6diga h\u00e5l. PRO X Superlight har tagits fram i samarbete med en stor grupp av v\u00e4rldens b\u00e4sta e-sportproffs och har en hyperminimal design, men \u00e4r \u00e4nd\u00e5 fullmatad med Logitechs senaste tekniska framsteg och f\u00f6rb\u00e4ttringar.",
+        "properties": [
+          "Programmerbar",
+          "Ergonomisk",
+          "F\u00f6r v\u00e4nsterh\u00e4nta",
+          "Vit",
+          "Bluetooth",
+          "Tr\u00e5dl\u00f6s",
+          "Mus"
+        ],
+        "url": "https://www.google.se/shopping/product/5811528047163350187?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 1273,
+        "review_rating": 96,
+        "price": "1289.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "1 Litiumpolymer Batterier kr\u00e4vs. (inkluderat)",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Batterier",
+            "value": [
+              "1 Litiumpolymer Batterier kr\u00e4vs. (inkluderat)"
+            ]
+          },
+          {
+            "label": "Produktens m\u00e5tt",
+            "value": [
+              "12 x 4 x 6.3 cm; 63 Gram"
+            ]
+          },
+          {
+            "label": "Ursprungsland",
+            "value": [
+              "Sverige"
+            ]
+          },
+          {
+            "label": "Typ av anslutning",
+            "value": [
+              "2.4 GHz",
+              "USB"
+            ]
+          },
+          {
+            "label": "Kompatibla enheter",
+            "value": [
+              "PC",
+              "Mac"
+            ]
+          },
+          {
+            "label": "Modellnamn",
+            "value": [
+              "PRO X SUPERLIGHT Wireless Gaming Mouse"
+            ]
+          },
+          {
+            "label": "Antal knappar",
+            "value": [
+              "5"
+            ]
+          },
+          {
+            "label": "Artikelm\u00e5tt LxBxH",
+            "value": [
+              "12 x 4 x 6.3 centimeter"
+            ]
+          },
+          {
+            "label": "Artikelns vikt",
+            "value": [
+              "63 Gram"
+            ]
+          },
+          {
+            "label": "Maskinvaruplattform",
+            "value": [
+              "PC",
+              "Mac"
+            ]
+          },
+          {
+            "label": "Antal batterier",
+            "value": [
+              "1 Litiumpolymer Batterier kr\u00e4vs. (inkluderat)"
+            ]
+          },
+          {
+            "label": "Antal artiklar",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Batterier inkluderade",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Batterier kr\u00e4vs",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Batteriets cellkomposition",
+            "value": [
+              "Litiumpolymer"
+            ]
+          }
+        ],
+        "offer_count": 11,
+        "offers_url": "https://www.google.se/shopping/product/5811528047163350187/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "5811528047163350187",
+            "price": "1289.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1289.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/gaming/gamingmus/tradlos-mus/logitech-pro-x-superlight-wireless-gaming-mouse-white/1015686.16955/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "5811528047163350187",
+            "price": "1289.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1289.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mediamarkt.se/sv/product/_logitech-g-pro-x-superlight-tr%C3%A5dl%C3%B6s-gamingmus-vit-910-005943-1330078.html?utm_source=google&utm_medium=seo-product%20feed",
+            "shop_name": "MediaMarkt.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-beb4b17be14",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-beb4b17be14",
+            "shop_url": "www.mediamarkt.se",
+            "shop_domain": "mediamarkt.se",
+            "shop_matching_id": "mediamarkt.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "5811528047163350187",
+            "price": "1495.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1495.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/gaming/gamingmus/227966/logitech-g-pro-x-superlight-tradlos-gamingmus-vit",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "5811528047163350187",
+            "price": "1032.35",
+            "price_additional_info": null,
+            "price_with_shipping": "1032.35",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Mus/Logitech-DEMO-G-PRO-X-SUPERLIGHT-White-Gamingmus-Optic-5-knappar-Vit/2885442d?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "5811528047163350187",
+            "price": "1590.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1590.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.kjell.com/se/produkter/tv-spel-gaming/gaming-moss/logitech-g-pro-x-superlight-tradlos-gaming-mus-vit-p62935",
+            "shop_name": "Kjell & Company",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4bc09bb32d0",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4bc09bb32d0",
+            "shop_url": "www.kjell.com",
+            "shop_domain": "kjell.com",
+            "shop_matching_id": "kjell.com",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "5811528047163350187",
+            "price": "1365.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1434.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011216085/pro-x-superlight-wireless-gaming-mouse?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "5811528047163350187",
+            "price": "1390.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1390.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.coolshop.se/produkt/logitech-pro-x-superlight-wireless-gaming-mouse-white/236J9W",
+            "shop_name": "Coolshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-7d63ab4be41",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-7d63ab4be41",
+            "shop_url": "www.coolshop.se",
+            "shop_domain": "coolshop.se",
+            "shop_matching_id": "coolshop.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "5811528047163350187",
+            "price": "1390.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1390.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.spelbutiken.se/produkt/logitech-pro-x-superlight-wireless-gaming-mouse-white/236J9W",
+            "shop_name": "Spelbutiken",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-21eb5bb759e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-21eb5bb759e",
+            "shop_url": "www.spelbutiken.se",
+            "shop_domain": "spelbutiken.se",
+            "shop_matching_id": "spelbutiken.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "5811528047163350187",
+            "price": "1517.9",
+            "price_additional_info": null,
+            "price_with_shipping": "1517.9",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/6695318/logitech-pro-x-superlight-wireless-gaming-mouse-mus-optisk-5-knappar-tr%C3%A5dl%C3%B6s-lightspeed-logitech-lightspeed-mottagare-vit",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "5811528047163350187",
+            "price": "1464.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1464.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/spelmus-tradlos-logitech-g-pro-x-superlight-vit-p78752958",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "5811528047163350187",
+            "price": "1674.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1674.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/logitech-pro-x-superlight-wireless-gaming-mouse-white-ewr2",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 11
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05707119036269",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:13:03Z"
+      },
+      "content": {
+        "id": "13164714357243935214",
+        "name": "SteelSeries Arctis Pro Wireless Vit",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT_s6eemZtSozbaq1DZJo-VziLAg0NnAuNLOZ_syM7EI17_Pq6Y562TbWaKZM7vbccBphVBtnM&usqp=CAY",
+        "description": "F\u00f6rvandla ditt ljud till en riktig Hi-Fi-ljudupplevelse med dessa lurar som \u00e4r utrustade med DTS v2.0 surroundljud. Arctis Pro Wireless har en stabil och f\u00f6rlustfri 2,4-GHz tr\u00e5dl\u00f6s anslutning f\u00f6r gamingljud kombinerat med Bluetooth f\u00f6r mobila enheter. Det exklusiva systemet med tv\u00e5 batterier betyder att du aldrig beh\u00f6ver sitta i n\u00e4rheten av ett str\u00f6muttag f\u00f6r att ladda headsetet. Arctis ClearCast-mikrofonen som kan skjutas in i headsetet \u00e4r erk\u00e4nd som en av de b\u00e4sta mikrofonerna f\u00f6r gaming.",
+        "properties": [
+          "SteelSeries",
+          "Arctis",
+          "Arctis Pro",
+          "On-ear",
+          "Dator",
+          "TV-spel",
+          "Tr\u00e5dl\u00f6sa",
+          "Headset",
+          "Brusreducerande",
+          "F\u00f6r gaming"
+        ],
+        "url": "https://www.google.se/shopping/product/13164714357243935214?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 2098,
+        "review_rating": 88,
+        "price": "3490.0",
+        "gtins": [
+          "5707119036269"
+        ],
+        "eans": [
+          "5707119036269"
+        ],
+        "brand_name": "SteelSeries",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Batterier",
+            "value": [
+              "2 Litiumpolymer Batterier kr\u00e4vs. (inkluderat)"
+            ]
+          },
+          {
+            "label": "Produkten har slutat tillverkas",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Produktens m\u00e5tt",
+            "value": [
+              "16.63 x 8.99 x 18.71 cm; 350 Gram"
+            ]
+          },
+          {
+            "label": "Ursprungsland",
+            "value": [
+              "Kina"
+            ]
+          },
+          {
+            "label": "Typ av anslutning",
+            "value": [
+              "Tr\u00e5dl\u00f6s"
+            ]
+          },
+          {
+            "label": "Modellnamn",
+            "value": [
+              "Arctis Pro"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "Over-ear"
+            ]
+          },
+          {
+            "label": "Artikelns vikt",
+            "value": [
+              "0.35 Kilogram"
+            ]
+          },
+          {
+            "label": "Typ av kontroll",
+            "value": [
+              "Bullerkontroll"
+            ]
+          },
+          {
+            "label": "Rekommenderade anv\u00e4ndningsomr\u00e5den f\u00f6r produkt",
+            "value": [
+              "Spielen"
+            ]
+          },
+          {
+            "label": "Specialfunktion",
+            "value": [
+              "Bluetooth"
+            ]
+          },
+          {
+            "label": "Montering av maskinvara",
+            "value": [
+              "Bruksanvisning",
+              "kabel",
+              "tr\u00e5dl\u00f6s s\u00e4ndare",
+              "batterier"
+            ]
+          },
+          {
+            "label": "Maskinvaruplattform",
+            "value": [
+              "PlayStation 4"
+            ]
+          },
+          {
+            "label": "Kompatibla enheter",
+            "value": [
+              "Consola de videojuegos + PC/Videojuegos"
+            ]
+          },
+          {
+            "label": "Speciella funktioner",
+            "value": [
+              "Bluetooth"
+            ]
+          },
+          {
+            "label": "Antal artiklar",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Microphone Technology",
+            "value": [
+              "Rundstr\u00e5lande",
+              "3",
+              "5 mm"
+            ]
+          },
+          {
+            "label": "Headphones Form Factor",
+            "value": [
+              "Over-ear"
+            ]
+          },
+          {
+            "label": "Batterier inkluderade",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Batterier kr\u00e4vs",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Batteriets cellkomposition",
+            "value": [
+              "Litiumjon"
+            ]
+          },
+          {
+            "label": "Inkluderar uppladdningsbara batterier",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Supports Bluetooth Technology",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "SteelSeries"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "46055335",
+              "46075334",
+              "46086621",
+              "49759587",
+              "50091342",
+              "50831961",
+              "5707119036269",
+              "61474",
+              "STLARCTISPROWLWH",
+              "steelseries_46075334",
+              "steelseries_49759587",
+              "steelseries_50091342"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "05707119036269"
+            ]
+          }
+        ],
+        "offer_count": 6,
+        "offers_url": "https://www.google.se/shopping/product/13164714357243935214/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "13164714357243935214",
+            "price": "3490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/gaming/gamingheadset/tradlost-headset/steelseries-arctis-pro-wireless-white/1018155.16957/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "13164714357243935214",
+            "price": "3895.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3895.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/gaming/gaming-headset/11572/steelseries-arctis-pro-tradlost-gaming-headset-vit",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "13164714357243935214",
+            "price": "3229.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3229.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011253218/arctis-pro-wireless?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "13164714357243935214",
+            "price": "3857.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3857.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/4899371/steelseries-arctis-pro-wireless-headset-fullstorlek-bluetooth-radiofrekvens-2-4-ghz-tr%C3%A5dl%C3%B6s-vit",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "13164714357243935214",
+            "price": "3558.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3657.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/203/197045/sort/1/filter/0_0_0_0/Arctis-Pro-Wireless-White-h%C3%B6rlurar.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "13164714357243935214",
+            "price": "5659.0",
+            "price_additional_info": null,
+            "price_with_shipping": "5758.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/steelseries-arctis-pro-wireless-gaming-headset-p87591060",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 6
+          }
+        ]
+      }
+    },
+    {
+      "success": false,
+      "reason": "error",
+      "source": "google-shopping",
+      "country": "se",
+      "key": "gtin",
+      "value": "05707119038607",
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05707119038607",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07070205400861",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:00Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=07070205400861&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.komplett.se/product/1134871/datorutrustning/datorkomponenter/chassibarebone/midi-tower/svive-halo-s650?channable=009453696400313133343837319b",
+            "name": "Svive Halo S650",
+            "product_properties": [],
+            "price": "999.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "999.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Komplett.se",
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "Komplett.se",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07072110551911",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:00Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07072110552512",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:00Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07072110553977",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:13:03Z"
+      },
+      "content": {
+        "id": "18150773552210348933",
+        "name": "AVA Teleskoplans",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQq3dIVsfDjb_9pbaCEZetNvfYKw6HTwqk4Y7J1_f7wWTlKoTsLftWANafE8w&usqp=CAY",
+        "description": "N\u00e5 extra h\u00f6gt med din AVA h\u00f6gtryckstv\u00e4tt - teleskoplansen hj\u00e4lper dig. Med AVA Telescopic Lance kan du tv\u00e4tta fasader p\u00e5 upp till 5 meters h\u00f6jd. Justerbar munstycksvinkel - l\u00e4tt att komma \u00e5t i vinklar och vr\u00e5r. Passar till alla AVA h\u00f6gtryckstv\u00e4ttar.",
+        "properties": null,
+        "url": "https://www.google.se/shopping/product/18150773552210348933?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 1,
+        "review_rating": 100,
+        "price": "1495.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "2.80",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Netto vikt",
+            "value": [
+              "2.80"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.se/shopping/product/18150773552210348933/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "18150773552210348933",
+            "price": "1495.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1544.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.bauhaus.se/teleskoplans-ava-pl8-120-400-cm",
+            "shop_name": "Bauhaus",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-23ce643d760",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-23ce643d760",
+            "shop_url": "www.bauhaus.se",
+            "shop_domain": "bauhaus.se",
+            "shop_matching_id": "bauhaus.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "18150773552210348933",
+            "price": "1499.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1499.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1121700/hem-hushaall/tradgaard/tillbehor-till-hogtryckstvattar/ava-telescoplans-max-44m?channable=0094536964003131323137303086",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07072110555001",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:01Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08718863023433",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:13:04Z"
+      },
+      "content": {
+        "id": "16624162797916730231",
+        "name": "Philips 70PUS7855 70\" Smart 4K Ultra HD LED-TV",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSpD0YvhDK0DAXCdqLVCw8rW9DRBYZ-JzjVGKfFxz2S6bsYcgo&usqp=CAY",
+        "description": "Philips 70PUS7855 \u00e4r en vacker ljus, silvergr\u00e5 Saphi Smart TV med en unik tresidig Ambilight-ljusreflektion som kompletterar underh\u00e5llningsupplevelsen. 70-tums-TV:n har digitala tuners DVB-T2, DVB-C HD och DVB-S2 som st\u00f6der HD-kanaler samt en CI + -anslutning f\u00f6r betal-TV-kanaler. Den kan ocks\u00e5 monteras p\u00e5 en v\u00e4gg med ett VESA-kompatibelt stativ. Philips P5 Perfect bildsystem s\u00e4kerst\u00e4ller att bildkvaliteten alltid \u00e4r perfekt. Djupet l\u00e4ggs till detaljerna, f\u00e4rgm\u00e4ttnaden f\u00f6rdjupas och hudtoner \u00e5terges naturligt. Kontrasten \u00e4r korrekt och r\u00f6relsens noggrannhet \u00e4r s\u00e5 bra att du kan se till exempel snabba r\u00f6relser under en fotbollsmatch \u00e4ven i tr\u00e5nga spelsituationer. Du kan spela upp en riktig 3840x 2160 @ 60 Hz 4K-bild fr\u00e5n TV:ns HDMI-anslutningar. Spell\u00e4get inneb\u00e4r en minimal HDMI-f\u00f6rdr\u00f6jning (ing\u00e5ngsf\u00f6rdr\u00f6jning) vid spelanv\u00e4ndning. Philips applikationsgalleri inneh\u00e5ller ett omfattande utbud av webbapplikationer som \u00e4r tillg\u00e4ngliga n\u00e4r din Smart TV \u00e4r ansluten till Internet. Du kan ocks\u00e5 spela in dina favoritprogram genom att ansluta en extern h\u00e5rddisk till TV:n. Med Philips TV Remote-app f\u00f6r din smartphone kan du styra din TV och spela in EPG direkt fr\u00e5n din smartphone.",
+        "properties": [
+          "Philips",
+          "70 tum",
+          "Smart-tv",
+          "LED",
+          "4K",
+          "3D",
+          "Djup: 8,6 cm",
+          "27,6 kg",
+          "High Definition",
+          "3840 x 2160"
+        ],
+        "url": "https://www.google.se/shopping/product/16624162797916730231?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 1251,
+        "review_rating": 80,
+        "price": "9199.0",
+        "gtins": [
+          "8718863023433"
+        ],
+        "eans": [
+          "8718863023433"
+        ],
+        "brand_name": "Philips",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Smart TV",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "High Dynamic Range (HDR)",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Dolby Vision",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Philips"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "54915321",
+              "70PUS7855/12"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "08718863023433"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/16624162797916730231/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "16624162797916730231",
+            "price": "9199.0",
+            "price_additional_info": null,
+            "price_with_shipping": "9298.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/188/140842/sort/1/filter/0_0_0_0/70PUS7855-12-TV.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    }
+  ]
+}

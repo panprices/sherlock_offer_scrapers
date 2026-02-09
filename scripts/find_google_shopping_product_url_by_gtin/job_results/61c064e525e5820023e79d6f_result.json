@@ -1,0 +1,2120 @@
+{
+  "job_id": "61c064e525e5820023e79d6f",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 19,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "00195235396384",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:38Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=00195235396384&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://www.datagrottan.se/lenovo-thinkcentre-m70q-tiny-core/cat-p/c0/p1001543180",
+            "name": "Lenovo ThinkCentre M70q Tiny",
+            "product_properties": [],
+            "price": "11412.0",
+            "shipping_costs": "49.0",
+            "price_with_shipping": "11461.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Datagrottan",
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "Datagrottan",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242294",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:37Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "success": false,
+      "reason": "error",
+      "source": "google-shopping",
+      "country": "se",
+      "key": "gtin",
+      "value": "04710562242423",
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242423",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242430",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:11:45Z"
+      },
+      "content": {
+        "id": "16228283455246533693",
+        "name": "Gainward GeForce RTX 3060 Ghost 12GB GDDR6 192bit",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRVz3w0sH3C0n51yuiYpvRoxVDmswDPzUW_DPN1irmfMpNgnekx3phMvGUHq1E&usqp=CAY",
+        "description": "P\u00e5 grund av r\u00e5dande brist p\u00e5 grafikkort s\u00e5 kommer vi tillsvidare endast till\u00e5ta varje kund att k\u00f6pa 1 st grafikkort fr\u00e5n v\u00e5rt RTX 3000 / AMD 6000 - sortiment.",
+        "properties": [
+          "Gainward",
+          "Grafikkort",
+          "12 GB",
+          "GDDR6",
+          "VGA",
+          "HDMI",
+          "DVI",
+          "DisplayPort",
+          "PCI Express",
+          "L\u00e4ngd: 245 mm"
+        ],
+        "url": "https://www.google.se/shopping/product/16228283455246533693?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 12,
+        "review_rating": 86,
+        "price": "11416.0",
+        "gtins": [
+          "4710562242430"
+        ],
+        "eans": [
+          "4710562242430"
+        ],
+        "brand_name": "Gainward",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "DVI-D",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Gainward"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "2430",
+              "471056224-2430"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04710562242430"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/16228283455246533693/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "16228283455246533693",
+            "price": "11416.0",
+            "price_additional_info": null,
+            "price_with_shipping": "11515.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/417/198085/sort/1/filter/0_0_0_0/GeForce-RTX-3060-Ghost-12GB-GDDR6-192bit-grafikkort.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242454",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:37Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04710562242461",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:37Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04718017504744",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:38Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04718017674300",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:11:42Z"
+      },
+      "content": {
+        "id": "7516480194345790196",
+        "name": "Asus Rog Strix Z490-f Gaming Atx Moderkort",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ9xVZbELA7j8eo1StGtGwNd2RPkHA-0dt8ZnPkKTUavvqHy4FM-V4L7za4iuKXoEiYoIhUSqn0&usqp=CAY",
+        "description": "ASUS ROG Strix Z490-F Gaming moderkort sockel 1200 (ATX, Intel Z490, USB 3.2 Gen 2, HDMI 1.4, AI Overclocking, 2x PCIe M.2- platser, Aura Sync)OBS! Vi beklagar att vi inte har hunnit \u00f6vers\u00e4tta denna produkttext. Texten nedan \u00e4r maskin\u00f6versatt fr\u00e5n tyska.",
+        "properties": [
+          "ASUS",
+          "ASUS ROG",
+          "ROG Strix",
+          "ATX",
+          "AM2",
+          "Gaming",
+          "Intel",
+          "FireWire",
+          "Ethernet",
+          "HDMI"
+        ],
+        "url": "https://www.google.se/shopping/product/7516480194345790196?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 98,
+        "review_rating": 74,
+        "price": "2799.0",
+        "gtins": [
+          "4718017674300"
+        ],
+        "eans": [
+          "4718017674300"
+        ],
+        "brand_name": "ASUS",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produktens m\u00e5tt \u200f",
+            "value": [
+              "\u200e 30.5 x 24.5 x 6 cm; 1.18 Kilogram"
+            ]
+          },
+          {
+            "label": "Ursprungsland \u200f",
+            "value": [
+              "\u200e Kina"
+            ]
+          },
+          {
+            "label": "Modellnamn",
+            "value": [
+              "ROG Strix"
+            ]
+          },
+          {
+            "label": "Delnummer",
+            "value": [
+              "ROG STRIX Z490-F GAMING"
+            ]
+          },
+          {
+            "label": "Minneslagringskapacitet",
+            "value": [
+              "128 GB"
+            ]
+          },
+          {
+            "label": "Ram-minnesteknik",
+            "value": [
+              "DDR4"
+            ]
+          },
+          {
+            "label": "Typ av datorminne",
+            "value": [
+              "DDR4 SDRAM"
+            ]
+          },
+          {
+            "label": "Processorsockel",
+            "value": [
+              "Socket AM4"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt f\u00f6r grafikkort",
+            "value": [
+              "PCI-E"
+            ]
+          },
+          {
+            "label": "Antal artiklar",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Watt",
+            "value": [
+              "130"
+            ]
+          },
+          {
+            "label": "Typ av str\u00f6mk\u00e4lla",
+            "value": [
+              "Handman\u00f6vrerad"
+            ]
+          },
+          {
+            "label": "Batterier inkluderade",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Batterier kr\u00e4vs",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Tr\u00e5dl\u00f6s typ",
+            "value": [
+              "802.11a/b/g/n"
+            ]
+          },
+          {
+            "label": "Totalt antal USB-portar",
+            "value": [
+              "8"
+            ]
+          },
+          {
+            "label": "Contains Liquid Contents",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Har autofokus",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Includes Ac Adapter",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Supports Bluetooth Technology",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Har programmerbara knappar",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Produktens m\u00e5tt",
+            "value": [
+              "30.5 x 24.5 x 6 cm; 1.18 Kilogram"
+            ]
+          },
+          {
+            "label": "CPU-uttag",
+            "value": [
+              "Socket AM4"
+            ]
+          },
+          {
+            "label": "Minnets klockhastighet",
+            "value": [
+              "4600 MHz"
+            ]
+          },
+          {
+            "label": "Plattform",
+            "value": [
+              "Windows 10"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "ASUS"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "1903183",
+              "4718017674300",
+              "53535161",
+              "53839120",
+              "55298977",
+              "55707324",
+              "56603948",
+              "58468430",
+              "90MB12Q0- M0EAY0",
+              "90MB12Q0-M0EAY0",
+              "90mb12q0m0eay0",
+              "ROG STRIX Z490-F GAMING",
+              "ROGSTRIXZ490-FGAMING",
+              "S5606084",
+              "Z490-F+10600K",
+              "Z490-F+10700K",
+              "Z490-F+10850K",
+              "rogstrixz490fgaming"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04718017674300"
+            ]
+          }
+        ],
+        "offer_count": 5,
+        "offers_url": "https://www.google.se/shopping/product/7516480194345790196/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "7516480194345790196",
+            "price": "2799.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2799.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.alina.se/Produkt.aspx?site=gm&T2=ROG%20STRIX%20Z490-F%20GAMING",
+            "shop_name": "Alina.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3895675bbec",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3895675bbec",
+            "shop_url": "www.alina.se",
+            "shop_domain": "alina.se",
+            "shop_matching_id": "alina.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "7516480194345790196",
+            "price": "2795.0",
+            "price_additional_info": null,
+            "price_with_shipping": "2844.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/asus-rog-strix-z490-f-gaming/cat-p/c/p1001020972",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "7516480194345790196",
+            "price": "3499.0",
+            "price_additional_info": null,
+            "price_with_shipping": "3578.0",
+            "shipping_costs": "79.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/asus-rog-strix-z490-f-gaming-fyndvara-p78873318",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "7516480194345790196",
+            "price": "4245.0",
+            "price_additional_info": null,
+            "price_with_shipping": "4245.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/6168410/asus-rog-strix-z490-f-gaming-moderkort-atx-lga1200-uttag-z490-chipupps%C3%A4ttning-usb-c-gen2-usb-3-2-gen-1-usb-3-2-gen-2-2-5",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "7516480194345790196",
+            "price": "4247.1",
+            "price_additional_info": null,
+            "price_with_shipping": "4247.1",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.conrad.se/p/-2269251?vat=true&utm_source=google&utm_medium=surfaces&utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_term=2269251",
+            "shop_name": "Conrad.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-243c865299c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-243c865299c",
+            "shop_url": "www.conrad.se",
+            "shop_domain": "conrad.se",
+            "shop_matching_id": "conrad.se",
+            "page": 1,
+            "position": 5
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04718017879767",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:38Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04718017922814",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:11:43Z"
+      },
+      "content": {
+        "id": "5423649766338324327",
+        "name": "Asus TUF GeForce RTX 3090 Gaming OC 24 GB GDDR6X",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRGdr1MUqLCqEi_esZy8w6SxPUNYjUdsZUjfZMmmK6dJ7hoToNybM10yLGPATZL3M_eKeW6RQMK&usqp=CAY",
+        "description": "P\u00e5 grund av brist p\u00e5 grafikkort s\u00e5 kommer vi tillsvidare endast till\u00e5ta varje kund att k\u00f6pa ett grafikkort fr\u00e5n v\u00e5rt RTX 3000-sortiment. Ber\u00e4knade leveransdatum \u00e4r prelimin\u00e4ra och kan komma att justeras.",
+        "properties": [
+          "ASUS",
+          "ASUS",
+          "Grafikkort",
+          "24 GB",
+          "GDDR6",
+          "HDMI",
+          "DVI",
+          "DisplayPort",
+          "PCI Express",
+          "L\u00e4ngd: 300 mm"
+        ],
+        "url": "https://www.google.se/shopping/product/5423649766338324327?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 578,
+        "review_rating": 94,
+        "price": "25490.0",
+        "gtins": [
+          "4718017922814"
+        ],
+        "eans": [
+          "4718017922814"
+        ],
+        "brand_name": "ASUS",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Typ av enhet",
+            "value": [
+              "Grafikkort"
+            ]
+          },
+          {
+            "label": "Busstyp",
+            "value": [
+              "PCI Express 4.0"
+            ]
+          },
+          {
+            "label": "Grafikmotor",
+            "value": [
+              "NVIDIA GeForce RTX 3090"
+            ]
+          },
+          {
+            "label": "Minne",
+            "value": [
+              "24 GB GDDR6X"
+            ]
+          },
+          {
+            "label": "Minnehastighet",
+            "value": [
+              "19.5 Gbps"
+            ]
+          },
+          {
+            "label": "Snabbklocka",
+            "value": [
+              "1770 MHz"
+            ]
+          },
+          {
+            "label": "Minnesgr\u00e4nssnitt",
+            "value": [
+              "384-bit"
+            ]
+          },
+          {
+            "label": "Max uppl\u00f6sning",
+            "value": [
+              "7680 x 4320"
+            ]
+          },
+          {
+            "label": "Max antal bildsk\u00e4rmar som st\u00f6ds",
+            "value": [
+              "4"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt",
+            "value": [
+              "2 x HDMI; 3 x DisplayPort"
+            ]
+          },
+          {
+            "label": "API-st\u00f6d",
+            "value": [
+              "DirectX 12",
+              "OpenGL 4.6"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxDxH)",
+            "value": [
+              "5.17 cm x 29.99 cm x 12.69 cm"
+            ]
+          },
+          {
+            "label": "Teknik",
+            "value": [
+              "GDDR6X SDRAM"
+            ]
+          },
+          {
+            "label": "Bussbredd",
+            "value": [
+              "384-bit"
+            ]
+          },
+          {
+            "label": "Erforderligt n\u00e4taggregat",
+            "value": [
+              "850 W"
+            ]
+          },
+          {
+            "label": "Extra krav",
+            "value": [
+              "2 x 8 stifts PCI Express-str\u00f6mkontakt"
+            ]
+          },
+          {
+            "label": "Standarder som f\u00f6ljs",
+            "value": [
+              "HDCP 2.3",
+              "DisplayPort 1.4a"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "29.99 cm"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "ASUS"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "300411",
+              "80378409",
+              "86920586",
+              "90YV0FD1-M0NM00",
+              "90yv0fd1m0nm00",
+              "TUF-RTX3090-O24G-GAMING",
+              "tufrtx3090o24ggaming"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04718017922814"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.se/shopping/product/5423649766338324327/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "5423649766338324327",
+            "price": "25490.0",
+            "price_additional_info": null,
+            "price_with_shipping": "25490.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.webhallen.com/se/product/324063-ASUS-TUF-GeForce-RTX-3090-24GB-Gaming-OC?channable=00c0c769640033323430363301",
+            "shop_name": "Webhallen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-82f3e802042",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-82f3e802042",
+            "shop_url": "www.webhallen.com",
+            "shop_domain": "webhallen.com",
+            "shop_matching_id": "webhallen.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "5423649766338324327",
+            "price": "60745.0",
+            "price_additional_info": null,
+            "price_with_shipping": "60844.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/asus-geforce-rtx-3090-tuf-gaming-o24g-24gb-gddr6x-384-bitars-grafikkort-p86920586",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04718017943796",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:37Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072807733",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:37Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072816308",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:38Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072828486",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:39Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072850029",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:11:43Z"
+      },
+      "content": {
+        "id": "1099257252475259901",
+        "name": "MSI GeForce RTX 3060 Ti GAMING X 8G LHR",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRJebqqV9duq779kpzkRgIYwAXVYZlw3ylOF14Po-ce5-mDszc&usqp=CAY",
+        "description": "P\u00e5 grund av brist p\u00e5 grafikkort s\u00e5 kommer vi tillsvidare endast till\u00e5ta varje kund att k\u00f6pa ett grafikkort fr\u00e5n v\u00e5rt RTX 3000-sortiment. Detta \u00e4r en LHR-modell (\u201cLite Hash Rate,\u201d eller \u201cLHR,\u201d) som inte l\u00e4mpar sig f\u00f6r mining.",
+        "properties": [
+          "MSI",
+          "MSI",
+          "Grafikkort",
+          "8 GB",
+          "GDDR6",
+          "VGA",
+          "HDMI",
+          "DVI",
+          "DisplayPort",
+          "PCI Express"
+        ],
+        "url": "https://www.google.se/shopping/product/1099257252475259901?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 16,
+        "review_rating": 84,
+        "price": "13409.0",
+        "gtins": [
+          "4719072850029"
+        ],
+        "eans": [
+          "4719072850029"
+        ],
+        "brand_name": "MSI",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "GPU-tillverkare",
+            "value": [
+              "Nvidia"
+            ]
+          },
+          {
+            "label": "GPU-frekvens",
+            "value": [
+              "1 410 MHz"
+            ]
+          },
+          {
+            "label": "Turbofrekvens",
+            "value": [
+              "1 695 MHz"
+            ]
+          },
+          {
+            "label": "Minne",
+            "value": [
+              "8 GB"
+            ]
+          },
+          {
+            "label": "Hastighet",
+            "value": [
+              "14 000 MHz"
+            ]
+          },
+          {
+            "label": "Bussbredd",
+            "value": [
+              "256 bitar"
+            ]
+          },
+          {
+            "label": "HDMI-utg\u00e5ng",
+            "value": [
+              "Ja",
+              "(1st",
+              "2.1)"
+            ]
+          },
+          {
+            "label": "DisplayPort-utg\u00e5ng",
+            "value": [
+              "Ja",
+              "(3st",
+              "1.4)"
+            ]
+          },
+          {
+            "label": "Max. antal sk\u00e4rmar",
+            "value": [
+              "4 st"
+            ]
+          },
+          {
+            "label": "Rek. watt (dator)",
+            "value": [
+              "650 W"
+            ]
+          },
+          {
+            "label": "Str\u00f6manslutning",
+            "value": [
+              "1 st 8-pin"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning",
+            "value": [
+              "200 W"
+            ]
+          },
+          {
+            "label": "L\u00e4ngd",
+            "value": [
+              "235 mm"
+            ]
+          },
+          {
+            "label": "Expansionsplatser",
+            "value": [
+              "2 st"
+            ]
+          },
+          {
+            "label": "SLI",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "DirectX",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "NVIDIA GeForce Experience",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt",
+            "value": [
+              "PCI Express 4.0",
+              "16x"
+            ]
+          },
+          {
+            "label": "Garanti",
+            "value": [
+              "3 \u00e5r"
+            ]
+          },
+          {
+            "label": "Paketbredd",
+            "value": [
+              "45 cm"
+            ]
+          },
+          {
+            "label": "Paketh\u00f6jd",
+            "value": [
+              "10 cm"
+            ]
+          },
+          {
+            "label": "Paketl\u00e4ngd",
+            "value": [
+              "30 cm"
+            ]
+          },
+          {
+            "label": "Paketvikt",
+            "value": [
+              "1.59 kg"
+            ]
+          },
+          {
+            "label": "Tillverkarens ArtNr",
+            "value": [
+              "GeForce RTX 3060 Ti GAMING X 8G LHR"
+            ]
+          },
+          {
+            "label": "Upplagd",
+            "value": [
+              "2021-08-16 10:15"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "MSI"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "84890878",
+              "GEFORCE RTX 3060 TI GAMING X 8G LHR",
+              "GeForce RTX 3060 Ti GAMING X 8",
+              "GeForce RTX 3060 Ti GAMING X 8G LHR",
+              "KGMINV706560",
+              "RTX 3060 Ti GAMING X 8G LHR",
+              "V397-231R"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04719072850029"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/1099257252475259901/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "1099257252475259901",
+            "price": "13409.0",
+            "price_additional_info": null,
+            "price_with_shipping": "13508.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/417/183825/sort/1/filter/0_0_0_0/GeForce-RTX-3060-Ti-Gaming-X-8GB-GDDR6-256bit-LHR-grafikkort.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072852153",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:38Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072852191",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:37Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719072861377",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:11:38Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719331307547",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:11:42Z"
+      },
+      "content": {
+        "id": "15046220606730496232",
+        "name": "GIGABYTE GEFORCE RTX 3090 24 GB GAMING OC GRAFIKKORT",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRDYK6-wZ4fH8WAA4_V5_HZuQQNoTqPVVX5H6hqtUg8-E7HV1VqLHC1d5WCKg&usqp=CAY",
+        "description": "P\u00e5 grund av brist p\u00e5 grafikkort s\u00e5 kommer vi tillsvidare endast till\u00e5ta varje kund att k\u00f6pa ett grafikkort fr\u00e5n v\u00e5rt RTX 3000-sortiment. Ber\u00e4knade leveransdatum \u00e4r prelimin\u00e4ra och kan komma att justeras.",
+        "properties": [
+          "GIGABYTE",
+          "GIGABYTE",
+          "Grafikkort",
+          "24 GB",
+          "GDDR",
+          "HDMI",
+          "DVI",
+          "DisplayPort",
+          "PCI Express",
+          "L\u00e4ngd: 320 mm"
+        ],
+        "url": "https://www.google.se/shopping/product/15046220606730496232?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 94,
+        "review_rating": 78,
+        "price": "27155.0",
+        "gtins": [
+          "4719331307547"
+        ],
+        "eans": [
+          "4719331307547"
+        ],
+        "brand_name": "GIGABYTE",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "GPU-tillverkare",
+            "value": [
+              "Nvidia"
+            ]
+          },
+          {
+            "label": "GPU-frekvens",
+            "value": [
+              "1 395 MHz"
+            ]
+          },
+          {
+            "label": "Turbofrekvens",
+            "value": [
+              "1 755 MHz"
+            ]
+          },
+          {
+            "label": "Minne",
+            "value": [
+              "24 GB"
+            ]
+          },
+          {
+            "label": "Hastighet",
+            "value": [
+              "19 500 MHz"
+            ]
+          },
+          {
+            "label": "Bussbredd",
+            "value": [
+              "384 bitar"
+            ]
+          },
+          {
+            "label": "HDMI-utg\u00e5ng",
+            "value": [
+              "Ja",
+              "(2st",
+              "2.1)"
+            ]
+          },
+          {
+            "label": "DisplayPort-utg\u00e5ng",
+            "value": [
+              "Ja",
+              "(3st",
+              "1.4)"
+            ]
+          },
+          {
+            "label": "Max. antal sk\u00e4rmar",
+            "value": [
+              "4 st"
+            ]
+          },
+          {
+            "label": "Rek. watt (dator)",
+            "value": [
+              "750 W"
+            ]
+          },
+          {
+            "label": "Str\u00f6manslutning",
+            "value": [
+              "2 st 8-pin"
+            ]
+          },
+          {
+            "label": "Str\u00f6mf\u00f6rbrukning",
+            "value": [
+              "350 W"
+            ]
+          },
+          {
+            "label": "L\u00e4ngd",
+            "value": [
+              "320 mm"
+            ]
+          },
+          {
+            "label": "Expansionsplatser",
+            "value": [
+              "2.7 st"
+            ]
+          },
+          {
+            "label": "SLI",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "DirectX",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "NVIDIA GeForce Experience",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt",
+            "value": [
+              "PCI Express 4.0",
+              "16x"
+            ]
+          },
+          {
+            "label": "Garanti",
+            "value": [
+              "3 \u00e5r"
+            ]
+          },
+          {
+            "label": "Paketbredd",
+            "value": [
+              "23 cm"
+            ]
+          },
+          {
+            "label": "Paketh\u00f6jd",
+            "value": [
+              "8.5 cm"
+            ]
+          },
+          {
+            "label": "Paketl\u00e4ngd",
+            "value": [
+              "40 cm"
+            ]
+          },
+          {
+            "label": "Paketvikt",
+            "value": [
+              "1.897 kg"
+            ]
+          },
+          {
+            "label": "Tillverkarens ArtNr",
+            "value": [
+              "GV-N3090GAMING OC-24GD"
+            ]
+          },
+          {
+            "label": "Upplagd",
+            "value": [
+              "2020-09-02 11:00"
+            ]
+          },
+          {
+            "label": "Releasedatum",
+            "value": [
+              "2020\u201009\u201024 15:00"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "GIGABYTE"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "300433",
+              "56346551",
+              "76868615",
+              "GV-N3090GAMING OC-24",
+              "GV-N3090GAMING OC-24GD",
+              "GV-N3090GAMINGOC-24GD",
+              "gvn3090gamingoc24gd"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "04719331307547"
+            ]
+          }
+        ],
+        "offer_count": 2,
+        "offers_url": "https://www.google.se/shopping/product/15046220606730496232/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "15046220606730496232",
+            "price": "42738.0",
+            "price_additional_info": null,
+            "price_with_shipping": "42738.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/7469188/gigabyte-gv-n3090gaming-oc-24gd-geforce-rtx-3090-pcie4-0-24-gb-gddr6x-384-bit-936-gb-s",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "15046220606730496232",
+            "price": "41782.0",
+            "price_additional_info": null,
+            "price_with_shipping": "41881.0",
+            "shipping_costs": "99.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://rdebutik.se/products/se/417/147400/sort/1/filter/0_0_0_0/GeForce-RTX-3090-Gaming-OC-24GB-GDDR6X-384bit-grafikkort.html",
+            "shop_name": "RDEbutik.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-da9423da961",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-da9423da961",
+            "shop_url": "rdebutik.se",
+            "shop_domain": "rdebutik.se",
+            "shop_matching_id": "rdebutik.se",
+            "page": 1,
+            "position": 2
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "05099206069732",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:11:43Z"
+      },
+      "content": {
+        "id": "13531433789373273886",
+        "name": "Logitech Universal Folio Keyboard",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT-Rx-ESls3PAY0tRICyRXwWRELmr96-E5r5vmraDRawgMDxkY4YpfzhnhNwHdIR_5odekzqBPW&usqp=CAY",
+        "description": "Universal Folio tar mobil databehandling til nye h\u00f8yder. N\u00e5 kan du skrive som om du bruker en b\u00e6rbar PC, uansett hvor du tar med deg nettbrettet. Universal Folio l\u00e5ser 9- og 10-tommers nettbrett i perfekt vinkel for skriving, og ligger st\u00f8dig p\u00e5 alle slags underlag, enten det er et caf\u00e9bord, et skrivebord eller fanget ditt. Dens slitesterke, s\u00f8lebestandige skallet beskytter nettbrettet ved daglig bruk.",
+        "properties": [
+          "Logitech",
+          "QWERTY",
+          "Bluetooth",
+          "Android",
+          "Windows",
+          "iOS",
+          "Surfplatta",
+          "Mobiltelefon",
+          "Tangentbords\u00f6verdrag"
+        ],
+        "url": "https://www.google.se/shopping/product/13531433789373273886?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 10,
+        "review_rating": 64,
+        "price": "699.0",
+        "gtins": [
+          "5099206069732"
+        ],
+        "eans": [
+          "5099206069732"
+        ],
+        "brand_name": "Logitech",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Anslutningstyp",
+            "value": [
+              "Bluetooth 3.0"
+            ]
+          },
+          {
+            "label": "Vattenavst\u00f6tande",
+            "value": [
+              "Ja",
+              "ytterh\u00f6lje; Nej",
+              "tangentbordstangenter"
+            ]
+          },
+          {
+            "label": "Magnet f\u00f6r aktivering och inaktivering",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "L\u00e5smagnet",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Kamerah\u00e5l",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Visningsl\u00e4gen",
+            "value": [
+              "63 grader"
+            ]
+          },
+          {
+            "label": "Magnetiskt g\u00e5ngj\u00e4rn",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Indikatorlampor (led)",
+            "value": [
+              "Ja",
+              "f\u00f6r Bluetooth och str\u00f6mf\u00f6rs\u00f6rjning"
+            ]
+          },
+          {
+            "label": "Lcd-sk\u00e4rm",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Tangentnedtryckning",
+            "value": [
+              "2 mm"
+            ]
+          },
+          {
+            "label": "Tangenternas livsl\u00e4ngd",
+            "value": [
+              "mer \u00e4n 5 miljoner nedslag"
+            ]
+          },
+          {
+            "label": "Batteriinformation",
+            "value": [
+              "2 st. Panasonic CR2032"
+            ]
+          },
+          {
+            "label": "Batteritid",
+            "value": [
+              "Utbytbart knappcellsbatteri r\u00e4cker 24 m\u00e5nader"
+            ]
+          },
+          {
+            "label": "System requirements",
+            "value": [
+              "iOS / Android / Windows"
+            ]
+          },
+          {
+            "label": "Dimensions",
+            "value": [
+              "269 mm x 211 mm x 25 mm; 465 g"
+            ]
+          },
+          {
+            "label": "Gr\u00e4nssnitt",
+            "value": [
+              "Bluetooth 3.0"
+            ]
+          },
+          {
+            "label": "Lokalisering och layout",
+            "value": [
+              "Nordisk"
+            ]
+          },
+          {
+            "label": "Skydd",
+            "value": [
+              "Vattenavst\u00f6tande"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "21.1 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "465 g"
+            ]
+          },
+          {
+            "label": "Operativsystem erfordras",
+            "value": [
+              "Microsoft Windows",
+              "Android",
+              "Apple iOS"
+            ]
+          },
+          {
+            "label": "Installerat antal",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Erforderligt antal",
+            "value": [
+              "2"
+            ]
+          },
+          {
+            "label": "Service och support",
+            "value": [
+              "Begr\u00e4nsad garanti - 1 \u00e5r"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Logitech"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "222A770",
+              "5099206069732",
+              "52010057",
+              "58148286",
+              "75676759",
+              "920-008340",
+              "920008340",
+              "Universal"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "05099206069732"
+            ]
+          }
+        ],
+        "offer_count": 9,
+        "offers_url": "https://www.google.se/shopping/product/13531433789373273886/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "13531433789373273886",
+            "price": "749.0",
+            "price_additional_info": null,
+            "price_with_shipping": "749.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/datorer-tillbehor/tillbehor-ipad-surfplatta/LTUNIFOLIO/logitech-universal-tangentbordsfodral-for-9-10-platta",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "13531433789373273886",
+            "price": "619.0",
+            "price_additional_info": null,
+            "price_with_shipping": "659.0",
+            "shipping_costs": "40.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/3545902/logitech-universal-folio-for-9-10-inch-tablets-tangentbord-och-foliefodral-tr%C3%A5dl%C3%B6s-bluetooth-3-0-nordisk",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "13531433789373273886",
+            "price": "698.0",
+            "price_additional_info": null,
+            "price_with_shipping": "698.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Tangentbord/Logitech-Universal-Folio-Keyboard-Tastatur-Folio-set-Svart/2595274?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "13531433789373273886",
+            "price": "730.0",
+            "price_additional_info": null,
+            "price_with_shipping": "815.0",
+            "shipping_costs": "85.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.kontorsgiganten.se/univ-folio-int-kbd-9-10-tablets-ndx-p-52?from=gpla",
+            "shop_name": "Kontorsgiganten",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-96fb01f6fd7",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-96fb01f6fd7",
+            "shop_url": "www.kontorsgiganten.se",
+            "shop_domain": "kontorsgiganten.se",
+            "shop_matching_id": "kontorsgiganten.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "13531433789373273886",
+            "price": "745.0",
+            "price_additional_info": null,
+            "price_with_shipping": "814.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011023035/universal?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "13531433789373273886",
+            "price": "800.0",
+            "price_additional_info": null,
+            "price_with_shipping": "849.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/logitech-universal-folio-with-integrated/cat-p/c0/p9462659",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "13531433789373273886",
+            "price": "994.0",
+            "price_additional_info": null,
+            "price_with_shipping": "994.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://inf.se/oevrigt/24777-logitech-universal-folio-dansk-varje-varumarke-ipad-air-2-ipad-air-ipad-2-ip-5099206069732.html",
+            "shop_name": "inf.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-86164cf026b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-86164cf026b",
+            "shop_url": "inf.se",
+            "shop_domain": "inf.se",
+            "shop_matching_id": "inf.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "13531433789373273886",
+            "price": "1077.0",
+            "price_additional_info": null,
+            "price_with_shipping": "1077.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/logitech-920-008340-dansk-varje-varumarke-ipad-air-2-ipad-air-ipad-2-ipad-3-ipad-4-samsung-galaxy-tabr-a-9-7-in-samsung-galaxy-tab-s-10-5-sva-p75676759",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "13531433789373273886",
+            "price": "841.0",
+            "price_additional_info": null,
+            "price_with_shipping": "841.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/logitech-universal-folio-integrated-keyb-9-10-inch-tablets-pan-nordic-nx",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 9
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2545 @@
+{
+  "job_id": "61c065448012fa0022e4b9ee",
+  "status": "finished",
+  "free_credits": 0,
+  "paid_credits": 19,
+  "results": [
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "04719512082751",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:13:16Z"
+      },
+      "content": {
+        "id": "4838622821495127750",
+        "name": "Cooler Master MWE 500W White V2",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSY5U1mvfIjmLTBgV2EHGRXs8RuPNMQA6dIoc93cH573t4SDQdzbLtU3LVvdO-7tEl6h8v7EvFysQ&usqp=CAY",
+        "description": "POWER UP The MWE White offers a simple, reliable way to power your system safely and efficiently at a low cost. The 80 PLUS White efficiency rating, DC-to-DC + LLC circuit design, single +12V rail, active PFC, and temperature sensitive HDB fan offer a power supply unit that stays true to its original purpose. This PSU will handle all your core computing needs with none of the hassles or challenges of additional specialty features, software synchronization, or other bells and whistles. Just plug it into your system and get to work. For a great core computing experience, you can't go wrong with the MWE White. 80 PLUS STANDARD 230V EU CERTIFIED It's important to understand what efficiency is and what the ratings actually mean. The efficiency rating indicates how much power is retained and/or lost when transferring it from the wall to your components. It does not indicate the overall quality of the PSU. A PSU doesn't need an 80 PLUS Gold rating to be safe and reliable. And a PSU with an 80 PLUS Gold rating isn't necessarily either of those things. The MWE White guarantees a typical efficiency of 85% while being both safe and reliable. 120MM HDB FAN The constant struggle between cooling and noise is as old as the consumer PC industry itself. Keeping your components cool without having to hear about it while you work is still one of the greatest challenges for all fan based cooling technologies. The MWE White's solution to this problem is a thermally sensitive 120mm HDB fan. It spins based on the system's temperature, constantly adjusting to keep your PSU running smoothly and safely with the minimum amount of noise required. SINGLE +12V RAIL Getting power from the wall to the PSU and then to your components is a tricky situation. The power comes in one voltage level, but your components need a different one. That power has to first be transferred to/through a converter in order to make it safe for your parts to use without overloading. The lines/rails used to initially move power from the wall to the converter need to be reliable and consistent to ensure your system's overall performance. That's why the MWE White only uses one +12V rail for this process. This way all the components in your system are constantly fed the same power from the same source in order to guarantee consistency between all connections. DC-TO-DC CIRCUIT DESIGN Power comes in multiple voltage levels. The wall delivers power in one voltage level but your components each need a specific voltage to operate properly. The process of converting raw power from the wall to the multiple voltage levels your components need requires special components to complete this process quickly, efficiently, and safely. The MWE White's DC-to-DC + LLC technology was painstakingly crafted to accomplish this goal. The Dual Forward circuit layout has been designed to convert 12V power to 3V and 5V levels with minimal ripple noise, 80 PLUS efficiency, and reduced risk to your connected components. SILENT MODE The MWE White platform has a built in silent mode for low wattage operation. While your system is in standby mode or running at lower loads, the fan will not spin. This ensures complete silence during casual operation. Once your system passes the load threshold, the 120mm HDB fan will activate automatically and cool the unit appropriately based on system use and needs. FLAT BLACK CABLES For many PC Builders with aesthetics in mind, cabling can be on of the most troublesome parts of assembling a PC. Cables can be confusing, too short or too long, and they almost never look good. The MWE White uses flat and flexible black cables to help deal with these problems. These cables are more discrete and flexible, making them easier to implement into your system while taking up less space. This is especially useful for smaller cases and preserving airflow.",
+        "properties": [
+          "ATX",
+          "EPS",
+          "80 Plus Gold"
+        ],
+        "url": "https://www.google.se/shopping/product/4838622821495127750?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 82,
+        "review_rating": 92,
+        "price": "427.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "ATX12V 2.52/ EPS12V",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Specifikationer",
+            "value": [
+              "ATX12V 2.52/ EPS12V"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "1.375 kg"
+            ]
+          },
+          {
+            "label": "Lokalisering",
+            "value": [
+              "Europa"
+            ]
+          },
+          {
+            "label": "Insp\u00e4nning",
+            "value": [
+              "AC 230 V"
+            ]
+          },
+          {
+            "label": "Utsp\u00e4nning",
+            "value": [
+              "+3.3",
+              "+5",
+              "\u00b112 V"
+            ]
+          },
+          {
+            "label": "Effektkapacitet",
+            "value": [
+              "500 Watt"
+            ]
+          },
+          {
+            "label": "Kylsystem",
+            "value": [
+              "120 mm fl\u00e4kt"
+            ]
+          },
+          {
+            "label": "Dimensioner (BxDxH)",
+            "value": [
+              "15 cm x 14 cm x 8.6 cm"
+            ]
+          },
+          {
+            "label": "Tillverkarens garanti",
+            "value": [
+              "3 \u00e5rs garanti"
+            ]
+          },
+          {
+            "label": "PSU-formfaktor",
+            "value": [
+              "ATX"
+            ]
+          },
+          {
+            "label": "Erforderlig frekvens",
+            "value": [
+              "50 - 60 Hz"
+            ]
+          },
+          {
+            "label": "Effektivitet",
+            "value": [
+              "85%"
+            ]
+          },
+          {
+            "label": "MTBF (genomsnittstid mellan fel)",
+            "value": [
+              "100",
+              "000 timmar"
+            ]
+          },
+          {
+            "label": "Service och support",
+            "value": [
+              "Begr\u00e4nsad garanti - 3 \u00e5r"
+            ]
+          },
+          {
+            "label": "Max temperatur vid drift",
+            "value": [
+              "40 \u00b0C"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "14 cm"
+            ]
+          },
+          {
+            "label": "Emballagets bredd",
+            "value": [
+              "24.5 cm"
+            ]
+          },
+          {
+            "label": "Emballagets djup",
+            "value": [
+              "19 cm"
+            ]
+          },
+          {
+            "label": "Emballagets h\u00f6jd",
+            "value": [
+              "11 cm"
+            ]
+          },
+          {
+            "label": "Emballagets vikt",
+            "value": [
+              "1.773 kg"
+            ]
+          }
+        ],
+        "offer_count": 5,
+        "offers_url": "https://www.google.se/shopping/product/4838622821495127750/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "4838622821495127750",
+            "price": "427.0",
+            "price_additional_info": null,
+            "price_with_shipping": "467.0",
+            "shipping_costs": "40.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/5814280/cooler-master-mwe-white-v2-500-n%C3%A4taggregat-intern-atx12v-2-52-eps12v-80-plus-ac-230-v-500-watt-aktive-pfc-europa",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "4838622821495127750",
+            "price": "433.0",
+            "price_additional_info": null,
+            "price_with_shipping": "433.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Stroemfoersoerjning/Cooler-Master-MWE-White-V2-500-Stroemfoersoerjning-500-Watt-120-mm-80-Plus-White-certificate-upp-till-80-effektivitet/2803782?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "4838622821495127750",
+            "price": "599.0",
+            "price_additional_info": null,
+            "price_with_shipping": "599.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inet.se/produkt/6904394/cooler-master-mwe-white-500w-v2",
+            "shop_name": "Inet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fad01df70fc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fad01df70fc",
+            "shop_url": "www.inet.se",
+            "shop_domain": "inet.se",
+            "shop_matching_id": "inet.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "4838622821495127750",
+            "price": "539.0",
+            "price_additional_info": null,
+            "price_with_shipping": "539.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/cooler-master-mwe-white-v2-500-nataggregat-intern-atx12v-2-52-eps12v-80-plus-ac-230-v-500-watt-aktive-pfc-europa-p56982621",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "4838622821495127750",
+            "price": "618.0",
+            "price_additional_info": null,
+            "price_with_shipping": "667.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.teknikproffset.se/datorer-kringutrustning/datorkomponenter/nataggregat-psu/cooler-master-mwe-500-white-230v-v2-stromforsorjningsenheter-500-w-24-pin-atx",
+            "shop_name": "Teknikproffset.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-b1c12f7fe91",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-b1c12f7fe91",
+            "shop_url": "www.teknikproffset.se",
+            "shop_domain": "teknikproffset.se",
+            "shop_matching_id": "teknikproffset.se",
+            "page": 1,
+            "position": 5
+          }
+        ]
+      }
+    },
+    {
+      "success": false,
+      "reason": "error",
+      "source": "google-shopping",
+      "country": "se",
+      "key": "gtin",
+      "value": "06925281956676",
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06925281956676",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "06958265192869",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:13:17Z"
+      },
+      "content": {
+        "id": "5829464058251913122",
+        "name": "DJI - Mavic Mini Drone",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQWkibj0NrH6U0TSgE84gzQ8QYBY1DadWY0_Lg7AIzQHAUMdMLbya3nJKSoc9q6lNzXNJuYrreQ&usqp=CAY",
+        "description": "Compact & portable Weighing in at just under 250 g, the DJI Mavic Mini Drone is almost as light as the average smartphone. It's small enough to pop in your bag and take with you anywhere. And better still, the lightweight design places it in the lowest and safest weight class of drones, so it's exempt from certain regulations in the UK and many other countries. Easy to use The DJI Fly app makes flying and recording video simple. The Flight Tutorial will take you through it step-by-step to get you up and away safely. With precision hovering, GPS flight paths, and up to 30 minutes of flight time, you can fly with confidence. Awesome videos Skip the editing suite \u2013 the app has a variety of templates so you can create awesome videos in just a few taps. For those cinematic shots, the Mavic Mini has a few tricks up its sleeve. QuickShot modes, including Circle, Helix, and Rocket make it super easy to create professional-looking videos.",
+        "properties": [
+          "Med kamera",
+          "Inomhus",
+          "2,4 GHz",
+          "Smartphone",
+          "Mini",
+          "Med gyroskop"
+        ],
+        "url": "https://www.google.se/shopping/product/5829464058251913122?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 6295,
+        "review_rating": 94,
+        "price": "3949.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 3,
+        "offers_url": "https://www.google.se/shopping/product/5829464058251913122/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "5829464058251913122",
+            "price": "3949.97",
+            "price_additional_info": null,
+            "price_with_shipping": "3949.97",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://motorcycle-soul.com/gb/drone/dji-mavic-mini-folding-drone.html",
+            "shop_name": "Motorcycle Soul",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-325c26d886f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-325c26d886f",
+            "shop_url": "motorcycle-soul.com",
+            "shop_domain": "motorcycle-soul.com",
+            "shop_matching_id": "motorcycle-soul.com",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "5829464058251913122",
+            "price": "4114.55",
+            "price_additional_info": null,
+            "price_with_shipping": "4114.55",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://motocross-soul.com/gb/cameras/dji-mavic-mini-folding-drone.html",
+            "shop_name": "Motocross Soul",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-4533c5d5f6d",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-4533c5d5f6d",
+            "shop_url": "motocross-soul.com",
+            "shop_domain": "motocross-soul.com",
+            "shop_matching_id": "motocross-soul.com",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "5829464058251913122",
+            "price": "4284.77",
+            "price_additional_info": null,
+            "price_with_shipping": "4284.77",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.droneland.dk/da/home/791-1521-dji-mavic-mini-foldbar-gps-mikro-drone-med-27k-kamera-6958265192869.html#/vaelg_model_-basispakke",
+            "shop_name": "Droneland.dk",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-920c9fd3c60",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-920c9fd3c60",
+            "shop_url": "www.droneland.dk",
+            "shop_domain": "droneland.dk",
+            "shop_matching_id": "droneland.dk",
+            "page": 1,
+            "position": 3
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07070205300819",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:10Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07072110555162",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:13:16Z"
+      },
+      "content": {
+        "id": "108252939733979911",
+        "name": "AVA Car Care Kit",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSK4qGeTlZA6pFH6giiwbYmtJNaDaGdTyPOjYSjgRv9ViNaMoGpdBAULeelP90tZzkDy3s4gcUm&usqp=CAY",
+        "description": "AVA Car Care Kit hj\u00e4lper dig att reng\u00f6ra din bil noggrant och effektivt. AVA: s tillbeh\u00f6rssvivel g\u00f6r att du kan rotera all utrustning monterad i 15 \u00b0 steg och i 360 grader, perfekt n\u00e4r du vill \u00e4ndra munstyckssprutm\u00f6nstret fr\u00e5n en horisontell till en vertikal spridning. Setet inneh\u00e5ller ocks\u00e5 en skumpistol f\u00f6r enkel applicering av schampo, ett 40 \u00b0 munstycke f\u00f6r skonsam och effektiv tryckreng\u00f6ring av din bil och en 90 \u00b0 vinklad lans f\u00f6r enkel reng\u00f6ring under bilen och i hjulhus. AVA Mop ger en smidig och enkel skrubbning, s\u00e5 att din bil ser helt ny ut!",
+        "properties": null,
+        "url": "https://www.google.se/shopping/product/108252939733979911?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 1,
+        "review_rating": 20,
+        "price": "949.0",
+        "gtins": [
+          "7072110555162"
+        ],
+        "eans": [
+          "7072110555162"
+        ],
+        "brand_name": "1.14",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Netto vikt",
+            "value": [
+              "1.14"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "11-300-105",
+              "1302112B",
+              "SKU-56798"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "07072110555162"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/108252939733979911/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "108252939733979911",
+            "price": "949.0",
+            "price_additional_info": null,
+            "price_with_shipping": "998.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.bauhaus.se/bilvardskit-ava-ps10",
+            "shop_name": "Bauhaus",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-23ce643d760",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-23ce643d760",
+            "shop_url": "www.bauhaus.se",
+            "shop_domain": "bauhaus.se",
+            "shop_matching_id": "bauhaus.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07072110560951",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:10Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07072110561019",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:10Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07072110561118",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:10Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07350129410024",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:13:13Z"
+      },
+      "content": {
+        "id": "7267062072562230543",
+        "name": "Roborock Charge Station S5 Max White",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRbf7gKwPfYBBjS61pRvhi6XzkiPUKpdeI-6TPDZ1LQF0fjwq0&usqp=CAY",
+        "description": "H\u00e5ll din Roborock-dammsugare laddad och redo att anv\u00e4ndas n\u00e4r som helst med den praktiska Roborock-laddstationen.",
+        "properties": null,
+        "url": "https://www.google.se/shopping/product/7267062072562230543?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 0,
+        "review_rating": null,
+        "price": "503.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": null,
+        "category_path": null,
+        "category_name": null,
+        "specifications": null,
+        "offer_count": 4,
+        "offers_url": "https://www.google.se/shopping/product/7267062072562230543/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "7267062072562230543",
+            "price": "503.0",
+            "price_additional_info": null,
+            "price_with_shipping": "543.0",
+            "shipping_costs": "40.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/6362486/roborock-charge-station-s5-max-white",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "7267062072562230543",
+            "price": "545.0",
+            "price_additional_info": null,
+            "price_with_shipping": "545.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Dammsugare-tillbehoer/Roborock-Charge-Station-White/2954642?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "7267062072562230543",
+            "price": "549.0",
+            "price_additional_info": null,
+            "price_with_shipping": "549.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.inet.se/produkt/6601312/roborock-laddstation-s5-max-s6-pure-vit",
+            "shop_name": "Inet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fad01df70fc",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fad01df70fc",
+            "shop_url": "www.inet.se",
+            "shop_domain": "inet.se",
+            "shop_matching_id": "inet.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "7267062072562230543",
+            "price": "549.0",
+            "price_additional_info": null,
+            "price_with_shipping": "549.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1177145/hem-hushaall/dammsugare-rengoring/tillbehor-for-dammsugare-rengoring/roborock-laddstation-vid?channable=00945369640031313737313435fc",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 4
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "07350129410154",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 4,
+        "updated_at": "2021-12-20T11:13:15Z"
+      },
+      "content": {
+        "id": "17416561197168627575",
+        "name": "ROBOROCK LI-ION-BATTERI",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTVhS3-OCCSUDjkoBE5AKKphwQJs1W1-yoSZBf9WXdwmNMqw2amsEi9Y5cW0yOx1BikjhY-rmU&usqp=CAY",
+        "description": "Roborock litiumjonbatteri passar alla modellerna Roborock S5, S6 och E4 och Xiaomi Mi Robot Vacuum robotdammsugare. Genom att byta batteri kan du \u00f6ka livsl\u00e4ngden p\u00e5 din robotdammsugare avsev\u00e4rt. Njut av enkel st\u00e4dning l\u00e4ngre! Batteriet \u00e4r laddningsbart.",
+        "properties": [
+          "Xiaomi"
+        ],
+        "url": "https://www.google.se/shopping/product/17416561197168627575?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 0,
+        "review_rating": null,
+        "price": "595.0",
+        "gtins": [
+          "7350129410154"
+        ],
+        "eans": [
+          "7350129410154"
+        ],
+        "brand_name": "Xiaomi",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produktbeskrivning",
+            "value": [
+              "Roborock batteri - Li-Ion"
+            ]
+          },
+          {
+            "label": "Typ av produkt",
+            "value": [
+              "Batteri"
+            ]
+          },
+          {
+            "label": "Batteri",
+            "value": [
+              "Litiumjon - 5200 mAh"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Xiaomi"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "9.01.0093"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "07350129410154"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/17416561197168627575/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "17416561197168627575",
+            "price": "595.0",
+            "price_additional_info": null,
+            "price_with_shipping": "664.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011190323/li-ion-batteri-for-e4-s5-s6-s5-max-s6-pure-s6-maxv-och-s7?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08710103698470",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:13:16Z"
+      },
+      "content": {
+        "id": "7805610987502225575",
+        "name": "Philips NT5175/16",
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQPrbSG8HbmhjeQ9HtPr1qeMaQ-X1qnX-1U9rtopFSJcfCPKdNYMV7Kg5vqDsEkEhVNhnXz_gI&usqp=CAY",
+        "description": "Nu kan du avl\u00e4gsna o\u00f6nskade n\u00e4sh\u00e5r helt sm\u00e4rtfritt, den h\u00e4r trimmern drar inte i huden. N\u00e4rh\u00e5rstrimmerns roterande sk\u00e4r g\u00f6r trimmern snabb och effektiv. Dessutom har den en skyddande sk\u00f6ld runt om sk\u00e4ren vilket g\u00f6r att du aldrig kan sk\u00e4ra dig. Philips patenterade ProtecTube-teknologi g\u00f6r att n\u00e4sh\u00e5ret aldrig fastnar under trimningen. Den har ultra precisa och skarpa knivsk\u00e5ror som g\u00f6r att du f\u00e5r med allt h\u00e5r, du kan anv\u00e4nda trimmern b\u00e5de i n\u00e4san, \u00f6gonbrynen, \u00f6ronen, sk\u00e4gget och polisonger. Det \u00e4r tre kammar till \u00f6gonbrynen och sk\u00e4gget. Den \u00e4r l\u00e4tt att reng\u00f6ra d\u00e5 den \u00e4r 100% vattent\u00e4t, och kan med f\u00f6rdel reng\u00f6ras under vattenkranen och anv\u00e4ndas i duschen.",
+        "properties": [
+          "Herr",
+          "Sats",
+          "Sladdl\u00f6s",
+          "Flera trimmerhuvuden",
+          "Sk\u00e4gg och mustasch",
+          "F\u00f6r \u00f6ronen",
+          "F\u00f6r n\u00e4san",
+          "F\u00f6r \u00f6gonbrynen",
+          "Svart, Bl\u00e5"
+        ],
+        "url": "https://www.google.se/shopping/product/7805610987502225575?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 1015,
+        "review_rating": 88,
+        "price": "467.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "21 mm",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Bredd p\u00e5 klippenheten f\u00f6r n\u00e4strimmern",
+            "value": [
+              "21 mm"
+            ]
+          },
+          {
+            "label": "Bredd p\u00e5 klippenheten f\u00f6r precisionstrimmern",
+            "value": [
+              "21 mm"
+            ]
+          },
+          {
+            "label": "Trimsax",
+            "value": [
+              "Blad i rostfritt st\u00e5l"
+            ]
+          },
+          {
+            "label": "Antal l\u00e4ngdinst\u00e4llningar",
+            "value": [
+              "4"
+            ]
+          },
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "Str\u00f6mk\u00e4lla",
+            "value": [
+              "Batteri"
+            ]
+          },
+          {
+            "label": "Batterityp",
+            "value": [
+              "AA"
+            ]
+          },
+          {
+            "label": "Antal batterier som kr\u00e4vs",
+            "value": [
+              "1"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/7805610987502225575/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "7805610987502225575",
+            "price": "467.0",
+            "price_additional_info": null,
+            "price_with_shipping": "516.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.datagrottan.se/philips-nosetrimmer-series-5000-nt5175/cat-p/c0/p8163373",
+            "shop_name": "Datagrottan",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-13788a6c762",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-13788a6c762",
+            "shop_url": "www.datagrottan.se",
+            "shop_domain": "datagrottan.se",
+            "shop_matching_id": "datagrottan.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08801643644796",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:12Z"
+      },
+      "content": {
+        "url": "https://www.google.se/search?tbm=shop&tbs=vw:l&q=08801643644796&hl=sv&gl=se&sfr=compass",
+        "offers": [
+          {
+            "id": null,
+            "url": "https://cdon.se/hemelektronik/samsung-galaxy-s10-128gb-p72389983",
+            "name": "Samsung Galaxy S10 128GB - Mobiltelefoner",
+            "product_properties": [],
+            "price": "3690.0",
+            "shipping_costs": "79.0",
+            "price_with_shipping": "3769.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "cdon.se",
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "url": "https://cdon.se/hemelektronik/begagnad-samsung-galaxy-s10-128gb-svart-olast-i-bra-skick-klass-b-p58424348",
+            "name": "Begagnad Samsung Galaxy S10 128GB Svart Ol\u00e5st i bra skick Klass B - Mobiltelefoner",
+            "product_properties": [],
+            "price": "4395.0",
+            "shipping_costs": "49.0",
+            "price_with_shipping": "4444.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "cdon.se",
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "url": "https://www.returhuset.se/samsung-galaxy-s10-prima-black-128gb-a-1.html",
+            "name": "Samsung Galaxy S10 128GB",
+            "product_properties": [],
+            "price": "3690.0",
+            "shipping_costs": "0.0",
+            "price_with_shipping": "3690.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Returhuset SE",
+            "shop_id": "priceapi-62b3784cd78",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-62b3784cd78",
+            "shop_url": "www.returhuset.se",
+            "shop_domain": "returhuset.se",
+            "shop_matching_id": "Returhuset SE",
+            "shop_review_count": 4,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "url": "https://cdon.se/hemelektronik/samsung-s10-128gb-svart-grade-a-p77846821",
+            "name": "Samsung S10 128GB Svart Grade A - Mobiltelefoner",
+            "product_properties": [],
+            "price": "3199.0",
+            "shipping_costs": "79.0",
+            "price_with_shipping": "3278.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "cdon.se",
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "url": "https://gripentrade.se/mobiltelefoner/samsung/samsung-galaxy-s10-8gb-128gb/?option=1514",
+            "name": "Samsung Galaxy S10 8GB 128GB",
+            "product_properties": [],
+            "price": "6380.0",
+            "shipping_costs": "75.0",
+            "price_with_shipping": "6455.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "GripenTrade",
+            "shop_id": "priceapi-bb64d8b73d7",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-bb64d8b73d7",
+            "shop_url": "gripentrade.se",
+            "shop_domain": "gripentrade.se",
+            "shop_matching_id": "GripenTrade",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "url": "https://fyndiq.se/produkt/begagnad-samsung-s10-128gb-svart-grade-a-0eacd2a253504827/",
+            "name": "Begagnad Samsung S10 128GB Svart Grade A",
+            "product_properties": [],
+            "price": "4399.0",
+            "shipping_costs": "19.0",
+            "price_with_shipping": "4418.0",
+            "currency": "SEK",
+            "tax": null,
+            "shop_name": "Fyndiq.se",
+            "shop_id": "priceapi-7acd4b25fca",
+            "shop_sub_id": null,
+            "extended_shop_id": "priceapi-7acd4b25fca",
+            "shop_url": "fyndiq.se",
+            "shop_domain": "fyndiq.se",
+            "shop_matching_id": "Fyndiq.se",
+            "shop_review_count": null,
+            "shop_review_rating": null,
+            "type": "offer",
+            "search_result_classification": null,
+            "page": 1,
+            "position": 6
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08806090287503",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:10Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08806090322761",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:12Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08806091047397",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:13:14Z"
+      },
+      "content": {
+        "id": "10277952366697381459",
+        "name": "LG F4wv410s3w Tv\u00e4ttmaskin - Vit",
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSC_zg5Kom49Apx03Ty2KCqJ2ag6FkeShe6ERVRIjACvTAUnNA&usqp=CAY",
+        "description": "Denna LG tv\u00e4ttmaskin har en stor kapacitet p\u00e5 10.5 kg s\u00e5 att du kan tv\u00e4tta mycket kl\u00e4der samtidigt. F\u00f6r en \u00e4nnu bekv\u00e4mare tv\u00e4ttupplevelse har den h\u00e4r maskinen en Steam-funktion som tar bort allergener upp till 99,9%. F\u00f6r mer skonsammare kl\u00e4dv\u00e5rd \u00e4r maskinen utrustad med den smarta AI DD -funktionen som inte bara k\u00e4nner av vikten utan ocks\u00e5 k\u00e4nner av tygets mjukhet och v\u00e4ljer de optimala trum-r\u00f6relserna f\u00f6r tyget i maskinen. Inverter Direct Drive-motorn \u00e4r monterad direkt p\u00e5 trumman, vilket leder till en tystare och energieffektivare maskin och kan snurra upp till 1400 rpm. Trummans storlek \u00e4r 68 liter och denna tv\u00e4ttmaskin har en m\u00f6rktonad d\u00f6rr.",
+        "properties": null,
+        "url": "https://www.google.se/shopping/product/10277952366697381459?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 22,
+        "review_rating": 96,
+        "price": "6190.0",
+        "gtins": null,
+        "eans": null,
+        "brand_name": "12",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "Laddningskapacitet",
+            "value": [
+              "10.5 kg"
+            ]
+          },
+          {
+            "label": "Energiklass",
+            "value": [
+              "Klass B"
+            ]
+          },
+          {
+            "label": "Varaktighet f\u00f6r Eco 40-60-programmet (tv\u00e4ttcykel)",
+            "value": [
+              "240 min"
+            ]
+          },
+          {
+            "label": "Invertermotor",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Centrifugeringsklass",
+            "value": [
+              "Klass B"
+            ]
+          },
+          {
+            "label": "Centrifugeringshastighet",
+            "value": [
+              "Varierbar - 1400 rpm (max)"
+            ]
+          },
+          {
+            "label": "Restfukt",
+            "value": [
+              "51.9%"
+            ]
+          },
+          {
+            "label": "Bullerniv\u00e5 (tv\u00e4tt)",
+            "value": [
+              "53 dB(A)"
+            ]
+          },
+          {
+            "label": "Bullerniv\u00e5 (roterande)",
+            "value": [
+              "73 dB(A)"
+            ]
+          },
+          {
+            "label": "Ljudtryckniv\u00e5",
+            "value": [
+              "73 dB(A)"
+            ]
+          },
+          {
+            "label": "Bullerklass (rotation)",
+            "value": [
+              "B"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "Frist\u00e5ende"
+            ]
+          },
+          {
+            "label": "Yttre f\u00e4rg",
+            "value": [
+              "Vit"
+            ]
+          },
+          {
+            "label": "Programoptimering",
+            "value": [
+              "6 Motion",
+              "AI DD"
+            ]
+          },
+          {
+            "label": "Reglagetyp",
+            "value": [
+              "Elektronisk"
+            ]
+          },
+          {
+            "label": "Kontrollelement",
+            "value": [
+              "Vred",
+              "pekplatta"
+            ]
+          },
+          {
+            "label": "Reglagets plats",
+            "value": [
+              "Fr\u00e4mre panel"
+            ]
+          },
+          {
+            "label": "Funktioner f\u00f6r tidsinst\u00e4llning",
+            "value": [
+              "Signal p\u00e5/av"
+            ]
+          },
+          {
+            "label": "Kompatibel med smartphone",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtion i avslaget l\u00e4ge",
+            "value": [
+              "0.5 W"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtion vid p\u00e5slaget l\u00e4ge",
+            "value": [
+              "0.5 W"
+            ]
+          },
+          {
+            "label": "Sp\u00e4nning",
+            "value": [
+              "220 - 240 V / 50 Hz"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "62 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "66 kg"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/10277952366697381459/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10277952366697381459",
+            "price": "6190.0",
+            "price_additional_info": null,
+            "price_with_shipping": "6190.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1164027/vitvaror/tvattmaskiner/lg-f4wv410s3w-tvattmaskin?channable=009453696400313136343032376d",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08806091047847",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:13:14Z"
+      },
+      "content": {
+        "id": "10564002972040871350",
+        "name": "LG F4DV509S1W Tv\u00e4tt/Tork",
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRNAyEJqoRU-Q-vby4DNhXIB7DEQi15cKYvDH4RzDHD-ElF34I&usqp=CAY",
+        "description": "9KG/5KG, 1400 o/min, Wifi, \u00e5nga - tar bort 99,9% av allergener - Vitvaror Kombinerad tv\u00e4tt och tork",
+        "properties": [
+          "LG"
+        ],
+        "url": "https://www.google.se/shopping/product/10564002972040871350?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 0,
+        "review_rating": null,
+        "price": "8990.0",
+        "gtins": [
+          "8806091047847"
+        ],
+        "eans": [
+          "8806091047847"
+        ],
+        "brand_name": "LG",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Producentens garanti (m\u00e5nader)",
+            "value": [
+              "12"
+            ]
+          },
+          {
+            "label": "Laddningskapacitet",
+            "value": [
+              "9 kg"
+            ]
+          },
+          {
+            "label": "Lastkapacitet (komplett cykel)",
+            "value": [
+              "5 kg"
+            ]
+          },
+          {
+            "label": "Energiklass",
+            "value": [
+              "Klass D"
+            ]
+          },
+          {
+            "label": "Energiklass (komplett cykel)",
+            "value": [
+              "Klass E"
+            ]
+          },
+          {
+            "label": "Varaktighet f\u00f6r Eco 40-60-programmet (tv\u00e4ttcykel)",
+            "value": [
+              "227 min"
+            ]
+          },
+          {
+            "label": "Invertermotor",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Centrifugeringsklass",
+            "value": [
+              "Klass B"
+            ]
+          },
+          {
+            "label": "Centrifugeringshastighet",
+            "value": [
+              "Varierbar - 1400 rpm (max)"
+            ]
+          },
+          {
+            "label": "Restfukt",
+            "value": [
+              "53%"
+            ]
+          },
+          {
+            "label": "Bullerniv\u00e5 (tv\u00e4tt)",
+            "value": [
+              "52 dB(A)"
+            ]
+          },
+          {
+            "label": "Bullerniv\u00e5 (roterande)",
+            "value": [
+              "75 dB(A)"
+            ]
+          },
+          {
+            "label": "Bullerniv\u00e5 (torkning)",
+            "value": [
+              "56 dB(A)"
+            ]
+          },
+          {
+            "label": "Ljudtryckniv\u00e5",
+            "value": [
+              "75 dB(A)"
+            ]
+          },
+          {
+            "label": "Bullerklass (rotation)",
+            "value": [
+              "B"
+            ]
+          },
+          {
+            "label": "Formfaktor",
+            "value": [
+              "Frist\u00e5ende"
+            ]
+          },
+          {
+            "label": "Yttre f\u00e4rg",
+            "value": [
+              "Vit"
+            ]
+          },
+          {
+            "label": "Programoptimering",
+            "value": [
+              "6 Motion",
+              "AI DD"
+            ]
+          },
+          {
+            "label": "Reglagetyp",
+            "value": [
+              "Elektronisk"
+            ]
+          },
+          {
+            "label": "Kontrollelement",
+            "value": [
+              "Vred",
+              "pekplatta"
+            ]
+          },
+          {
+            "label": "Reglagets plats",
+            "value": [
+              "Fr\u00e4mre panel"
+            ]
+          },
+          {
+            "label": "Funktioner f\u00f6r tidsinst\u00e4llning",
+            "value": [
+              "Signal p\u00e5/av"
+            ]
+          },
+          {
+            "label": "Kompatibel med smartphone",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Wifi-f\u00f6rberedd",
+            "value": [
+              "Yes"
+            ]
+          },
+          {
+            "label": "Kompatibel med Internet of Things (IoT)",
+            "value": [
+              "Ja"
+            ]
+          },
+          {
+            "label": "Plattform",
+            "value": [
+              "ThinQ"
+            ]
+          },
+          {
+            "label": "Kommunikationsteknologi",
+            "value": [
+              "Wi-Fi"
+            ]
+          },
+          {
+            "label": "Intelligent assistent",
+            "value": [
+              "Google Assistant",
+              "Alexa"
+            ]
+          },
+          {
+            "label": "S\u00e4kerhetsfunktioner",
+            "value": [
+              "ChildLock",
+              "Smart diagnos"
+            ]
+          },
+          {
+            "label": "Hjul och utj\u00e4mning",
+            "value": [
+              "Justerbara f\u00f6tter"
+            ]
+          },
+          {
+            "label": "Standarder som f\u00f6ljs",
+            "value": [
+              "Directive 2019/2023/EU",
+              "Directive 2019/2014"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtion i avslaget l\u00e4ge",
+            "value": [
+              "0.5 W"
+            ]
+          },
+          {
+            "label": "Str\u00f6mkonsumtion vid p\u00e5slaget l\u00e4ge",
+            "value": [
+              "0.5 W"
+            ]
+          },
+          {
+            "label": "Sp\u00e4nning",
+            "value": [
+              "220 - 240 V / 50 Hz"
+            ]
+          },
+          {
+            "label": "Djup",
+            "value": [
+              "62 cm"
+            ]
+          },
+          {
+            "label": "Vikt",
+            "value": [
+              "69 kg"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "LG"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "F4DV509S1W"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "08806091047847"
+            ]
+          }
+        ],
+        "offer_count": 1,
+        "offers_url": "https://www.google.se/shopping/product/10564002972040871350/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "10564002972040871350",
+            "price": "8990.0",
+            "price_additional_info": null,
+            "price_with_shipping": "8990.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1164024/vitvaror/kombinerad-tvatt-och-tork/lg-f4dv509s1w-tvatttork?channable=009453696400313136343032346a",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 1
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08806098731121",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:11Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "08886419332855",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": true,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 3,
+        "updated_at": "2021-12-20T11:13:15Z"
+      },
+      "content": {
+        "id": "16990470721423926619",
+        "name": "Razer DeathAdder V2",
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMMJ-YKkvpQWIqLL1TaG4Fs4AFltSd7k_dIFj6JSfyctW0GjP3T1Ie2KGibA&usqp=CAY",
+        "description": "En mus designad f\u00f6r avancerade gamers som passar perfekt i din hand. Dina fingrar h\u00e5ller musen ordentligt under kontroll oavsett hur aggressivt du flyttar den. Elite V2 \u00e4r utrustad med en 20 000 DPI optisk sensor som m\u00f6jligg\u00f6r r\u00f6relsehastighet p\u00e5 650ips och 50 g acceleration \u00e4ven vid l\u00e4gsta k\u00e4nslighet. Uppn\u00e5 h\u00f6g prestanda samtidigt som du beh\u00e5ller k\u00e4nslan av en optisk sensor som m\u00e5nga Deathadder-anv\u00e4ndare har l\u00e4rt sig att \u00e4lska. Tillsammans med den omfattande tekniska \u00f6vervakningen fr\u00e5n Razer Synapse: statistik och v\u00e4rmekartor kan du finjustera musegenskaperna f\u00f6r att passa din spelstil. Chroma-belysning, 16,8 miljoner olika f\u00e4rgalternativ. Du kan justera f\u00e4rgen p\u00e5 mushjulsknappen och logotypen efter eget tycke, enkelt med Razer Synapse.",
+        "properties": [
+          "Razer",
+          "Razer DeathAdder",
+          "DeathAdder Elite",
+          "Mus",
+          "Tr\u00e5dl\u00f6s",
+          "IR-LED",
+          "8 knappar",
+          "Ergonomisk",
+          "Vertikal",
+          "Gaming"
+        ],
+        "url": "https://www.google.se/shopping/product/16990470721423926619?uule=w+CAIQICIhU3RvY2tob2xtLFN0b2NraG9sbSBDb3VudHksU3dlZGVu&hl=sv&gl=se",
+        "review_count": 1492,
+        "review_rating": 94,
+        "price": "824.0",
+        "gtins": [
+          "8886419332855"
+        ],
+        "eans": [
+          "8886419332855"
+        ],
+        "brand_name": "Razer",
+        "category_path": null,
+        "category_name": null,
+        "specifications": [
+          {
+            "label": "Produktens m\u00e5tt",
+            "value": [
+              "7.29 x 4.29 x 12.7 cm; 82 Gram"
+            ]
+          },
+          {
+            "label": "Ursprungsland",
+            "value": [
+              "Kina"
+            ]
+          },
+          {
+            "label": "Modellnamn",
+            "value": [
+              "DeathAdder V2"
+            ]
+          },
+          {
+            "label": "Maskinvaruplattform",
+            "value": [
+              "Laptop",
+              "PC"
+            ]
+          },
+          {
+            "label": "Kompatibla enheter",
+            "value": [
+              "Pc"
+            ]
+          },
+          {
+            "label": "Antal artiklar",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Sp\u00e4nning",
+            "value": [
+              "1.5 Sp\u00e4nning"
+            ]
+          },
+          {
+            "label": "Watt",
+            "value": [
+              "1"
+            ]
+          },
+          {
+            "label": "Batterier inkluderade",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Batterier kr\u00e4vs",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Typ av anslutning",
+            "value": [
+              "USB"
+            ]
+          },
+          {
+            "label": "Teknik f\u00f6r r\u00f6relsedetektering",
+            "value": [
+              "Optisch"
+            ]
+          },
+          {
+            "label": "Handorientering",
+            "value": [
+              "H\u00f6ger"
+            ]
+          },
+          {
+            "label": "Har autofokus",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Includes Ac Adapter",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Supports Bluetooth Technology",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Har programmerbara knappar",
+            "value": [
+              "Nej"
+            ]
+          },
+          {
+            "label": "Varum\u00e4rke",
+            "value": [
+              "Razer"
+            ]
+          },
+          {
+            "label": "Artikelnummer",
+            "value": [
+              "261354",
+              "281432",
+              "399117",
+              "50670728",
+              "51733904",
+              "54453383",
+              "62151104",
+              "67693281",
+              "67783913",
+              "76107462",
+              "76737776",
+              "85207",
+              "8886419332855",
+              "995739976",
+              "999045348",
+              "RAZ0103210100R3M1",
+              "RZ01-03210100-R3M1",
+              "RZ01-03210100R3M1",
+              "S5603229",
+              "rz0103210100r3m1"
+            ]
+          },
+          {
+            "label": "GTIN",
+            "value": [
+              "08886419332855"
+            ]
+          }
+        ],
+        "offer_count": 20,
+        "offers_url": "https://www.google.se/shopping/product/16990470721423926619/offers?hl=sv&prds=sgro:oo&sfr=compass&gl=se",
+        "offers": [
+          {
+            "id": null,
+            "product_id": "16990470721423926619",
+            "price": "690.0",
+            "price_additional_info": null,
+            "price_with_shipping": "690.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.komplett.se/product/1151440/gaming/spelutrustning/gaming-mus/razer-deathadder-v2-gaming-mus?channable=00945369640031313531343430d7",
+            "shop_name": "Komplett.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-12967ee10b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-12967ee10b1",
+            "shop_url": "www.komplett.se",
+            "shop_domain": "komplett.se",
+            "shop_matching_id": "komplett.se",
+            "page": 1,
+            "position": 1
+          },
+          {
+            "id": null,
+            "product_id": "16990470721423926619",
+            "price": "699.0",
+            "price_additional_info": null,
+            "price_with_shipping": "699.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.netonnet.se/art/gaming/gamingmus/gamingmus-sladd/razer-deathadder-v2/1014949.16956/",
+            "shop_name": "NetOnNet",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-0230955d89f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-0230955d89f",
+            "shop_url": "www.netonnet.se",
+            "shop_domain": "netonnet.se",
+            "shop_matching_id": "netonnet.se",
+            "page": 1,
+            "position": 2
+          },
+          {
+            "id": null,
+            "product_id": "16990470721423926619",
+            "price": "699.0",
+            "price_additional_info": null,
+            "price_with_shipping": "699.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.mediamarkt.se/sv/product/_razer-deathadder-v2-tr%C3%A5dad-gamingmus-1323603.html?utm_source=google&utm_medium=seo-product%20feed",
+            "shop_name": "MediaMarkt.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-beb4b17be14",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-beb4b17be14",
+            "shop_url": "www.mediamarkt.se",
+            "shop_domain": "mediamarkt.se",
+            "shop_matching_id": "mediamarkt.se",
+            "page": 1,
+            "position": 3
+          },
+          {
+            "id": null,
+            "product_id": "16990470721423926619",
+            "price": "849.0",
+            "price_additional_info": null,
+            "price_with_shipping": "849.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.elgiganten.se/product/gaming/gamingmus/161538/razer-deathadder-v2-mus-for-gaming",
+            "shop_name": "Elgiganten Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-d704838df7f",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-d704838df7f",
+            "shop_url": "www.elgiganten.se",
+            "shop_domain": "elgiganten.se",
+            "shop_matching_id": "elgiganten.se",
+            "page": 1,
+            "position": 4
+          },
+          {
+            "id": null,
+            "product_id": "16990470721423926619",
+            "price": "699.0",
+            "price_additional_info": null,
+            "price_with_shipping": "699.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.webhallen.com/se/product/312960-Razer-DeathAdder-V2?channable=00c0c7696400333132393630f0",
+            "shop_name": "Webhallen",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-82f3e802042",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-82f3e802042",
+            "shop_url": "www.webhallen.com",
+            "shop_domain": "webhallen.com",
+            "shop_matching_id": "webhallen.com",
+            "page": 1,
+            "position": 5
+          },
+          {
+            "id": null,
+            "product_id": "16990470721423926619",
+            "price": "517.0",
+            "price_additional_info": null,
+            "price_with_shipping": "557.0",
+            "shipping_costs": "40.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.computersalg.se/i/6078455/razer-deathadder-v2-mus-ergonomisk-h%C3%B6gerh%C3%A4nt-optisk-8-knappar-kabelansluten-usb",
+            "shop_name": "ComputerSalg.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-a34cbd60892",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-a34cbd60892",
+            "shop_url": "www.computersalg.se",
+            "shop_domain": "computersalg.se",
+            "shop_matching_id": "computersalg.se",
+            "page": 1,
+            "position": 6
+          },
+          {
+            "id": null,
+            "product_id": "16990470721423926619",
+            "price": "539.0",
+            "price_additional_info": null,
+            "price_with_shipping": "539.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.proshop.se/Mus/Razer-Deathadder-V2-Gamingmus-Optic-8-knappar-Svart/2825506?utm_source=google&utm_medium=cpc&utm_campaign=searchengine",
+            "shop_name": "Proshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-ddc5c4fc6db",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-ddc5c4fc6db",
+            "shop_url": "www.proshop.se",
+            "shop_domain": "proshop.se",
+            "shop_matching_id": "proshop.se",
+            "page": 1,
+            "position": 7
+          },
+          {
+            "id": null,
+            "product_id": "16990470721423926619",
+            "price": "479.0",
+            "price_additional_info": null,
+            "price_with_shipping": "479.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.teknikdelar.se/razer-deathadder-v2-gaming-mus-20k-dpi-2.1m-svart?dfw_tracker=35448-RZ01-03210100-R3M1&utm_source=google&utm_medium=surfaces&utm_campaign=surfaces_google",
+            "shop_name": "Teknikdelar.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-fc59e146f84",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-fc59e146f84",
+            "shop_url": "www.teknikdelar.se",
+            "shop_domain": "teknikdelar.se",
+            "shop_matching_id": "teknikdelar.se",
+            "page": 1,
+            "position": 8
+          },
+          {
+            "id": null,
+            "product_id": "16990470721423926619",
+            "price": "488.0",
+            "price_additional_info": null,
+            "price_with_shipping": "517.0",
+            "shipping_costs": "29.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://soldfy.se/razer-deathadder-v2-gaming-mus-svart",
+            "shop_name": "Soldfy.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-700d7a0a45b",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-700d7a0a45b",
+            "shop_url": "soldfy.se",
+            "shop_domain": "soldfy.se",
+            "shop_matching_id": "soldfy.se",
+            "page": 1,
+            "position": 9
+          },
+          {
+            "id": null,
+            "product_id": "16990470721423926619",
+            "price": "557.0",
+            "price_additional_info": null,
+            "price_with_shipping": "557.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://cdon.se/hemelektronik/razer-deathadder-v2-mus-ergonomisk-hogerhant-optisk-8-knappar-kabelansluten-usb-p51733904",
+            "shop_name": "cdon.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-168d5e1cbda",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-168d5e1cbda",
+            "shop_url": "cdon.se",
+            "shop_domain": "cdon.se",
+            "shop_matching_id": "cdon.se",
+            "page": 1,
+            "position": 10
+          },
+          {
+            "id": null,
+            "product_id": "16990470721423926619",
+            "price": "569.0",
+            "price_additional_info": null,
+            "price_with_shipping": "588.0",
+            "shipping_costs": "19.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://fyndiq.se/produkt/razer-deathadder-v2-gamingmus-svart-9a536a935aef4960/",
+            "shop_name": "Fyndiq.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-7acd4b25fca",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-7acd4b25fca",
+            "shop_url": "fyndiq.se",
+            "shop_domain": "fyndiq.se",
+            "shop_matching_id": "fyndiq.se",
+            "page": 1,
+            "position": 11
+          },
+          {
+            "id": null,
+            "product_id": "16990470721423926619",
+            "price": "579.0",
+            "price_additional_info": null,
+            "price_with_shipping": "628.0",
+            "shipping_costs": "49.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "http://www.24.se/articlenumber/85207",
+            "shop_name": "24.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-faa4a01b1b1",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-faa4a01b1b1",
+            "shop_url": "www.24.se",
+            "shop_domain": "24.se",
+            "shop_matching_id": "24.se",
+            "page": 1,
+            "position": 12
+          },
+          {
+            "id": null,
+            "product_id": "16990470721423926619",
+            "price": "690.0",
+            "price_additional_info": null,
+            "price_with_shipping": "759.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.dustinhome.se/product/5011175118/deathadder-v2?ssel=true",
+            "shop_name": "Dustin Home SE",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8226a0358b3",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8226a0358b3",
+            "shop_url": "www.dustinhome.se",
+            "shop_domain": "dustinhome.se",
+            "shop_matching_id": "dustinhome.se",
+            "page": 1,
+            "position": 13
+          },
+          {
+            "id": null,
+            "product_id": "16990470721423926619",
+            "price": "699.0",
+            "price_additional_info": null,
+            "price_with_shipping": "699.0",
+            "shipping_costs": null,
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.alina.se/Produkt.aspx?site=gm&T2=RZ01-03210100-R3M1",
+            "shop_name": "Alina.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-3895675bbec",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-3895675bbec",
+            "shop_url": "www.alina.se",
+            "shop_domain": "alina.se",
+            "shop_matching_id": "alina.se",
+            "page": 1,
+            "position": 14
+          },
+          {
+            "id": null,
+            "product_id": "16990470721423926619",
+            "price": "849.0",
+            "price_additional_info": null,
+            "price_with_shipping": "898.95",
+            "shipping_costs": "49.95",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.clasohlson.com/se/Razer-Deathadder-V2,-gaming-mus/p/38-9952?utm_source=google&utm_medium=organic&utm_campaign=google%20surfaces",
+            "shop_name": "Clas Ohlson Sverige",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-5e99f6322e9",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-5e99f6322e9",
+            "shop_url": "www.clasohlson.com",
+            "shop_domain": "clasohlson.com",
+            "shop_matching_id": "clasohlson.com",
+            "page": 1,
+            "position": 15
+          },
+          {
+            "id": null,
+            "product_id": "16990470721423926619",
+            "price": "911.99",
+            "price_additional_info": null,
+            "price_with_shipping": "1011.48",
+            "shipping_costs": "99.49",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.techinn.com/sv/razer-spelmus-deathadder-elite-v2/137476967/p?utm_source=google_products&utm_medium=merchant&id_producte=10349931&country=se",
+            "shop_name": "Techinn.com",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-8c10c57f43a",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-8c10c57f43a",
+            "shop_url": "www.techinn.com",
+            "shop_domain": "techinn.com",
+            "shop_matching_id": "techinn.com",
+            "page": 1,
+            "position": 16
+          },
+          {
+            "id": null,
+            "product_id": "16990470721423926619",
+            "price": "999.0",
+            "price_additional_info": null,
+            "price_with_shipping": "999.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.coolshop.se/produkt/razer-deathadder-v2-ergonomic-gaming-mouse/2368UQ",
+            "shop_name": "Coolshop.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-7d63ab4be41",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-7d63ab4be41",
+            "shop_url": "www.coolshop.se",
+            "shop_domain": "coolshop.se",
+            "shop_matching_id": "coolshop.se",
+            "page": 1,
+            "position": 17
+          },
+          {
+            "id": null,
+            "product_id": "16990470721423926619",
+            "price": "750.0",
+            "price_additional_info": null,
+            "price_with_shipping": "819.0",
+            "shipping_costs": "69.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.conrad.se/p/-2488621?vat=true&utm_source=google&utm_medium=surfaces&utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_term=2488621",
+            "shop_name": "Conrad.se",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-243c865299c",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-243c865299c",
+            "shop_url": "www.conrad.se",
+            "shop_domain": "conrad.se",
+            "shop_matching_id": "conrad.se",
+            "page": 1,
+            "position": 18
+          },
+          {
+            "id": null,
+            "product_id": "16990470721423926619",
+            "price": "999.0",
+            "price_additional_info": null,
+            "price_with_shipping": "999.0",
+            "shipping_costs": "0.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://www.spelbutiken.se/produkt/razer-deathadder-v2-ergonomic-gaming-mouse/2368UQ",
+            "shop_name": "Spelbutiken",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-21eb5bb759e",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-21eb5bb759e",
+            "shop_url": "www.spelbutiken.se",
+            "shop_domain": "spelbutiken.se",
+            "shop_matching_id": "spelbutiken.se",
+            "page": 1,
+            "position": 19
+          },
+          {
+            "id": null,
+            "product_id": "16990470721423926619",
+            "price": "721.0",
+            "price_additional_info": null,
+            "price_with_shipping": "760.0",
+            "shipping_costs": "39.0",
+            "tax": null,
+            "currency": "SEK",
+            "condition_text": null,
+            "condition_code": "new",
+            "url": "https://electronordic.se/razer-deathadder-v2-optisk-kabling-sort",
+            "shop_name": "Electronordic",
+            "shop_review_count": 0,
+            "shop_review_rating": null,
+            "shop_id": "priceapi-c068bdfed23",
+            "shop_sub_id": null,
+            "shop_extended_source_id": "priceapi-c068bdfed23",
+            "shop_url": "electronordic.se",
+            "shop_domain": "electronordic.se",
+            "shop_matching_id": "electronordic.se",
+            "page": 1,
+            "position": 20
+          }
+        ]
+      }
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "10728658041608",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:11Z"
+      },
+      "content": null,
+      "reason": "not found"
+    },
+    {
+      "query": {
+        "source": "google_shopping",
+        "country": "se",
+        "topic": "product_and_offers",
+        "key": "gtin",
+        "value": "50992060518012",
+        "max_pages": 1,
+        "max_age": 1200,
+        "sort_by": "ranking_descending",
+        "condition": "any",
+        "shipping": "any"
+      },
+      "success": true,
+      "metadata": {
+        "from_cache": false,
+        "page_count_requested": 1,
+        "page_count_delivered": 1,
+        "page_count_from_cache": 0,
+        "page_count_live": 1,
+        "request_count": 1,
+        "updated_at": "2021-12-20T11:13:12Z"
+      },
+      "content": null,
+      "reason": "not found"
+    }
+  ]
+}
